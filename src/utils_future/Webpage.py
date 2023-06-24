@@ -55,6 +55,7 @@ class Webpage:
             raise e
 
     def find_elements(self, by, value):
+        self.find_element(by, value)
         return self.driver.find_elements(by, value)
 
     def scroll_to_bottom(self):

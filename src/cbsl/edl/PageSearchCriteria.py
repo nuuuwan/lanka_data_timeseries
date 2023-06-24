@@ -24,6 +24,7 @@ class PageSearchCriteria(Webpage):
         elem_item_list = self.find_elements(
             By.XPATH, "//input[@type='checkbox']"
         )
+        log.debug(f'Found {len(elem_item_list)} subjects.')
         for i in range(i_start, i_end):
             elem_item = elem_item_list[i]
             elem_item.click()
