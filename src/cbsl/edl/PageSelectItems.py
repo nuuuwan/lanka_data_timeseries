@@ -51,6 +51,8 @@ class PageSelectItems(WebpageWrapper):
         log.debug(f'{current_url=}')
 
         self.click_list_all_items()
+        self.sleep(3)
+
         self.remove_footer()
         self.select_all_items()
 
