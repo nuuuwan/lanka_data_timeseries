@@ -65,6 +65,7 @@ class PageSearchResult(WebpageWrapper):
                 log.debug(f'Wrote {file_name}')
 
         dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
+        shutil.rmtree(dir_latest)
         shutil.copytree(dir_tmp_data, dir_latest)
         log.debug(f'Copied {dir_tmp_data} to {dir_latest}')
 

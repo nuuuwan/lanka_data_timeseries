@@ -36,6 +36,9 @@ class PageSelectItems(WebpageWrapper):
         elem_input_next.click()
         log.debug('Clicked Next.')
 
+        log.debug('Waiting for New Query...')
+        self.find_element(By.ID, 'ContentPlaceHolder1_btnNEwQuery2')
+
     def remove_footer(self):
         self.driver.execute_script(
             "document.getElementsByClassName('footdiv')[0].remove();"
@@ -50,8 +53,11 @@ class PageSelectItems(WebpageWrapper):
         self.click_list_all_items()
         self.remove_footer()
         self.select_all_items()
-        self.click_add()
-        self.click_next()
+
         self.sleep(3)
+        self.click_add()
+
+        self.sleep(3)
+        self.click_next()
 
         return self

@@ -66,7 +66,6 @@ class PageSearchCriteria(Webpage):
         log.debug('Waiting for ShowAll...')
         self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
 
-
     def run(self):
         log.info('STEP 1️⃣) Running PageSearchCriteria.')
         self.open()
@@ -74,12 +73,12 @@ class PageSearchCriteria(Webpage):
         log.debug(f'{current_url=}, {self.frequency=}, {self.i_subject=}')
 
         self.select_some_subjects(self.i_subject, self.i_subject + 1)
-        
+
         self.select_time_search_criteria()
         self.input_from()
         self.input_to()
 
         self.sleep(3)
         self.click_next()
-        
+
         return self
