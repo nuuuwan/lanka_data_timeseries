@@ -1,4 +1,5 @@
 import os
+import shutil
 import tempfile
 
 from selenium.webdriver.common.by import By
@@ -62,6 +63,10 @@ class PageSearchResult(WebpageWrapper):
                 )
                 JSONFile(file_name).write(d_data)
                 log.debug(f'Wrote {file_name}')
+
+        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
+        shutil.copytree(dir_tmp_data, dir_latest)
+        log.debug(f'Copied {dir_tmp_data} to {dir_latest}')
 
     def extract_table(self):
         elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')

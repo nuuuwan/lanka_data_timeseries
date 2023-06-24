@@ -18,14 +18,14 @@ def main():
             try:
                 webpage = PageSelectItems(webpage).run()
             except BaseException:
-                log.error(f'🔴Failed to complete {frequency}/{i_subject}.')
+                log.error(f'🔴 Failed to complete {frequency}/{i_subject}.')
                 continue
 
             webpage = PageSearchResult(webpage).run()
             
             webpage.close()
             
-            log.info(f'✅Completed {frequency}/{i_subject}.')
+            log.info(f'✅ Completed {frequency}/{i_subject}.')
 
 
 if __name__ == '__main__':

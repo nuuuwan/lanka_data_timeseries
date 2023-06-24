@@ -63,8 +63,9 @@ class PageSearchCriteria(Webpage):
         elem_input_next.click()
         log.debug('Clicked Next.')
 
-        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
         log.debug('Waiting for ShowAll...')
+        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
+
 
     def run(self):
         log.info('STEP 1️⃣) Running PageSearchCriteria.')
@@ -78,6 +79,7 @@ class PageSearchCriteria(Webpage):
         self.input_from()
         self.input_to()
 
+        self.sleep(3)
         self.click_next()
         
         return self
