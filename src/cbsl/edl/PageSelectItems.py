@@ -38,12 +38,21 @@ class PageSelectItems(WebpageWrapper):
         elem_input_next.click()
         log.debug('Clicked Next.')
 
+    def remove_footer(self):
+        self.driver.execute_script(
+            "document.getElementsByClassName('footdiv')[0].remove();"
+        )
+        log.debug('Removed footer.')
+
     def run(self):
         log.info('Running PageSelectItems.')
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
 
         self.click_list_all_items()
+
+        self.remove_footer()
+
         self.select_all_items()
 
         self.click_add()
