@@ -57,6 +57,7 @@ class PageSearchCriteria(Webpage):
         log.debug(f'Typed "{self.frequency.to_str}".')
 
     def click_next(self):
+        self.sleep(3)
         elem_input_next = self.find_element(
             By.ID, 'ContentPlaceHolder1_btnNext'
         )
@@ -78,7 +79,6 @@ class PageSearchCriteria(Webpage):
         self.input_from()
         self.input_to()
 
-        self.sleep(3)
         self.click_next()
 
         return self

@@ -26,10 +26,15 @@ class PageSelectItems(WebpageWrapper):
         return n
 
     def click_add(self):
+        self.sleep(3)
         self.find_element(By.ID, 'add').click()
         log.debug('Clicked "Add".')
 
+        log.debug('Waiting for Selected List...')
+        self.find_element(By.ID, 'ContentPlaceHolder1_grdSelectList')
+
     def click_next(self):
+        self.sleep(3)
         elem_input_next = self.find_element(
             By.ID, 'ContentPlaceHolder1_btnNext'
         )
@@ -56,10 +61,8 @@ class PageSelectItems(WebpageWrapper):
         self.remove_footer()
         self.select_all_items()
 
-        self.sleep(3)
         self.click_add()
 
-        self.sleep(3)
         self.click_next()
 
         return self
