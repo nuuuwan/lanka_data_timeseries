@@ -1,0 +1,55 @@
+from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.webdriver.common.by import By
+from utils import Log
+
+from utils_future import WebpageWrapper
+
+log = Log(__name__)
+
+
+class PageSelectItems(WebpageWrapper):
+    def click_list_all_items(self):
+        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll').click()
+        log.debug('Clicked "List all items".')
+
+    def select_all_items(self):
+        elem_item_list = self.find_elements(By.ID, 'chkSelect')
+        n = len(elem_item_list)
+        log.debug(f'Found {n} items.')
+
+        n_clicked = 0
+        for elem_item in elem_item_list:
+            try:
+                elem_item.click()
+                n_clicked += 1
+            except ElementClickInterceptedException as _:
+                pass
+
+        log.debug(f'Clicked {n_clicked}/{n} items.')
+
+    def click_add(self):
+        self.find_element(By.ID, 'add').click()
+        log.debug('Clicked "Add".')
+
+    def click_next(self):
+        elem_input_next = self.find_element(
+            By.ID, 'ContentPlaceHolder1_btnNext'
+        )
+        elem_input_next.click()
+        log.debug('Clicked Next.')
+
+    def run(self):
+        log.info('Running PageSelectItems.')
+        current_url = self.driver.current_url
+        log.debug(f'{current_url=}')
+
+        self.click_list_all_items()
+        self.select_all_items()
+
+        self.click_add()
+
+        self.click_next()
+
+        self.sleep(3)
+
+        return self
