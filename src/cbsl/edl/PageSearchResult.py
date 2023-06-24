@@ -3,7 +3,7 @@ import shutil
 import tempfile
 
 from selenium.webdriver.common.by import By
-from utils import JSONFile, Log, get_time_id
+from utils import JSONFile, Log
 
 from utils_future import WebpageWrapper
 
@@ -48,9 +48,9 @@ class PageSearchResult(WebpageWrapper):
         return d_idx
 
     @staticmethod
-    def write(d_idx):
+    def write(d_idx, time_id):
         dir_tmp_data = os.path.join(
-            tempfile.gettempdir(), 'tmp.cbsl', get_time_id()
+            tempfile.gettempdir(), 'tmp.cbsl', time_id
         )
         if not os.path.exists(dir_tmp_data):
             os.makedirs(dir_tmp_data)
@@ -70,7 +70,7 @@ class PageSearchResult(WebpageWrapper):
         shutil.copytree(dir_tmp_data, dir_latest)
         log.debug(f'Copied {dir_tmp_data} to {dir_latest}')
 
-    def extract_table(self):
+    def extract_table(self, time_id):
         elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')
         elem_tbody = elem_table.find_element(By.TAG_NAME, 'tbody')
         elem_tr_list = elem_tbody.find_elements(By.TAG_NAME, 'tr')
@@ -78,11 +78,11 @@ class PageSearchResult(WebpageWrapper):
         log.debug(f'Found {n} rows.')
 
         d_idx = PageSearchResult.parse_table(elem_tr_list)
-        PageSearchResult.write(d_idx)
+        PageSearchResult.write(d_idx, time_id)
 
-    def run(self):
+    def run(self, time_id):
         log.info('STEP 3️⃣) Running PageSearchResult.')
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
-        self.extract_table()
+        self.extract_table(time_id)
         return self

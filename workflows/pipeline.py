@@ -1,4 +1,4 @@
-from utils import Log
+from utils import Log, get_time_id
 
 from cbsl.edl import (FREQUENCY_LIST, N_SUBJECTS, PageSearchCriteria,
                       PageSearchResult, PageSelectItems)
@@ -7,6 +7,7 @@ log = Log(__name__)
 
 
 def main():
+    time_id = get_time_id()
     for frequency in FREQUENCY_LIST:
         for i_subject in range(0, N_SUBJECTS):
             webpage = PageSearchCriteria(frequency, i_subject).run()
@@ -17,7 +18,7 @@ def main():
                 log.error(f'🔴 Failed to complete {frequency}/{i_subject}.')
                 continue
 
-            webpage = PageSearchResult(webpage).run()
+            webpage = PageSearchResult(webpage).run(time_id)
 
             webpage.close()
 
