@@ -1,18 +1,17 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from utils import Log
 
 from cbsl.constants import URL_ERESEARCH
-from cbsl.edl.Frequency import Frequency
 from utils_future import Webpage
 
 log = Log(__name__)
 
 
 class PageSearchCriteria(Webpage):
-    def __init__(self, frequency: str):
+    def __init__(self, frequency: str, i_subject: int):
         super().__init__(URL_ERESEARCH)
         self.frequency = frequency
+        self.i_subject = i_subject
 
     def select_all_subjects(self):
         elem_input_select_all = self.find_element(
@@ -20,6 +19,17 @@ class PageSearchCriteria(Webpage):
         )
         elem_input_select_all.click()
         log.debug('Clicked Select All.')
+
+    def select_some_subjects(self, i_start, i_end):
+        elem_item_list = self.find_elements(
+            By.XPATH, "//input[@type='checkbox']"
+        )
+        for i in range(i_start, i_end):
+            elem_item = elem_item_list[i]
+            elem_item.click()
+            elem_name = elem_item.get_attribute('name')
+            log.debug(f'Clicked {elem_name}')
+        log.debug(f'Clicked items {i_start} to {i_end}.')
 
     def select_time_search_criteria(self):
         elem_select_frequency = self.find_element(
@@ -36,7 +46,6 @@ class PageSearchCriteria(Webpage):
             By.ID, 'ContentPlaceHolder1_txtYearFrom'
         )
         elem_input_from.send_keys(self.frequency.from_str)
-        elem_input_from.send_keys(Keys.ENTER)
         log.debug(f'Typed "{self.frequency.from_str}".')
 
     def input_to(self):
@@ -44,7 +53,6 @@ class PageSearchCriteria(Webpage):
             By.ID, 'ContentPlaceHolder1_txtYearTo'
         )
         elem_input_to.send_keys(self.frequency.to_str)
-        elem_input_to.send_keys(Keys.ENTER)
         log.debug(f'Typed "{self.frequency.to_str}".')
 
     def click_next(self):
@@ -52,22 +60,21 @@ class PageSearchCriteria(Webpage):
             By.ID, 'ContentPlaceHolder1_btnNext'
         )
         elem_input_next.click()
+        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
         log.debug('Clicked Next.')
 
     def run(self):
+        log.info('Running PageSearchCriteria.')
         self.open()
+        current_url = self.driver.current_url
+        log.debug(f'{current_url=}, {self.frequency=}, {self.i_subject=}')
 
-        self.select_all_subjects()
+        self.select_some_subjects(self.i_subject, self.i_subject + 1)
+
         self.select_time_search_criteria()
         self.input_from()
         self.input_to()
+
         self.click_next()
 
-        self.sleep(5)
-
-        self.screenshot(force_nocache=True)
-        self.close()
-
-
-if __name__ == '__main__':
-    PageSearchCriteria(Frequency.ANNUAL).run()
+        return self
