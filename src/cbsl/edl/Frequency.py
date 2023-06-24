@@ -19,7 +19,7 @@ START_YEAR = str(1970)
 END_YEAR = str(2024)
 
 FREQUENCY_LIST = [
-    Frequency('Annual', 'A', START_YEAR,END_YEAR),
+    Frequency('Annual', 'A', START_YEAR, END_YEAR),
     # Frequency('Census Year', 'C', START_YEAR, END_YEAR),
     # Frequency('Academic Year', 'E', START_YEAR,END_YEAR),
     # Frequency('Monthly', 'M', f'{START_YEAR}-01', f'{END_YEAR}-01'),
