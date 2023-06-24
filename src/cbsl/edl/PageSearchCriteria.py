@@ -60,8 +60,10 @@ class PageSearchCriteria(Webpage):
             By.ID, 'ContentPlaceHolder1_btnNext'
         )
         elem_input_next.click()
-        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
         log.debug('Clicked Next.')
+
+        self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll')
+        log.debug('Waiting for ShowAll...')
 
     def run(self):
         log.info('Running PageSearchCriteria.')
