@@ -1,5 +1,4 @@
 import os
-import shutil
 import tempfile
 
 from selenium.webdriver.common.by import By
@@ -49,26 +48,19 @@ class PageSearchResult(WebpageWrapper):
 
     @staticmethod
     def write(d_idx, time_id):
-        dir_tmp_data = os.path.join(
-            tempfile.gettempdir(), 'tmp.cbsl', time_id
-        )
-        if not os.path.exists(dir_tmp_data):
-            os.makedirs(dir_tmp_data)
-            log.debug(f'Created {dir_tmp_data}')
+        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
+
+        if not os.path.exists(dir_latest):
+            os.makedirs(dir_latest)
+            log.debug(f'Created {dir_latest}')
 
         for category, d_sub in d_idx.items():
             for sub_category, d_data in d_sub.items():
                 file_name = os.path.join(
-                    dir_tmp_data, f'{category}.{sub_category}.json'
+                    dir_latest, f'{category}.{sub_category}.json'
                 )
                 JSONFile(file_name).write(d_data)
                 log.debug(f'Wrote {file_name}')
-
-        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
-        if os.path.exists(dir_latest):
-            shutil.rmtree(dir_latest)
-        shutil.copytree(dir_tmp_data, dir_latest)
-        log.debug(f'Copied {dir_tmp_data} to {dir_latest}')
 
     def extract_table(self, time_id):
         elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')

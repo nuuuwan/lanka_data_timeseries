@@ -61,7 +61,9 @@ class EDLSummary:
             d = EDLSummary.get_d(file_name_only)
             d_list.append(d)
 
-        d_list = sorted(d_list, key=lambda x: x['category'] + x['sub_category'])
+        d_list = sorted(
+            d_list, key=lambda x: x['category'] + x['sub_category']
+        )
 
         tsv_path = os.path.join(DIR_TMP_DATA, 'edl_summary.tsv')
         TSVFile(tsv_path).write(d_list)
