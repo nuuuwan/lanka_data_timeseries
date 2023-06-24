@@ -1,4 +1,3 @@
-from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver.common.by import By
 from utils import Log
 
@@ -17,15 +16,9 @@ class PageSelectItems(WebpageWrapper):
         n = len(elem_item_list)
         log.debug(f'Found {n} items.')
 
-        n_clicked = 0
         for elem_item in elem_item_list:
-            try:
-                elem_item.click()
-                n_clicked += 1
-            except ElementClickInterceptedException as _:
-                pass
-
-        log.debug(f'Clicked {n_clicked}/{n} items.')
+            elem_item.click()
+        log.debug(f'Clicked {n} items.')
 
     def click_add(self):
         self.find_element(By.ID, 'add').click()
