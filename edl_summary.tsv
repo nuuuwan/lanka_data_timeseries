@@ -972,7 +972,7 @@ min_t	max_t	latest_value	n	category	sub_category	unit	scale
 1989	2021	11,429	33	Population Statistics-Mid Year Population	Mid Year Population-Female	Thousands	 
 2000	2020	0.50	21	Population Statistics-Mid Year Population	Mid Year Population-Growth Rate	%	 
 1989	2021	10,727	33	Population Statistics-Mid Year Population	Mid Year Population-Male	Thousands	 
-1984	2021	22,156	38	Population Statistics-Mid Year Population	Mid Year Population-Sri Lanka	Thousands	 
+1964	2021	22,156	58	Population Statistics-Mid Year Population	Mid Year Population-Sri Lanka	Thousands	 
 2009	2021	2,811	13	Population Statistics-Mid-Year Population by Province	Mid Year Population-Central	Thousands	 
 2009	2021	1,783	13	Population Statistics-Mid-Year Population by Province	Mid Year Population-Eastern	Thousands	 
 2009	2021	1,402	13	Population Statistics-Mid-Year Population by Province	Mid Year Population-North Central	Thousands	 
@@ -1181,7 +1181,7 @@ min_t	max_t	latest_value	n	category	sub_category	unit	scale
 1996	2021	2,658	26	Thrift & Credit Co-operative Societies-Loans	Thrift & Credit Co-operative Societies-Loans Granted-Small Industries	Rs.	Mn.
 1996	2021	15,626	26	Thrift & Credit Co-operative Societies-Loans	Thrift & Credit Co-operative Societies-Loans Granted-Total	Rs.	Mn.
 1996	2021	8,423	26	Thrift & Credit Co-operative Societies-Overall	Thrift & Credit Co-operative Societies-No. of Societies	Number	 
-1984	2022	719,978	39	Tourism-Tourist Arrivals	Total Tourist Arrivals	Number	Numbers
+1970	2022	719,978	53	Tourism-Tourist Arrivals	Total Tourist Arrivals	Number	Numbers
 2005	2021	307	17	Transport-Road Network	Road Kilometerage-Ampara-Class A	Kilometres	 
 2005	2021	281	17	Transport-Road Network	Road Kilometerage-Ampara-Class B	Kilometres	 
 2005	2021	323	17	Transport-Road Network	Road Kilometerage-Ampara-Class C	Kilometres	 
