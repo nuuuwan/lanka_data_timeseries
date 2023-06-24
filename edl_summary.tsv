@@ -465,8 +465,8 @@ min_t	max_t	latest_value	n	category	sub_category	unit	scale
 2000	2015	588,175	16	Central Government Finance-Central Government Expenditure	General Governmnet Expenditure - Capital Expenditure	LKR	Rs. million
 2000	2015	1,701,658	16	Central Government Finance-Central Government Expenditure	General Governmnet Expenditure - Recurrent Expenditure	LKR	Rs. million
 2000	2015	2,290,394	16	Central Government Finance-Central Government Expenditure	General Governmnet Expenditure - Total Expenditure	LKR	Rs. million
-1984	2021	1.85	38	Central Government Finance-Central Government Expenditure	Government expenditure on education as a per cent of GDP	Percentage	Percentage
-1984	2021	2.30	38	Central Government Finance-Central Government Expenditure	Government expenditure on health as a per cent of GDP	Percentage	Percentage
+1964	2021	1.85	58	Central Government Finance-Central Government Expenditure	Government expenditure on education as a per cent of GDP	Percentage	Percentage
+1964	2021	2.30	58	Central Government Finance-Central Government Expenditure	Government expenditure on health as a per cent of GDP	Percentage	Percentage
 1991	2021	n.a	31	Central Government Finance-Central Government Expenditure	Recurrent Expenditure on Higher Education	Rs.	Million
 1991	2021	n.a	31	Central Government Finance-Central Government Expenditure	Total Expenditure on Higher Education	Rs.	Million
 2000	2015	99,099	16	Central Government Finance-Central Government Revenue	General Government Revenue - Non-Tax Revenue	LKR	Rs. million
