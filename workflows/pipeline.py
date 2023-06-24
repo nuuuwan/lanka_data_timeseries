@@ -4,7 +4,7 @@ from cbsl.edl import (Config, PageSearchCriteria, PageSearchResult,
                       PageSelectItems)
 
 log = Log(__name__)
-MAX_N_SUCCESS = 2
+MAX_N_SUCCESS = 5
 
 
 def main():
