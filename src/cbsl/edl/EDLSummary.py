@@ -37,14 +37,14 @@ class EDLSummary:
             latest_value = None
 
         return dict(
+            min_t=min_t,
+            max_t=max_t,
+            latest_value=latest_value,
+            n=n,
             category=category,
             sub_category=sub_category,
             unit=unit,
             scale=scale,
-            n=n,
-            min_t=min_t,
-            max_t=max_t,
-            latest_value=latest_value,
         )
 
     @staticmethod
@@ -60,6 +60,9 @@ class EDLSummary:
                 continue
             d = EDLSummary.get_d(file_name_only)
             d_list.append(d)
+
+        d_list = sorted(d_list, key=lambda x: x['category'] + x['sub_category'])
+
         tsv_path = os.path.join(DIR_TMP_DATA, 'edl_summary.tsv')
         TSVFile(tsv_path).write(d_list)
         log.info(f'Wrote to {tsv_path}')
