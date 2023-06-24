@@ -47,7 +47,7 @@ class PageSearchResult(WebpageWrapper):
         return d_idx
 
     @staticmethod
-    def write(d_idx, time_id):
+    def write(d_idx):
         dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
 
         if not os.path.exists(dir_latest):
@@ -62,7 +62,7 @@ class PageSearchResult(WebpageWrapper):
                 JSONFile(file_name).write(d_data)
                 log.debug(f'Wrote {file_name}')
 
-    def extract_table(self, time_id):
+    def extract_table(self):
         elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')
         elem_tbody = elem_table.find_element(By.TAG_NAME, 'tbody')
         elem_tr_list = elem_tbody.find_elements(By.TAG_NAME, 'tr')
@@ -70,11 +70,11 @@ class PageSearchResult(WebpageWrapper):
         log.debug(f'Found {n} rows.')
 
         d_idx = PageSearchResult.parse_table(elem_tr_list)
-        PageSearchResult.write(d_idx, time_id)
+        PageSearchResult.write(d_idx)
 
-    def run(self, time_id):
+    def run(self):
         log.info('STEP 3️⃣) Running PageSearchResult.')
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
-        self.extract_table(time_id)
+        self.extract_table()
         return self

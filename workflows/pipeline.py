@@ -1,4 +1,4 @@
-from utils import Log, get_time_id
+from utils import Log
 
 from cbsl.edl import (Config, PageSearchCriteria, PageSearchResult,
                       PageSelectItems)
@@ -9,12 +9,11 @@ MAX_N_SUCCESS = 5
 
 def main():
     n_success = 0
-    time_id = get_time_id()
     for config in Config.random_list():
         try:
             webpage2 = PageSearchCriteria(config).run()
             webpage3 = PageSelectItems(webpage2).run()
-            webpage3 = PageSearchResult(webpage3).run(time_id)
+            webpage3 = PageSearchResult(webpage3).run()
             webpage3.close()
             log.info(f'✅ Completed {config}.')
             n_success += 1
