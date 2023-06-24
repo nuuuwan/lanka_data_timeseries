@@ -11,6 +11,41 @@ log = Log(__name__)
 
 class EDLSummary:
     @staticmethod
+    def clean(x):
+        x = x.replace(' ', '')
+
+        if x.startswith('(') and x.endswith(')'):
+            x = '-' + x[1:-1]
+        if x.lower() in ['...', '', '-', 'n.a', 'n.a.']:
+            return None
+
+        x = x.replace(',', '')
+        x = x.replace('l', '1')
+        x = x.replace('I', '1')
+        x = x.replace("'", '')
+
+        if '.' in x:
+            return float(x)
+
+        return int(x)
+
+    @staticmethod
+    def filter_non_empty_data(inner_data):
+        return dict(
+            list(
+                filter(
+                    lambda x: x[1] is not None,
+                    list(
+                        map(
+                            lambda x: [x[0], EDLSummary.clean(x[1])],
+                            inner_data.items(),
+                        )
+                    ),
+                )
+            )
+        )
+
+    @staticmethod
     def get_d(file_name_only):
         log.debug(f'Processing {file_name_only}...')
         tokens = file_name_only.split('.')
@@ -22,19 +57,15 @@ class EDLSummary:
         unit = data['unit']
         scale = data['scale']
         inner_data = data['data']
-        non_empty_inner_data = dict(
-            list(filter(lambda x: x[1].strip(), inner_data.items()))
-        )
+        non_empty_inner_data = EDLSummary.filter_non_empty_data(inner_data)
+
         ts = list(non_empty_inner_data.keys())
         n = len(ts)
+        min_t, max_t, latest_value = None, None, None
         if n > 0:
             min_t = min(ts)
             max_t = max(ts)
             latest_value = non_empty_inner_data[max_t]
-        else:
-            min_t = None
-            max_t = None
-            latest_value = None
 
         return dict(
             min_t=min_t,
