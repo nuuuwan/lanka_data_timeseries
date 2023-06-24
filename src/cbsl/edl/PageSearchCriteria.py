@@ -75,8 +75,8 @@ class PageSearchCriteria(Webpage):
         self.select_time_search_criteria()
         self.input_from()
         self.input_to()
+        self.sleep(10)
 
-        self.sleep(3)
         self.click_next()
         
         return self

@@ -14,6 +14,7 @@ def main():
     for frequency in FREQUENCY_LIST:
         for i_subject in range(0, N_SUBJECTS):
             webpage = PageSearchCriteria(frequency, i_subject).run()
+            
             try:
                 webpage = PageSelectItems(webpage).run()
             except BaseException:
@@ -21,7 +22,9 @@ def main():
                 continue
 
             webpage = PageSearchResult(webpage).run()
+            
             webpage.close()
+            
             log.info(f'✅Completed {frequency}/{i_subject}.')
 
 
