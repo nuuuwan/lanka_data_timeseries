@@ -24,8 +24,8 @@ class Webpage:
         assert url.startswith('http')
         self.url = url
         self.driver = None
-        self.width = 800
-        self.height = self.width * 4
+        self.width = 1_000
+        self.height = self.width * 12
 
     @cached_property
     def screenshot_image_path(self):
