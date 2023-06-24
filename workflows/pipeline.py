@@ -1,7 +1,14 @@
-from cbsl.edl import (FREQUENCY_LIST, N_SUBJECTS, PageSearchCriteria,
-                      PageSearchResult, PageSelectItems)
+from cbsl.edl import (
+    FREQUENCY_LIST,
+    N_SUBJECTS,
+    PageSearchCriteria,
+    PageSearchResult,
+    PageSelectItems,
+)
 from utils import Log
+
 log = Log(__name__)
+
 
 def main():
     for frequency in FREQUENCY_LIST:
@@ -9,11 +16,13 @@ def main():
             webpage = PageSearchCriteria(frequency, i_subject).run()
             try:
                 webpage = PageSelectItems(webpage).run()
-            except:
-                log.error(f'Failed to complete {frequency}/{i_subject}.')
+            except BaseException:
+                log.error(f'🔴Failed to complete {frequency}/{i_subject}.')
                 continue
+
             webpage = PageSearchResult(webpage).run()
             webpage.close()
+            log.info(f'✅Completed {frequency}/{i_subject}.')
 
 
 if __name__ == '__main__':
