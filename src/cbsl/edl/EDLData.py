@@ -30,19 +30,18 @@ class EDLData:
         return int(x)
 
     @staticmethod
-    def filter_non_empty_data(inner_data):
+    def clean_inner_data(inner_data):
         return dict(
-            list(
-                filter(
-                    lambda x: x[1] is not None,
-                    list(
-                        map(
-                            lambda x: [x[0], EDLData.clean(x[1])],
-                            inner_data.items(),
-                        )
-                    ),
-                )
-            )
+            sorted(
+                list(
+                    map(
+                        lambda x: [x[0], EDLData.clean(x[1])],
+                        inner_data.items(),
+                    )
+                ),
+                key=lambda x: x[0],
+                reverse=True,
+            ),
         )
 
     @staticmethod
@@ -57,7 +56,12 @@ class EDLData:
         unit = data['unit']
         scale = data['scale']
         inner_data = data['data']
-        non_empty_inner_data = EDLData.filter_non_empty_data(inner_data)
+        cleaned_inner_data = EDLData.clean_inner_data(inner_data)
+        non_empty_inner_data = dict(
+            list(
+                filter(lambda x: x[1] is not None, cleaned_inner_data.items())
+            )
+        )
 
         ts = list(non_empty_inner_data.keys())
         n = len(ts)
@@ -76,6 +80,7 @@ class EDLData:
             sub_category=sub_category,
             unit=unit,
             scale=scale,
+            cleaned_inner_data=cleaned_inner_data,
             non_empty_inner_data=non_empty_inner_data,
         )
 

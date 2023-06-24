@@ -5,9 +5,7 @@ from utils import Log, TSVFile
 
 from cbsl.edl.EDLData import EDLData
 
-URL_GIT_REPO = 'https://github.com/nuuuwan/cbsl.git'
 DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.cbsl')
-BRANCH_DATA = 'data'
 log = Log(__name__)
 
 
@@ -18,6 +16,7 @@ class EDLSummary(EDLData):
         d_list = []
         for d in d_list0:
             del d['non_empty_inner_data']
+            del d['cleaned_inner_data']
             d_list.append(d)
 
         tsv_path = os.path.join(DIR_TMP_DATA, 'edl_summary.tsv')
