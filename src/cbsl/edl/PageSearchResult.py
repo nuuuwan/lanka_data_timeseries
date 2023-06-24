@@ -11,10 +11,27 @@ log = Log(__name__)
 
 class PageSearchResult(WebpageWrapper):
     @staticmethod
+    def parse_tds(elem_td_list, time_list, d_idx):
+        cells = [elem_td.text for elem_td in elem_td_list]
+        row_num = cells[0].strip()
+        if row_num == '':
+            category = cells[1]
+            if category not in d_idx:
+                d_idx[category] = {}
+        else:
+            sub_category = cells[1]
+            if sub_category not in d_idx[category]:
+                d_idx[category][sub_category] = dict(
+                    unit=cells[2], scale=cells[3], data={}
+                )
+            for time_i, cell in zip(time_list, cells[4:]):
+                d_idx[category][sub_category]['data'][time_i] = cell
+        return d_idx
+
+    @staticmethod
     def parse_table(elem_tr_list):
         d_idx = {}
         time_list = None
-        category = ''
         for elem_tr in elem_tr_list:
             elem_th_list = elem_tr.find_elements(By.TAG_NAME, 'th')
             if elem_th_list:
@@ -22,20 +39,10 @@ class PageSearchResult(WebpageWrapper):
 
             elem_td_list = elem_tr.find_elements(By.TAG_NAME, 'td')
             if elem_td_list:
-                cells = [elem_td.text for elem_td in elem_td_list]
-                row_num = cells[0].strip()
-                if row_num == '':
-                    category = cells[1]
-                    if category not in d_idx:
-                        d_idx[category] = {}
-                else:
-                    sub_category = cells[1]
-                    if sub_category not in d_idx[category]:
-                        d_idx[category][sub_category] = dict(
-                            unit=cells[2], scale=cells[3], data={}
-                        )
-                    for time_i, cell in zip(time_list, cells[4:]):
-                        d_idx[category][sub_category]['data'][time_i] = cell
+                d_idx = PageSearchResult.parse_tds(
+                    elem_td_list, time_list, d_idx
+                )
+
         return d_idx
 
     @staticmethod
