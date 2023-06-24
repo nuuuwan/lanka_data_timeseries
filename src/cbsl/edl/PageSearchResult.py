@@ -74,7 +74,7 @@ class PageSearchResult(WebpageWrapper):
         PageSearchResult.write(d_idx)
 
     def run(self):
-        log.info('Running PageSearchResult.')
+        log.info('STEP 3️⃣) Running PageSearchResult.')
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
         self.extract_table()

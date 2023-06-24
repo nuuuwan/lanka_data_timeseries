@@ -67,7 +67,7 @@ class PageSearchCriteria(Webpage):
         log.debug('Waiting for ShowAll...')
 
     def run(self):
-        log.info('Running PageSearchCriteria.')
+        log.info('STEP 1️⃣) Running PageSearchCriteria.')
         self.open()
         current_url = self.driver.current_url
         log.debug(f'{current_url=}, {self.frequency=}, {self.i_subject=}')

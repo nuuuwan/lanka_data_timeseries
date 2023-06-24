@@ -43,7 +43,7 @@ class PageSelectItems(WebpageWrapper):
         log.debug('Removed footer.')
 
     def run(self):
-        log.info('Running PageSelectItems.')
+        log.info('STEP 2️⃣) Running PageSelectItems.')
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
 
