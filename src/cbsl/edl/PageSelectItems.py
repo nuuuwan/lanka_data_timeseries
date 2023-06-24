@@ -8,8 +8,12 @@ log = Log(__name__)
 
 class PageSelectItems(WebpageWrapper):
     def click_list_all_items(self):
+        self.sleep(3)
         self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll').click()
         log.debug('Clicked "List all items".')
+
+        log.debug('Waiting for Search List...')
+        self.find_element(By.ID, 'ContentPlaceHolder1_grdSearchList')
 
     def select_all_items(self):
         elem_item_list = self.find_elements(By.ID, 'chkSelect')
