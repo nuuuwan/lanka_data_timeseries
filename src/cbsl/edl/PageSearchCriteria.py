@@ -72,12 +72,10 @@ class PageSearchCriteria(Webpage):
         log.debug(f'{current_url=}, {self.frequency=}, {self.i_subject=}')
 
         self.select_some_subjects(self.i_subject, self.i_subject + 1)
-        self.sleep(3)
-
+        
         self.select_time_search_criteria()
         self.input_from()
         self.input_to()
-        self.sleep(10)
 
         self.click_next()
         
