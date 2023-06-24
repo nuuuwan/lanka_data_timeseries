@@ -3,4 +3,4 @@ from cbsl.edl.PageSearchCriteria import PageSearchCriteria
 from cbsl.edl.PageSearchResult import PageSearchResult
 from cbsl.edl.PageSelectItems import PageSelectItems
 
-N_SUBJECTS = 1
+N_SUBJECTS = 5
