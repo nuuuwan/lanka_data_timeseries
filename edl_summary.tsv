@@ -500,24 +500,24 @@ min_t	max_t	latest_value	n	category	sub_category	unit	scale
 1964	2021	5283	54	Communication Media-Postal Services	Postal Services - Average population served by a post office	Number	Number
 1964	2021	4194	54	Communication Media-Postal Services	Postal Services - Post offices	Number	Number
 2002	2021	6.5	20	Education-General Education	Government schools - School density	sq. km.	sq. km.
-1984	2021	78228	38	Health-Health Statistics	Government sector western medicine - Beds	Number	Number
-1984	2021	18992	38	Health-Health Statistics	Government sector western medicine - Doctors	Number	Number
-1984	2021	3.5	38	Health-Health Statistics	Government sector western medicine - Hospital beds per 1,000 persons	Number	Number
-1984	2021	618	38	Health-Health Statistics	Government sector western medicine - Hospitals	Number	Number
-1984	2020	7478	35	Health-Health Statistics	Government sector western medicine - In-patients	Number	Thousands
-1984	2021	38743	38	Health-Health Statistics	Government sector western medicine - Nurses	Number	Number
-1984	2021	17.5	38	Health-Health Statistics	Government sector western medicine - Nurses per 10,000 persons	Number	Number
-1984	2020	58920	35	Health-Health Statistics	Government sector western medicine - Out-patients	Number	Thousands
-1984	2021	1167	38	Health-Health Statistics	Government sector western medicine - Persons per doctor	Number	Number
-1984	2015	8.5	29	Health-Health Statistics	Health Indicators - Infant Mortality per 1,000 live births	Number	Number
+1964	2021	78228	58	Health-Health Statistics	Government sector western medicine - Beds	Number	Number
+1964	2021	18992	58	Health-Health Statistics	Government sector western medicine - Doctors	Number	Number
+1964	2021	3.5	58	Health-Health Statistics	Government sector western medicine - Hospital beds per 1,000 persons	Number	Number
+1964	2021	618	58	Health-Health Statistics	Government sector western medicine - Hospitals	Number	Number
+1964	2020	7478	55	Health-Health Statistics	Government sector western medicine - In-patients	Number	Thousands
+1964	2021	38743	58	Health-Health Statistics	Government sector western medicine - Nurses	Number	Number
+1964	2021	17.5	58	Health-Health Statistics	Government sector western medicine - Nurses per 10,000 persons	Number	Number
+1964	2020	58920	55	Health-Health Statistics	Government sector western medicine - Out-patients	Number	Thousands
+1964	2021	1167	58	Health-Health Statistics	Government sector western medicine - Persons per doctor	Number	Number
+1964	2015	8.5	49	Health-Health Statistics	Health Indicators - Infant Mortality per 1,000 live births	Number	Number
 1990	2020	1571	29	Health-Personel	No.of Dental Surgeons	Number	 
 2000	2020	1640	18	Health-Personel	No.of Dispensers	Number	 
 2000	2020	418	18	Health-Personel	No.of ECG Recordists	Number	 
 2000	2020	110	18	Health-Personel	No.of EEG Recordists	Number	 
 1990	2020	2610	29	Health-Personel	No.of Hospital Midwives	Number	 
 2000	2020	2099	18	Health-Personel	No.of Medical Laboratory Technologists	Number	 
-1984	2017	19800	29	Health-Personel	No.of Medical Offices - Total	Number	 
-1984	2017	36111	29	Health-Personel	No.of Nurses - Total	Number	 
+1980	2017	19800	31	Health-Personel	No.of Medical Offices - Total	Number	 
+1980	2017	36111	31	Health-Personel	No.of Nurses - Total	Number	 
 2000	2020	1974	18	Health-Personel	No.of Pharmacists	Number	 
 2000	2020	738	18	Health-Personel	No.of Physiotherapists	Number	 
 1990	2020	2183	29	Health-Personel	No.of Public Health Inspectors	Number	 
