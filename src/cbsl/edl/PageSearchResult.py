@@ -11,7 +11,7 @@ log = Log(__name__)
 
 class PageSearchResult(WebpageWrapper):
     @staticmethod
-    def parse_tds(elem_td_list, time_list, d_idx):
+    def parse_tds(elem_td_list, d_idx, category, time_list):
         cells = [elem_td.text for elem_td in elem_td_list]
         row_num = cells[0].strip()
         if row_num == '':
@@ -26,12 +26,13 @@ class PageSearchResult(WebpageWrapper):
                 )
             for time_i, cell in zip(time_list, cells[4:]):
                 d_idx[category][sub_category]['data'][time_i] = cell
-        return d_idx
+        return d_idx, category
 
     @staticmethod
     def parse_table(elem_tr_list):
         d_idx = {}
         time_list = None
+        category = ''
         for elem_tr in elem_tr_list:
             elem_th_list = elem_tr.find_elements(By.TAG_NAME, 'th')
             if elem_th_list:
@@ -39,8 +40,8 @@ class PageSearchResult(WebpageWrapper):
 
             elem_td_list = elem_tr.find_elements(By.TAG_NAME, 'td')
             if elem_td_list:
-                d_idx = PageSearchResult.parse_tds(
-                    elem_td_list, time_list, d_idx
+                d_idx, category = PageSearchResult.parse_tds(
+                    elem_td_list, d_idx, category, time_list
                 )
 
         return d_idx
