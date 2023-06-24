@@ -4,7 +4,10 @@ import time
 from functools import cached_property
 
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from utils import Log, hashx
 
 from utils_future.FileFuture import FileFuture
@@ -13,6 +16,7 @@ from utils_future.Image import Image
 log = Log(__name__)
 
 T_WAIT_FOR_SCREENSHOT = 3
+T_FIND_ELEMENT_DELAY = 120
 
 
 class Webpage:
@@ -20,8 +24,8 @@ class Webpage:
         assert url.startswith('http')
         self.url = url
         self.driver = None
-        self.width = 1920
-        self.height = 1920
+        self.width = 800
+        self.height = self.width * 4
 
     @cached_property
     def screenshot_image_path(self):
@@ -40,7 +44,23 @@ class Webpage:
         log.debug(f'Opened {self.url}')
 
     def find_element(self, by, value):
-        return self.driver.find_element(by, value)
+        try:
+            return WebDriverWait(self.driver, T_FIND_ELEMENT_DELAY).until(
+                EC.presence_of_element_located((by, value))
+            )
+        except TimeoutException as e:
+            log.error(
+                f'Failed to find {by} {value} after {T_FIND_ELEMENT_DELAY}s.'
+            )
+            raise e
+
+    def find_elements(self, by, value):
+        return self.driver.find_elements(by, value)
+
+    def scroll_to_bottom(self):
+        self.driver.execute_script(
+            "window.scrollTo(0, document.body.scrollHeight);"
+        )
 
     def close(self):
         self.driver.close()
@@ -48,10 +68,11 @@ class Webpage:
         log.debug(f'Closed {self.url}')
 
     def sleep(self, t_sleep: int):
+        log.debug(f'😴 Sleeping for {t_sleep}s...')
         time.sleep(t_sleep)
 
     def __screenshot_nocache__(self, elem_info):
-        log.debug(f'😴 Sleeping for {T_WAIT_FOR_SCREENSHOT}s...')
+        self.sleep(T_WAIT_FOR_SCREENSHOT)
 
         if not elem_info:
             self.driver.save_screenshot(self.screenshot_image_path)
