@@ -1,0 +1,48 @@
+name: Build Summary (Cron)
+
+# on: workflow_dispatch
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+
+
+jobs:
+  build_summary:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install build
+
+    - name: Run build_summary.py
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/build_summary.py 
+
+    - name: Checkout repo branch data
+      uses: actions/checkout@v2
+      with:
+        ref: 'data'
+        token: "${{ secrets.REPO_DATA_TOKEN }}"
+
+    - name: Copy data, and push to repo branch data
+      run: |
+        git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+        git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+        
+        echo "* $(date) build-summary (cron)" >> /tmp/tmp.cbsl/update.log
+        cp -r /tmp/tmp.cbsl/* .
+
+        git add .
+        git commit -m "Build Summary (Cron) $(date)"
+        git push origin data
