@@ -2,16 +2,16 @@ from selenium.webdriver.common.by import By
 from utils import Log
 
 from cbsl.constants import URL_ERESEARCH
+from cbsl.edl.Config import Config
 from utils_future import Webpage
 
 log = Log(__name__)
 
 
 class PageSearchCriteria(Webpage):
-    def __init__(self, frequency: str, i_subject: int):
+    def __init__(self, config: Config):
         super().__init__(URL_ERESEARCH)
-        self.frequency = frequency
-        self.i_subject = i_subject
+        self.config = config
 
     def select_all_subjects(self):
         elem_input_select_all = self.find_element(
@@ -37,24 +37,24 @@ class PageSearchCriteria(Webpage):
             By.ID, 'ContentPlaceHolder1_drpFrequency'
         )
         elem_option = elem_select_frequency.find_element(
-            By.XPATH, f"//option[@value='{self.frequency.value}']"
+            By.XPATH, f"//option[@value='{self.config.frequency.value}']"
         )
         elem_option.click()
-        log.debug(f'Selected {self.frequency.name}.')
+        log.debug(f'Selected {self.config.frequency.name}.')
 
     def input_from(self):
         elem_input_from = self.find_element(
             By.ID, 'ContentPlaceHolder1_txtYearFrom'
         )
-        elem_input_from.send_keys(self.frequency.from_str)
-        log.debug(f'Typed "{self.frequency.from_str}".')
+        elem_input_from.send_keys(self.config.frequency.from_str)
+        log.debug(f'Typed "{self.config.frequency.from_str}".')
 
     def input_to(self):
         elem_input_to = self.find_element(
             By.ID, 'ContentPlaceHolder1_txtYearTo'
         )
-        elem_input_to.send_keys(self.frequency.to_str)
-        log.debug(f'Typed "{self.frequency.to_str}".')
+        elem_input_to.send_keys(self.config.frequency.to_str)
+        log.debug(f'Typed "{self.config.frequency.to_str}".')
 
     def click_next(self):
         self.sleep(3)
@@ -71,9 +71,11 @@ class PageSearchCriteria(Webpage):
         log.info('STEP 1️⃣) Running PageSearchCriteria.')
         self.open()
         current_url = self.driver.current_url
-        log.debug(f'{current_url=}, {self.frequency=}, {self.i_subject=}')
+        log.debug(f'{current_url=}, {self.config=}')
 
-        self.select_some_subjects(self.i_subject, self.i_subject + 1)
+        self.select_some_subjects(
+            self.config.i_subject, self.config.i_subject + 1
+        )
 
         self.select_time_search_criteria()
         self.input_from()
