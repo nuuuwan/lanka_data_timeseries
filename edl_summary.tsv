@@ -547,8 +547,8 @@ min_t	max_t	latest_value	n	category	sub_category	unit	scale
 2013	2022	136.42	10	Imports and Exports-CBSL Trade Indices (In USD terms)	Merchandise Import Value Index (2010=100)	Index Points (In USD	Units
 2013	2022	125.98	10	Imports and Exports-CBSL Trade Indices (In USD terms)	Merchandise Import Volume Index (2010=100)	Index Points (In USD	Units
 2013	2022	86.12	10	Imports and Exports-CBSL Trade Indices (In USD terms)	Terms of Trade (2010=100)	Index Points (In USD	Units
-1984	2022	13106.44	39	Imports and Exports-Exports (in USD terms)	Merchandise Exports - Total	US Dollars	Millions
-1984	2022	18291.02	39	Imports and Exports-Imports (in USD terms)	Merchandise Imports - Total	US Dollars	Millions
+1964	2022	13106.44	59	Imports and Exports-Exports (in USD terms)	Merchandise Exports - Total	US Dollars	Millions
+1964	2022	18291.02	59	Imports and Exports-Imports (in USD terms)	Merchandise Imports - Total	US Dollars	Millions
 1999	2021	1063688	23	Industry and Housing-Electricity Sales	Electricity Sales-No. of Consumer Accounts-Central-Total	Number	 
 1999	2021	186274	23	Industry and Housing-Electricity Sales	Electricity Sales-No. of Consumer Accounts-Colombo City-Total	Number	 
 1999	2021	592499	23	Industry and Housing-Electricity Sales	Electricity Sales-No. of Consumer Accounts-Eastern-Total	Number	 
