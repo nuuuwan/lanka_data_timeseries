@@ -22,7 +22,7 @@ class Frequency:
 
 
 END_YEAR = get_next_year()
-START_YEAR = END_YEAR - 40
+START_YEAR = END_YEAR - 60
 
 FREQUENCY_LIST = [
     Frequency('Annual', 'A', START_YEAR, END_YEAR),
