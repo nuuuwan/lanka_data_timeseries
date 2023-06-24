@@ -14,11 +14,16 @@ class PageSelectItems(WebpageWrapper):
     def select_all_items(self):
         elem_item_list = self.find_elements(By.ID, 'chkSelect')
         n = len(elem_item_list)
+
+        if n == 0:
+            raise Exception('No items found.')
+
         log.debug(f'Found {n} items.')
 
         for elem_item in elem_item_list:
             elem_item.click()
         log.debug(f'Clicked {n} items.')
+        return n
 
     def click_add(self):
         self.find_element(By.ID, 'add').click()
@@ -43,15 +48,10 @@ class PageSelectItems(WebpageWrapper):
         log.debug(f'{current_url=}')
 
         self.click_list_all_items()
-
         self.remove_footer()
-
         self.select_all_items()
-
         self.click_add()
-
         self.click_next()
-
         self.sleep(3)
 
         return self
