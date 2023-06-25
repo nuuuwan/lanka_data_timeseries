@@ -16,7 +16,7 @@ from utils_future.Image import Image
 log = Log(__name__)
 
 T_WAIT_FOR_SCREENSHOT = 3
-T_FIND_ELEMENT_DELAY = 120
+T_FIND_ELEMENT_DELAY = 30
 
 
 class Webpage:
