@@ -11,46 +11,46 @@ END_YEAR = get_next_year()
 START_YEAR = END_YEAR - 60
 
 FREQUENCY_LIST = [
-    # Frequency(
-    #     'Annual',
-    #     'A',
-    #     {
-    #         'ContentPlaceHolder1_txtYearFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtYearTo': END_YEAR,
-    #     },
-    # ),
-    # Frequency(
-    #     'Census Year',
-    #     'C',
-    #     {
-    #         'ContentPlaceHolder1_txtCensusYearFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtCensusYearTo': END_YEAR,
-    #     },
-    # ),
-    # Frequency(
-    #     'Academic Year',
-    #     'E',
-    #     {
-    #         'ContentPlaceHolder1_txtAcedemicYearFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtAcedemicYearTo': END_YEAR,
-    #     },
-    # ),
-    # Frequency(
-    #     'Half Yearly',
-    #     'H',
-    #     {
-    #         'ContentPlaceHolder1_txtHalfFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtHalfTo': END_YEAR,
-    #     },
-    # ),
-    # Frequency(
-    #     'Quarterly',
-    #     'Q',
-    #     {
-    #         'ContentPlaceHolder1_txtYearQuarterlyFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtYearQuarterlyTo': END_YEAR,
-    #     },
-    # ),
+    Frequency(
+        'Annual',
+        'A',
+        {
+            'ContentPlaceHolder1_txtYearFrom': START_YEAR,
+            'ContentPlaceHolder1_txtYearTo': END_YEAR,
+        },
+    ),
+    Frequency(
+        'Census Year',
+        'C',
+        {
+            'ContentPlaceHolder1_txtCensusYearFrom': START_YEAR,
+            'ContentPlaceHolder1_txtCensusYearTo': END_YEAR,
+        },
+    ),
+    Frequency(
+        'Academic Year',
+        'E',
+        {
+            'ContentPlaceHolder1_txtAcedemicYearFrom': START_YEAR,
+            'ContentPlaceHolder1_txtAcedemicYearTo': END_YEAR,
+        },
+    ),
+    Frequency(
+        'Half Yearly',
+        'H',
+        {
+            'ContentPlaceHolder1_txtHalfFrom': START_YEAR,
+            'ContentPlaceHolder1_txtHalfTo': END_YEAR,
+        },
+    ),
+    Frequency(
+        'Quarterly',
+        'Q',
+        {
+            'ContentPlaceHolder1_txtYearQuarterlyFrom': START_YEAR,
+            'ContentPlaceHolder1_txtYearQuarterlyTo': END_YEAR,
+        },
+    ),
     Frequency(
         'Monthly',
         'M',
@@ -67,5 +67,5 @@ FREQUENCY_LIST = [
             'ContentPlaceHolder1_txtDateTo': f'{END_YEAR}-01-01',
         },
     ),
-    # Frequency('On-Availablity', 'O', {}),
+    Frequency('On-Availablity', 'O', {}),
 ]
