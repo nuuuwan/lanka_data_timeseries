@@ -40,9 +40,9 @@ jobs:
         git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
-        echo "* $(date) build-summary (cron)" >> /tmp/tmp.cbsl/update.log
         cp -r /tmp/tmp.cbsl/* .
-
+        echo "* $(date) build-summary (cron)" >> update.log
+        
         git add .
         git commit -m "Build Summary (Cron) $(date)"
         git push origin data
