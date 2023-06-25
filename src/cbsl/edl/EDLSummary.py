@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-from utils import Log, TSVFile
+from utils import JSONFile, Log, TSVFile
 
 from cbsl.edl.EDLData import EDLData
 
@@ -22,3 +22,7 @@ class EDLSummary(EDLData):
         tsv_path = os.path.join(DIR_TMP_DATA, 'edl_summary.tsv')
         TSVFile(tsv_path).write(d_list)
         log.info(f'Wrote to {tsv_path}')
+
+        json_path = os.path.join(DIR_TMP_DATA, 'edl_summary.json')
+        JSONFile(json_path).write(d_list)
+        log.info(f'Wrote to {json_path}')
