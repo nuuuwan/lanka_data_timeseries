@@ -10620,6 +10620,16 @@
     "scale": " "
   },
   {
+    "min_t": "2017-Q3",
+    "max_t": "2022-Q3",
+    "latest_value": 169.8,
+    "n": 21,
+    "category": "Property Indices-Real Estate Price Indices",
+    "sub_category": "Price Index for New Condominiums in Colombo (2019=100)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
     "min_t": "1999",
     "max_t": "2021",
     "latest_value": 581,
