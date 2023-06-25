@@ -4,25 +4,22 @@ from cbsl.edl import (Config, PageSearchCriteria, PageSearchResult,
                       PageSelectItems)
 
 log = Log(__name__)
-MAX_N_SUCCESS = 5
+MAX_CONFIGS = 10
 
 
 def main():
-    n_success = 0
-    for config in Config.random_list():
+    config_list = Config.random_list()
+    for config in config_list[:MAX_CONFIGS]:
         try:
             webpage2 = PageSearchCriteria(config).run()
             webpage3 = PageSelectItems(webpage2).run()
             webpage3 = PageSearchResult(webpage3).run()
             webpage3.close()
-            log.info(f'✅ Completed {config}.')
-            n_success += 1
-            if n_success >= MAX_N_SUCCESS:
-                break
+
+            log.info(f'✅ {config}: SUCCEEDED.')
 
         except BaseException:
-            log.error(f'🔴 Failed to complete {config}.')
-            continue
+            log.error(f'🔴 {config}: FAILED.')
 
 
 if __name__ == '__main__':

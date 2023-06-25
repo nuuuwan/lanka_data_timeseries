@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-from utils import JSONFile, Log, TSVFile
+from utils import JSONFile, Log
 
 from cbsl.edl.EDLData import EDLData
 
