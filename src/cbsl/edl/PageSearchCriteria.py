@@ -42,19 +42,10 @@ class PageSearchCriteria(Webpage):
         elem_option.click()
         log.debug(f'Selected {self.config.frequency.name}.')
 
-    def input_from(self):
-        elem_input_from = self.find_element(
-            By.ID, 'ContentPlaceHolder1_txtYearFrom'
-        )
-        elem_input_from.send_keys(self.config.frequency.from_str)
-        log.debug(f'Typed "{self.config.frequency.from_str}".')
-
-    def input_to(self):
-        elem_input_to = self.find_element(
-            By.ID, 'ContentPlaceHolder1_txtYearTo'
-        )
-        elem_input_to.send_keys(self.config.frequency.to_str)
-        log.debug(f'Typed "{self.config.frequency.to_str}".')
+    def input_text(self, elem_id, text):
+        elem = self.find_element(By.ID, elem_id)
+        elem.send_keys(text)
+        log.debug(f'Typed "{text}" into {elem_id}.')
 
     def click_next(self):
         self.sleep(3)
@@ -78,8 +69,8 @@ class PageSearchCriteria(Webpage):
         )
 
         self.select_time_search_criteria()
-        self.input_from()
-        self.input_to()
+        for elem_id, text in self.config.frequency.input_text_map.items():
+            self.input_text(elem_id, text)
 
         self.click_next()
 
