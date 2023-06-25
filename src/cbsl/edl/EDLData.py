@@ -45,17 +45,18 @@ class EDLData:
         )
 
     @staticmethod
-    def get_d(file_name_only):
-        log.debug(f'Processing {file_name_only}...')
-        tokens = file_name_only.split('.')
-        category = tokens[0]
-        sub_category = '.'.join(tokens[1:-1])
+    def get_file_data(file_name_only):
+        return JSONFile(
+            os.path.join(DIR_TMP_DATA, 'latest', file_name_only)
+        ).read()
 
-        file_path = os.path.join(DIR_TMP_DATA, 'latest', file_name_only)
-        data = JSONFile(file_path).read()
-        unit = data['unit']
-        scale = data['scale']
-        inner_data = data['data']
+    @staticmethod
+    def get_d(file_name_only):
+        tokens = file_name_only.split('.')
+        category, sub_category = tokens[0], '.'.join(tokens[1:-1])
+
+        data = EDLData.get_file_data(file_name_only)
+        unit, scale, inner_data = data['unit'], data['scale'], data['data']
         cleaned_inner_data = EDLData.clean_inner_data(inner_data)
         non_empty_inner_data = dict(
             list(
@@ -67,8 +68,7 @@ class EDLData:
         n = len(ts)
         min_t, max_t, latest_value = None, None, None
         if n > 0:
-            min_t = min(ts)
-            max_t = max(ts)
+            min_t, max_t = min(ts), max(ts)
             latest_value = non_empty_inner_data[max_t]
 
         return dict(
