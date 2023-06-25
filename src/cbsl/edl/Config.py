@@ -2,7 +2,8 @@ import random
 from dataclasses import dataclass
 
 from cbsl import constants
-from cbsl.edl.Frequency import FREQUENCY_LIST, Frequency
+from cbsl.edl.Frequency import Frequency
+from cbsl.edl.FREQUENCY_LIST import FREQUENCY_LIST
 
 
 @dataclass
@@ -11,7 +12,7 @@ class Config:
     i_subject: int
 
     def __str__(self):
-        return f'Config({self.frequency}, {self.i_subject})'
+        return f'Config({self.frequency.name}, {self.i_subject})'
 
     def __repr__(self):
         return str(self)
