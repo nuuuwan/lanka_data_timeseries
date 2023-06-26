@@ -24,10 +24,14 @@ class EDLData:
         x = x.replace('I', '1')
         x = x.replace("'", '')
 
-        if '.' in x:
-            return float(x)
+        try:
+            if '.' in x:
+                return float(x)
 
-        return int(x)
+            return int(x)
+        except ValueError:
+            log.warn(f'Could not clean {x}')
+            return None
 
     @staticmethod
     def clean_inner_data(inner_data):
