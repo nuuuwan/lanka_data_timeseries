@@ -12600,10 +12600,10 @@
     "scale": " "
   },
   {
-    "min_t": "1972-Q1",
-    "max_t": "2022-Q3",
-    "latest_value": 114855.0,
-    "n": 203,
+    "min_t": "1970",
+    "max_t": "2022",
+    "latest_value": 719978,
+    "n": 53,
     "category": "Tourism-Tourist Arrivals",
     "sub_category": "Total Tourist Arrivals",
     "unit": "Number",
