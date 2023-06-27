@@ -15,7 +15,7 @@
     "latest_value": 0.131099045276642,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Standard Error",
+    "sub_category": "Voice and Accountability_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -25,7 +25,7 @@
     "latest_value": 9,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Number of Sources",
+    "sub_category": "Voice and Accountability_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -565,7 +565,7 @@
     "latest_value": 6,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Number of Sources",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -695,7 +695,7 @@
     "latest_value": 17279249000000,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "GNI: linked series (current LCU)",
+    "sub_category": "GNI_ linked series (current LCU)",
     "unit": "",
     "scale": ""
   },
@@ -785,7 +785,7 @@
     "latest_value": 8.057160082596,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Inflation, GDP deflator: linked series (annual Pct.)",
+    "sub_category": "Inflation, GDP deflator_ linked series (annual Pct.)",
     "unit": "",
     "scale": ""
   },
@@ -825,7 +825,7 @@
     "latest_value": 33.0926250023997,
     "n": 41,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: gross savings (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ gross savings (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -835,7 +835,7 @@
     "latest_value": 0,
     "n": 51,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: energy depletion (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ energy depletion (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -845,7 +845,7 @@
     "latest_value": 7.84497118801142,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: consumption of fixed capital (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ consumption of fixed capital (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -855,7 +855,7 @@
     "latest_value": 1.27047531157475,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: carbon dioxide damage (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ carbon dioxide damage (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -1045,7 +1045,7 @@
     "latest_value": 0.168617978692055,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Standard Error",
+    "sub_category": "Rule of Law_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -1055,7 +1055,7 @@
     "latest_value": 9,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Number of Sources",
+    "sub_category": "Rule of Law_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -1065,7 +1065,7 @@
     "latest_value": 49.0566024780273,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -1075,7 +1075,7 @@
     "latest_value": -0.317933022975922,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Estimate",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -1325,7 +1325,7 @@
     "latest_value": 0.0557572590048974,
     "n": 51,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: natural resources depletion (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ natural resources depletion (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -1335,7 +1335,7 @@
     "latest_value": 0,
     "n": 51,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: energy depletion (current US$)",
+    "sub_category": "Adjusted savings_ energy depletion (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -1345,7 +1345,7 @@
     "latest_value": 6815929734.28576,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: consumption of fixed capital (current US$)",
+    "sub_category": "Adjusted savings_ consumption of fixed capital (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -1355,7 +1355,7 @@
     "latest_value": 1103824379.37714,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: carbon dioxide damage (current US$)",
+    "sub_category": "Adjusted savings_ carbon dioxide damage (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -1555,7 +1555,7 @@
     "latest_value": 50.480770111084,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Percentile Rank",
+    "sub_category": "Government Effectiveness_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -2075,7 +2075,7 @@
     "latest_value": 29.3269233703613,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Control of Corruption_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -2305,7 +2305,7 @@
     "latest_value": 44.4444427490234,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Percentile Rank",
+    "sub_category": "Voice and Accountability_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -2875,7 +2875,7 @@
     "latest_value": 2.8,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Overall (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Overall (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -2885,7 +2885,7 @@
     "latest_value": 2.5,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Efficiency of customs clearance process (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -2915,7 +2915,7 @@
     "latest_value": 7250000,
     "n": 22,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Container port traffic (TEU: 20 foot equivalent units)",
+    "sub_category": "Container port traffic (TEU_ 20 foot equivalent units)",
     "unit": "",
     "scale": ""
   },
@@ -2935,7 +2935,7 @@
     "latest_value": 45,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Pillar 5 data infrastructure score (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -2945,7 +2945,7 @@
     "latest_value": 100,
     "n": 16,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Pillar 1 data use score (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -3295,7 +3295,7 @@
     "latest_value": 63.9423065185547,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Government Effectiveness_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -3305,7 +3305,7 @@
     "latest_value": -0.0830284357070923,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Estimate",
+    "sub_category": "Government Effectiveness_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -3795,7 +3795,7 @@
     "latest_value": 44.230770111084,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Percentile Rank",
+    "sub_category": "Control of Corruption_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -4015,7 +4015,7 @@
     "latest_value": 52.1739120483398,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Voice and Accountability_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -4025,7 +4025,7 @@
     "latest_value": -0.0696101933717728,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Estimate",
+    "sub_category": "Voice and Accountability_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -4545,7 +4545,7 @@
     "latest_value": 32.6923065185547,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Government Effectiveness_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -4775,7 +4775,7 @@
     "latest_value": 90.7854137447,
     "n": 31,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+    "sub_category": "Level of water stress_ freshwater withdrawal as a proportion of available freshwater resources",
     "unit": "",
     "scale": ""
   },
@@ -5175,7 +5175,7 @@
     "latest_value": 0.25916513800621,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Standard Error",
+    "sub_category": "Government Effectiveness_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -5185,7 +5185,7 @@
     "latest_value": 6,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Government Effectiveness: Number of Sources",
+    "sub_category": "Government Effectiveness_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -6695,7 +6695,7 @@
     "latest_value": 60.5769233703613,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Rule of Law_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -6705,7 +6705,7 @@
     "latest_value": 0.0384581089019775,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Estimate",
+    "sub_category": "Rule of Law_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -6715,7 +6715,7 @@
     "latest_value": 20.7547168731689,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -6935,7 +6935,7 @@
     "latest_value": 134.270578491776,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "GDP deflator: linked series (base year varies by country)",
+    "sub_category": "GDP deflator_ linked series (base year varies by country)",
     "unit": "",
     "scale": ""
   },
@@ -6975,7 +6975,7 @@
     "latest_value": 25.2575775863491,
     "n": 41,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: net national savings (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ net national savings (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -6985,7 +6985,7 @@
     "latest_value": 0.321404139074823,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: particulate emission damage (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ particulate emission damage (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -6995,7 +6995,7 @@
     "latest_value": 0,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: mineral depletion (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ mineral depletion (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -7005,7 +7005,7 @@
     "latest_value": 0.0557572590048974,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: net forest depletion (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ net forest depletion (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -7015,7 +7015,7 @@
     "latest_value": 1.63568884113916,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: education expenditure (Pct. of GNI)",
+    "sub_category": "Adjusted savings_ education expenditure (Pct. of GNI)",
     "unit": "",
     "scale": ""
   },
@@ -8075,7 +8075,7 @@
     "latest_value": 11089403155400,
     "n": 27,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Households and NPISHs final consumption expenditure: linked series (current LCU)",
+    "sub_category": "Households and NPISHs final consumption expenditure_ linked series (current LCU)",
     "unit": "",
     "scale": ""
   },
@@ -8125,7 +8125,7 @@
     "latest_value": 2.7,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Competence and quality of logistics services (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Competence and quality of logistics services (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -8185,7 +8185,7 @@
     "latest_value": 66.425,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Pillar 4 data sources score (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -8195,7 +8195,7 @@
     "latest_value": 72.5829166666667,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Overall score (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Overall score (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -8385,7 +8385,7 @@
     "latest_value": 36.2318840026855,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Voice and Accountability: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Voice and Accountability_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -8915,7 +8915,7 @@
     "latest_value": 1700,
     "n": 21,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Lifetime risk of maternal death (1 in: rate varies by country)",
+    "sub_category": "Lifetime risk of maternal death (1 in_ rate varies by country)",
     "unit": "",
     "scale": ""
   },
@@ -9405,7 +9405,7 @@
     "latest_value": 50.961540222168,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Regulatory Quality_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -9415,7 +9415,7 @@
     "latest_value": -0.369962692260742,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Estimate",
+    "sub_category": "Regulatory Quality_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -9425,7 +9425,7 @@
     "latest_value": 54.3269233703613,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Percentile Rank",
+    "sub_category": "Rule of Law_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -9435,7 +9435,7 @@
     "latest_value": 0.239415779709816,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Standard Error",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -9505,7 +9505,7 @@
     "latest_value": 0.171495124697685,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Standard Error",
+    "sub_category": "Control of Corruption_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -9515,7 +9515,7 @@
     "latest_value": 9,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Number of Sources",
+    "sub_category": "Control of Corruption_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -9885,7 +9885,7 @@
     "latest_value": 3.3,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -9895,7 +9895,7 @@
     "latest_value": 2.4,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Quality of trade and transport-related infrastructure (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -9955,7 +9955,7 @@
     "latest_value": 81.0333333333333,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Pillar 2 data services score (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -10305,7 +10305,7 @@
     "latest_value": 3,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Ability to track and trace consignments (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Ability to track and trace consignments (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -10315,7 +10315,7 @@
     "latest_value": 2.8,
     "n": 6,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)",
+    "sub_category": "Logistics performance index_ Ease of arranging competitively priced shipments (1=low to 5=high)",
     "unit": "",
     "scale": ""
   },
@@ -10375,7 +10375,7 @@
     "latest_value": 70.45625,
     "n": 15,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100)",
+    "sub_category": "Statistical performance indicators (SPI)_ Pillar 3 data products score  (scale 0-100)",
     "unit": "",
     "scale": ""
   },
@@ -11695,7 +11695,7 @@
     "latest_value": 39.4230766296387,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Percentile Rank",
+    "sub_category": "Regulatory Quality_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -12305,7 +12305,7 @@
     "latest_value": 25.480770111084,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Regulatory Quality_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -12405,7 +12405,7 @@
     "latest_value": 51.9230766296387,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
+    "sub_category": "Control of Corruption_ Percentile Rank, Upper Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -12415,7 +12415,7 @@
     "latest_value": -0.334563583135605,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Control of Corruption: Estimate",
+    "sub_category": "Control of Corruption_ Estimate",
     "unit": "",
     "scale": ""
   },
@@ -13095,7 +13095,7 @@
     "latest_value": 0.220563754439354,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Standard Error",
+    "sub_category": "Regulatory Quality_ Standard Error",
     "unit": "",
     "scale": ""
   },
@@ -13105,7 +13105,7 @@
     "latest_value": 7,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Regulatory Quality: Number of Sources",
+    "sub_category": "Regulatory Quality_ Number of Sources",
     "unit": "",
     "scale": ""
   },
@@ -13115,7 +13115,7 @@
     "latest_value": 45.6730766296387,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Rule of Law: Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
+    "sub_category": "Rule of Law_ Percentile Rank, Lower Bound of 90Pct. Confidence Interval",
     "unit": "",
     "scale": ""
   },
@@ -13125,7 +13125,7 @@
     "latest_value": 34.9056587219238,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Political Stability and Absence of Violence or Terrorism: Percentile Rank",
+    "sub_category": "Political Stability and Absence of Violence or Terrorism_ Percentile Rank",
     "unit": "",
     "scale": ""
   },
@@ -13315,7 +13315,7 @@
     "latest_value": 17685854209600,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "GDP: linked series (current LCU)",
+    "sub_category": "GDP_ linked series (current LCU)",
     "unit": "",
     "scale": ""
   },
@@ -13385,7 +13385,7 @@
     "latest_value": 20981365887.6528,
     "n": 41,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: net national savings (current US$)",
+    "sub_category": "Adjusted savings_ net national savings (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -13395,7 +13395,7 @@
     "latest_value": 279244878.75626,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: particulate emission damage (current US$)",
+    "sub_category": "Adjusted savings_ particulate emission damage (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -13405,7 +13405,7 @@
     "latest_value": 0,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: mineral depletion (current US$)",
+    "sub_category": "Adjusted savings_ mineral depletion (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -13415,7 +13415,7 @@
     "latest_value": 48443461.4794406,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: net forest depletion (current US$)",
+    "sub_category": "Adjusted savings_ net forest depletion (current US$)",
     "unit": "",
     "scale": ""
   },
@@ -13425,7 +13425,7 @@
     "latest_value": 1421132078.26655,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adjusted savings: education expenditure (current US$)",
+    "sub_category": "Adjusted savings_ education expenditure (current US$)",
     "unit": "",
     "scale": ""
   },
