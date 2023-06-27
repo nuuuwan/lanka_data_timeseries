@@ -4770,6 +4770,16 @@
     "scale": "Million"
   },
   {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 119.83,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Expenditure",
+    "sub_category": "Capital and Net Lending",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
     "min_t": "2015-Q1",
     "max_t": "2023-Q1",
     "latest_value": 119826,
@@ -4798,6 +4808,16 @@
     "sub_category": "Central Governmnet Expenditure - Total Expenditure and Net Lending",
     "unit": "LKR",
     "scale": "Rs. million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 1260.05,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Expenditure",
+    "sub_category": "Expenditure and Net Lending",
+    "unit": "Rupees",
+    "scale": "Billion"
   },
   {
     "min_t": "2000",
@@ -4848,6 +4868,16 @@
     "sub_category": "Government expenditure on health as a per cent of GDP",
     "unit": "Percentage",
     "scale": "Percentage"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 1140.22,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Expenditure",
+    "sub_category": "Recurrent Expenditure",
+    "unit": "Rupees",
+    "scale": "Billion"
   },
   {
     "min_t": "1991",
@@ -4950,6 +4980,56 @@
     "scale": "Rs. million"
   },
   {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 0.38,
+    "n": 26,
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Grants",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 57.2,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Non Tax Revenue",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 634.89,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Revenue",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 635.27,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Revenue and Grants",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 577.69,
+    "n": 27,
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Tax Revenue",
+    "unit": "Rupees",
+    "scale": "Billion"
+  },
+  {
     "min_t": "2012-Q4",
     "max_t": "2021-Q3",
     "latest_value": 2838.07,
@@ -5048,6 +5128,66 @@
     "sub_category": "External Debt Statistics (EDS) - Outstanding Total External Debt",
     "unit": "USD",
     "scale": "Millions"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Jan",
+    "latest_value": 24088,
+    "n": 25,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Outstanding Rupee Loans",
+    "unit": "Rupees",
+    "scale": "Million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 11311386,
+    "n": 27,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Outstanding Total Foreign Debt",
+    "unit": "Rupees",
+    "scale": "Million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2022-May",
+    "latest_value": 2915840.74,
+    "n": 20,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Outstanding Treasury Bills",
+    "unit": "Rupees",
+    "scale": "Million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2022-May",
+    "latest_value": 7950566.82,
+    "n": 20,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Outstanding Treasury Bonds",
+    "unit": "Rupees",
+    "scale": "Million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 15616501,
+    "n": 27,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Total Outstanding Domestic Debt",
+    "unit": "Rupees",
+    "scale": "Million"
+  },
+  {
+    "min_t": "2021-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 26927887,
+    "n": 27,
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Total outstanding central Government Debt",
+    "unit": "Rupees",
+    "scale": "Million"
   },
   {
     "min_t": "1996",
