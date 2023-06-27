@@ -10,6 +10,16 @@
     "scale": "Index Point"
   },
   {
+    "min_t": "2000-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 274.38,
+    "n": 280,
+    "category": "Agriculture-Coconut",
+    "sub_category": "Coconut Production",
+    "unit": "Nuts",
+    "scale": "Million"
+  },
+  {
     "min_t": "2005",
     "max_t": "2021",
     "latest_value": 182,
@@ -100,6 +110,16 @@
     "scale": "Million"
   },
   {
+    "min_t": "2000-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 7.99,
+    "n": 279,
+    "category": "Agriculture-Fish Production",
+    "sub_category": "Inland Fish Production",
+    "unit": "Kg",
+    "scale": "Million"
+  },
+  {
     "min_t": "2000",
     "max_t": "2021",
     "latest_value": 104235,
@@ -108,6 +128,16 @@
     "sub_category": "Inland Fish Production - All Island",
     "unit": "Mt",
     "scale": " "
+  },
+  {
+    "min_t": "2000-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 27.2,
+    "n": 279,
+    "category": "Agriculture-Fish Production",
+    "sub_category": "Marine Fish Production",
+    "unit": "Kg",
+    "scale": "Million"
   },
   {
     "min_t": "2000",
@@ -746,6 +776,16 @@
     "n": 17,
     "category": "Agriculture-Rubber",
     "sub_category": "Estimated Rubber Production - Western",
+    "unit": "Kg",
+    "scale": "Million"
+  },
+  {
+    "min_t": "1990-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 6.5,
+    "n": 291,
+    "category": "Agriculture-Rubber",
+    "sub_category": "Rubber Production",
     "unit": "Kg",
     "scale": "Million"
   },
@@ -1408,6 +1448,16 @@
     "sub_category": "No. of Tea Factories - Western",
     "unit": "Number",
     "scale": " "
+  },
+  {
+    "min_t": "1990-Apr",
+    "max_t": "2022-Sep",
+    "latest_value": 20.96,
+    "n": 288,
+    "category": "Agriculture-Tea",
+    "sub_category": "Tea Production",
+    "unit": "Kg",
+    "scale": "Million"
   },
   {
     "min_t": "1994-Q1",
