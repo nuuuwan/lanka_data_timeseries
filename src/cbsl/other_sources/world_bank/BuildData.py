@@ -2,7 +2,7 @@ import csv
 import os
 import tempfile
 
-from utils import File, JSONFile, Log
+from utils import File, JSONFile, Log,Git
 
 CSV_PATH = os.path.join(
     'src',
@@ -23,6 +23,7 @@ def clean_str(x):
     x = x.replace('"', '')
     x = x.replace('%', 'Pct.')
     x = x.replace('/', ' or ')
+    x = x.replace(':', '_')
     return x
 
 
@@ -117,14 +118,14 @@ def build_data():
 
 
 def main():
-    # git = Git(URL_GIT_REPO)
-    # git.clone(DIR_TMP_DATA, force=True)
-    # git.checkout(BRANCH_DATA)
+    git = Git(URL_GIT_REPO)
+    git.clone(DIR_TMP_DATA, force=True)
+    git.checkout(BRANCH_DATA)
 
     build_data()
 
-    # git.add_and_commit(DIR_TMP_DATA, 'Updated World Bank Data')
-    # git.push(BRANCH_DATA)
+    git.add_and_commit(DIR_TMP_DATA, 'Updated World Bank Data')
+    git.push(BRANCH_DATA)
 
 
 if __name__ == '__main__':
