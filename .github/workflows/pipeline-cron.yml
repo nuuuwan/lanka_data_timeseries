@@ -3,7 +3,7 @@ name: Pipeline (Cron)
 # on: workflow_dispatch
 on:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '5 * * * *'
 
 
 jobs:
