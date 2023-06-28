@@ -26,7 +26,6 @@ class PageSelectItems(WebpageWrapper):
 
         for elem_item in elem_item_list:
             elem_item.click()
-            log.debug(f'---- Clicked {elem_item.get_attribute("name")}.')
         log.debug(f'Clicked {n} items.')
         return n
 
