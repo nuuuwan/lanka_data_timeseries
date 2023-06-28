@@ -8,7 +8,7 @@ from cbsl.edl import (
 )
 
 log = Log(__name__)
-MAX_CONFIGS = 10
+MAX_CONFIGS = 5
 
 
 def main():
