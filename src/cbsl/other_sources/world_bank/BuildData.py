@@ -2,7 +2,7 @@ import csv
 import os
 import tempfile
 
-from utils import File, JSONFile, Log,Git
+from utils import File, Git, JSONFile, Log
 
 CSV_PATH = os.path.join(
     'src',

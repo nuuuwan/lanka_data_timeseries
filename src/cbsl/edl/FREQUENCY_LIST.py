@@ -69,4 +69,4 @@ FREQUENCY_LIST_ALL = [
     ),
     Frequency('On-Availablity', 'O', {}),
 ]
-FREQUENCY_LIST = FREQUENCY_LIST_ALL[:1] # Hack!
+FREQUENCY_LIST = FREQUENCY_LIST_ALL[:1]  # Hack!

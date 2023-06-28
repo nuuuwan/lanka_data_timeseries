@@ -17,6 +17,7 @@ log = Log(__name__)
 
 T_WAIT_FOR_SCREENSHOT = 3
 T_FIND_ELEMENT_DELAY = 60
+DEFAULT_T_SLEEP = 10
 
 
 class Webpage:
@@ -68,7 +69,7 @@ class Webpage:
         self.driver.quit()
         log.debug(f'Closed {self.url}')
 
-    def sleep(self, t_sleep: int):
+    def sleep(self, t_sleep=DEFAULT_T_SLEEP):
         log.debug(f'😴 Sleeping for {t_sleep}s...')
         time.sleep(t_sleep)
 

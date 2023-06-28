@@ -48,7 +48,7 @@ class PageSearchCriteria(Webpage):
         log.debug(f'Typed "{text}" into {elem_id}.')
 
     def click_next(self):
-        self.sleep(3)
+        self.sleep()
         elem_input_next = self.find_element(
             By.ID, 'ContentPlaceHolder1_btnNext'
         )

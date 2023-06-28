@@ -8,7 +8,7 @@ log = Log(__name__)
 
 class PageSelectItems(WebpageWrapper):
     def click_list_all_items(self):
-        self.sleep(3)
+        self.sleep()
         self.find_element(By.ID, 'ContentPlaceHolder1_chkshowAll').click()
         log.debug('Clicked "List all items".')
 
@@ -30,7 +30,7 @@ class PageSelectItems(WebpageWrapper):
         return n
 
     def click_add(self):
-        self.sleep(3)
+        self.sleep()
         self.find_element(By.ID, 'add').click()
         log.debug('Clicked "Add".')
 
@@ -38,7 +38,7 @@ class PageSelectItems(WebpageWrapper):
         self.find_element(By.ID, 'ContentPlaceHolder1_grdSelectList')
 
     def click_next(self):
-        self.sleep(3)
+        self.sleep()
         elem_input_next = self.find_element(
             By.ID, 'ContentPlaceHolder1_btnNext'
         )
@@ -60,7 +60,7 @@ class PageSelectItems(WebpageWrapper):
         log.debug(f'{current_url=}')
 
         self.click_list_all_items()
-        self.sleep(3)
+        self.sleep()
 
         self.remove_footer()
         self.select_all_items()
