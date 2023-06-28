@@ -51,7 +51,7 @@ class Webpage:
             )
         except TimeoutException as e:
             log.error(
-                f'Failed to find {by} {value} after {T_FIND_ELEMENT_DELAY}s.'
+                f'Failed to find {by} {value} after {T_FIND_ELEMENT_DELAY}s: ' + str(e)
             )
             raise e
 

@@ -18,8 +18,8 @@ def main():
 
             log.info(f'✅ {config}: SUCCEEDED.')
 
-        except BaseException:
-            log.error(f'🔴 {config}: FAILED.')
+        except BaseException as e:
+            log.error(f'🔴 {config}: FAILED: ' + str(e))
 
 
 if __name__ == '__main__':
