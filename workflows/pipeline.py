@@ -1,11 +1,7 @@
 from utils import Log
 
-from cbsl.edl import (
-    Config,
-    PageSearchCriteria,
-    PageSearchResult,
-    PageSelectItems,
-)
+from cbsl.edl import (Config, PageSearchCriteria, PageSearchResult,
+                      PageSelectItems)
 
 log = Log(__name__)
 MAX_CONFIGS = 5
