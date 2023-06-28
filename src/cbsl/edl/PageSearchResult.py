@@ -9,17 +9,25 @@ from utils_future import WebpageWrapper
 log = Log(__name__)
 
 
+def clean_str(x):
+    x = x.replace('"', '')
+    x = x.replace('%', 'Pct.')
+    x = x.replace('/', ' or ')
+    x = x.replace(':', '_')
+    return x
+
+
 class PageSearchResult(WebpageWrapper):
     @staticmethod
     def parse_tds(elem_td_list, d_idx, category, time_list):
         cells = [elem_td.text for elem_td in elem_td_list]
         row_num = cells[0].strip()
         if row_num == '':
-            category = cells[1]
+            category = clean_str(cells[1])
             if category not in d_idx:
                 d_idx[category] = {}
         else:
-            sub_category = cells[1]
+            sub_category = clean_str(cells[1])
             if sub_category not in d_idx[category]:
                 d_idx[category][sub_category] = dict(
                     unit=cells[2], scale=cells[3], data={}
