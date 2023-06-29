@@ -9,13 +9,13 @@
   "footnotes": {},
   "summary_statistics": {
     "n": 1,
-    "min_t": "\"2016\"",
-    "max_t": "\"2016\"",
+    "min_t": "2016-01-01",
+    "max_t": "2016-01-01",
     "min_value": 100,
     "max_value": 100
   },
   "cleaned_data": {
-    "\"2016\"": 100
+    "2016-01-01": 100
   },
   "raw_data": {
     "\"1960\"": "",
