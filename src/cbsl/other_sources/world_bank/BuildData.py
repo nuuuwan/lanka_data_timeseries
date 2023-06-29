@@ -2,7 +2,11 @@ import csv
 import os
 import tempfile
 
-from utils import File, Git, JSONFile, Log
+from utils import File, JSONFile, Log
+
+from cbsl.edl import DataBuilder as CBSLDataBuilder
+
+SOURCE_ID = 'world_bank'
 
 CSV_PATH = os.path.join(
     'src',
@@ -15,6 +19,16 @@ CSV_PATH = os.path.join(
 URL_GIT_REPO = 'https://github.com/nuuuwan/cbsl.git'
 DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.cbsl')
 BRANCH_DATA = 'data'
+
+DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
+DEFAULT_SCALE = ''
+DEFAULT_UNIT = ''
+DEFAULT_FREQUENCY_NAME = 'Annual'
+DEFAULT_I_SUBJECT = 0
+DEFAULT_FOOTNOTES = {}
+
+SOURCE_ID = 'world_bank'
+
 
 log = Log(__name__)
 
@@ -56,14 +70,17 @@ def build_data():
         os.makedirs(dir_output)
         log.debug(f'Created {dir_output}')
 
+    dir_output_new = os.path.join(DIR_TMP_DATA, 'sources', 'world_bank')
+    if not os.path.exists(dir_output_new):
+        os.makedirs(dir_output_new)
+        log.debug(f'Created {dir_output_new}')
+
     lines = File(CSV_PATH).read_lines()
 
     year_list = lines[4].split(',')[4:-1]
 
-    DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
-    DEFAULT_SCALE = ''
-    DEFAULT_UNIT = ''
     summary_data_list = []
+    new_summary_data_list = []
     for tokens in csv.reader(
         lines[5:],
         quotechar='"',
@@ -77,34 +94,32 @@ def build_data():
         data = {}
 
         for year, value in zip(year_list, tokens[4:-1]):
-            year = parse_int(year)
-            value = parse_number(value)
-            if value is None:
-                continue
             data[year] = value
+
+        raw_data = data
+        cleaned_data = CBSLDataBuilder.clean_data(raw_data)
+        summary_statistics = CBSLDataBuilder.get_summary_statistics(
+            cleaned_data
+        )
+
         details = dict(
+            source_id=SOURCE_ID,
+            category=DEFAULT_CATEGORY,
+            sub_category=sub_category,
             scale=DEFAULT_SCALE,
             unit=DEFAULT_UNIT,
+            frequency_name=DEFAULT_FREQUENCY_NAME,
+            i_subject=DEFAULT_I_SUBJECT,
+            footnotes=DEFAULT_FOOTNOTES,
+            summary_statistics=summary_statistics,
+            cleaned_data=cleaned_data,
+            raw_data=raw_data,
+            # legacy
             data=data,
         )
 
-        ts = list(data.keys())
-        if len(ts) == 0:
-            continue
-        min_t, max_t = min(ts), max(ts)
-        latest_value = data[max_t]
-        n = len(data)
-        summary_data = dict(
-            min_t=min_t,
-            max_t=max_t,
-            latest_value=latest_value,
-            n=n,
-            category=DEFAULT_CATEGORY,
-            sub_category=sub_category,
-            unit=DEFAULT_UNIT,
-            scale=DEFAULT_SCALE,
-        )
-        summary_data_list.append(summary_data)
+        # write detailed data (per sub_category) to legacy path
+        n = summary_statistics['n']
 
         data_path = os.path.join(
             dir_output, f'{DEFAULT_CATEGORY}.{sub_category}.json'
@@ -112,21 +127,50 @@ def build_data():
         JSONFile(data_path).write(details)
         log.debug(f'Wrote {n} time items to {data_path}')
 
+        # write detailed data (per sub_category) to new path
+        new_data_path = os.path.join(
+            dir_output_new,
+            f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
+        )
+        JSONFile(new_data_path).write(details)
+        log.debug(f'Wrote {n} time items to {new_data_path}')
+
+        # legacy summary
+        summary_data = dict(
+            min_t=details['summary_statistics']['min_t'],
+            max_t=details['summary_statistics']['max_t'],
+            latest_value=details['summary_statistics']['max_value'],
+            n=details['summary_statistics']['n'],
+            category=details['category'],
+            sub_category=details['sub_category'],
+            unit=details['unit'],
+            scale=details['scale'],
+        )
+        summary_data_list.append(summary_data)
+
+        # new summary
+        new_summary_data = dict(
+            min_t=details['summary_statistics']['min_t'],
+            max_t=details['summary_statistics']['max_t'],
+            min_value=details['summary_statistics']['min_value'],
+            max_value=details['summary_statistics']['max_value'],
+            n=details['summary_statistics']['n'],
+            category=details['category'],
+            sub_category=details['sub_category'],
+            frequency_name=details['frequency_name'],
+            unit=details['unit'],
+            scale=details['scale'],
+        )
+        new_summary_data_list.append(new_summary_data)
+
+    # write legacy summary
     summary_path = os.path.join(dir_output, 'summary.json')
     JSONFile(summary_path).write(summary_data_list)
     log.debug(f'Wrote {len(summary_data_list)} items to {summary_path}')
 
-
-def main():
-    git = Git(URL_GIT_REPO)
-    git.clone(DIR_TMP_DATA, force=True)
-    git.checkout(BRANCH_DATA)
-
-    build_data()
-
-    git.add_and_commit(DIR_TMP_DATA, 'Updated World Bank Data')
-    git.push(BRANCH_DATA)
-
-
-if __name__ == '__main__':
-    main()
+    # write summary
+    new_summary_path = os.path.join(dir_output_new, 'summary.json')
+    JSONFile(new_summary_path).write(new_summary_data_list)
+    log.debug(
+        f'Wrote {len(new_summary_data_list)} items to {new_summary_path}'
+    )

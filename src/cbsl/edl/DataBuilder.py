@@ -146,6 +146,8 @@ class DataBuilder:
                     source_id=SOURCE_ID,
                     category=category,
                     sub_category=sub_category,
+                    scale=d_data['scale'],
+                    unit=d_data['unit'],
                     frequency_name=frequency_name,
                     i_subject=i_subject,
                     footnotes=footnotes,
