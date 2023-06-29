@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Education-Performance in Examinations",
   "sub_category": "Performance of Candidates-GCE (O-L)-All candidates _ Percentage of qualifying for GCE (A-L)",
+  "scale": "%",
+  "unit": " ",
   "frequency_name": "Annual",
   "i_subject": 7,
   "footnotes": {},

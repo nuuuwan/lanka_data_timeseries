@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Education-University Education",
   "sub_category": "University education - Age specific enrolment ratio (age 19-23 yrs)",
+  "scale": "Number",
+  "unit": "Number",
   "frequency_name": "Annual",
   "i_subject": 7,
   "footnotes": {

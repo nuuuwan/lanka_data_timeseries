@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Education-University Education",
   "sub_category": "University education - Admission as a percentage of eligible",
+  "scale": "Percentage",
+  "unit": "Percentage",
   "frequency_name": "Annual",
   "i_subject": 7,
   "footnotes": {

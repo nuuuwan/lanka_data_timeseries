@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Education-General Education",
   "sub_category": "Government schools - School density",
+  "scale": "sq. km.",
+  "unit": "sq. km.",
   "frequency_name": "Annual",
   "i_subject": 7,
   "footnotes": {
