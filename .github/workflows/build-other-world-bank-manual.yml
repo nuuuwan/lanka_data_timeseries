@@ -1,10 +1,10 @@
-name: Pipeline TEST (Manual)
+name: Build Other World Bank (Manual)
 
 on: workflow_dispatch
 
 
 jobs:
-  pipeline_test:
+  build_other_world_bank:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,7 +24,7 @@ jobs:
     - name: Run pipeline.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline_test.py 
+        python workflows/build_other_world_bank.py 
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
