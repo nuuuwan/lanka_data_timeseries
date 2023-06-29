@@ -4,6 +4,14 @@
   "sub_category": "Total Tourist Arrivals",
   "frequency_name": "Annual",
   "i_subject": 19,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Sri Lanka Tourism Development Authority",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2023-06-06",
+    "Update frequency": "Two months after end of the month/quarter/year"
+  },
   "summary_statistics": {
     "n": 53,
     "min_t": "1970-01-01",
