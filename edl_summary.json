@@ -15858,5 +15858,205 @@
     "sub_category": "Road Network-Total Roads",
     "unit": "Kilometres",
     "scale": " "
+  },
+  {
+    "min_t": "1998-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 8239.1,
+    "n": 304,
+    "category": "Wages and Indices-Formal Private Sector Wage Rate Index",
+    "sub_category": "Formal Private Sector Wage Rate Index(December 1978=100)(Nominal)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "1998-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 91.6,
+    "n": 304,
+    "category": "Wages and Indices-Formal Private Sector Wage Rate Index",
+    "sub_category": "Formal Private Sector Wage Rate Index(December 1978=100)(Real)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2019-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 168.0,
+    "n": 52,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2019-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 168.8,
+    "n": 52,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2020-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 23.6,
+    "n": 40,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change",
+    "unit": "%",
+    "scale": " "
+  },
+  {
+    "min_t": "2019-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 168.4,
+    "n": 52,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2020-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 12.8,
+    "n": 40,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change",
+    "unit": "%",
+    "scale": " "
+  },
+  {
+    "min_t": "2019-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 166.1,
+    "n": 52,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2020-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 20.6,
+    "n": 40,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change",
+    "unit": "%",
+    "scale": " "
+  },
+  {
+    "min_t": "2020-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 17.1,
+    "n": 40,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change",
+    "unit": "%",
+    "scale": " "
+  },
+  {
+    "min_t": "2012-Apr",
+    "max_t": "2022-Sep",
+    "latest_value": 271.4,
+    "n": 130,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index(2012=100)(Nominal)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2012-Apr",
+    "max_t": "2022-Sep",
+    "latest_value": 105.6,
+    "n": 130,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Informal Private Sector Wage Rate Index(2012=100)(Real)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": null,
+    "max_t": null,
+    "latest_value": null,
+    "n": 0,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Wage Rate Index-Informal Private Sector (2012=100)-Agricuture-Nominal",
+    "unit": " ",
+    "scale": "Index Value"
+  },
+  {
+    "min_t": null,
+    "max_t": null,
+    "latest_value": null,
+    "n": 0,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Wage Rate Index-Informal Private Sector (2012=100)-Industry-Nominal",
+    "unit": " ",
+    "scale": "Index Value"
+  },
+  {
+    "min_t": null,
+    "max_t": null,
+    "latest_value": null,
+    "n": 0,
+    "category": "Wages and Indices-Informal Private Sector Wage Rate Index",
+    "sub_category": "Wage Rate Index-Informal Private Sector (2012=100)-Services-Nominal",
+    "unit": " ",
+    "scale": "Index Value"
+  },
+  {
+    "min_t": "2006-Apr",
+    "max_t": "2020-Mar",
+    "latest_value": 178.5,
+    "n": 172,
+    "category": "Wages and Indices-Public Sector Wage Rate Index",
+    "sub_category": "Public Sector Wage Rate Index (2012=100)(Nominal)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2012-Apr",
+    "max_t": "2020-Mar",
+    "latest_value": 131.7,
+    "n": 100,
+    "category": "Wages and Indices-Public Sector Wage Rate Index",
+    "sub_category": "Public Sector Wage Rate Index (2012=100)(Real)",
+    "unit": "Index Value",
+    "scale": " "
+  },
+  {
+    "min_t": "2018-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 133.1,
+    "n": 64,
+    "category": "Wages and Indices-Public Sector Wage Rate Index",
+    "sub_category": "Public Sector Wage Rate Index (2016=100)(Nominal)",
+    "unit": "Rupees",
+    "scale": "Index Value"
+  },
+  {
+    "min_t": "2018-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 0.0,
+    "n": 64,
+    "category": "Wages and Indices-Public Sector Wage Rate Index",
+    "sub_category": "Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change",
+    "unit": "%",
+    "scale": " "
+  },
+  {
+    "min_t": "2018-Apr",
+    "max_t": "2023-Mar",
+    "latest_value": 57.8,
+    "n": 64,
+    "category": "Wages and Indices-Public Sector Wage Rate Index",
+    "sub_category": "Public Sector Wage Rate Index (2016=100)(Real)",
+    "unit": "Rupees",
+    "scale": "Index Value"
   }
 ]
