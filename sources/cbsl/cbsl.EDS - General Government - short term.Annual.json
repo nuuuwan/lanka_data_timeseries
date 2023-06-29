@@ -1,7 +1,36 @@
 {
-  "unit": "USD",
-  "scale": "Millions",
-  "data": {
+  "source_id": "cbsl",
+  "category": "Central Government Finance-Debt Statistics",
+  "sub_category": "EDS - General Government - short term",
+  "frequency_name": "Annual",
+  "i_subject": 30,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 576.0,
+    "max_value": 3.57
+  },
+  "cleaned_data": {
+    "2012-01-01": 576.0,
+    "2013-01-01": 507.3,
+    "2014-01-01": 398.8,
+    "2015-01-01": 33.41,
+    "2016-01-01": 79.73,
+    "2017-01-01": 166.73,
+    "2018-01-01": 59.58,
+    "2019-01-01": 118.56,
+    "2020-01-01": 3.57
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",

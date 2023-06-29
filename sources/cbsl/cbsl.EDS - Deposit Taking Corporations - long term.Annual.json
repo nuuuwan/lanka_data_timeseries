@@ -1,7 +1,36 @@
 {
-  "unit": "USD",
-  "scale": "Millions",
-  "data": {
+  "source_id": "cbsl",
+  "category": "Central Government Finance-Debt Statistics",
+  "sub_category": "EDS - Deposit Taking Corporations - long term",
+  "frequency_name": "Annual",
+  "i_subject": 30,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 1214.8,
+    "max_value": 1150.12
+  },
+  "cleaned_data": {
+    "2012-01-01": 1214.8,
+    "2013-01-01": 2874.7,
+    "2014-01-01": 3386,
+    "2015-01-01": 3393.39,
+    "2016-01-01": 3543.36,
+    "2017-01-01": 3570.67,
+    "2018-01-01": 2006.64,
+    "2019-01-01": 1478.03,
+    "2020-01-01": 1150.12
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",
