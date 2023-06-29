@@ -12,8 +12,9 @@ SOURCE_ID = 'cbsl'
 
 
 class DataBuilder:
-    def __init__(self, d_idx: dict, config: Config):
+    def __init__(self, d_idx: dict, d_footnote_idx: dict, config: Config):
         self.d_idx = d_idx
+        self.d_footnote_idx = d_footnote_idx
         self.config = config
 
     @property
@@ -130,6 +131,7 @@ class DataBuilder:
                     cleaned_data
                 )
 
+                footnotes = self.d_footnote_idx.get(sub_category, {})
                 d_data_cleaned = dict(
                     source_id=SOURCE_ID,
                     category=category,
@@ -138,6 +140,7 @@ class DataBuilder:
                     i_subject=i_subject,
                     summary_statistics=summary_statistics,
                     cleaned_data=cleaned_data,
+                    footnotes=footnotes,
                     raw_data=raw_data,
                 )
 
@@ -173,7 +176,7 @@ if __name__ == '__main__':
         )
     )
 
-    idx = {
+    d_idx = {
         'A': {
             'B': {
                 'scale': 'M',
@@ -186,4 +189,10 @@ if __name__ == '__main__':
             }
         }
     }
-    DataBuilder(idx, Config(FREQUENCY_LIST[0], 0)).write()
+    d_footnote_idx = {
+        'B': {
+            'source': 'Finance Ministry',
+            'sector': 'New Sector',
+        }
+    }
+    DataBuilder(d_idx, d_footnote_idx, Config(FREQUENCY_LIST[0], 0)).write()

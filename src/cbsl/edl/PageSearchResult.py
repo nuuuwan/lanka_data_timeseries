@@ -42,8 +42,13 @@ class PageSearchResult(WebpageWrapper):
                 d_idx[category][sub_category]['data'][time_i] = cell
         return d_idx, category
 
-    @staticmethod
-    def parse_table(elem_tr_list):
+    def parse_table(self):
+        elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')
+        elem_tbody = elem_table.find_element(By.TAG_NAME, 'tbody')
+        elem_tr_list = elem_tbody.find_elements(By.TAG_NAME, 'tr')
+        n = len(elem_tr_list)
+        log.debug(f'Found {n} rows.')
+
         d_idx = {}
         time_list = None
         category = ''
@@ -59,6 +64,33 @@ class PageSearchResult(WebpageWrapper):
                 )
 
         return d_idx
+
+    def parse_footnote_table(self):
+        elem_table = self.find_element(
+            By.ID, 'ContentPlaceHolder1_grdFootNotes'
+        )
+        elem_tbody = elem_table.find_element(By.TAG_NAME, 'tbody')
+        elem_tr_list = elem_tbody.find_elements(By.TAG_NAME, 'tr')
+        n = len(elem_tr_list)
+        log.debug(f'Found {n} footnote rows.')
+
+        d_footnote_idx = {}
+        sub_category = None
+        for elem_tr in elem_tr_list:
+            elem_td_list = elem_tr.find_elements(By.TAG_NAME, 'td')
+            elem_data_td = elem_td_list[-1]
+            td_text = elem_data_td.text
+            style = elem_data_td.get_attribute("style")
+            if 'bold' in style:
+                sub_category = td_text.partition(')')[-1].strip()
+                d_footnote_idx[sub_category] = {}
+            else:
+                tokens = td_text.split(':')
+                if len(tokens) == 2:
+                    k = tokens[0].strip()
+                    v = tokens[1].strip()
+                    d_footnote_idx[sub_category][k] = v
+        return d_footnote_idx
 
     @staticmethod
     def write(d_idx):
@@ -77,15 +109,10 @@ class PageSearchResult(WebpageWrapper):
                 log.debug(f'Wrote {file_name}')
 
     def extract_table(self):
-        elem_table = self.find_element(By.ID, 'ContentPlaceHolder1_grdResult')
-        elem_tbody = elem_table.find_element(By.TAG_NAME, 'tbody')
-        elem_tr_list = elem_tbody.find_elements(By.TAG_NAME, 'tr')
-        n = len(elem_tr_list)
-        log.debug(f'Found {n} rows.')
-
-        d_idx = PageSearchResult.parse_table(elem_tr_list)
+        d_idx = self.parse_table()
+        d_footnote_idx = self.parse_footnote_table()
         PageSearchResult.write(d_idx)
-        DataBuilder(d_idx, self.config).write()
+        DataBuilder(d_idx, d_footnote_idx, self.config).write()
 
     def run(self):
         log.info('STEP 3️⃣) Running PageSearchResult.')
