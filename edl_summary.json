@@ -10940,6 +10940,66 @@
     "scale": "Percentage"
   },
   {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 340,
+    "n": 51,
+    "category": "Payment Data-Asian Clearing Union (ACU)",
+    "sub_category": "Total Number of Asian Clearing Union (ACU) Transactions",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 68122082052,
+    "n": 51,
+    "category": "Payment Data-Asian Clearing Union (ACU)",
+    "sub_category": "Value of Total Payments through Asian Clearing Union (ACU)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 10509826597,
+    "n": 51,
+    "category": "Payment Data-Asian Clearing Union (ACU)",
+    "sub_category": "Value of Total Receipts through Asian Clearing Union (ACU)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 4062,
+    "n": 51,
+    "category": "Payment Data-Automated Teller Machines(ATMs)",
+    "sub_category": "Number of ATM terminals (as at end period)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 1424930506,
+    "n": 51,
+    "category": "Payment Data-Automated Teller Machines(ATMs)",
+    "sub_category": "Total Value of financial transactions through ATM Terminals",
+    "unit": "LKR",
+    "scale": "Thousands"
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 88538609,
+    "n": 51,
+    "category": "Payment Data-Automated Teller Machines(ATMs)",
+    "sub_category": "Total Volume of financial transactions through ATM Terminals",
+    "unit": " ",
+    "scale": " "
+  },
+  {
     "min_t": "2010-Apr",
     "max_t": "2023-Mar",
     "latest_value": 905258795927,
@@ -10996,6 +11056,226 @@
     "n": 159,
     "category": "Payment Data-Cheques",
     "sub_category": "Total Volume of US Dollar Cheques cleared",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 49773,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Number of Credit Cards issued during the quarter",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 852030,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Number of Debit Cards issued during the quarter",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2013-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 201454,
+    "n": 39,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Number of defaulted Credit Cards",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 98909800954,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total Value of Credit Card transactions",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 127118486576,
+    "n": 50,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total Value of Debit Card transactions (carried out at POS terminals)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 14127573,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total Volume of Credit Card transactions",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 33860755,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total Volume of Debit Card transactions (carried out at POS terminals)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 2082137,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total number of Credit Cards in use (as at end period)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 18819496,
+    "n": 51,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Total number of Debit Cards in use (as at end period)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2013-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 20887241812,
+    "n": 39,
+    "category": "Payment Data-Credit or Debit Cards",
+    "sub_category": "Value of defaulted Credit Cards (Total amount in arrears)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 3235482794966,
+    "n": 51,
+    "category": "Payment Data-Internet based",
+    "sub_category": "Total Value of Internet based financial transactions",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 47628138,
+    "n": 51,
+    "category": "Payment Data-Internet based",
+    "sub_category": "Total Volume of Internet based financial transactions",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q1",
+    "latest_value": 188182595125,
+    "n": 49,
+    "category": "Payment Data-Mobile Phone based",
+    "sub_category": "Total Value of Customer Account based Mobile transactions (effected through mobile phone)",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q1",
+    "latest_value": 7073102,
+    "n": 49,
+    "category": "Payment Data-Mobile Phone based",
+    "sub_category": "Total Volume of Customer Account based Mobile transactions (effected through mobile phones)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 2636022000,
+    "n": 51,
+    "category": "Payment Data-Money or Postal Orders",
+    "sub_category": "Value of Payments Made through Money Orders and Postal Orders",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 101427,
+    "n": 51,
+    "category": "Payment Data-Point of Sale (POS) Terminals",
+    "sub_category": "Number of Point of Sale (POS) terminals (as at end period)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 239829993,
+    "n": 51,
+    "category": "Payment Data-Point of Sale (POS) Terminals",
+    "sub_category": "Total Value of Point of Sale (POS) Terminal transactions during the period",
+    "unit": "LKR",
+    "scale": "Thousands"
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 50120406,
+    "n": 51,
+    "category": "Payment Data-Point of Sale (POS) Terminals",
+    "sub_category": "Total Volume of Point of Sale (POS) Terminal transactions during the period",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2020-Q3",
+    "latest_value": 512703,
+    "n": 43,
+    "category": "Payment Data-SWIFT",
+    "sub_category": "Domestic SWIFT Traffic (in Transactions)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2020-Q3",
+    "latest_value": 36,
+    "n": 43,
+    "category": "Payment Data-SWIFT",
+    "sub_category": "No. of Domestic SWIFT users (as at end of the quarter)",
+    "unit": " ",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 274176291,
+    "n": 51,
+    "category": "Payment Data-Tele-banking",
+    "sub_category": "Total Value of Tele-banking financial transactions",
+    "unit": "LKR",
+    "scale": " "
+  },
+  {
+    "min_t": "2010-Q1",
+    "max_t": "2022-Q3",
+    "latest_value": 899,
+    "n": 51,
+    "category": "Payment Data-Tele-banking",
+    "sub_category": "Total Volume of Tele-banking financial transactions",
     "unit": " ",
     "scale": " "
   },
