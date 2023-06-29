@@ -2,8 +2,18 @@
   "source_id": "cbsl",
   "category": "Population Statistics-Mid Year Population",
   "sub_category": "Crude Birth Rate-All Island",
+  "scale": " ",
+  "unit": "Per 1,000 Persons",
   "frequency_name": "Annual",
   "i_subject": 0,
+  "footnotes": {
+    "Sector": "Real Sector",
+    "Source": "Registrar General\u2019s Department",
+    "GeoArea": "National",
+    "Note": "For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.",
+    "Data last updated": "2022-01-18",
+    "Update frequency": "End of August"
+  },
   "summary_statistics": {
     "n": 19,
     "min_t": "2000-01-01",

@@ -2,8 +2,18 @@
   "source_id": "cbsl",
   "category": "Population Statistics-Mid-Year Population by Province",
   "sub_category": "Mid Year Population-North Central",
+  "scale": " ",
+  "unit": "Thousands",
   "frequency_name": "Annual",
   "i_subject": 0,
+  "footnotes": {
+    "Sector": "Real Sector",
+    "Source": "Registrar General's Department",
+    "GeoArea": "Provincial",
+    "Note": "(a) Data from 2001 to 2011 are based on the Census of Population and Housing - 2001 (b) Data from 2012 onwards are based on the Census of Population and Housing - 2012",
+    "Data last updated": "2022-02-23",
+    "Update frequency": "twelve weeks after the relevant year"
+  },
   "summary_statistics": {
     "n": 13,
     "min_t": "2009-01-01",

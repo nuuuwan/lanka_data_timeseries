@@ -2,8 +2,18 @@
   "source_id": "cbsl",
   "category": "Population Statistics-Mid Year Population",
   "sub_category": "Mid Year Population-Female",
+  "scale": " ",
+  "unit": "Thousands",
   "frequency_name": "Annual",
   "i_subject": 0,
+  "footnotes": {
+    "Sector": "Real Sector",
+    "Source": "Registrar General's Department",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-02-23",
+    "Update frequency": ""
+  },
   "summary_statistics": {
     "n": 33,
     "min_t": "1989-01-01",
