@@ -1,7 +1,38 @@
 {
-  "unit": "USD",
+  "source_id": "cbsl",
+  "category": "International Investment Position-Special Drawing Rights",
+  "sub_category": "IIP - Special Drawing Rigths - Liabilities",
   "scale": "Millions",
-  "data": {
+  "unit": "USD",
+  "frequency_name": "Annual",
+  "i_subject": 21,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 607.8,
+    "max_value": 569.57
+  },
+  "cleaned_data": {
+    "2012-01-01": 607.8,
+    "2013-01-01": 609,
+    "2014-01-01": 572.9,
+    "2015-01-01": 548.0,
+    "2016-01-01": 531.63,
+    "2017-01-01": 563.19,
+    "2018-01-01": 550.0,
+    "2019-01-01": 546.85,
+    "2020-01-01": 569.57
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",

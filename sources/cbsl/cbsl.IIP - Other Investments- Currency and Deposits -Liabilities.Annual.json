@@ -1,7 +1,38 @@
 {
-  "unit": "USD",
+  "source_id": "cbsl",
+  "category": "International Investment Position-Other Investments",
+  "sub_category": "IIP - Other Investments- Currency and Deposits -Liabilities",
   "scale": "Millions",
-  "data": {
+  "unit": "USD",
+  "frequency_name": "Annual",
+  "i_subject": 21,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 1778.3,
+    "max_value": 1733.5
+  },
+  "cleaned_data": {
+    "2012-01-01": 1778.3,
+    "2013-01-01": 1886,
+    "2014-01-01": 1593.8,
+    "2015-01-01": 3050.78,
+    "2016-01-01": 2441.57,
+    "2017-01-01": 2213.22,
+    "2018-01-01": 1580.79,
+    "2019-01-01": 1748.27,
+    "2020-01-01": 1733.5
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",

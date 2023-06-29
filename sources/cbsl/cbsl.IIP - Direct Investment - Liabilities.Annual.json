@@ -1,7 +1,38 @@
 {
-  "unit": "USD",
+  "source_id": "cbsl",
+  "category": "International Investment Position-Direct Investment",
+  "sub_category": "IIP - Direct Investment - Liabilities",
   "scale": "Millions",
-  "data": {
+  "unit": "USD",
+  "frequency_name": "Annual",
+  "i_subject": 21,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 8086.7,
+    "max_value": 13831.9
+  },
+  "cleaned_data": {
+    "2012-01-01": 8086.7,
+    "2013-01-01": 8959.5,
+    "2014-01-01": 10571.8,
+    "2015-01-01": 10021.51,
+    "2016-01-01": 9744.58,
+    "2017-01-01": 10754.9,
+    "2018-01-01": 12575.24,
+    "2019-01-01": 13065.41,
+    "2020-01-01": 13831.9
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",
