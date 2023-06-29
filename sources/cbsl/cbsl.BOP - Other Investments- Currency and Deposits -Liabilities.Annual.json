@@ -1,7 +1,38 @@
 {
-  "unit": "USD",
+  "source_id": "cbsl",
+  "category": "Balance of Payments-Financial Account",
+  "sub_category": "BOP - Other Investments- Currency and Deposits -Liabilities",
   "scale": "Millions",
-  "data": {
+  "unit": "USD",
+  "frequency_name": "Annual",
+  "i_subject": 20,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2022-03-07",
+    "Update frequency": "Four months after the end of quarter/year"
+  },
+  "summary_statistics": {
+    "n": 9,
+    "min_t": "2012-01-01",
+    "max_t": "2020-01-01",
+    "min_value": 446.7,
+    "max_value": -14.77
+  },
+  "cleaned_data": {
+    "2012-01-01": 446.7,
+    "2013-01-01": 107.7,
+    "2014-01-01": -292.2,
+    "2015-01-01": 1456.98,
+    "2016-01-01": -609.2,
+    "2017-01-01": -228.36,
+    "2018-01-01": -632.43,
+    "2019-01-01": 167.49,
+    "2020-01-01": -14.77
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",
