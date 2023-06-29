@@ -69,4 +69,3 @@ FREQUENCY_LIST = [
     # ),
     # Frequency('On-Availablity', 'O', {}),
 ]
-
