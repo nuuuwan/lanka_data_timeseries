@@ -3,6 +3,15 @@
   "category": "Co-operative Rural Banks-Loans",
   "sub_category": "Co-operative Rural Banks-Loans Outstanding-Other",
   "frequency_name": "Annual",
+  "i_subject": 27,
+  "footnotes": {
+    "Sector": "Real Sector",
+    "Source": "Co-operative Development Department",
+    "GeoArea": "National",
+    "Note": "",
+    "Data last updated": "2023-01-05",
+    "Update frequency": "End of August"
+  },
   "summary_statistics": {
     "n": 26,
     "min_t": "1996-01-01",
