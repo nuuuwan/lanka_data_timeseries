@@ -38,8 +38,8 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.cbsl/* .
-        echo "* $(date) pipeline (manual)" >> update.log
+        echo "* $(date) pipeline TEST (manual)" >> update.log
         
         git add .
-        git commit -m "Pipeline (Manual) $(date)"
+        git commit -m "Pipeline TEST (Manual) $(date)"
         git push origin data
