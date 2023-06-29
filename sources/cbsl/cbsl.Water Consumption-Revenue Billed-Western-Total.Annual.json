@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Industry and Housing-Water Consumption",
   "sub_category": "Water Consumption-Revenue Billed-Western-Total",
+  "scale": "Mn.",
+  "unit": "Rs.",
   "frequency_name": "Annual",
   "i_subject": 3,
   "footnotes": {

@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Industry and Housing-Electricity Sales",
   "sub_category": "Electricity Sales-Revenue-North Central-Total",
+  "scale": "Mn.",
+  "unit": "Rs.",
   "frequency_name": "Annual",
   "i_subject": 3,
   "footnotes": {

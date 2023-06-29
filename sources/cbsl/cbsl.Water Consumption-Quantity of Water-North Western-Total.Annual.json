@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Industry and Housing-Water Consumption",
   "sub_category": "Water Consumption-Quantity of Water-North Western-Total",
+  "scale": "Mn.",
+  "unit": "m3",
   "frequency_name": "Annual",
   "i_subject": 3,
   "footnotes": {

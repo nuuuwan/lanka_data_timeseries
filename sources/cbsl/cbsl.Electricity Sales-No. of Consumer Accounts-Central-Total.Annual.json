@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Industry and Housing-Electricity Sales",
   "sub_category": "Electricity Sales-No. of Consumer Accounts-Central-Total",
+  "scale": " ",
+  "unit": "Number",
   "frequency_name": "Annual",
   "i_subject": 3,
   "footnotes": {
