@@ -28,10 +28,6 @@ class DataBuilder:
 
         return dir_data
 
-    @property
-    def frequency_name(self) -> str:
-        return self.config.frequency.name
-
     @staticmethod
     def clean_time(t: str) -> str:
         MONTHS = [
@@ -123,9 +119,11 @@ class DataBuilder:
         )
 
     def write(self):
+        frequency_name = self.config.frequency.name
+        i_subject = self.config.i_subject
+
         for category, d_sub in self.d_idx.items():
             for sub_category, d_data in d_sub.items():
-                frequency_name = self.frequency_name
                 raw_data = d_data['data']
                 cleaned_data = DataBuilder.clean_data(raw_data)
                 summary_statistics = DataBuilder.get_summary_statistics(
@@ -137,6 +135,7 @@ class DataBuilder:
                     category=category,
                     sub_category=sub_category,
                     frequency_name=frequency_name,
+                    i_subject=i_subject,
                     summary_statistics=summary_statistics,
                     cleaned_data=cleaned_data,
                     raw_data=raw_data,
