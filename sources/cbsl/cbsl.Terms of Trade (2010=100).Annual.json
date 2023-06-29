@@ -1,7 +1,39 @@
 {
-  "unit": "Index Points (In USD",
+  "source_id": "cbsl",
+  "category": "Imports and Exports-CBSL Trade Indices (In USD terms)",
+  "sub_category": "Terms of Trade (2010=100)",
   "scale": "Units",
-  "data": {
+  "unit": "Index Points (In USD",
+  "frequency_name": "Annual",
+  "i_subject": 18,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "CBSL",
+    "GeoArea": "National",
+    "Note": "2010=100",
+    "Data last updated": "2023-06-28",
+    "Update frequency": ""
+  },
+  "summary_statistics": {
+    "n": 10,
+    "min_t": "2013-01-01",
+    "max_t": "2022-01-01",
+    "min_value": 93.6,
+    "max_value": 86.12
+  },
+  "cleaned_data": {
+    "2013-01-01": 93.6,
+    "2014-01-01": 97.6,
+    "2015-01-01": 100.3,
+    "2016-01-01": 104.3,
+    "2017-01-01": 105.5,
+    "2018-01-01": 105.6,
+    "2019-01-01": 103.9,
+    "2020-01-01": 106.5,
+    "2021-01-01": 97.4,
+    "2022-01-01": 86.12
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",

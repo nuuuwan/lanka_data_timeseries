@@ -1,7 +1,39 @@
 {
-  "unit": "Index Points (In USD",
+  "source_id": "cbsl",
+  "category": "Imports and Exports-CBSL Trade Indices (In USD terms)",
+  "sub_category": "Merchandise Export Value Index (2010=100)",
   "scale": "Units",
-  "data": {
+  "unit": "Index Points (In USD",
+  "frequency_name": "Annual",
+  "i_subject": 18,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "CBSL",
+    "GeoArea": "National",
+    "Note": "2010=100",
+    "Data last updated": "2023-06-28",
+    "Update frequency": ""
+  },
+  "summary_statistics": {
+    "n": 10,
+    "min_t": "2013-01-01",
+    "max_t": "2022-01-01",
+    "min_value": 120.6,
+    "max_value": 152.01
+  },
+  "cleaned_data": {
+    "2013-01-01": 120.6,
+    "2014-01-01": 129.1,
+    "2015-01-01": 122.3,
+    "2016-01-01": 119.6,
+    "2017-01-01": 131.8,
+    "2018-01-01": 137.9,
+    "2019-01-01": 138.5,
+    "2020-01-01": 116.5,
+    "2021-01-01": 145.0,
+    "2022-01-01": 152.01
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",

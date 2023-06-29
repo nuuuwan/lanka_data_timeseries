@@ -1,7 +1,43 @@
 {
-  "unit": "Index Points",
+  "source_id": "cbsl",
+  "category": "Imports and Exports-CBSL Trade Indices (In Rs terms)",
+  "sub_category": "Merchandise Import Unit Value Index (1997=100)",
   "scale": "Units",
-  "data": {
+  "unit": "Index Points",
+  "frequency_name": "Annual",
+  "i_subject": 18,
+  "footnotes": {
+    "Sector": "External Sector",
+    "Source": "Central Bank of Sri Lanka",
+    "GeoArea": "National",
+    "Note": "1997=100",
+    "Data last updated": "2015-12-29",
+    "Update frequency": "Two months after end of the month/quarter/year"
+  },
+  "summary_statistics": {
+    "n": 14,
+    "min_t": "1997-01-01",
+    "max_t": "2010-01-01",
+    "min_value": 100.0,
+    "max_value": 244.9
+  },
+  "cleaned_data": {
+    "1997-01-01": 100.0,
+    "1998-01-01": 101.3,
+    "1999-01-01": 106.4,
+    "2000-01-01": 123.8,
+    "2001-01-01": 139.9,
+    "2002-01-01": 137.7,
+    "2003-01-01": 136.3,
+    "2004-01-01": 157.6,
+    "2005-01-01": 168.6,
+    "2006-01-01": 188.7,
+    "2007-01-01": 213.1,
+    "2008-01-01": 250.1,
+    "2009-01-01": 212.6,
+    "2010-01-01": 244.9
+  },
+  "raw_data": {
     "1964": " ",
     "1965": " ",
     "1966": " ",
