@@ -14,7 +14,7 @@ def main():
         try:
             webpage2 = PageSearchCriteria(config).run()
             webpage3 = PageSelectItems(webpage2).run()
-            webpage3 = PageSearchResult(webpage3).run()
+            webpage3 = PageSearchResult(webpage3, config).run()
             webpage3.close()
 
             log.info(f'✅ {config}: SUCCEEDED.')
