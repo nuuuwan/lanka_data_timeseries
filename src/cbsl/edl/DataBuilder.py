@@ -106,11 +106,20 @@ class DataBuilder:
     @staticmethod
     def get_summary_statistics(d_data: dict) -> dict:
         t_list = list(d_data.keys())
+
         n = len(t_list)
-        min_t = t_list[0]
-        max_t = t_list[-1]
-        min_value = d_data[min_t]
-        max_value = d_data[max_t]
+
+        if n > 0:
+            min_t = t_list[0]
+            max_t = t_list[-1]
+            min_value = d_data[min_t]
+            max_value = d_data[max_t]
+        else:
+            min_t = None
+            max_t = None
+            min_value = None
+            max_value = None
+
         return dict(
             n=n,
             min_t=min_t,
@@ -125,6 +134,7 @@ class DataBuilder:
 
         for category, d_sub in self.d_idx.items():
             for sub_category, d_data in d_sub.items():
+                log.debug(f'Writing {sub_category}...')
                 raw_data = d_data['data']
                 cleaned_data = DataBuilder.clean_data(raw_data)
                 summary_statistics = DataBuilder.get_summary_statistics(
@@ -138,9 +148,9 @@ class DataBuilder:
                     sub_category=sub_category,
                     frequency_name=frequency_name,
                     i_subject=i_subject,
+                    footnotes=footnotes,
                     summary_statistics=summary_statistics,
                     cleaned_data=cleaned_data,
-                    footnotes=footnotes,
                     raw_data=raw_data,
                 )
 

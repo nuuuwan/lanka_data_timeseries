@@ -80,7 +80,8 @@ class PageSearchResult(WebpageWrapper):
             elem_td_list = elem_tr.find_elements(By.TAG_NAME, 'td')
             elem_data_td = elem_td_list[-1]
             td_text = elem_data_td.text
-            style = elem_data_td.get_attribute("style")
+            elem_span = elem_data_td.find_element(By.TAG_NAME, 'span')
+            style = elem_span.get_attribute("style")
             if 'bold' in style:
                 sub_category = td_text.partition(')')[-1].strip()
                 d_footnote_idx[sub_category] = {}
@@ -102,6 +103,7 @@ class PageSearchResult(WebpageWrapper):
 
         for category, d_sub in d_idx.items():
             for sub_category, d_data in d_sub.items():
+                log.debug(f'Writing {category}.{sub_category}...')
                 file_name = os.path.join(
                     dir_latest, f'{category}.{sub_category}.json'
                 )
