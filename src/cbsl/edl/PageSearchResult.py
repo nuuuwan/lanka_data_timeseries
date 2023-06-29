@@ -4,6 +4,8 @@ import tempfile
 from selenium.webdriver.common.by import By
 from utils import JSONFile, Log
 
+from cbsl.edl.Config import Config
+from cbsl.edl.DataBuilder import DataBuilder
 from utils_future import WebpageWrapper
 
 log = Log(__name__)
@@ -18,6 +20,10 @@ def clean_str(x):
 
 
 class PageSearchResult(WebpageWrapper):
+    def __init__(self, webpage, config: Config):
+        super().__init__(webpage)
+        self.config = config
+
     @staticmethod
     def parse_tds(elem_td_list, d_idx, category, time_list):
         cells = [elem_td.text for elem_td in elem_td_list]
@@ -79,10 +85,14 @@ class PageSearchResult(WebpageWrapper):
 
         d_idx = PageSearchResult.parse_table(elem_tr_list)
         PageSearchResult.write(d_idx)
+        DataBuilder(d_idx, self.config).write()
 
     def run(self):
         log.info('STEP 3️⃣) Running PageSearchResult.')
+
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
+
         self.extract_table()
+
         return self
