@@ -113,23 +113,9 @@ def build_data():
         JSONFile(file_path).write(d)
         log.debug(f'{i}/{n_indicators}) Wrote {file_path} ({n} values)')
 
-        summary_d = dict(
-            source_id=SOURCE_ID,
-            category=DEFAULT_CATEGORY,
-            sub_category=metadata['label'],
-            scale=DEFAULT_SCALE,
-            unit=metadata['unit'],
-            frequency_name=DEFAULT_FREQUENCY_NAME,
-            i_subject=DEFAULT_I_SUBJECT,
-            footnotes=dict(
-                indicator_key=indicator_key,
-                description=metadata['description'],
-                source=metadata['source'],
-                dataset=metadata['dataset'],
-                url=url_lka(indicator_key),
-            ),
-            summary_statistics=summary_statistics,
-        )
+        summary_d = d
+        del summary_d['cleaned_data']
+        del summary_d['raw_data']
         summary_d_list.append(summary_d)
 
     file_path = os.path.join(
