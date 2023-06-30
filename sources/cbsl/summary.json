@@ -38183,6 +38183,31 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Tourism-Tourist Arrivals",
+    "sub_category": "Total Tourist Arrivals",
+    "scale": "Numbers",
+    "unit": "Number",
+    "frequency_name": "Quarterly",
+    "i_subject": 19,
+    "footnotes": {
+      "Sector": "External Sector",
+      "Source": "Sri Lanka Tourism Development Authority",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-06-06",
+      "Update frequency": "Two months after end of the month/quarter/year"
+    },
+    "summary_statistics": {
+      "n": 203,
+      "min_t": "1972-03-01",
+      "max_t": "2022-09-01",
+      "min_value": 17174,
+      "max_value": 114855.0
+    },
+    "latest_value": 114855.0
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Cheques",
     "sub_category": "Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS)",
     "scale": " ",
