@@ -6887,6 +6887,106 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Electricity-Electricity",
+    "sub_category": "Electricity - Installed capacity",
+    "scale": "Mega Watt",
+    "unit": "Mega Watt",
+    "frequency_name": "Monthly",
+    "i_subject": 12,
+    "footnotes": {
+      "Sector": "Real Sector",
+      "Source": "Ceylon Electricity Board",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-23",
+      "Update frequency": "Three months after the end of the quarter"
+    },
+    "summary_statistics": {
+      "n": 145,
+      "min_t": "2011-01-01",
+      "max_t": "2023-02-01",
+      "min_value": 3119,
+      "max_value": 4084
+    },
+    "latest_value": 4084
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Electricity-Electricity",
+    "sub_category": "Electricity - Per capita electricity consumption",
+    "scale": "Giga Watt hours",
+    "unit": "Giga Watt hours",
+    "frequency_name": "Monthly",
+    "i_subject": 12,
+    "footnotes": {
+      "Sector": "Real Sector",
+      "Source": "Ceylon Electricity Board",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-23",
+      "Update frequency": "Four months after the end of the year"
+    },
+    "summary_statistics": {
+      "n": 300,
+      "min_t": "1998-01-01",
+      "max_t": "2022-12-01",
+      "min_value": 19,
+      "max_value": 51.19
+    },
+    "latest_value": 51.19
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Electricity-Electricity",
+    "sub_category": "Electricity - Power consumption",
+    "scale": "Giga Watt hours",
+    "unit": "Giga Watt hours",
+    "frequency_name": "Monthly",
+    "i_subject": 12,
+    "footnotes": {
+      "Sector": "Real Sector",
+      "Source": "Ceylon Electricity Board",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-23",
+      "Update frequency": "Three months after the end of the quarter"
+    },
+    "summary_statistics": {
+      "n": 301,
+      "min_t": "1998-01-01",
+      "max_t": "2023-01-01",
+      "min_value": 360,
+      "max_value": 1127
+    },
+    "latest_value": 1127
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Electricity-Electricity",
+    "sub_category": "Electricity - Power generation",
+    "scale": "Giga Watt hours",
+    "unit": "Giga Watt hours",
+    "frequency_name": "Monthly",
+    "i_subject": 12,
+    "footnotes": {
+      "Sector": "Real Sector",
+      "Source": "Ceylon Electricity Board",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-23",
+      "Update frequency": "Three months after the end of the quarter"
+    },
+    "summary_statistics": {
+      "n": 299,
+      "min_t": "1998-01-01",
+      "max_t": "2022-12-01",
+      "min_value": 464,
+      "max_value": 1235
+    },
+    "latest_value": 1235
+  },
+  {
+    "source_id": "cbsl",
     "category": "Industry and Housing-Electricity Sales",
     "sub_category": "Electricity Sales-No. of Consumer Accounts-Central-Total",
     "scale": " ",
