@@ -25,7 +25,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "GDP, current prices",
+    "sub_category": "GDP current prices",
     "scale": "",
     "unit": "Billions of U.S. dollars",
     "frequency_name": "Annual",
@@ -48,7 +48,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "GDP per capita, current prices\n",
+    "sub_category": "GDP per capita current prices",
     "scale": "",
     "unit": "U.S. dollars per capita",
     "frequency_name": "Annual",
@@ -71,7 +71,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "GDP, current prices",
+    "sub_category": "GDP current prices",
     "scale": "",
     "unit": "Purchasing power parity; billions of international dollars",
     "frequency_name": "Annual",
@@ -94,7 +94,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "GDP per capita, current prices",
+    "sub_category": "GDP per capita current prices",
     "scale": "",
     "unit": "Purchasing power parity; international dollars per capita",
     "frequency_name": "Annual",
@@ -117,7 +117,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "GDP based on PPP, share of world",
+    "sub_category": "GDP based on PPP share of world",
     "scale": "",
     "unit": "Percent of World",
     "frequency_name": "Annual",
@@ -163,7 +163,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Inflation rate, average consumer prices",
+    "sub_category": "Inflation rate average consumer prices",
     "scale": "",
     "unit": "Annual percent change",
     "frequency_name": "Annual",
@@ -186,7 +186,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Inflation rate, end of period consumer prices",
+    "sub_category": "Inflation rate end of period consumer prices",
     "scale": "",
     "unit": "Annual percent change",
     "frequency_name": "Annual",
@@ -232,7 +232,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Current account balance\nU.S. dollars",
+    "sub_category": "Current account balance U.S. dollars",
     "scale": "",
     "unit": "Billions of U.S. dollars",
     "frequency_name": "Annual",
@@ -255,7 +255,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Current account balance, percent of GDP",
+    "sub_category": "Current account balance percent of GDP",
     "scale": "",
     "unit": "Percent of GDP",
     "frequency_name": "Annual",
@@ -301,7 +301,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "General government net lending/borrowing",
+    "sub_category": "General government net lending or borrowing",
     "scale": "",
     "unit": "Percent of GDP",
     "frequency_name": "Annual",
@@ -347,7 +347,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Government revenue, percent of GDP",
+    "sub_category": "Government revenue percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -370,7 +370,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Government expenditure, percent of GDP",
+    "sub_category": "Government expenditure percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -393,7 +393,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Government primary expenditure, percent of GDP",
+    "sub_category": "Government primary expenditure percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -416,7 +416,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Interest paid on public debt, percent of GDP",
+    "sub_category": "Interest paid on public debt percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -439,7 +439,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Government primary balance, percent of GDP",
+    "sub_category": "Government primary balance percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -462,7 +462,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Gross public debt, percent of GDP",
+    "sub_category": "Gross public debt percent of GDP",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -485,7 +485,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Real GDP growth rate, percent",
+    "sub_category": "Real GDP growth rate percent",
     "scale": "",
     "unit": null,
     "frequency_name": "Annual",
@@ -508,7 +508,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Real long term government bond yield, percent",
+    "sub_category": "Real long term government bond yield percent",
     "scale": "",
     "unit": null,
     "frequency_name": "Annual",
@@ -646,7 +646,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Crude materials, inedible, except fuels",
+    "sub_category": "Crude materials inedible except fuels",
     "scale": "",
     "unit": "Index",
     "frequency_name": "Annual",
@@ -669,7 +669,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Mineral fuels, lubricants and related materials",
+    "sub_category": "Mineral fuels lubricants and related materials",
     "scale": "",
     "unit": "Index",
     "frequency_name": "Annual",
@@ -922,7 +922,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Private Inflows excluding Direct Investment (% of GDP)",
+    "sub_category": "Private Inflows excluding Direct Investment (Pct. of GDP)",
     "scale": "",
     "unit": "Percent",
     "frequency_name": "Annual",
@@ -968,7 +968,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Private Outflows excluding Direct Investment (% of GDP)",
+    "sub_category": "Private Outflows excluding Direct Investment (Pct. of GDP)",
     "scale": "",
     "unit": "Percent",
     "frequency_name": "Annual",
@@ -1290,7 +1290,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Openness of Capital Inflows Index  (1=fully liberalized)",
+    "sub_category": "Openness of Capital Inflows Index (1=fully liberalized)",
     "scale": "",
     "unit": "Units",
     "frequency_name": "Annual",
@@ -1313,7 +1313,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Openness of Capital Outflows Index   (1=fully liberalized)",
+    "sub_category": "Openness of Capital Outflows Index (1=fully liberalized)",
     "scale": "",
     "unit": "Units",
     "frequency_name": "Annual",
@@ -1336,7 +1336,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Financial Market Openness Index (equity, bond, money market, collective investment, derivates) 1=fully liberalized",
+    "sub_category": "Financial Market Openness Index (equity bond money market collective investment derivates) 1=fully liberalized",
     "scale": "",
     "unit": "Units",
     "frequency_name": "Annual",
@@ -1681,7 +1681,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Ratio of reserve/ARA metric ",
+    "sub_category": "Ratio of reserve or ARA metric",
     "scale": "",
     "unit": "Unit",
     "frequency_name": "Annual",
@@ -1704,7 +1704,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Reserves/Broad Money",
+    "sub_category": "Reserves or Broad Money",
     "scale": "",
     "unit": "Unit",
     "frequency_name": "Annual",
@@ -1727,7 +1727,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Reserve/(Import/12) ",
+    "sub_category": "Reserve or (Import or 12)",
     "scale": "",
     "unit": "Unit",
     "frequency_name": "Annual",
@@ -1842,7 +1842,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Private debt, loans and debt securities",
+    "sub_category": "Private debt loans and debt securities",
     "scale": "",
     "unit": "Percent of GDP",
     "frequency_name": "Annual",
@@ -1865,7 +1865,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Household debt, loans and debt securities",
+    "sub_category": "Household debt loans and debt securities",
     "scale": "",
     "unit": "Percent of GDP",
     "frequency_name": "Annual",
@@ -1888,7 +1888,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Nonfinancial corporate debt, loans and debt securities",
+    "sub_category": "Nonfinancial corporate debt loans and debt securities",
     "scale": "",
     "unit": "Percent of GDP",
     "frequency_name": "Annual",
@@ -1934,7 +1934,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Net lending/borrowing (also referred as overall balance)",
+    "sub_category": "Net lending or borrowing (also referred as overall balance)",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
@@ -1957,7 +1957,7 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
-    "sub_category": "Primary net lending/borrowing (also referred as primary balance)",
+    "sub_category": "Primary net lending or borrowing (also referred as primary balance)",
     "scale": "",
     "unit": "% of GDP",
     "frequency_name": "Annual",
