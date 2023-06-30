@@ -68,11 +68,6 @@ def parse_number(x):
 
 
 def build_data():
-    dir_output = os.path.join(DIR_TMP_DATA, 'other_sources', 'world_bank')
-    if not os.path.exists(dir_output):
-        os.makedirs(dir_output)
-        log.debug(f'Created {dir_output}')
-
     dir_output_new = os.path.join(DIR_TMP_DATA, 'sources', 'world_bank')
     if not os.path.exists(dir_output_new):
         os.makedirs(dir_output_new)
