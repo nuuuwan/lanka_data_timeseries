@@ -95,7 +95,9 @@ class PageSearchResult(WebpageWrapper):
 
     @staticmethod
     def write(d_idx):
-        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'latest')
+        dir_latest = os.path.join(
+            tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'latest'
+        )
 
         if not os.path.exists(dir_latest):
             os.makedirs(dir_latest)

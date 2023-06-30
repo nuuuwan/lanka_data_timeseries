@@ -5,7 +5,9 @@ from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl.EDLData import EDLData
 
-DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries')
+DIR_TMP_DATA = os.path.join(
+    tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
+)
 log = Log(__name__)
 
 

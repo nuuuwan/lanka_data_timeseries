@@ -1,7 +1,7 @@
 from utils import Log
 
-from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria, PageSearchResult,
-                      PageSelectItems)
+from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria,
+                                        PageSearchResult, PageSelectItems)
 
 log = Log(__name__)
 MAX_CONFIGS = 5

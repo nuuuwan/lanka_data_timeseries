@@ -20,7 +20,10 @@ class DataBuilder:
     @property
     def dir_data(self) -> str:
         dir_data = os.path.join(
-            tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'sources', 'cbsl'
+            tempfile.gettempdir(),
+            'tmp.lanka_data_timeseries',
+            'sources',
+            'cbsl',
         )
 
         if not os.path.exists(dir_data):
