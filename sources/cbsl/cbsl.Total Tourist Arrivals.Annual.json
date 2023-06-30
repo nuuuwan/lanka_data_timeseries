@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Tourism-Tourist Arrivals",
   "sub_category": "Total Tourist Arrivals",
+  "scale": "Numbers",
+  "unit": "Number",
   "frequency_name": "Annual",
   "i_subject": 19,
   "footnotes": {
