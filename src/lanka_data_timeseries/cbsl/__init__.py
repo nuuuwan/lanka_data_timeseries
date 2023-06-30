@@ -2,7 +2,6 @@ from lanka_data_timeseries.cbsl.BuildSuccessSummary import BuildSuccessSummary
 from lanka_data_timeseries.cbsl.BuildSummary import BuildSummary
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.cbsl.DataBuilder import DataBuilder
-from lanka_data_timeseries.cbsl.EDLSummary import EDLSummary
 from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
 from lanka_data_timeseries.cbsl.PageSearchCriteria import PageSearchCriteria
 from lanka_data_timeseries.cbsl.PageSearchResult import PageSearchResult
