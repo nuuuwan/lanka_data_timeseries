@@ -1,0 +1,55 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Overall Openness Index (all asset categories)",
+  "scale": "",
+  "unit": "Units",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "ka_new",
+    "description": "Overall Openness Index is the unweighted average of the openness of twelve types of  asset categories: equity, bond, money market, collective investment, derivates and other instruments, commercial credit, financial credit, direct investment, direct investment liquidation, guarantees, real estate and personal capital transaction. Range between 0 to 1 (1 indicates fully liberalized).",
+    "source": "Wang-Jahan Index",
+    "dataset": "CL",
+    "url": "https://www.imf.org/external/datamapper/api/v1/ka_new/LKA"
+  },
+  "summary_statistics": {
+    "n": 14,
+    "min_t": "2000",
+    "max_t": "2013",
+    "min_value": 0.02,
+    "max_value": 0.02
+  },
+  "cleaned_data": {
+    "2000": 0.02,
+    "2001": 0.02,
+    "2002": 0.02,
+    "2003": 0.02,
+    "2004": 0.02,
+    "2005": 0.02,
+    "2006": 0.02,
+    "2007": 0.02,
+    "2008": 0.02,
+    "2009": 0.02,
+    "2010": 0.02,
+    "2011": 0.02,
+    "2012": 0.02,
+    "2013": 0.02
+  },
+  "raw_data": {
+    "2000": 0.02,
+    "2001": 0.02,
+    "2002": 0.02,
+    "2003": 0.02,
+    "2004": 0.02,
+    "2005": 0.02,
+    "2006": 0.02,
+    "2007": 0.02,
+    "2008": 0.02,
+    "2009": 0.02,
+    "2010": 0.02,
+    "2011": 0.02,
+    "2012": 0.02,
+    "2013": 0.02
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Nonresident Openness Index (1=fully liberalized)",
+  "scale": "",
+  "unit": "Units",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "Nonres_ka",
+    "description": "Nonresident Openness captures the ability of nonresidents to purchase locally (inflow) and sale or issue locally (outflow) across five asset categories: equity, bonds, money market instruments, collective investment, and derivatives and other instruments transaction.   Range between 0 to 1 (1 indicates fully liberalized).",
+    "source": "Wang-Jahan Index",
+    "dataset": "CL",
+    "url": "https://www.imf.org/external/datamapper/api/v1/Nonres_ka/LKA"
+  },
+  "summary_statistics": {
+    "n": 14,
+    "min_t": "2000",
+    "max_t": "2013",
+    "min_value": 0.1,
+    "max_value": 0.1
+  },
+  "cleaned_data": {
+    "2000": 0.1,
+    "2001": 0.1,
+    "2002": 0.1,
+    "2003": 0.1,
+    "2004": 0.1,
+    "2005": 0.1,
+    "2006": 0.1,
+    "2007": 0.1,
+    "2008": 0.1,
+    "2009": 0.1,
+    "2010": 0.1,
+    "2011": 0.1,
+    "2012": 0.1,
+    "2013": 0.1
+  },
+  "raw_data": {
+    "2000": 0.1,
+    "2001": 0.1,
+    "2002": 0.1,
+    "2003": 0.1,
+    "2004": 0.1,
+    "2005": 0.1,
+    "2006": 0.1,
+    "2007": 0.1,
+    "2008": 0.1,
+    "2009": 0.1,
+    "2010": 0.1,
+    "2011": 0.1,
+    "2012": 0.1,
+    "2013": 0.1
+  }
+}

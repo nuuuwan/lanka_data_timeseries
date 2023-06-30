@@ -1,0 +1,49 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Real long term government bond yield percent",
+  "scale": "",
+  "unit": null,
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "rltir",
+    "description": "Real long term government bond yield, percent",
+    "source": "Public Finances in Modern History Database (Dec 2022)",
+    "dataset": "FPP",
+    "url": "https://www.imf.org/external/datamapper/api/v1/rltir/LKA"
+  },
+  "summary_statistics": {
+    "n": 11,
+    "min_t": "2009",
+    "max_t": "2019",
+    "min_value": 8.7250367789775,
+    "max_value": 6.9353564585181
+  },
+  "cleaned_data": {
+    "2009": 8.7250367789775,
+    "2010": 2.9123511036574,
+    "2011": 1.8332316,
+    "2012": 4.5404162473755,
+    "2013": 4.0598796392896,
+    "2014": 5.6109976876903,
+    "2015": 5.1366321738597,
+    "2016": 8.0994415484999,
+    "2017": 3.4462823271031,
+    "2018": 8.407462248801,
+    "2019": 6.9353564585181
+  },
+  "raw_data": {
+    "2009": 8.7250367789775,
+    "2010": 2.9123511036574,
+    "2011": 1.8332316,
+    "2012": 4.5404162473755,
+    "2013": 4.0598796392896,
+    "2014": 5.6109976876903,
+    "2015": 5.1366321738597,
+    "2016": 8.0994415484999,
+    "2017": 3.4462823271031,
+    "2018": 8.407462248801,
+    "2019": 6.9353564585181
+  }
+}

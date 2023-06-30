@@ -1,0 +1,55 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Equity openness index (1=fully liberalized)",
+  "scale": "",
+  "unit": "Units",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "Ka_eq",
+    "description": "Equity openness index captures the ability to conduct transactions involving shares and other securities of a participating nature, excluding those investments for the purpose of acquiring a lasting economic interest which are addressed as a foreign direct investment. It has four sub-components: Purchase locally by nonresidents (equity) | Sale or issue locally by nonresidents (equity) | Purchase abroad by residents (equity) | Sale or issue abroad by residents (equity). (1=fully liberalized)",
+    "source": "Wang-Jahan Index",
+    "dataset": "CL",
+    "url": "https://www.imf.org/external/datamapper/api/v1/Ka_eq/LKA"
+  },
+  "summary_statistics": {
+    "n": 14,
+    "min_t": "2000",
+    "max_t": "2013",
+    "min_value": 0.25,
+    "max_value": 0.25
+  },
+  "cleaned_data": {
+    "2000": 0.25,
+    "2001": 0.25,
+    "2002": 0.25,
+    "2003": 0.25,
+    "2004": 0.25,
+    "2005": 0.25,
+    "2006": 0.25,
+    "2007": 0.25,
+    "2008": 0.25,
+    "2009": 0.25,
+    "2010": 0.25,
+    "2011": 0.25,
+    "2012": 0.25,
+    "2013": 0.25
+  },
+  "raw_data": {
+    "2000": 0.25,
+    "2001": 0.25,
+    "2002": 0.25,
+    "2003": 0.25,
+    "2004": 0.25,
+    "2005": 0.25,
+    "2006": 0.25,
+    "2007": 0.25,
+    "2008": 0.25,
+    "2009": 0.25,
+    "2010": 0.25,
+    "2011": 0.25,
+    "2012": 0.25,
+    "2013": 0.25
+  }
+}

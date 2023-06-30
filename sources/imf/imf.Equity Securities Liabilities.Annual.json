@@ -1,0 +1,59 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Equity Securities Liabilities",
+  "scale": "",
+  "unit": "Millions of US Dollars",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "EquityL",
+    "description": null,
+    "source": "Capital Flows in Developing Economies",
+    "dataset": "CF",
+    "url": "https://www.imf.org/external/datamapper/api/v1/EquityL/LKA"
+  },
+  "summary_statistics": {
+    "n": 16,
+    "min_t": "1997",
+    "max_t": "2014",
+    "min_value": 0,
+    "max_value": 184.19
+  },
+  "cleaned_data": {
+    "1997": 0,
+    "1998": 0,
+    "2001": -34.69,
+    "2002": -52.63,
+    "2003": -143.2,
+    "2004": -100.35,
+    "2005": -215.5,
+    "2006": -304,
+    "2007": -322.01,
+    "2008": -487.9,
+    "2009": -381.5,
+    "2010": -1048.53,
+    "2011": -171.41,
+    "2012": 272.35,
+    "2013": 225.68,
+    "2014": 184.19
+  },
+  "raw_data": {
+    "1997": 0,
+    "1998": 0,
+    "2001": -34.69,
+    "2002": -52.63,
+    "2003": -143.2,
+    "2004": -100.35,
+    "2005": -215.5,
+    "2006": -304,
+    "2007": -322.01,
+    "2008": -487.9,
+    "2009": -381.5,
+    "2010": -1048.53,
+    "2011": -171.41,
+    "2012": 272.35,
+    "2013": 225.68,
+    "2014": 184.19
+  }
+}

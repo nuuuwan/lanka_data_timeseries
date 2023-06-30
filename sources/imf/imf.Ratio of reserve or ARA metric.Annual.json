@@ -1,0 +1,51 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Ratio of reserve or ARA metric",
+  "scale": "",
+  "unit": "Unit",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "Reserves_ARA",
+    "description": "\uf0d8 Ratio of reserves/ARA metric \u2013 a ratio between 1 and 1.5 is consider adequate",
+    "source": "Assessing Reserve Adequacy - ARA",
+    "dataset": "ARA",
+    "url": "https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/LKA"
+  },
+  "summary_statistics": {
+    "n": 12,
+    "min_t": "2011",
+    "max_t": "2022",
+    "min_value": 1.0070901382489,
+    "max_value": 0.18357213180366
+  },
+  "cleaned_data": {
+    "2011": 1.0070901382489,
+    "2012": 0.95285904078127,
+    "2013": 0.62949174504289,
+    "2014": 0.62775772364849,
+    "2015": 0.53677326502142,
+    "2016": 0.41939787548992,
+    "2017": 0.4975280322037,
+    "2018": 0.44098552515559,
+    "2019": 0.4609927392425,
+    "2020": 0.51463584139964,
+    "2021": 0.27943803078703,
+    "2022": 0.18357213180366
+  },
+  "raw_data": {
+    "2011": 1.0070901382489,
+    "2012": 0.95285904078127,
+    "2013": 0.62949174504289,
+    "2014": 0.62775772364849,
+    "2015": 0.53677326502142,
+    "2016": 0.41939787548992,
+    "2017": 0.4975280322037,
+    "2018": 0.44098552515559,
+    "2019": 0.4609927392425,
+    "2020": 0.51463584139964,
+    "2021": 0.27943803078703,
+    "2022": 0.18357213180366
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Derivative investment openness index (1=fully liberalized)",
+  "scale": "",
+  "unit": "Units",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "Ka_dr",
+    "description": "Derivative investment openness index captures the ability to conduct operations in rights, warrants, financial options and futures, secondary market operations in other financial claims (including sovereign loans, receivables, and discounted bills of trade), forward operations, swaps of bonds and other debt securities, and operations in foreign exchange without any other underlying transaction (spot or forward trading on the foreign exchange markets, forward cover operations). It has four sub-components: Purchase locally by nonresidents (derivative investment) | Sale or issue locally by nonresidents (derivative investment) | Purchase abroad by residents (derivative investment) | Sale or issue abroad by residents (derivative investment). (1=fully liberalized)",
+    "source": "Wang-Jahan Index",
+    "dataset": "CL",
+    "url": "https://www.imf.org/external/datamapper/api/v1/Ka_dr/LKA"
+  },
+  "summary_statistics": {
+    "n": 14,
+    "min_t": "2000",
+    "max_t": "2013",
+    "min_value": 0,
+    "max_value": 0
+  },
+  "cleaned_data": {
+    "2000": 0,
+    "2001": 0,
+    "2002": 0,
+    "2003": 0,
+    "2004": 0,
+    "2005": 0,
+    "2006": 0,
+    "2007": 0,
+    "2008": 0,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0
+  },
+  "raw_data": {
+    "2000": 0,
+    "2001": 0,
+    "2002": 0,
+    "2003": 0,
+    "2004": 0,
+    "2005": 0,
+    "2006": 0,
+    "2007": 0,
+    "2008": 0,
+    "2009": 0,
+    "2010": 0,
+    "2011": 0,
+    "2012": 0,
+    "2013": 0
+  }
+}
