@@ -1755,7 +1755,7 @@
     "latest_value": 76.93,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -1765,7 +1765,7 @@
     "latest_value": 90.72,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, richest 60Pct. (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, richest 60Pct. (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -3515,7 +3515,7 @@
     "latest_value": -11.5985785843952,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Net lending (+)  or  net borrowing (-) (Pct. of GDP)",
+    "sub_category": "Net lending (_)  or  net borrowing (-) (Pct. of GDP)",
     "unit": "",
     "scale": ""
   },
@@ -3555,7 +3555,7 @@
     "latest_value": 89.26,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, male (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, male (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -4815,7 +4815,7 @@
     "latest_value": -2051307698822.02,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Net lending (+)  or  net borrowing (-) (current LCU)",
+    "sub_category": "Net lending (_)  or  net borrowing (-) (current LCU)",
     "unit": "",
     "scale": ""
   },
@@ -4845,7 +4845,7 @@
     "latest_value": 92.98,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -4855,7 +4855,7 @@
     "latest_value": 89.28,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, female (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, female (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -5505,7 +5505,7 @@
     "latest_value": 89.27,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -5515,7 +5515,7 @@
     "latest_value": 90.05,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, older adults (Pct. of population ages 25+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, older adults (Pct. of population ages 25_)",
     "unit": "",
     "scale": ""
   },
@@ -5525,7 +5525,7 @@
     "latest_value": 87.08,
     "n": 4,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, poorest 40Pct. (Pct. of population ages 15+)",
+    "sub_category": "Account ownership at a financial institution or with a mobile-money-service provider, poorest 40Pct. (Pct. of population ages 15_)",
     "unit": "",
     "scale": ""
   },
@@ -5875,7 +5875,7 @@
     "latest_value": 70.699,
     "n": 33,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, male (Pct. of male population ages 15+) (modeled ILO estimate)",
+    "sub_category": "Labor force participation rate, male (Pct. of male population ages 15_) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -5885,7 +5885,7 @@
     "latest_value": 33.094,
     "n": 33,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, female (Pct. of female population ages 15+) (modeled ILO estimate)",
+    "sub_category": "Labor force participation rate, female (Pct. of female population ages 15_) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -6035,7 +6035,7 @@
     "latest_value": 47.49,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, total (Pct.) (modeled ILO estimate)",
+    "sub_category": "Employment to population ratio, 15_, total (Pct.) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -6045,7 +6045,7 @@
     "latest_value": 29.828,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, female (Pct.) (modeled ILO estimate)",
+    "sub_category": "Employment to population ratio, 15_, female (Pct.) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -6745,7 +6745,7 @@
     "latest_value": 5.31642007827759,
     "n": 10,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -6755,7 +6755,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, Doctoral or equivalent, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, Doctoral or equivalent, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -6765,7 +6765,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -6865,7 +6865,7 @@
     "latest_value": 29.6438293457031,
     "n": 3,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed post-secondary, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed post-secondary, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -6875,7 +6875,7 @@
     "latest_value": 84.235221862793,
     "n": 9,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed lower secondary, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed lower secondary, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -7855,7 +7855,7 @@
     "latest_value": 50.49,
     "n": 36,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, total (Pct. of total population ages 15+) (national estimate)",
+    "sub_category": "Labor force participation rate, total (Pct. of total population ages 15_) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -8025,7 +8025,7 @@
     "latest_value": 68.98,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, male (Pct.) (national estimate)",
+    "sub_category": "Employment to population ratio, 15_, male (Pct.) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -9495,7 +9495,7 @@
     "latest_value": 29.2,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Women's share of population ages 15+ living with HIV (Pct.)",
+    "sub_category": "Women's share of population ages 15_ living with HIV (Pct.)",
     "unit": "",
     "scale": ""
   },
@@ -9545,7 +9545,7 @@
     "latest_value": 6.78,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",
+    "sub_category": "Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15_ years of age)",
     "unit": "",
     "scale": ""
   },
@@ -9635,7 +9635,7 @@
     "latest_value": 0.717149972915649,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Master's or equivalent, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Master's or equivalent, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9645,7 +9645,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, Doctoral or equivalent, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, Doctoral or equivalent, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9655,7 +9655,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9745,7 +9745,7 @@
     "latest_value": 64.8265609741211,
     "n": 7,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed upper secondary, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed upper secondary, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9755,7 +9755,7 @@
     "latest_value": 29.0186595916748,
     "n": 3,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed post-secondary, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed post-secondary, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9765,7 +9765,7 @@
     "latest_value": 83.9634704589844,
     "n": 9,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed lower secondary, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed lower secondary, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -9885,7 +9885,7 @@
     "latest_value": 85.888298034668,
     "n": 2,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed primary, population 25+ years, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed primary, population 25_ years, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -11205,7 +11205,7 @@
     "latest_value": 50.904,
     "n": 33,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, total (Pct. of total population ages 15+) (modeled ILO estimate)",
+    "sub_category": "Labor force participation rate, total (Pct. of total population ages 15_) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -11375,7 +11375,7 @@
     "latest_value": 67.122,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, male (Pct.) (modeled ILO estimate)",
+    "sub_category": "Employment to population ratio, 15_, male (Pct.) (modeled ILO estimate)",
     "unit": "",
     "scale": ""
   },
@@ -11785,7 +11785,7 @@
     "latest_value": 200,
     "n": 32,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Adults (ages 15+) and children (ages 0-14) newly infected with HIV",
+    "sub_category": "Adults (ages 15_) and children (ages 0-14) newly infected with HIV",
     "unit": "",
     "scale": ""
   },
@@ -11895,7 +11895,7 @@
     "latest_value": 1.7,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",
+    "sub_category": "Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15_ years of age)",
     "unit": "",
     "scale": ""
   },
@@ -11975,7 +11975,7 @@
     "latest_value": 4.24494981765747,
     "n": 10,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -11985,7 +11985,7 @@
     "latest_value": 0.658209979534149,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Master's or equivalent, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Master's or equivalent, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -11995,7 +11995,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Bachelor's or equivalent, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12095,7 +12095,7 @@
     "latest_value": 66.2525787353516,
     "n": 7,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed upper secondary, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed upper secondary, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12105,7 +12105,7 @@
     "latest_value": 84.089599609375,
     "n": 9,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed lower secondary, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed lower secondary, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12235,7 +12235,7 @@
     "latest_value": 83.4497985839844,
     "n": 2,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed primary, population 25+ years, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed primary, population 25_ years, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12565,7 +12565,7 @@
     "latest_value": 4.1,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
+    "sub_category": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15_ years of age)",
     "unit": "",
     "scale": ""
   },
@@ -12645,7 +12645,7 @@
     "latest_value": 4.81907987594604,
     "n": 10,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25+, total (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed short-cycle tertiary, population 25_, total (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12655,7 +12655,7 @@
     "latest_value": 0.785179972648621,
     "n": 5,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least Master's or equivalent, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least Master's or equivalent, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12665,7 +12665,7 @@
     "latest_value": null,
     "n": 0,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, Doctoral or equivalent, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, Doctoral or equivalent, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12765,7 +12765,7 @@
     "latest_value": 63.1803817749023,
     "n": 7,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed upper secondary, population 25+, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed upper secondary, population 25_, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12775,7 +12775,7 @@
     "latest_value": 30.1827201843262,
     "n": 3,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed post-secondary, population 25+, female (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed post-secondary, population 25_, female (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -12905,7 +12905,7 @@
     "latest_value": 88.4369201660156,
     "n": 2,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Educational attainment, at least completed primary, population 25+ years, male (Pct.) (cumulative)",
+    "sub_category": "Educational attainment, at least completed primary, population 25_ years, male (Pct.) (cumulative)",
     "unit": "",
     "scale": ""
   },
@@ -13375,7 +13375,7 @@
     "latest_value": 71.8,
     "n": 36,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, male (Pct. of male population ages 15+) (national estimate)",
+    "sub_category": "Labor force participation rate, male (Pct. of male population ages 15_) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -13385,7 +13385,7 @@
     "latest_value": 31.96,
     "n": 36,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Labor force participation rate, female (Pct. of female population ages 15+) (national estimate)",
+    "sub_category": "Labor force participation rate, female (Pct. of female population ages 15_) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -13535,7 +13535,7 @@
     "latest_value": 47.79,
     "n": 24,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, total (Pct.) (national estimate)",
+    "sub_category": "Employment to population ratio, 15_, total (Pct.) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -13545,7 +13545,7 @@
     "latest_value": 29.34,
     "n": 23,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Employment to population ratio, 15+, female (Pct.) (national estimate)",
+    "sub_category": "Employment to population ratio, 15_, female (Pct.) (national estimate)",
     "unit": "",
     "scale": ""
   },
@@ -14435,7 +14435,7 @@
     "latest_value": 628268000,
     "n": 52,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Commercial banks and other lending (PPG + PNG) (NFL, current US$)",
+    "sub_category": "Commercial banks and other lending (PPG _ PNG) (NFL, current US$)",
     "unit": "",
     "scale": ""
   },
@@ -14475,7 +14475,7 @@
     "latest_value": -1000000000,
     "n": 20,
     "category": "World Bank - Sri Lanka Data",
-    "sub_category": "Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",
+    "sub_category": "Portfolio investment, bonds (PPG _ PNG) (NFL, current US$)",
     "unit": "",
     "scale": ""
   },
