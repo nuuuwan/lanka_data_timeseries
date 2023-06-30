@@ -19,22 +19,22 @@ FREQUENCY_LIST = [
             'ContentPlaceHolder1_txtYearTo': END_YEAR,
         },
     ),
-    # Frequency(
-    #     'Census Year',
-    #     'C',
-    #     {
-    #         'ContentPlaceHolder1_txtCensusYearFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtCensusYearTo': END_YEAR,
-    #     },
-    # ),
-    # Frequency(
-    #     'Academic Year',
-    #     'E',
-    #     {
-    #         'ContentPlaceHolder1_txtAcedemicYearFrom': START_YEAR,
-    #         'ContentPlaceHolder1_txtAcedemicYearTo': END_YEAR,
-    #     },
-    # ),
+    Frequency(
+        'Census Year',
+        'C',
+        {
+            'ContentPlaceHolder1_txtCensusYearFrom': START_YEAR,
+            'ContentPlaceHolder1_txtCensusYearTo': END_YEAR,
+        },
+    ),
+    Frequency(
+        'Academic Year',
+        'E',
+        {
+            'ContentPlaceHolder1_txtAcedemicYearFrom': START_YEAR,
+            'ContentPlaceHolder1_txtAcedemicYearTo': END_YEAR,
+        },
+    ),
     Frequency(
         'Half Yearly',
         'H',
@@ -59,13 +59,13 @@ FREQUENCY_LIST = [
             'ContentPlaceHolder1_txtYearMonthly2': f'{END_YEAR}-01',
         },
     ),
-    # Frequency(
-    #     'Daily',
-    #     'D',
-    #     {
-    #         'ContentPlaceHolder1_txtDateFrom': f'{START_YEAR}-01-01',
-    #         'ContentPlaceHolder1_txtDateTo': f'{END_YEAR}-01-01',
-    #     },
-    # ),
-    # Frequency('On-Availablity', 'O', {}),
+    Frequency(
+        'Daily',
+        'D',
+        {
+            'ContentPlaceHolder1_txtDateFrom': f'{START_YEAR}-01-01',
+            'ContentPlaceHolder1_txtDateTo': f'{END_YEAR}-01-01',
+        },
+    ),
+    Frequency('On-Availablity', 'O', {}),
 ]
