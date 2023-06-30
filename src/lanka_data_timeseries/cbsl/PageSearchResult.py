@@ -1,8 +1,5 @@
-import os
-import tempfile
-
 from selenium.webdriver.common.by import By
-from utils import JSONFile, Log
+from utils import Log
 
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.cbsl.DataBuilder import DataBuilder
@@ -93,29 +90,9 @@ class PageSearchResult(WebpageWrapper):
                     d_footnote_idx[sub_category][k] = v
         return d_footnote_idx
 
-    @staticmethod
-    def write(d_idx):
-        dir_latest = os.path.join(
-            tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'latest'
-        )
-
-        if not os.path.exists(dir_latest):
-            os.makedirs(dir_latest)
-            log.debug(f'Created {dir_latest}')
-
-        for category, d_sub in d_idx.items():
-            for sub_category, d_data in d_sub.items():
-                log.debug(f'Writing {category}.{sub_category}...')
-                file_name = os.path.join(
-                    dir_latest, f'{category}.{sub_category}.json'
-                )
-                JSONFile(file_name).write(d_data)
-                log.debug(f'Wrote {file_name}')
-
     def extract_table(self):
         d_idx = self.parse_table()
         d_footnote_idx = self.parse_footnote_table()
-        PageSearchResult.write(d_idx)
         DataBuilder(d_idx, d_footnote_idx, self.config).write()
 
     def run(self):

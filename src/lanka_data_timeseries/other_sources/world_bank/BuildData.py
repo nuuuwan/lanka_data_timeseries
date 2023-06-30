@@ -82,7 +82,6 @@ def build_data():
 
     year_list = lines[4].split(',')[4:-1]
 
-    summary_data_list = []
     new_summary_data_list = []
     for tokens in csv.reader(
         lines[5:],
@@ -117,18 +116,7 @@ def build_data():
             summary_statistics=summary_statistics,
             cleaned_data=cleaned_data,
             raw_data=raw_data,
-            # legacy
-            data=data,
         )
-
-        # write detailed data (per sub_category) to legacy path
-        n = summary_statistics['n']
-
-        data_path = os.path.join(
-            dir_output, f'{DEFAULT_CATEGORY}.{sub_category}.json'
-        )
-        JSONFile(data_path).write(details)
-        log.debug(f'Wrote {n} time items to {data_path}')
 
         # write detailed data (per sub_category) to new path
         new_data_path = os.path.join(
@@ -136,20 +124,8 @@ def build_data():
             f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
         )
         JSONFile(new_data_path).write(details)
+        n = summary_statistics['n']
         log.debug(f'Wrote {n} time items to {new_data_path}')
-
-        # legacy summary
-        summary_data = dict(
-            min_t=details['summary_statistics']['min_t'],
-            max_t=details['summary_statistics']['max_t'],
-            latest_value=details['summary_statistics']['max_value'],
-            n=details['summary_statistics']['n'],
-            category=details['category'],
-            sub_category=details['sub_category'],
-            unit=details['unit'],
-            scale=details['scale'],
-        )
-        summary_data_list.append(summary_data)
 
         # new summary
         new_summary_data = dict(
@@ -165,11 +141,6 @@ def build_data():
             },
         )
         new_summary_data_list.append(new_summary_data)
-
-    # write legacy summary
-    summary_path = os.path.join(dir_output, 'summary.json')
-    JSONFile(summary_path).write(summary_data_list)
-    log.debug(f'Wrote {len(summary_data_list)} items to {summary_path}')
 
     # write summary
     new_summary_path = os.path.join(dir_output_new, 'summary.json')
