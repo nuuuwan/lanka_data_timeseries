@@ -4,7 +4,7 @@ import tempfile
 
 from utils import File, JSONFile, Log
 
-from cbsl.edl import DataBuilder as CBSLDataBuilder
+from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 
 SOURCE_ID = 'world_bank'
 
@@ -16,8 +16,8 @@ CSV_PATH = os.path.join(
     'API_LKA_DS2_en_csv_v2_5554850.csv',
 )
 
-URL_GIT_REPO = 'https://github.com/nuuuwan/cbsl.git'
-DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.cbsl')
+URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
+DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries')
 BRANCH_DATA = 'data'
 
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'

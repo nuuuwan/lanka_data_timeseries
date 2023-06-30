@@ -1,6 +1,6 @@
 from utils import Time, TimeFormat
 
-from cbsl.edl.Frequency import Frequency
+from lanka_data_timeseries.cbsl.Frequency import Frequency
 
 
 def get_next_year():

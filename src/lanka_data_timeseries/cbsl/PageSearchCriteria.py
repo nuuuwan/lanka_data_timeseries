@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 from utils import Log
 
-from cbsl.constants import URL_ERESEARCH
-from cbsl.edl.Config import Config
+from lanka_data_timeseries.constants import URL_ERESEARCH
+from lanka_data_timeseries.cbsl.Config import Config
 from utils_future import Webpage
 
 log = Log(__name__)

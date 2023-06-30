@@ -1,9 +1,9 @@
 import random
 from dataclasses import dataclass
 
-from cbsl import constants
-from cbsl.edl.Frequency import Frequency
-from cbsl.edl.FREQUENCY_LIST import FREQUENCY_LIST
+from lanka_data_timeseries import constants
+from lanka_data_timeseries.cbsl.Frequency import Frequency
+from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
 
 
 @dataclass

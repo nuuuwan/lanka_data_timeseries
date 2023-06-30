@@ -4,8 +4,8 @@ import tempfile
 from selenium.webdriver.common.by import By
 from utils import JSONFile, Log
 
-from cbsl.edl.Config import Config
-from cbsl.edl.DataBuilder import DataBuilder
+from lanka_data_timeseries.cbsl.Config import Config
+from lanka_data_timeseries.cbsl.DataBuilder import DataBuilder
 from utils_future import WebpageWrapper
 
 log = Log(__name__)
@@ -95,7 +95,7 @@ class PageSearchResult(WebpageWrapper):
 
     @staticmethod
     def write(d_idx):
-        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.cbsl', 'latest')
+        dir_latest = os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'latest')
 
         if not os.path.exists(dir_latest):
             os.makedirs(dir_latest)

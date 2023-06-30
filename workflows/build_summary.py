@@ -1,4 +1,4 @@
-from cbsl.edl import BuildSummary, EDLSummary
+from lanka_data_timeseries.cbsl import BuildSummary, EDLSummary
 
 
 def main():

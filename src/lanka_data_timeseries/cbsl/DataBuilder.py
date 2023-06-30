@@ -3,8 +3,8 @@ import tempfile
 
 from utils import JSONFile, Log
 
-from cbsl.edl.Config import Config
-from cbsl.edl.FREQUENCY_LIST import FREQUENCY_LIST
+from lanka_data_timeseries.cbsl.Config import Config
+from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
 
 log = Log(__name__)
 
@@ -20,7 +20,7 @@ class DataBuilder:
     @property
     def dir_data(self) -> str:
         dir_data = os.path.join(
-            tempfile.gettempdir(), 'tmp.cbsl', 'sources', 'cbsl'
+            tempfile.gettempdir(), 'tmp.lanka_data_timeseries', 'sources', 'cbsl'
         )
 
         if not os.path.exists(dir_data):

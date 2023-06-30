@@ -1,6 +1,6 @@
 from utils import Log
 
-from cbsl.edl import (Config, PageSearchCriteria, PageSearchResult,
+from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria, PageSearchResult,
                       PageSelectItems)
 
 log = Log(__name__)

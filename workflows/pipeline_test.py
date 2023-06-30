@@ -1,6 +1,6 @@
 from utils import Log
 
-from cbsl.edl import FREQUENCY_LIST, Config
+from lanka_data_timeseries.cbsl import FREQUENCY_LIST, Config
 from workflows.pipeline import inner_unsafe
 
 log = Log(__name__)
