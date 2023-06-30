@@ -13860,6 +13860,516 @@
     "scale": "Millions"
   },
   {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 398856,
+    "n": 22,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 42048,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 15849,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Eastern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 26678,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-North Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 60881,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-North Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2001",
+    "max_t": "2021",
+    "latest_value": 11831,
+    "n": 21,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Northern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 28548,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Sabaragamuwa",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 42012,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Southern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 19840,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Uva",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 151169,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Dual Purpose Vehicles-Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 232417,
+    "n": 22,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 24645,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 8372,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Eastern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 14680,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-North Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 35238,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-North Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 5560,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Northern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 18912,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Sabaragamuwa",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 22572,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Southern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 10976,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Uva",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 91462,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Goods Transport Vehicles-Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 115981,
+    "n": 22,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 3686,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 25662,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Eastern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 12948,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-North Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 16305,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-North Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 18564,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Northern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 2704,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Sabaragamuwa",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 13075,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Southern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 9524,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Uva",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "1999",
+    "max_t": "2021",
+    "latest_value": 13513,
+    "n": 23,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Land Vehicles-Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 3003325,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 190627,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 292454,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Eastern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 263861,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-North Central",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 466810,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-North Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 231008,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Northern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 191462,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Sabaragamuwa",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 419384,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Southern",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 136497,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Uva",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2006",
+    "max_t": "2021",
+    "latest_value": 811222,
+    "n": 16,
+    "category": "Transport-Motor Vehicles",
+    "sub_category": "Motor Vehicles by Province-Motor Cycles-Western",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2020",
+    "latest_value": 10787,
+    "n": 19,
+    "category": "Transport-Private Bus Services",
+    "sub_category": "Private Bus Services-Buses Operated-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 364.1,
+    "n": 22,
+    "category": "Transport-Private Bus Services",
+    "sub_category": "Private Bus Services-Operated Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2020",
+    "latest_value": 18547,
+    "n": 19,
+    "category": "Transport-Private Bus Services",
+    "sub_category": "Private Bus Services-Passenger Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 398490,
+    "n": 22,
+    "category": "Transport-Private Bus Services",
+    "sub_category": "Private Bus Services-Seating Capacity-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 20021,
+    "n": 22,
+    "category": "Transport-Private Bus Services",
+    "sub_category": "Private Bus Services-Total Fleet-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2020",
+    "latest_value": 114.4,
+    "n": 21,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Freight Tonne Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 182,
+    "n": 22,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Main Stations-Broad Gauge",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2020",
+    "latest_value": 3.7,
+    "n": 21,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Operated Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 206,
+    "n": 22,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Passenger Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 1648,
+    "n": 22,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Route-Broad Gauge",
+    "unit": "km.",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 163,
+    "n": 22,
+    "category": "Transport-Railways",
+    "sub_category": "Sri Lanka Railways-Sub Stations-Broad Gauge",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
     "min_t": "2008",
     "max_t": "2021",
     "latest_value": 307,
@@ -16308,6 +16818,46 @@
     "sub_category": "Road Network-Total Roads",
     "unit": "Kilometres",
     "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 4449,
+    "n": 22,
+    "category": "Transport-SLTB or Regional Bus Companies",
+    "sub_category": "SLTB - Regional Bus Companies-Buses Operated-All Island",
+    "unit": "Number",
+    "scale": " "
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 247.8,
+    "n": 21,
+    "category": "Transport-SLTB or Regional Bus Companies",
+    "sub_category": "SLTB - Regional Bus Companies-Operated Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2018",
+    "latest_value": 15510,
+    "n": 19,
+    "category": "Transport-SLTB or Regional Bus Companies",
+    "sub_category": "SLTB - Regional Bus Companies-Passenger Kilometers-All Island",
+    "unit": "km.",
+    "scale": "Mn."
+  },
+  {
+    "min_t": "2000",
+    "max_t": "2021",
+    "latest_value": 26413,
+    "n": 22,
+    "category": "Transport-SLTB or Regional Bus Companies",
+    "sub_category": "SLTB - Regional Bus Companies-Revenue",
+    "unit": "Rs.",
+    "scale": "Mn."
   },
   {
     "min_t": "1998-Apr",
