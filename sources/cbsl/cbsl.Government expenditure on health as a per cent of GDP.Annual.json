@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Central Government Finance-Central Government Expenditure",
   "sub_category": "Government expenditure on health as a per cent of GDP",
+  "scale": "Percentage",
+  "unit": "Percentage",
   "frequency_name": "Annual",
   "i_subject": 30,
   "footnotes": {

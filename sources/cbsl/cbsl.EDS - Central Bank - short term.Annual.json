@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Central Government Finance-Debt Statistics",
   "sub_category": "EDS - Central Bank - short term",
+  "scale": "Millions",
+  "unit": "USD",
   "frequency_name": "Annual",
   "i_subject": 30,
   "footnotes": {

@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "Central Government Finance-Central Government Expenditure",
   "sub_category": "General Governmnet Expenditure - Recurrent Expenditure",
+  "scale": "Rs. million",
+  "unit": "LKR",
   "frequency_name": "Annual",
   "i_subject": 30,
   "footnotes": {
