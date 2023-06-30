@@ -160,7 +160,9 @@ def build_data():
             unit=details['unit'],
             scale=details['scale'],
             summary_statistics=details['summary_statistics'],
-            footnotes={},
+            footnotes={
+                'source_file': 'API_LKA_DS2_en_csv_v2_5554850.csv',
+            },
         )
         new_summary_data_list.append(new_summary_data)
 
