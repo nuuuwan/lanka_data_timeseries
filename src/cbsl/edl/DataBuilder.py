@@ -31,7 +31,7 @@ class DataBuilder:
 
     @staticmethod
     def clean_time(t: str) -> str:
-        t = t.replace('"','')
+        t = t.replace('"', '')
         MONTHS = [
             'Jan',
             'Feb',
@@ -67,7 +67,7 @@ class DataBuilder:
 
     @staticmethod
     def clean_value(x: str):
-        x = x.replace('"','')
+        x = x.replace('"', '')
         x = x.replace(' ', '')
 
         if x.startswith('(') and x.endswith(')'):
