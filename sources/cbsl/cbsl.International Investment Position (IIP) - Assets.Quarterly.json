@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "International Investment Position-Overall",
   "sub_category": "International Investment Position (IIP) - Assets",
+  "scale": "Millions",
+  "unit": "USD",
   "frequency_name": "Quarterly",
   "i_subject": 21,
   "footnotes": {

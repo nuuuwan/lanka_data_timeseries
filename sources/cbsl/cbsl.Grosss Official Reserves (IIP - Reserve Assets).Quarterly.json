@@ -2,6 +2,8 @@
   "source_id": "cbsl",
   "category": "International Investment Position-Gross Official Reserves",
   "sub_category": "Grosss Official Reserves (IIP - Reserve Assets)",
+  "scale": "Millions",
+  "unit": "USD",
   "frequency_name": "Quarterly",
   "i_subject": 21,
   "footnotes": {
