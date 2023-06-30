@@ -17,7 +17,9 @@ CSV_PATH = os.path.join(
 )
 
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
-DIR_TMP_DATA = os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries')
+DIR_TMP_DATA = os.path.join(
+    tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
+)
 BRANCH_DATA = 'data'
 
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
@@ -150,16 +152,17 @@ def build_data():
 
         # new summary
         new_summary_data = dict(
-            min_t=details['summary_statistics']['min_t'],
-            max_t=details['summary_statistics']['max_t'],
-            min_value=details['summary_statistics']['min_value'],
-            max_value=details['summary_statistics']['max_value'],
-            n=details['summary_statistics']['n'],
+            source_id=details['source_id'],
             category=details['category'],
             sub_category=details['sub_category'],
             frequency_name=details['frequency_name'],
             unit=details['unit'],
             scale=details['scale'],
+            min_t=details['summary_statistics']['min_t'],
+            max_t=details['summary_statistics']['max_t'],
+            min_value=details['summary_statistics']['min_value'],
+            max_value=details['summary_statistics']['max_value'],
+            n=details['summary_statistics']['n'],
         )
         new_summary_data_list.append(new_summary_data)
 
