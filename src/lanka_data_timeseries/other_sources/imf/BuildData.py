@@ -72,12 +72,15 @@ def build_data():
 
     indicator_idx = get_indicator_idx()
     summary_d_list = []
+    n_indicators = len(indicator_idx)
+    i = 0
     for indicator_key, metadata in indicator_idx.items():
+        i += 1
         data = get_lka_data(indicator_key)
         summary_statistics = CBSLDataBuilder.get_summary_statistics(data)
         label = metadata['label']
         if not label or str(label) == 'null':
-            continue
+            log.warning(f'No data for {indicator_key}')
         d = dict(
             source_id=SOURCE_ID,
             category=DEFAULT_CATEGORY,
@@ -108,7 +111,7 @@ def build_data():
             f'{SOURCE_ID}.{d["sub_category"]}.{DEFAULT_FREQUENCY_NAME}.json',
         )
         JSONFile(file_path).write(d)
-        log.debug(f'Wrote {file_path} ({n} values)')
+        log.debug(f'{i}/{n_indicators}) Wrote {file_path} ({n} values)')
 
         summary_d = dict(
             source_id=SOURCE_ID,
@@ -135,4 +138,4 @@ def build_data():
     )
     JSONFile(file_path).write(summary_d_list)
     n_datasets = len(summary_d_list)
-    log.debug(f'Wrote {file_path} ({n_datasets} datasets)')
+    log.info(f'Wrote {file_path} ({n_datasets} datasets)')
