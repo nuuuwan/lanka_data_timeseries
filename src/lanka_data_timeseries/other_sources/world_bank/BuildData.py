@@ -40,6 +40,7 @@ def clean_str(x):
     x = x.replace('%', 'Pct.')
     x = x.replace('/', ' or ')
     x = x.replace(':', '_')
+    x = x.replace('+', '_')
     return x
 
 
@@ -158,11 +159,8 @@ def build_data():
             frequency_name=details['frequency_name'],
             unit=details['unit'],
             scale=details['scale'],
-            min_t=details['summary_statistics']['min_t'],
-            max_t=details['summary_statistics']['max_t'],
-            min_value=details['summary_statistics']['min_value'],
-            max_value=details['summary_statistics']['max_value'],
-            n=details['summary_statistics']['n'],
+            summary_statistics=details['summary_statistics'],
+            footnotes={},
         )
         new_summary_data_list.append(new_summary_data)
 
