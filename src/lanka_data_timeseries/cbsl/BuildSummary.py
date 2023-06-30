@@ -23,7 +23,10 @@ class BuildSummary:
         for file_name_only in os.listdir(dir_data):
             if not file_name_only.endswith('.json'):
                 continue
-            if file_name_only.startswith('summary'):
+            if file_name_only in [
+                'summary.json',
+                '--log-success-summary.json',
+            ]:
                 continue
             file_path = os.path.join(dir_data, file_name_only)
             d = JSONFile(file_path).read()
