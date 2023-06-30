@@ -38183,6 +38183,81 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS)",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 368222507150,
+      "max_value": 905258795927
+    },
+    "latest_value": 905258795927
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Value of Cheques returned",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 7912058601,
+      "max_value": 23742517251
+    },
+    "latest_value": 23742517251
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Common Electronic Fund Transfer Switch (CEFTS)",
+    "sub_category": "Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 92,
+      "min_t": "2015-08-01",
+      "max_t": "2023-03-01",
+      "min_value": 50476015.86,
+      "max_value": 1010585290435
+    },
+    "latest_value": 1010585290435
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Credit or Debit Cards",
     "sub_category": "Total Value of Credit Card transactions",
     "scale": " ",
@@ -38308,6 +38383,31 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Payment Data-Real Time Gross Settlement (RTGS)",
+    "sub_category": "Total Value of Real Time Gross Settlement (RTGS) Transactions",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "CBSL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 2667915670225,
+      "max_value": 29691746659591
+    },
+    "latest_value": 29691746659591
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Tele-banking",
     "sub_category": "Total Value of Tele-banking financial transactions",
     "scale": " ",
@@ -38333,6 +38433,31 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Value of US Dollar Cheques cleared",
+    "scale": " ",
+    "unit": "USD",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 11778035,
+      "max_value": 34149498
+    },
+    "latest_value": 34149498
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Automated Teller Machines(ATMs)",
     "sub_category": "Total Value of financial transactions through ATM Terminals",
     "scale": "Thousands",
@@ -38355,6 +38480,131 @@
       "max_value": 1424930506
     },
     "latest_value": 1424930506
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Switch(CAS) or Common ATM",
+    "sub_category": "Total Value of financial transactions through Common ATM Switch (CAS)",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "ATM transactions carried out through Common ATM Switch (Not-on-us)",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 116,
+      "min_t": "2013-08-01",
+      "max_t": "2023-03-01",
+      "min_value": 631918970,
+      "max_value": 103388763300
+    },
+    "latest_value": 103388763300
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-SLIP System",
+    "sub_category": "Total Value of transactions cleared through SLIP System",
+    "scale": " ",
+    "unit": "LKR",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 23287074328,
+      "max_value": 307774636762
+    },
+    "latest_value": 307774636762
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS)",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 3156105,
+      "max_value": 3103388
+    },
+    "latest_value": 3103388
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Volume of Cheques returned",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 118476,
+      "max_value": 90893
+    },
+    "latest_value": 90893
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Common Electronic Fund Transfer Switch (CEFTS)",
+    "sub_category": "Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 92,
+      "min_t": "2015-08-01",
+      "max_t": "2023-03-01",
+      "min_value": 626,
+      "max_value": 11404431
+    },
+    "latest_value": 11404431
   },
   {
     "source_id": "cbsl",
@@ -38483,6 +38733,31 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Payment Data-Real Time Gross Settlement (RTGS)",
+    "sub_category": "Total Volume of Real Time Gross Settlement (RTGS) Transactions",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "CBSL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 16534,
+      "max_value": 62487
+    },
+    "latest_value": 62487
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Tele-banking",
     "sub_category": "Total Volume of Tele-banking financial transactions",
     "scale": " ",
@@ -38508,6 +38783,31 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Payment Data-Cheques",
+    "sub_category": "Total Volume of US Dollar Cheques cleared",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 4348,
+      "max_value": 6150
+    },
+    "latest_value": 6150
+  },
+  {
+    "source_id": "cbsl",
     "category": "Payment Data-Automated Teller Machines(ATMs)",
     "sub_category": "Total Volume of financial transactions through ATM Terminals",
     "scale": " ",
@@ -38530,6 +38830,56 @@
       "max_value": 88538609
     },
     "latest_value": 88538609
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-Switch(CAS) or Common ATM",
+    "sub_category": "Total Volume of financial transactions through Common ATM Switch (CAS)",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "ATM transactions carried out through Common ATM Switch (Not-on-us)",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 116,
+      "min_t": "2013-08-01",
+      "max_t": "2023-03-01",
+      "min_value": 196229,
+      "max_value": 8418186
+    },
+    "latest_value": 8418186
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Payment Data-SLIP System",
+    "sub_category": "Total Volume of transactions cleared through SLIP System",
+    "scale": " ",
+    "unit": " ",
+    "frequency_name": "Monthly",
+    "i_subject": 26,
+    "footnotes": {
+      "Sector": "Financial",
+      "Source": "LCPL",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "2023-05-09",
+      "Update frequency": "15 th day of the following month"
+    },
+    "summary_statistics": {
+      "n": 159,
+      "min_t": "2010-01-01",
+      "max_t": "2023-03-01",
+      "min_value": 831860,
+      "max_value": 4281069
+    },
+    "latest_value": 4281069
   },
   {
     "source_id": "cbsl",
