@@ -10,7 +10,7 @@ SOURCE_ID = 'world_bank'
 
 CSV_PATH = os.path.join(
     'src',
-    'cbsl',
+    'lanka_data_timeseries',
     'other_sources',
     'world_bank',
     'API_LKA_DS2_en_csv_v2_5554850.csv',
