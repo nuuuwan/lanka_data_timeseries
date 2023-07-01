@@ -101,7 +101,7 @@ def parse_excel():
 
         summary_statistics = CBSLDataBuilder.get_summary_statistics(data)
 
-        if last_unit in category_str or last_unit in sub_category:
+        if last_unit in category or last_unit in sub_category:
             unit = last_unit
         else:
             unit = DEFAULT_UNIT
@@ -126,6 +126,7 @@ def parse_excel():
         d_list.append(d)
         print(d['category'])
         print(d['sub_category'])
+        print(d['unit'])
         print(list(d['cleaned_data'].items())[0])
         print('-' * 32)
     return d_list
