@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "GDP by industrial origin at current market prices _ producer price - Water supply_ sewerage waste management and remediation activities",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 23653.45479,
+    "max_value": 38065.43502
+  },
+  "cleaned_data": {
+    "2010": 23653.45479,
+    "2011": 19934.10122,
+    "2012": 21970.61899,
+    "2013": 25526.59315,
+    "2014": 30686.18414,
+    "2015": 35756.3224,
+    "2016": 42724.72687,
+    "2017": 46583.41053,
+    "2018": 44499.97619,
+    "2019": 44895.94514,
+    "2020": 44271.85297,
+    "2021": 38065.43502
+  },
+  "raw_data": {
+    "2010": 23653.45479,
+    "2011": 19934.10122,
+    "2012": 21970.61899,
+    "2013": 25526.59315,
+    "2014": 30686.18414,
+    "2015": 35756.3224,
+    "2016": 42724.72687,
+    "2017": 46583.41053,
+    "2018": 44499.97619,
+    "2019": 44895.94514,
+    "2020": 44271.85297,
+    "2021": 38065.43502
+  }
+}

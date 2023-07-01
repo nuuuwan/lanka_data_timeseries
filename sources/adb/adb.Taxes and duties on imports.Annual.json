@@ -1,0 +1,29 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "Taxes and duties on imports",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 4,
+    "min_t": 2000,
+    "max_t": 2005,
+    "min_value": 137168,
+    "max_value": -2
+  },
+  "cleaned_data": {
+    "2000": 137168,
+    "2001": 153475,
+    "2002": 0.01,
+    "2005": -2
+  },
+  "raw_data": {
+    "2000": 137168,
+    "2001": 153475,
+    "2002": 0.01,
+    "2005": -2
+  }
+}

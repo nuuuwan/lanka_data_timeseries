@@ -1,8 +1,110 @@
 [
   {
     "source_id": "adb",
+    "category": "POPULATION",
+    "sub_category": "Total populationa as of 1 July (million)",
+    "scale": "",
+    "unit": "million",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 19.36,
+      "max_value": 22.156
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "POPULATION",
+    "sub_category": "Population density (persons or km2)",
+    "scale": "",
+    "unit": "persons/km2",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 294.50602,
+      "max_value": 353
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "POPULATION",
+    "sub_category": "Populationa (Pct. annual change)",
+    "scale": "",
+    "unit": "% annual change",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1.3,
+      "max_value": 1.0812537068297
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "POPULATION",
+    "sub_category": "Urban population (Pct. of total population)",
+    "scale": "",
+    "unit": "% of total population",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 18.38,
+      "max_value": 18.9
+    }
+  },
+  {
+    "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Agriculture forestry and fishing",
+    "sub_category": "Employed",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 6310.247,
+      "max_value": 8113.507
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Employed - Agriculture forestry and fishing",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 2274.153,
+      "max_value": 2169.679
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Employed - Mining and quarrying",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -19,7 +121,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Mining and quarrying",
+    "sub_category": "Employed - Manufacturing",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -36,7 +138,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Manufacturing",
+    "sub_category": "Employed - Electricity gas steam and air-conditioning supply_ water supply_ sewerage waste management and remediation activitiesc",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -53,7 +155,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Construction",
+    "sub_category": "Employed - Wholesale and retail trade_ repair of motor vehicles and motorcycles",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -70,7 +172,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Wholesale and retail trade_ repair of motor vehicles and motorcycles",
+    "sub_category": "Employed - Transportation and storaged",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -87,7 +189,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Transportation and storaged",
+    "sub_category": "Employed - Accommodation and food service activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -104,7 +206,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Accommodation and food service activities",
+    "sub_category": "Employed - Communicatione",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -121,7 +223,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Communicatione",
+    "sub_category": "Employed - Financial and insurance activitiesf",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -138,7 +240,7 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Employed Real estate activities",
+    "sub_category": "Employed - Other servicesg",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -155,7 +257,92 @@
   {
     "source_id": "adb",
     "category": "LABOR FORCEb calendar year ('000)",
-    "sub_category": "LABOR Labor force participation ratei (Pct.) Male",
+    "sub_category": "Unemployed",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 517.168,
+      "max_value": 439.783
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Unemployment rate (Pct.)",
+    "scale": "",
+    "unit": "%",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 7.57487,
+      "max_value": 5.1
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Labor forceh (Pct. annual change)",
+    "scale": "",
+    "unit": "% annual change",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 18,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 2.3095,
+      "max_value": 1.0238341077877
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Labor force participation ratei (Pct.)",
+    "scale": "",
+    "unit": "%",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 50.33161,
+      "max_value": 49.9
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Labor force participation ratei (Pct.) - Male",
+    "scale": "",
+    "unit": "%",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 67.15924,
+      "max_value": 71
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "LABOR FORCEb calendar year ('000)",
+    "sub_category": "Labor force participation ratei (Pct.) - Female",
     "scale": "",
     "unit": "%",
     "frequency_name": "Annual",
@@ -172,7 +359,41 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Agriculture forestry and fishing",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1287286,
+      "max_value": 17685854.21
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Agriculture forestry and fishing",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 202146,
+      "max_value": 1539521.172
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Mining and quarrying",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -189,7 +410,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Mining and quarrying",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Manufacturing",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -206,7 +427,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Manufacturing",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Electricity gas steam and air-conditioning supplyk",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -223,7 +444,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Electricity gas steam and air-conditioning supplyk",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Water supply_ sewerage waste management and remediation activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -240,7 +461,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Water supply_ sewerage waste management and remediation activities",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Construction",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -257,7 +478,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Construction",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Wholesale and retail trade_ repair of motor vehicles and motorcyclesl",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -274,7 +495,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Wholesale and retail trade_ repair of motor vehicles and motorcyclesl",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Transportation and storagem",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -291,7 +512,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Transportation and storagem",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Accommodation and food service activitiesn",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -308,7 +529,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Accommodation and food service activitiesn",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Communicationo",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -325,7 +546,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Communicationo",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Financial and insurance activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -342,7 +563,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Financial and insurance activities",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Real estate activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -359,7 +580,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Real estate activities",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Professional scientific and technical activitiesp",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -376,7 +597,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Administrative and support service activities",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Public administration and defense_ compulsory social securityq",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -393,7 +614,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Public administration and defense_ compulsory social securityq",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Education",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -410,7 +631,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Education",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Human health and social work activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -427,7 +648,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Arts entertainment and recreation",
+    "sub_category": "GDP by industrial origin at current market prices _ producer price - Other service activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -444,7 +665,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Activities of extraterritorial organizations and bodies",
+    "sub_category": "Gross value added at basic prices",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -461,9 +682,94 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Structure of Output (Pct. of GDP at current basic prices)",
+    "sub_category": "Taxes and duties on imports",
     "scale": "",
-    "unit": "% of GDP at current basic prices",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 4,
+      "min_t": 2000,
+      "max_t": 2005,
+      "min_value": 137168,
+      "max_value": -2
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Taxes on products",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 12,
+      "min_t": 2010,
+      "max_t": 2021,
+      "min_value": 687832.8207,
+      "max_value": 1144240.161
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Subsidies on products",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 12,
+      "min_t": 2010,
+      "max_t": 2021,
+      "min_value": 14383.64893,
+      "max_value": 13372.317
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Net factor income from abroad",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 10,
+      "min_t": 2000,
+      "max_t": 2009,
+      "min_value": -23009,
+      "max_value": -55795.3
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GNI",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 10,
+      "min_t": 2000,
+      "max_t": 2009,
+      "min_value": 1264277,
+      "max_value": 4779497.439
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - - Agriculture",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -478,7 +784,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Agriculture",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - - Industry",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -495,7 +801,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Industry",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - - Services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -512,7 +818,41 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Final consumption expenditure Services",
+    "sub_category": "Expenditure on GDP at current market pricesj",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1287285,
+      "max_value": 16809309.41
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Expenditure on GDP at current market pricesj - Final consumption expenditure",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1089384,
+      "max_value": 13425151.89
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Expenditure on GDP at current market pricesj - Final consumption expenditure - Household final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -529,7 +869,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Final consumption expenditure NPISHs final consumption Services",
+    "sub_category": "Expenditure on GDP at current market pricesj - Final consumption expenditure - General government final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -546,7 +886,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Final consumption expenditure General government final consumption Services",
+    "sub_category": "Expenditure on GDP at current market pricesj - Gross capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -563,7 +903,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Gross capital formation General government final consumption Services",
+    "sub_category": "Expenditure on GDP at current market pricesj - Gross capital formation - Gross fixed capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -580,7 +920,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Gross capital formation Gross fixed capital formation Private",
+    "sub_category": "Expenditure on GDP at current market pricesj - Gross capital formation - Changes in inventories",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -597,7 +937,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Gross capital formation Changes in inventories Private",
+    "sub_category": "Expenditure on GDP at current market pricesj - Gross capital formation - Acquisitions less disposals of valuables",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -614,7 +954,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Gross capital formation Acquisitions less disposals of valuables Private",
+    "sub_category": "Expenditure on GDP at current market pricesj - Exports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -631,7 +971,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Exports of goods and services Exports of services Private",
+    "sub_category": "Expenditure on GDP at current market pricesj - Less_ Imports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -648,7 +988,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Less_ Imports of goods and services Imports of services Private",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -665,9 +1005,9 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Structure of Demand (Pct. of GDP at current market prices)",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Household final consumption",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -682,7 +1022,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Household final consumption",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Government final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -699,7 +1039,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Government final consumption",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Gross capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -716,7 +1056,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Gross capital formation",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Gross capital formation - Changes in inventories",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -733,7 +1073,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Exports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -750,7 +1090,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Exports of goods and services Changes in inventories",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Imports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -767,7 +1107,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Statistical discrepancy Imports of services Imports of goods and services Changes in inventories",
+    "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Imports of services - Statistical discrepancy",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -784,7 +1124,41 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Agriculture forestry and fishing Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1155552,
+      "max_value": 13171801.6
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Agriculture forestry and fishing",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 191012,
+      "max_value": 959433.9524
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Mining and quarrying",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -801,7 +1175,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Mining and quarrying Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Manufacturing",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -818,7 +1192,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Manufacturing Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Electricity gas steam and air-conditioning supplyk",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -835,7 +1209,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Electricity gas steam and air-conditioning supplyk Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Water supply_ sewerage waste management and remediation activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -852,7 +1226,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Water supply_ sewerage waste management and remediation activities Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Construction",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -869,7 +1243,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Construction Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Wholesale and retail trade_ repair of motor vehicles and motorcyclesl",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -886,7 +1260,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Wholesale and retail trade_ repair of motor vehicles and motorcyclesl Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Transportation and storagem",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -903,7 +1277,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Transportation and storagem Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Accommodation and food service activitiesn",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -920,7 +1294,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Accommodation and food service activitiesn Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Communicationo",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -937,7 +1311,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Communicationo Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Financial and insurance activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -954,7 +1328,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Financial and insurance activities Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Real estate activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -971,7 +1345,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Real estate activities Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Professional scientific and technical activitiesp",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -988,7 +1362,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Administrative and support service activities Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Public administration and defense_ compulsory social securityq",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1005,7 +1379,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Public administration and defense_ compulsory social securityq Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Education",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1022,7 +1396,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Education Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Human health and social work activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1039,7 +1413,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Arts entertainment and recreation Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "GDP by industrial origin at 1998 market prices _ 2002 producer prices _ 2015 market prices - Other service activities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1056,7 +1430,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Activities of extraterritorial organizations and bodies Imports of services Statistical discrepancy Changes in inventories",
+    "sub_category": "Gross value added at basic prices",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1073,9 +1447,77 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Imports of services Growth of Output (Pct. annual change) Changes in inventories",
+    "sub_category": "Taxes on products",
     "scale": "",
-    "unit": "% annual change",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 121343,
+      "max_value": 924258.6107
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Subsidies on products",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 12,
+      "min_t": 2010,
+      "max_t": 2021,
+      "min_value": 38662.4676,
+      "max_value": 50935.73453
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Net factor income from abroad",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 10,
+      "min_t": 2000,
+      "max_t": 2009,
+      "min_value": -20655,
+      "max_value": -28261.86075
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GNI",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 10,
+      "min_t": 2000,
+      "max_t": 2009,
+      "min_value": 1134897,
+      "max_value": 2420951.872
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - Imports of services - GDP",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1090,7 +1532,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Imports of services GDP Changes in inventories",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - Imports of services - Agriculture",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1107,7 +1549,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Imports of services Agriculture Changes in inventories",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - Imports of services - Industry",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1124,7 +1566,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL GNI Activities of extraterritorial organizations and bodies Imports of services Industry Changes in inventories",
+    "sub_category": "GNI - Activities of extraterritorial organizations and bodies - Imports of services - Services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1141,7 +1583,41 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Final consumption expenditure Imports of services Services Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 1155552,
+      "max_value": 9881396.583
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Final consumption expenditure",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 886871,
+      "max_value": 7870841.408
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Final consumption expenditure - Household final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1158,7 +1634,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Final consumption expenditure NPISHs final consumption Services Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Final consumption expenditure - General government final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1175,7 +1651,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Final consumption expenditure General government final consumption Services Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Gross capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1192,7 +1668,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Gross capital formation General government final consumption Services Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Gross capital formation - Gross fixed capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1209,7 +1685,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Gross capital formation Gross fixed capital formation Private Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Gross capital formation - Changes in inventories",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1226,7 +1702,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Gross capital formation Changes in inventories Private Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Gross capital formation - Acquisitions less disposals of valuables",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1243,7 +1719,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Gross capital formation Acquisitions less disposals of valuables Private Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Exports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1260,7 +1736,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Exports of goods and services Exports of services Private Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Imports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1277,7 +1753,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Imports of goods and services Imports of services Private Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1294,9 +1770,9 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Statistical discrepancy Imports of services Growth of Demand (Pct. annual change) Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy - Imports of services - Household final consumption",
     "scale": "",
-    "unit": "% annual change",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1311,7 +1787,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Statistical discrepancy Imports of services Household final consumption Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy - Imports of services - Government final consumption",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1328,7 +1804,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Statistical discrepancy Imports of services Government final consumption Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy - Imports of services - Gross capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1345,7 +1821,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Statistical discrepancy Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy - Imports of services - Exports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1362,7 +1838,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Statistical discrepancy Imports of services Exports of goods and services Changes in inventories",
+    "sub_category": "Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj - Statistical discrepancy - Imports of services - Imports of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1379,7 +1855,58 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Gross national saving Gross domestic saving Imports of services Imports of goods and services Changes in inventories",
+    "sub_category": "Gross capital formation",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 327086,
+      "max_value": 4655829.095
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Gross national saving",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 248512,
+      "max_value": 4065941.137
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Gross national saving - Gross domestic saving",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 197902,
+      "max_value": 3384157.517
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Gross national saving - Net factor income from abroad",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1396,7 +1923,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Gross national saving Net factor income from abroad Imports of services Imports of goods and services Changes in inventories",
+    "sub_category": "Gross national saving - Net current transfers from abroad",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1413,9 +1940,9 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Net current transfers from abroad Imports of services Savings and Investment (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Gross national saving - Net current transfers from abroad - Imports of services - Gross domestic saving",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1430,7 +1957,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Gross national saving Net current transfers from abroad Imports of services Gross domestic saving Changes in inventories",
+    "sub_category": "Gross national saving - Net current transfers from abroad - Imports of services - Gross national saving",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1447,7 +1974,7 @@
   {
     "source_id": "adb",
     "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
-    "sub_category": "NATIONAL Gross national saving Net current transfers from abroad Imports of services Gross national saving Changes in inventories",
+    "sub_category": "Gross national saving - Net current transfers from abroad - Imports of services - Gross capital formation",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -1463,8 +1990,59 @@
   },
   {
     "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Per capita GDP",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 66492.04545,
+      "max_value": 798242.2012096
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+    "sub_category": "Per capita GNI",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 65303.56405,
+      "max_value": 740328
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "PRODUCTION INDEX period averages",
+    "sub_category": "Agriculture_ 2014\u20132016 = 100",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 71.2,
+      "max_value": 118.95
+    }
+  },
+  {
+    "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Crude petroleum (t '000) Exports Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Crude petroleum (t '000) - Imports",
     "scale": "",
     "unit": "t '000",
     "frequency_name": "Annual",
@@ -1481,7 +2059,7 @@
   {
     "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Crude petroleum (t '000) Imports Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Crude petroleum (t '000) - Consumption",
     "scale": "",
     "unit": "t '000",
     "frequency_name": "Annual",
@@ -1498,7 +2076,7 @@
   {
     "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Coal (t '000) Exports Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Coal (t '000) - Imports",
     "scale": "",
     "unit": "t '000",
     "frequency_name": "Annual",
@@ -1515,7 +2093,7 @@
   {
     "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Natural gas (m3 million) Exports Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Natural gas (m3 million) - Imports",
     "scale": "",
     "unit": "m3 million",
     "frequency_name": "Annual",
@@ -1532,7 +2110,24 @@
   {
     "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Electricity (kWh million) Imports Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Electricity (kWh million) - Production",
+    "scale": "",
+    "unit": "kWh million",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 6844,
+      "max_value": 16716
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "ENERGY annual values",
+    "sub_category": "Electricity (kWh million) - Consumption",
     "scale": "",
     "unit": "kWh million",
     "frequency_name": "Annual",
@@ -1549,7 +2144,24 @@
   {
     "source_id": "adb",
     "category": "ENERGY annual values",
-    "sub_category": "ENERGY Retail prices (SLRs or L) Gasoline premium Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Gasoline premium",
+    "scale": "",
+    "unit": "SLRs/L",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 50,
+      "max_value": 177
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "ENERGY annual values",
+    "sub_category": "Retail prices (SLRs or L) - Diesel",
     "scale": "",
     "unit": "SLRs/L",
     "frequency_name": "Annual",
@@ -1566,7 +2178,24 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Imports of services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100",
+    "scale": "",
+    "unit": "national",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 19,
+      "min_t": 2003,
+      "max_t": 2021,
+      "min_value": 158.4,
+      "max_value": 147.2166667
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "PRICE INDEXES period averages",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Food and nonalcoholic beverages",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1583,7 +2212,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Food and nonalcoholic beverages Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Alcoholic beverages tobacco and narcotics",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1600,7 +2229,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (national)_ 1995\u20131997 _ 2013 = 100 Alcoholic beverages tobacco and narcotics Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Clothing and footwear",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1617,7 +2246,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Clothing and footwear Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Housing water electricity gas and other fuels",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1634,7 +2263,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (national)_ 1995\u20131997 _ 2013 = 100 Housing water electricity gas and other fuels Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Furnishings household equipment and routine household maintenance",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1651,9 +2280,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Furnishings household equipment and routine household maintenance Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Health",
     "scale": "",
-    "unit": "",
+    "unit": "national",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1668,7 +2297,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Health Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Transport",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1685,7 +2314,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Transport Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Communication",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1702,7 +2331,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Communication Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Recreation and culture",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1719,7 +2348,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Recreation and culture Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Education",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1736,7 +2365,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Education Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Restaurants and hotels",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1753,7 +2382,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Restaurants and hotels Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Miscellaneous goods and services",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -1770,9 +2399,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (national)_ 1995\u20131997 _ 2013 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100",
     "scale": "",
-    "unit": "national",
+    "unit": "Colombo",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1787,7 +2416,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Food and nonalcoholic beverages",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1804,7 +2433,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Food and nonalcoholic beverages Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Alcoholic beverages tobacco and narcotics",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1821,7 +2450,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Alcoholic beverages tobacco and narcotics Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Clothing and footwear",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1838,7 +2467,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Clothing and footwear Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Housing water electricity gas and other fuels",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1855,9 +2484,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Housing water electricity gas and other fuels Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Furnishings household equipment and routine household maintenance",
     "scale": "",
-    "unit": "",
+    "unit": "Colombo",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1872,9 +2501,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Furnishings household equipment and routine household maintenance Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Health",
     "scale": "",
-    "unit": "",
+    "unit": "Colombo",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -1889,7 +2518,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Health Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Transport",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1906,7 +2535,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Transport Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Communication",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1923,7 +2552,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Communication Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Recreation and culture",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1940,7 +2569,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Recreation and culture Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Education",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1957,7 +2586,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Education Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Restaurants and hotels",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1974,7 +2603,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Restaurants and hotels Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Miscellaneous goods and services",
     "scale": "",
     "unit": "Colombo",
     "frequency_name": "Annual",
@@ -1991,9 +2620,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Producer (national)_ 2013 Q4 = 100",
     "scale": "",
-    "unit": "Colombo",
+    "unit": "national",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2008,7 +2637,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Producer (national)_ 2013 Q4 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Wholesale (national)_ 1974 = 100",
     "scale": "",
     "unit": "national",
     "frequency_name": "Annual",
@@ -2025,9 +2654,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Wholesale (national)_ 1974 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100",
     "scale": "",
-    "unit": "national",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2042,9 +2671,9 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 Miscellaneous goods and services Price Indexes (Pct. annual change) Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 - Miscellaneous goods and services - Consumer price indexr",
     "scale": "",
-    "unit": "% annual change",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2059,7 +2688,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 Miscellaneous goods and services Consumer price indexr Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 - Miscellaneous goods and services - Food and nonalcoholic beverages price indexr",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2076,7 +2705,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 Miscellaneous goods and services Food and nonalcoholic beverages price indexr Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 - Miscellaneous goods and services - Wholesale price index",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2093,7 +2722,7 @@
   {
     "source_id": "adb",
     "category": "PRICE INDEXES period averages",
-    "sub_category": "PRICE Retail prices (SLRs or L) Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 Miscellaneous goods and services Wholesale price index Changes in inventories",
+    "sub_category": "Retail prices (SLRs or L) - Implicit GDP deflator_ 1998 _ 2002 _ 2015 = 100 - Miscellaneous goods and services - Implicit GDP deflator",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2110,7 +2739,41 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M1) Currency in circulation Miscellaneous goods and services Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M1)",
+    "scale": "",
+    "unit": "M1",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 118477,
+      "max_value": 1459895.465
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Money supply (M1) - Currency in circulation",
+    "scale": "",
+    "unit": "M1",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 62647,
+      "max_value": 784449.6504
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Money supply (M1) - Demand deposits",
     "scale": "",
     "unit": "M1",
     "frequency_name": "Annual",
@@ -2127,9 +2790,9 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M1) Demand deposits Miscellaneous goods and services Implicit GDP deflator Changes in inventories",
+    "sub_category": "Quasi-money",
     "scale": "",
-    "unit": "M1",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2144,9 +2807,43 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Foreign assets (net) Miscellaneous goods and services Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M2)s",
+    "scale": "",
+    "unit": "M2",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 404669,
+      "max_value": 9638905.358
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Money supply (M2)s - Foreign assets (net)",
     "scale": "",
     "unit": "net",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 59448,
+      "max_value": -1073604.396
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Money supply (M2)s - Domestic credit",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2161,9 +2858,9 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Domestic credit Miscellaneous goods and services Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M2)s - Domestic credit - Claims on government sector (net)",
     "scale": "",
-    "unit": "",
+    "unit": "net",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2178,9 +2875,9 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Domestic credit Claims on government sector (net) Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M2)s - Domestic credit - Claims on private sector",
     "scale": "",
-    "unit": "net",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2195,7 +2892,7 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Domestic credit Claims on private sector Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M2)s - Domestic credit - Claims on other financial institutions",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2212,7 +2909,7 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Domestic credit Claims on other financial institutions Implicit GDP deflator Changes in inventories",
+    "sub_category": "Money supply (M2)s - Other items",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2229,9 +2926,26 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Money supply (M2)s Other items Claims on other financial institutions Money Supply (M2) (Pct. annual change) Changes in inventories",
+    "sub_category": "Money supply (M2)s - Other items - Claims on other financial institutions - Money Supply (M2) (Pct. annual change)",
     "scale": "",
     "unit": "M2",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 13.01,
+      "max_value": 13.5
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Money supply (M2)s - Other items - Claims on other financial institutions - M2 (Pct. of GDP at current market prices)",
+    "scale": "",
+    "unit": "% of GDP at current market prices",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2246,9 +2960,26 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Deposit Money Banks Demand deposits Claims on other financial institutions M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Deposit Money Banks - Demand deposits",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 70441.60446,
+      "max_value": 771716.0186
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "Deposit Money Banks - Time deposits",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2263,9 +2994,9 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY Deposit Money Banks Time deposits Claims on other financial institutions M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Deposit Money Banks - Domestic credits outstanding",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2280,7 +3011,24 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY On deposits Savings deposits Claims on other financial institutions M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "On deposits - Savings deposits",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 8.4,
+      "max_value": 3.5
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
+    "sub_category": "On deposits - Time_ 6 months",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2297,7 +3045,7 @@
   {
     "source_id": "adb",
     "category": "MONEY AND INTEREST RATES as of end of period (SLRs million)",
-    "sub_category": "MONEY On deposits Time_ 6 months Claims on other financial institutions M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "On deposits - Time_ 12 months",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2314,7 +3062,41 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Claims on other financial institutions M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Revenue",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 216389,
+      "max_value": 1463810.347
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Revenue - Taxes",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 182392,
+      "max_value": 1298019.06
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Revenue - Taxes - Taxes on income profits and capital gains",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2331,7 +3113,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on income profits and capital gains M2 (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on income profits and capital gains - Payable by individuals",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2348,7 +3130,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on income profits and capital gains Payable by individuals Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on income profits and capital gains - Payable by corporations and other enterprises",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2365,7 +3147,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on income profits and capital gains Payable by corporations and other enterprises Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on income profits and capital gains - Other taxes on income profits and capital gains",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2382,7 +3164,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on payroll and workforce Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on property",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2399,7 +3181,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on property Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2416,7 +3198,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on goods and services Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Taxes - Taxes on international trade and transaction",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2433,7 +3215,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Taxes on international trade and transaction Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Taxes - Other taxes",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2450,7 +3232,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Taxes Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Social contributions",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2467,7 +3249,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Social contributions Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Grants",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2484,7 +3266,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Grants Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Revenue - Other revenue",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2501,7 +3283,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Revenue Other revenue Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2518,7 +3300,24 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Compensation of employees Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Compensation of employees",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 68544,
+      "max_value": 845679.9064
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Expense - Use of goods and services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2535,7 +3334,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Consumption of fixed capital Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Interest",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2552,7 +3351,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Interest Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Subsidies",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2569,7 +3368,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Subsidies Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Grants",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2586,7 +3385,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Grants Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Social benefits",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2603,7 +3402,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Social benefits Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Expense - Other expense",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2620,7 +3419,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Expense Other expense Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Net operating balance",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2637,7 +3436,58 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net or gross investment in nonfinancial assets Nonproduced assets Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Gross operating balance",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -72725,
+      "max_value": -1612554.608
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net or gross investment in nonfinancial assets",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 32896,
+      "max_value": 438753.0904
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net or gross investment in nonfinancial assets - Fixed assets",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 32896,
+      "max_value": 438753.0904
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Expenditure",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2654,7 +3504,75 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net acquisition of financial assets External Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Net lending or Net borrowing",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -105621,
+      "max_value": -2051307.699
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Primary balance",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -34421,
+      "max_value": -1002925.258
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net acquisition of financial assets",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 14554,
+      "max_value": 46094.46426
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net acquisition of financial assets - Domestic",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 14554,
+      "max_value": 46094.46426
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net incurrence of liabilities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2671,7 +3589,24 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities Domestic Other taxes Other taxes on income profits and capital gains Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - Domestic",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 119680,
+      "max_value": 2111303.51
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Net incurrence of liabilities - External",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2688,9 +3623,9 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Government Finance (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Revenue",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2705,7 +3640,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Revenue Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Taxes",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2722,7 +3657,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Taxes Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Taxes payable by individuals",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2739,7 +3674,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Taxes payable by individuals Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Taxes payable by corporations and other enterprises",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2756,7 +3691,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Taxes payable by corporations and other enterprises Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Expenditure",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2773,7 +3708,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Expenditure Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Net lending or Net borrowing",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2790,7 +3725,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Net incurrence of liabilities External Other taxes Net lending or Net borrowing Changes in inventories",
+    "sub_category": "Net incurrence of liabilities - External - Other taxes - Primary balance",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2807,7 +3742,41 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure General public services Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 322048,
+      "max_value": 3537148.351
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Total expenditure - General public services",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 90892,
+      "max_value": 1237935.755
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+    "sub_category": "Total expenditure - Defense",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2824,7 +3793,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Defense Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Public order and safety",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2841,7 +3810,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Public order and safety Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Economic affairs",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2858,7 +3827,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Environmental protection Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Housing and community amenities",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2875,7 +3844,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Housing and community amenities Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Health",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2892,7 +3861,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Recreation culture and religion Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Education",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2909,7 +3878,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Education Other taxes Primary balance Changes in inventories",
+    "sub_category": "Total expenditure - Social protection",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2926,9 +3895,9 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Social protection Other taxes Expenditure by Function (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Total expenditure - Social protection - Other taxes - Education",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2943,7 +3912,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Social protection Other taxes Education Changes in inventories",
+    "sub_category": "Total expenditure - Social protection - Other taxes - Health",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2960,7 +3929,7 @@
   {
     "source_id": "adb",
     "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
-    "sub_category": "GOVERNMENT Total expenditure Social protection Other taxes Health Changes in inventories",
+    "sub_category": "Total expenditure - Social protection - Other taxes - Social protection",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -2977,9 +3946,60 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports cif Trade balance Other taxes External Trade (Pct. annual change) Changes in inventories",
+    "sub_category": "Exports fob",
     "scale": "",
-    "unit": "% annual change",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 420114,
+      "max_value": 2486943.15
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Imports cif",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 554290,
+      "max_value": 4104217.521
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Imports cif - Trade balance",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -134176,
+      "max_value": -1617274.371
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Imports cif - Trade balance - Other taxes - Exports",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -2994,7 +4014,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports cif Trade balance Other taxes Exports Changes in inventories",
+    "sub_category": "Imports cif - Trade balance - Other taxes - Imports",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3011,7 +4031,41 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 1. United States Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 5302.489531,
+      "max_value": 13483.56341
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Exports total - 1. United States",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 2192.560384,
+      "max_value": 3298.951421
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Exports total - 2. United Kingdom",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3028,7 +4082,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 2. United Kingdom Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 3. India",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3045,7 +4099,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 3. India Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 4. Germany",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3062,7 +4116,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 4. Germany Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 5. Italy",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3079,7 +4133,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 5. Italy Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 6. Belgium",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3096,7 +4150,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 6. Belgium Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 7. Netherlands",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3113,7 +4167,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 7. Netherlands Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 8. United Arab Emirates",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3130,7 +4184,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 8. United Arab Emirates Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 9. China People's Republic of",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3147,7 +4201,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Exports total 9. China People's Republic of Other taxes Imports Changes in inventories",
+    "sub_category": "Exports total - 10. Canada",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3164,7 +4218,41 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 1. China People's Republic of Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 6526.366371,
+      "max_value": 21954.866453
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Imports total - 1. China People's Republic of",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 251.102434,
+      "max_value": 5097.727582
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL TRADEv calendar year (SLRs million)",
+    "sub_category": "Imports total - 2. India",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3181,7 +4269,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 2. India Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 3. United Arab Emirates",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3198,7 +4286,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 3. United Arab Emirates Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 4. Singapore",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3215,7 +4303,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 4. Singapore Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 5. Japan",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3232,7 +4320,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 5. Japan Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 6. Malaysia",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3249,7 +4337,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 6. Malaysia Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 7. United States",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3266,7 +4354,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 7. United States Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 8. Thailand",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3283,7 +4371,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 8. Thailand Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 8. Taipei China",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3300,7 +4388,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL TRADEv calendar year (SLRs million)",
-    "sub_category": "EXTERNAL Imports total 8. Taipei China Other taxes Imports Changes in inventories",
+    "sub_category": "Imports total - 10. Indonesia",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3317,7 +4405,41 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on goods Other taxes Imports Changes in inventories",
+    "sub_category": "Current account balance",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -1066.188125,
+      "max_value": -3343.108831
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "Current account balance - Balance on goods",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -1797.519634,
+      "max_value": -8138.835246
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "Current account balance - Balance on goods - Exports",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3334,7 +4456,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on goods Exports Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on goods - Imports",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3351,7 +4473,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on goods Imports Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3368,7 +4490,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on services Imports Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on services - Credit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3385,7 +4507,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on services Credit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on services - Debit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3402,7 +4524,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on services Debit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on primary income",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3419,7 +4541,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on primary income Debit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on primary income - Credit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3436,7 +4558,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on primary income Credit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on primary income - Debit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3453,7 +4575,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on primary income Debit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on secondary income",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3470,7 +4592,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on secondary income Debit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on secondary income - Credit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3487,7 +4609,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on secondary income Credit Imports Changes in inventories",
+    "sub_category": "Current account balance - Balance on secondary income - Debit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3504,7 +4626,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Current account balance Balance on secondary income Debit Imports Changes in inventories",
+    "sub_category": "Capital account",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3521,7 +4643,24 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Capital account Credit Debit Imports Changes in inventories",
+    "sub_category": "Capital account - Credit",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 55.89336293,
+      "max_value": 49.52161567
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "Capital account - Debit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3538,7 +4677,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Capital account Debit Debit Imports Changes in inventories",
+    "sub_category": "Financial accountx",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3555,7 +4694,24 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Financial accountx Direct investment Debit Imports Changes in inventories",
+    "sub_category": "Financial accountx - Direct investment",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 175.7,
+      "max_value": -580.0814524
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "Financial accountx - Portfolio investment",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3572,7 +4728,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Financial accountx Financial derivatives Debit Imports Changes in inventories",
+    "sub_category": "Financial accountx - Other investment",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3589,7 +4745,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE Financial accountx Other investment Debit Imports Changes in inventories",
+    "sub_category": "Net errors and omissions",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3606,9 +4762,60 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Balance of Payments (Pct. of GDP at current market prices) Changes in inventories",
+    "sub_category": "Overall balance",
     "scale": "",
-    "unit": "% of GDP at current market prices",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": -522,
+      "max_value": -3966.59506
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "Reserves and related items",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 522,
+      "max_value": -2526.28785
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "International investment position",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 10,
+      "min_t": 2012,
+      "max_t": 2021,
+      "min_value": -36409.21068,
+      "max_value": -55740.33031
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+    "sub_category": "International investment position - Other investment - Debit - Exports",
+    "scale": "",
+    "unit": "",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3623,7 +4830,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Exports Changes in inventories",
+    "sub_category": "International investment position - Other investment - Debit - Imports",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3640,7 +4847,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Imports Changes in inventories",
+    "sub_category": "International investment position - Other investment - Debit - Balance on goods",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3657,7 +4864,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Balance on goods Changes in inventories",
+    "sub_category": "International investment position - Other investment - Debit - Balance on services",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3674,7 +4881,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Balance on services Changes in inventories",
+    "sub_category": "International investment position - Other investment - Debit - Current account balance",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3691,7 +4898,7 @@
   {
     "source_id": "adb",
     "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
-    "sub_category": "BALANCE International investment position Other investment Debit Current account balance Changes in inventories",
+    "sub_category": "International investment position - Other investment - Debit - Overall balance",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3708,7 +4915,41 @@
   {
     "source_id": "adb",
     "category": "INTERNATIONAL RESERVES as of end of period ($ million)",
-    "sub_category": "INTERNATIONAL Total Gold national valuation Debit Overall balance Changes in inventories",
+    "sub_category": "Total",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 1146.8376195677,
+      "max_value": 5665.5581114258
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "INTERNATIONAL RESERVES as of end of period ($ million)",
+    "sub_category": "Total - Gold national valuation",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 107.83283972,
+      "max_value": 408.88788746954
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "INTERNATIONAL RESERVES as of end of period ($ million)",
+    "sub_category": "Total - Foreign exchange",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3725,7 +4966,7 @@
   {
     "source_id": "adb",
     "category": "INTERNATIONAL RESERVES as of end of period ($ million)",
-    "sub_category": "INTERNATIONAL Total Foreign exchange Debit Overall balance Changes in inventories",
+    "sub_category": "Total - Reserve position in the IMF",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3742,7 +4983,7 @@
   {
     "source_id": "adb",
     "category": "INTERNATIONAL RESERVES as of end of period ($ million)",
-    "sub_category": "INTERNATIONAL Total Reserve position in the IMF Debit Overall balance Changes in inventories",
+    "sub_category": "Total - SDRs",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3758,8 +4999,76 @@
   },
   {
     "source_id": "adb",
+    "category": "EXCHANGE RATES (SLRs\u2013$)",
+    "sub_category": "End of period",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 82.58,
+      "max_value": 200.4338
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXCHANGE RATES (SLRs\u2013$)",
+    "sub_category": "Average of period",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 77.005116666667,
+      "max_value": 200.1553
+    }
+  },
+  {
+    "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Long-term debt Debit Overall balance Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 9249.8482864,
+      "max_value": 56341.9521496
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
+    "sub_category": "Total debt outstanding and disbursed - Long-term debt",
+    "scale": "",
+    "unit": "",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 8312.4377775,
+      "max_value": 46019.247273
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
+    "sub_category": "Total debt outstanding and disbursed - Long-term debt - Public and publicly guaranteed",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3776,7 +5085,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Long-term debt Public and publicly guaranteed Overall balance Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Long-term debt - Private nonguaranteed",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3793,7 +5102,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Long-term debt Private nonguaranteed Overall balance Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Short-term debt",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3810,7 +5119,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Short-term debt Private nonguaranteed Overall balance Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Use of IMF credit",
     "scale": "",
     "unit": "",
     "frequency_name": "Annual",
@@ -3827,9 +5136,26 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Use of IMF credit Private nonguaranteed External debt (Pct. of GNI) Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Use of IMF credit - Private nonguaranteed - External debt (Pct. of GNI)",
     "scale": "",
     "unit": "% of GNI",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 57.753328807613,
+      "max_value": 71.779139559951
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
+    "sub_category": "Total debt outstanding and disbursed - Use of IMF credit - Private nonguaranteed - Total long-term debt (Pct. of total debt)",
+    "scale": "",
+    "unit": "% of total debt",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3844,7 +5170,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Use of IMF credit Private nonguaranteed Total long-term debt (Pct. of total debt) Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Use of IMF credit - Private nonguaranteed - Short-term debt (Pct. of total debt)",
     "scale": "",
     "unit": "% of total debt",
     "frequency_name": "Annual",
@@ -3861,9 +5187,9 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Total debt outstanding and disbursed Use of IMF credit Private nonguaranteed Short-term debt (Pct. of total debt) Changes in inventories",
+    "sub_category": "Total debt outstanding and disbursed - Use of IMF credit - Private nonguaranteed - Debt service (Pct. of exports of goods and services)",
     "scale": "",
-    "unit": "% of total debt",
+    "unit": "% of exports of goods and services",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3878,9 +5204,26 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Principal repayments on long-term debt Private nonguaranteed Debt service (Pct. of exports of goods and services) Changes in inventories",
+    "sub_category": "Debt service transactions during the year ($ million) - Principal repayments on long-term debt",
     "scale": "",
-    "unit": "",
+    "unit": "$ million",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 22,
+      "min_t": 2000,
+      "max_t": 2021,
+      "min_value": 453.3641717,
+      "max_value": 5721.2144883
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
+    "sub_category": "Debt service transactions during the year ($ million) - Interest on long-term debt",
+    "scale": "",
+    "unit": "$ million",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3895,9 +5238,9 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Interest on long-term debt Private nonguaranteed Debt service (Pct. of exports of goods and services) Changes in inventories",
+    "sub_category": "Debt service transactions during the year ($ million) - Interest on short-term debt",
     "scale": "",
-    "unit": "",
+    "unit": "$ million",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3912,9 +5255,26 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Interest rate (Pct. per annum) Private nonguaranteed Debt service (Pct. of exports of goods and services) Changes in inventories",
+    "sub_category": "Average terms of new commitments - Interest rate (Pct. per annum)",
     "scale": "",
     "unit": "% per annum",
+    "frequency_name": "Annual",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 21,
+      "min_t": 2000,
+      "max_t": 2020,
+      "min_value": 4.2394,
+      "max_value": 2.161
+    }
+  },
+  {
+    "source_id": "adb",
+    "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
+    "sub_category": "Average terms of new commitments - Maturity (years)",
+    "scale": "",
+    "unit": "years",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
@@ -3929,7 +5289,7 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Average terms of new commitments Maturity (years) Private nonguaranteed Debt service (Pct. of exports of goods and services) Changes in inventories",
+    "sub_category": "Average terms of new commitments - Grace period (years)",
     "scale": "",
     "unit": "years",
     "frequency_name": "Annual",
@@ -3946,9 +5306,9 @@
   {
     "source_id": "adb",
     "category": "EXTERNAL INDEBTEDNESS as of end of year ($ million)",
-    "sub_category": "EXTERNAL Average terms of new commitments Grace period (years) Private nonguaranteed Debt service (Pct. of exports of goods and services) Changes in inventories",
+    "sub_category": "Average terms of new commitments - Grant element (Pct.)",
     "scale": "",
-    "unit": "years",
+    "unit": "%",
     "frequency_name": "Annual",
     "i_subject": -1,
     "footnotes": {},
