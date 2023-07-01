@@ -62,13 +62,10 @@ def parse_excel():
     last_unit = ''
     d_list = []
     while True:
-        category_str = worksheet.cell(row=i_row, column=I_COL_CATEGORY).value
-        i_row += 1
         if i_row > 1_000:
             break
 
-        if not category_str:
-            continue
+        category_str = worksheet.cell(row=i_row, column=I_COL_CATEGORY).value
 
         data = {}
         for i_year, year in enumerate(year_list):
@@ -76,6 +73,12 @@ def parse_excel():
             data[year] = parse_number(str(value))
 
         data = dict([item for item in data.items() if item[1] is not None])
+
+        # data reading complete
+        i_row += 1
+
+        if not category_str:
+            continue
 
         if '(' in category_str:
             last_unit = category_str.split('(')[1].split(')')[0]
@@ -93,19 +96,8 @@ def parse_excel():
         i = n_leading_spaces // 5
         indent_to_text[i] = category_str.strip()
 
-        if n_leading_spaces == 0:
-            continue
-
         category = category1
-        sub_category_parts = indent_to_text
-        MAX_SUBCATEGORY_LEN = 150
-        n = len(sub_category_parts)
-        subcategory_end = ''
-        for i in range(n):
-            part = sub_category_parts[n - i - 1]
-            if len(part + subcategory_end) < MAX_SUBCATEGORY_LEN:
-                subcategory_end = part + ' ' + subcategory_end
-        sub_category = category1.split(' ')[0] + ' ' + subcategory_end.strip()
+        sub_category = ' - '.join(indent_to_text[: i + 1])
 
         summary_statistics = CBSLDataBuilder.get_summary_statistics(data)
 
@@ -132,6 +124,10 @@ def parse_excel():
             raw_data=data,
         )
         d_list.append(d)
+        print(d['category'])
+        print(d['sub_category'])
+        print(list(d['cleaned_data'].items())[0])
+        print('-' * 32)
     return d_list
 
 
@@ -143,12 +139,11 @@ def build_details(d_list, dir_output):
             dir_output,
             f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
         )
-        # log.debug(len(file_path))
-        # if file_path in file_path_set:
-        #     raise Exception(f'Duplicate file path: {file_path}')
+        if file_path in file_path_set:
+            log.error(f'Duplicate file path: {file_path}')
         file_path_set.add(file_path)
         JSONFile(file_path).write(d)
-        log.debug(f'Wrote {file_path}')
+        # log.debug(f'Wrote {file_path}')
 
 
 def build_summary(d_list, dir_output):
