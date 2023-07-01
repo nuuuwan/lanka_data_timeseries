@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Gross capital formation Changes in inventories Private Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 46209,
+    "max_value": 27428.544
+  },
+  "cleaned_data": {
+    "2010": 46209,
+    "2011": 133437,
+    "2012": 67272,
+    "2013": 60649,
+    "2014": 35263,
+    "2015": 87388,
+    "2016": 65705,
+    "2017": 95003,
+    "2018": 75162,
+    "2019": 32775,
+    "2020": 20859,
+    "2021": 27428.544
+  },
+  "raw_data": {
+    "2010": 46209,
+    "2011": 133437,
+    "2012": 67272,
+    "2013": 60649,
+    "2014": 35263,
+    "2015": 87388,
+    "2016": 65705,
+    "2017": 95003,
+    "2018": 75162,
+    "2019": 32775,
+    "2020": 20859,
+    "2021": 27428.544
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "adb",
+  "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+  "sub_category": "GOVERNMENT Expense Social benefits Other taxes Other taxes on income profits and capital gains Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 13,
+    "min_t": 2000,
+    "max_t": 2012,
+    "min_value": 26570,
+    "max_value": 196795
+  },
+  "cleaned_data": {
+    "2000": 26570,
+    "2001": 25324,
+    "2002": 26577,
+    "2003": 34233,
+    "2004": 38372,
+    "2005": 40669,
+    "2006": 53897,
+    "2007": 74145,
+    "2008": 82423,
+    "2009": 110041,
+    "2010": 119496.1,
+    "2011": 132297,
+    "2012": 196795
+  },
+  "raw_data": {
+    "2000": 26570,
+    "2001": 25324,
+    "2002": 26577,
+    "2003": 34233,
+    "2004": 38372,
+    "2005": 40669,
+    "2006": 53897,
+    "2007": 74145,
+    "2008": 82423,
+    "2009": 110041,
+    "2010": 119496.1,
+    "2011": 132297,
+    "2012": 196795
+  }
+}

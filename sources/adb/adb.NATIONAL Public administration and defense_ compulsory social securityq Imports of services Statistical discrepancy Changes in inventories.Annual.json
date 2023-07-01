@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Public administration and defense_ compulsory social securityq Imports of services Statistical discrepancy Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 208163.9294,
+    "max_value": 290487.4758
+  },
+  "cleaned_data": {
+    "2010": 208163.9294,
+    "2011": 204457.8372,
+    "2012": 250920.6661,
+    "2013": 236476.7643,
+    "2014": 260823.2842,
+    "2015": 240036.6899,
+    "2016": 256480.548,
+    "2017": 269953.0377,
+    "2018": 267447.8759,
+    "2019": 283604.5639,
+    "2020": 284750.9157,
+    "2021": 290487.4758
+  },
+  "raw_data": {
+    "2010": 208163.9294,
+    "2011": 204457.8372,
+    "2012": 250920.6661,
+    "2013": 236476.7643,
+    "2014": 260823.2842,
+    "2015": 240036.6899,
+    "2016": 256480.548,
+    "2017": 269953.0377,
+    "2018": 267447.8759,
+    "2019": 283604.5639,
+    "2020": 284750.9157,
+    "2021": 290487.4758
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Gross capital formation Changes in inventories Private",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 46209,
+    "max_value": 55731.907
+  },
+  "cleaned_data": {
+    "2010": 46209,
+    "2011": 142414,
+    "2012": 77222,
+    "2013": 74479,
+    "2014": 44646,
+    "2015": 37071,
+    "2016": 87388,
+    "2017": 134637.845,
+    "2018": 109618,
+    "2019": 50382,
+    "2020": 32888,
+    "2021": 55731.907
+  },
+  "raw_data": {
+    "2010": 46209,
+    "2011": 142414,
+    "2012": 77222,
+    "2013": 74479,
+    "2014": 44646,
+    "2015": 37071,
+    "2016": 87388,
+    "2017": 134637.845,
+    "2018": 109618,
+    "2019": 50382,
+    "2020": 32888,
+    "2021": 55731.907
+  }
+}

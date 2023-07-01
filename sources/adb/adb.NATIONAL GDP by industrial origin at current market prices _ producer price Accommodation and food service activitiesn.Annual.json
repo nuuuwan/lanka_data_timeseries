@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL GDP by industrial origin at current market prices _ producer price Accommodation and food service activitiesn",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 95910.07263,
+    "max_value": 474151.6195
+  },
+  "cleaned_data": {
+    "2010": 95910.07263,
+    "2011": 115582.2625,
+    "2012": 135595.5952,
+    "2013": 175930.5794,
+    "2014": 185369.9482,
+    "2015": 221360.645,
+    "2016": 253808.607,
+    "2017": 271641.2092,
+    "2018": 307277.7139,
+    "2019": 349191.5494,
+    "2020": 385981.4513,
+    "2021": 474151.6195
+  },
+  "raw_data": {
+    "2010": 95910.07263,
+    "2011": 115582.2625,
+    "2012": 135595.5952,
+    "2013": 175930.5794,
+    "2014": 185369.9482,
+    "2015": 221360.645,
+    "2016": 253808.607,
+    "2017": 271641.2092,
+    "2018": 307277.7139,
+    "2019": 349191.5494,
+    "2020": 385981.4513,
+    "2021": 474151.6195
+  }
+}

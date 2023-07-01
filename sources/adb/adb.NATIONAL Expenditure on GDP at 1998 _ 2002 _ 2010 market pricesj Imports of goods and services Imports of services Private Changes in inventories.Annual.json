@@ -1,0 +1,41 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Expenditure on GDP at 1998 _ 2002 _ 2010 market pricesj Imports of goods and services Imports of services Private Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 10,
+    "min_t": 2000,
+    "max_t": 2009,
+    "min_value": 1345,
+    "max_value": 7064.19189
+  },
+  "cleaned_data": {
+    "2000": 1345,
+    "2001": 595,
+    "2002": 8000,
+    "2003": 8427.6,
+    "2004": 6148.4,
+    "2005": 6257,
+    "2006": 7606,
+    "2007": 7001.47215,
+    "2008": 5988.08788,
+    "2009": 7064.19189
+  },
+  "raw_data": {
+    "2000": 1345,
+    "2001": 595,
+    "2002": 8000,
+    "2003": 8427.6,
+    "2004": 6148.4,
+    "2005": 6257,
+    "2006": 7606,
+    "2007": 7001.47215,
+    "2008": 5988.08788,
+    "2009": 7064.19189
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Expenditure on GDP at current market pricesj Less_ Imports of goods and services Imports of services Private",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 10,
+    "min_t": 2000,
+    "max_t": 2009,
+    "min_value": 2084,
+    "max_value": 6801.803
+  },
+  "cleaned_data": {
+    "2000": 2084,
+    "2001": 5068,
+    "2002": 8000,
+    "2003": 7224,
+    "2004": 10939,
+    "2005": 16951,
+    "2006": 18266,
+    "2007": 23127.006,
+    "2008": 19987.446,
+    "2009": 6801.803
+  },
+  "raw_data": {
+    "2000": 2084,
+    "2001": 5068,
+    "2002": 8000,
+    "2003": 7224,
+    "2004": 10939,
+    "2005": 16951,
+    "2006": 18266,
+    "2007": 23127.006,
+    "2008": 19987.446,
+    "2009": 6801.803
+  }
+}

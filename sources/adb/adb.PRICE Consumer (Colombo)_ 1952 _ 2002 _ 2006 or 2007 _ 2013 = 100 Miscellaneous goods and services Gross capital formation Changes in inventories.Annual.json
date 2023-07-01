@@ -1,0 +1,39 @@
+{
+  "source_id": "adb",
+  "category": "PRICE INDEXES period averages",
+  "sub_category": "PRICE Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 Miscellaneous goods and services Gross capital formation Changes in inventories",
+  "scale": "",
+  "unit": "Colombo",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 9,
+    "min_t": 2013,
+    "max_t": 2021,
+    "min_value": 100,
+    "max_value": 123.7534064
+  },
+  "cleaned_data": {
+    "2013": 100,
+    "2014": 101.6,
+    "2015": 105.3,
+    "2016": 107.1,
+    "2017": 125.3,
+    "2018": 133.2,
+    "2019": 137.1,
+    "2020": 144.9,
+    "2021": 123.7534064
+  },
+  "raw_data": {
+    "2013": 100,
+    "2014": 101.6,
+    "2015": 105.3,
+    "2016": 107.1,
+    "2017": 125.3,
+    "2018": 133.2,
+    "2019": 137.1,
+    "2020": 144.9,
+    "2021": 123.7534064
+  }
+}

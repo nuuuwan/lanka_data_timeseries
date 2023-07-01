@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Electricity gas steam and air-conditioning supplyk Imports of services Statistical discrepancy Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 23175.38064,
+    "max_value": 39323.35108
+  },
+  "cleaned_data": {
+    "2010": 23175.38064,
+    "2011": 24179.62688,
+    "2012": 27333.88478,
+    "2013": 28749.72652,
+    "2014": 31135.25896,
+    "2015": 35756.3224,
+    "2016": 41007.37907,
+    "2017": 44510.50337,
+    "2018": 43127.66626,
+    "2019": 43954.07628,
+    "2020": 44390.85873,
+    "2021": 39323.35108
+  },
+  "raw_data": {
+    "2010": 23175.38064,
+    "2011": 24179.62688,
+    "2012": 27333.88478,
+    "2013": 28749.72652,
+    "2014": 31135.25896,
+    "2015": 35756.3224,
+    "2016": 41007.37907,
+    "2017": 44510.50337,
+    "2018": 43127.66626,
+    "2019": 43954.07628,
+    "2020": 44390.85873,
+    "2021": 39323.35108
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "adb",
+  "category": "BALANCE OF PAYMENTSw calendar year ($ million)",
+  "sub_category": "BALANCE Financial accountx Financial derivatives Debit Imports Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 10,
+    "min_t": 2012,
+    "max_t": 2021,
+    "min_value": -2021.001962,
+    "max_value": -1829.166192
+  },
+  "cleaned_data": {
+    "2012": -2021.001962,
+    "2013": -1239.531947,
+    "2014": -192.4820449,
+    "2015": -1353.575493,
+    "2016": -56.54242188,
+    "2017": -1834.57763,
+    "2018": -700.444025,
+    "2019": 182.008653,
+    "2020": -366.398664,
+    "2021": -1829.166192
+  },
+  "raw_data": {
+    "2012": -2021.001962,
+    "2013": -1239.531947,
+    "2014": -192.4820449,
+    "2015": -1353.575493,
+    "2016": -56.54242188,
+    "2017": -1834.57763,
+    "2018": -700.444025,
+    "2019": 182.008653,
+    "2020": -366.398664,
+    "2021": -1829.166192
+  }
+}

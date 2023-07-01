@@ -1,0 +1,45 @@
+{
+  "source_id": "adb",
+  "category": "NATIONAL ACCOUNTS calendar year (SLRs million)",
+  "sub_category": "NATIONAL Accommodation and food service activitiesn Imports of services Statistical discrepancy Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 12,
+    "min_t": 2010,
+    "max_t": 2021,
+    "min_value": 142398.5444,
+    "max_value": 424369.6615
+  },
+  "cleaned_data": {
+    "2010": 142398.5444,
+    "2011": 149316.3644,
+    "2012": 161390.4709,
+    "2013": 182057.7567,
+    "2014": 198949.6903,
+    "2015": 221360.645,
+    "2016": 241302.9451,
+    "2017": 268064.4196,
+    "2018": 287243.7878,
+    "2019": 321711.0155,
+    "2020": 357578.0134,
+    "2021": 424369.6615
+  },
+  "raw_data": {
+    "2010": 142398.5444,
+    "2011": 149316.3644,
+    "2012": 161390.4709,
+    "2013": 182057.7567,
+    "2014": 198949.6903,
+    "2015": 221360.645,
+    "2016": 241302.9451,
+    "2017": 268064.4196,
+    "2018": 287243.7878,
+    "2019": 321711.0155,
+    "2020": 357578.0134,
+    "2021": 424369.6615
+  }
+}

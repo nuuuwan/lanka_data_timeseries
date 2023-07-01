@@ -1,0 +1,29 @@
+{
+  "source_id": "adb",
+  "category": "GOVERNMENT FINANCEu fiscal year ending 31 December (SLRs million)",
+  "sub_category": "GOVERNMENT Revenue Taxes Taxes on payroll and workforce Other taxes on income profits and capital gains Changes in inventories",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 4,
+    "min_t": 2000,
+    "max_t": 2003,
+    "min_value": 8163,
+    "max_value": 51
+  },
+  "cleaned_data": {
+    "2000": 8163,
+    "2001": 8415,
+    "2002": 2511,
+    "2003": 51
+  },
+  "raw_data": {
+    "2000": 8163,
+    "2001": 8415,
+    "2002": 2511,
+    "2003": 51
+  }
+}
