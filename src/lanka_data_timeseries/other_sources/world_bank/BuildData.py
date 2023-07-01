@@ -5,6 +5,7 @@ import tempfile
 from utils import File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
+from lanka_data_timeseries.common import clean_str
 
 SOURCE_ID = 'world_bank'
 
@@ -33,38 +34,6 @@ SOURCE_ID = 'world_bank'
 
 
 log = Log(__name__)
-
-
-def clean_str(x):
-    x = x.replace('"', '')
-    x = x.replace('%', 'Pct.')
-    x = x.replace('/', ' or ')
-    x = x.replace(':', '_')
-    x = x.replace('+', '_')
-    return x
-
-
-def parse_int(x):
-    x = clean_str(x)
-    try:
-        return int(x)
-    except ValueError:
-        return None
-
-
-def parse_float(x):
-    x = clean_str(x)
-    try:
-        return float(x)
-    except ValueError:
-        return None
-
-
-def parse_number(x):
-    i = parse_int(x)
-    if i is not None:
-        return i
-    return parse_float(x)
 
 
 def build_data():
