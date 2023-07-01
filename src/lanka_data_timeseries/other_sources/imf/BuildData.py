@@ -1,11 +1,11 @@
 import os
-import re
 import tempfile
 
 import requests
 from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
+from lanka_data_timeseries.common import clean_str, DEFAULT_FREQUENCY_NAME, DEFAULT_I_SUBJECT, DEFAULT_SCALE
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
@@ -13,23 +13,6 @@ ALPHA3_LKA = 'LKA'
 log = Log(__name__)
 SOURCE_ID = 'imf'
 DEFAULT_CATEGORY = 'IMF - Sri Lanka Data'
-DEFAULT_SCALE = ''
-DEFAULT_FREQUENCY_NAME = 'Annual'
-DEFAULT_I_SUBJECT = -1
-
-
-def clean_str(x):
-    if x is None:
-        return x
-    x = x.replace('"', '')
-    x = x.replace('%', 'Pct.')
-    x = x.replace('/', ' or ')
-    x = x.replace(':', '_')
-    x = x.replace('+', '_')
-    x = x.replace('\n', ' ')
-    x = x.replace(',', ' ')
-    x = re.sub(r'\s+', ' ', x).strip()
-    return x
 
 
 def get_json(url):
