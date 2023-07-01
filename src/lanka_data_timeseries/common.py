@@ -1,5 +1,8 @@
 import re
 
+DEFAULT_SCALE = ''
+DEFAULT_FREQUENCY_NAME = 'Annual'
+DEFAULT_I_SUBJECT = -1
 
 def clean_str(x):
     if x is None:
