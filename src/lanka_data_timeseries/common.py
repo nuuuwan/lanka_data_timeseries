@@ -3,6 +3,9 @@ import re
 DEFAULT_SCALE = ''
 DEFAULT_FREQUENCY_NAME = 'Annual'
 DEFAULT_I_SUBJECT = -1
+DEFAULT_UNIT = ''
+DEFAULT_FOOTNOTES = {}
+
 
 def clean_str(x):
     if x is None:
@@ -11,9 +14,11 @@ def clean_str(x):
     x = x.replace('%', 'Pct.')
     x = x.replace('/', ' or ')
     x = x.replace(':', '_')
+    x = x.replace(';', '_')
     x = x.replace('+', '_')
     x = x.replace('\n', ' ')
     x = x.replace(',', ' ')
+    x = x.replace('|', '_')
     x = re.sub(r'\s+', ' ', x).strip()
     return x
 
