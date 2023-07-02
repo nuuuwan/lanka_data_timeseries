@@ -17,8 +17,6 @@ dir_data = os.path.join(
 DIR_TMP_DATA = os.path.join(
     tempfile.gettempdir(),
     'tmp.lanka_data_timeseries',
-    'sources',
-    'misc',
 )
 
 
