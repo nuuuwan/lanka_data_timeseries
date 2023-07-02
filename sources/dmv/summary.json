@@ -1,0 +1,274 @@
+[
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - AMBULANCES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2143,
+      "max_value": 3566
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - BUSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 84280,
+      "max_value": 113074
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - DUAL PURPOSE VEHICLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 209228,
+      "max_value": 449707
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - HEARSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 347,
+      "max_value": 491
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - L.V.TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 276039,
+      "max_value": 393782
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - L.V.TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 46457,
+      "max_value": 80382
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - LORRY OTHERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2299,
+      "max_value": 14562
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - LORRY TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 6552,
+      "max_value": 9675
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR CARS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 410282,
+      "max_value": 901070
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR CYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2100832,
+      "max_value": 4831077
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR HOME",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 0,
+      "max_value": 6
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR LORRIES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 282033,
+      "max_value": 349605
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR TRICYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 529543,
+      "max_value": 1184337
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - N.A. TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 958,
+      "max_value": 958
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - PRIME MOVERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 3318,
+      "max_value": 7127
+    }
+  },
+  {
+    "source_id": "dmv",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - QUADRICYCLE",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 0,
+      "max_value": 2442
+    }
+  }
+]
