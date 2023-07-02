@@ -1,9 +1,8 @@
-from lanka_data_timeseries.cbsl import BuildSuccessSummary, BuildSummary
+from lanka_data_timeseries.cbsl import BuildSummary
 
 
 def main():
     BuildSummary.build()
-    BuildSuccessSummary.build()
 
 
 if __name__ == '__main__':

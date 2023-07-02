@@ -13,12 +13,23 @@ BRANCH_DATA = 'data'
 
 class BuildSummary:
     @staticmethod
-    def get_data_list():
+    def init():
         git = Git(URL_GIT_REPO)
         git.clone(DIR_TMP_DATA, force=False)
         git.checkout(BRANCH_DATA)
 
-        dir_data = os.path.join(DIR_TMP_DATA, 'sources', 'cbsl')
+    @staticmethod
+    def get_source_id_list():
+        dir_sources = os.path.join(DIR_TMP_DATA, 'sources')
+        source_id_list = []
+        for file_name_only in os.listdir(dir_sources):
+            if os.path.isdir(os.path.join(dir_sources, file_name_only)):
+                source_id_list.append(file_name_only)
+        return source_id_list
+
+    @staticmethod
+    def get_data_list(source_id):
+        dir_data = os.path.join(DIR_TMP_DATA, 'sources', source_id)
         d_list = []
         for file_name_only in os.listdir(dir_data):
             if not file_name_only.endswith('.json'):
@@ -44,14 +55,13 @@ class BuildSummary:
     def extract(d):
         del d['raw_data']
         del d['cleaned_data']
-        d['latest_value'] = d['summary_statistics']['max_value']
         return d
 
     @staticmethod
-    def write(data_list_all):
+    def write(data_list_all, source_id):
         data_list = [BuildSummary.extract(d) for d in data_list_all]
         file_path = os.path.join(
-            DIR_TMP_DATA, 'sources', 'cbsl', 'summary.json'
+            DIR_TMP_DATA, 'sources', source_id, 'summary.json'
         )
         JSONFile(file_path).write(data_list)
         file_size = os.path.getsize(file_path) / 1_000_000
@@ -62,8 +72,11 @@ class BuildSummary:
 
     @staticmethod
     def build():
-        data_list = BuildSummary.get_data_list()
-        BuildSummary.write(data_list)
+        BuildSummary.init()
+        source_id_list = BuildSummary.get_source_id_list()
+        for source_id in source_id_list:
+            data_list = BuildSummary.get_data_list(source_id)
+            BuildSummary.write(data_list, source_id)
 
 
 if __name__ == '__main__':
