@@ -34,18 +34,7 @@ class DataBuilder:
         return dir_data
 
     @staticmethod
-    def clean_time(t: str) -> str:
-        t = t.replace('"', '')
-
-        for i, month in enumerate(MONTHS):
-            t = t.replace(month, f'{i+1:02d}')
-        for i, quarter in enumerate(QUARTERS):
-            m = (i + 1) * 3
-            t = t.replace(quarter, f'{m:02d}')
-        for i, half in enumerate(HALVES):
-            m = (i + 1) * 6
-            t = t.replace(half, f'{m:02d}')
-
+    def normalize_time(t: str) -> str:
         if len(t) == 4:
             t = f'{t}-01-01'
 
@@ -53,6 +42,23 @@ class DataBuilder:
             t = f'{t}-01'
 
         return t
+
+    @staticmethod
+    def clean_time(t: str) -> str:
+        t = t.replace('"', '')
+
+        for i, month in enumerate(MONTHS):
+            t = t.replace(month, f'{i+1:02d}')
+
+        for i, quarter in enumerate(QUARTERS):
+            m = (i + 1) * 3
+            t = t.replace(quarter, f'{m:02d}')
+
+        for i, half in enumerate(HALVES):
+            m = (i + 1) * 6
+            t = t.replace(half, f'{m:02d}')
+
+        return DataBuilder.normalize_time(t)
 
     @staticmethod
     def clean_value(x: str):
