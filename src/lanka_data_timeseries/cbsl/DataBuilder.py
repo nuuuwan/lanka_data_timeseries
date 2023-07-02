@@ -5,6 +5,7 @@ from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
+from lanka_data_timeseries.common import parse_number
 from lanka_data_timeseries.constants import HALVES, MONTHS, QUARTERS
 
 log = Log(__name__)
@@ -71,7 +72,7 @@ class DataBuilder:
         if x.startswith('(') and x.endswith(')'):
             x = '-' + x[1:-1]
 
-        if x.lower() in ['...', '', '-', 'n.a', 'n.a.']:
+        if x.lower() in ['...', '', 'n.a', 'n.a.']:
             return None
 
         x = x.replace(',', '')
@@ -79,16 +80,7 @@ class DataBuilder:
         x = x.replace('I', '1')
         x = x.replace("'", '')
 
-        try:
-            if '.' in x:
-                return float(x)
-
-            return int(x)
-
-        except ValueError:
-            log.warning(f'Could not clean {x}')
-
-        return None
+        return parse_number(x)
 
     @staticmethod
     def clean_data(t_to_value: dict[str, str]) -> dict[str,]:
@@ -128,40 +120,40 @@ class DataBuilder:
             max_value=max_value,
         )
 
-    def write(self):
+    def write_sub_category(self, category, sub_category, d_data):
         frequency_name = self.config.frequency.name
         i_subject = self.config.i_subject
 
+        raw_data = d_data['data']
+        cleaned_data = DataBuilder.clean_data(raw_data)
+        summary_statistics = DataBuilder.get_summary_statistics(cleaned_data)
+
+        footnotes = self.d_footnote_idx.get(sub_category, {})
+        d_data_cleaned = dict(
+            source_id=SOURCE_ID,
+            category=category,
+            sub_category=sub_category,
+            scale=d_data['scale'],
+            unit=d_data['unit'],
+            frequency_name=frequency_name,
+            i_subject=i_subject,
+            footnotes=footnotes,
+            summary_statistics=summary_statistics,
+            cleaned_data=cleaned_data,
+            raw_data=raw_data,
+        )
+
+        file_name = os.path.join(
+            self.dir_data,
+            f'{SOURCE_ID}.{sub_category}.{frequency_name}.json',
+        )
+        JSONFile(file_name).write(d_data_cleaned)
+        log.debug(f'Wrote {file_name}')
+
+    def write(self):
         for category, d_sub in self.d_idx.items():
             for sub_category, d_data in d_sub.items():
-                log.debug(f'Writing {sub_category}...')
-                raw_data = d_data['data']
-                cleaned_data = DataBuilder.clean_data(raw_data)
-                summary_statistics = DataBuilder.get_summary_statistics(
-                    cleaned_data
-                )
-
-                footnotes = self.d_footnote_idx.get(sub_category, {})
-                d_data_cleaned = dict(
-                    source_id=SOURCE_ID,
-                    category=category,
-                    sub_category=sub_category,
-                    scale=d_data['scale'],
-                    unit=d_data['unit'],
-                    frequency_name=frequency_name,
-                    i_subject=i_subject,
-                    footnotes=footnotes,
-                    summary_statistics=summary_statistics,
-                    cleaned_data=cleaned_data,
-                    raw_data=raw_data,
-                )
-
-                file_name = os.path.join(
-                    self.dir_data,
-                    f'{SOURCE_ID}.{sub_category}.{frequency_name}.json',
-                )
-                JSONFile(file_name).write(d_data_cleaned)
-                log.debug(f'Wrote {file_name}')
+                self.write_sub_category(category, sub_category, d_data)
 
 
 if __name__ == '__main__':
