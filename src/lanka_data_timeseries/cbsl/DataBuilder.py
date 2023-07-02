@@ -70,6 +70,9 @@ class DataBuilder:
 
     @staticmethod
     def clean_value(x: str):
+        if x == '-':
+            return 0
+
         x = x.replace('"', '')
         x = x.replace(' ', '')
 
