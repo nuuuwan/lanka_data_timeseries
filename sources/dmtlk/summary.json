@@ -1,0 +1,546 @@
+[
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - AMBULANCES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 12,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 53,
+      "max_value": 14
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - BUSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2637,
+      "max_value": 210
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - DUAL PURPOSE VEHICLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 5193,
+      "max_value": 384
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - HEARSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 12,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 15,
+      "max_value": 1
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - L.V.TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 21346,
+      "max_value": 2694
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - L.V.TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2129,
+      "max_value": 1653
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - LORRY OTHERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 389,
+      "max_value": 335
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - LORRY TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 292,
+      "max_value": 128
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - MOTOR CARS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 22603,
+      "max_value": 690
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - MOTOR CYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 182508,
+      "max_value": 3358
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - MOTOR HOME",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 3,
+      "min_t": "2018-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 2,
+      "max_value": 3
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - MOTOR LORRIES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 18408,
+      "max_value": 603
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - MOTOR TRICYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 43068,
+      "max_value": 17
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - N.A. TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 1,
+      "min_t": "2010-01-01",
+      "max_t": "2010-01-01",
+      "min_value": 79,
+      "max_value": 79
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - PRIME MOVERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 293,
+      "max_value": 72
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "New Vehicle Registrations",
+    "sub_category": "New Vehicle Registrations - QUADRICYCLE",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 3,
+      "min_t": "2018-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 654,
+      "max_value": 470
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - AMBULANCES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2143,
+      "max_value": 3566
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - BUSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 79870,
+      "max_value": 113074
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - DUAL PURPOSE VEHICLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 193380,
+      "max_value": 449707
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - HEARSES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 347,
+      "max_value": 491
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - L.V.TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 221326,
+      "max_value": 393782
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - L.V.TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 41048,
+      "max_value": 80382
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - LORRY OTHERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 2299,
+      "max_value": 14562
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - LORRY TRAILERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 6552,
+      "max_value": 9675
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR CARS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 361211,
+      "max_value": 901070
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR CYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 1604648,
+      "max_value": 4831077
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR HOME",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 0,
+      "max_value": 6
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR LORRIES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 262584,
+      "max_value": 349605
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - MOTOR TRICYCLES",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 16,
+      "min_t": "2007-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 361727,
+      "max_value": 1184337
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - N.A. TRACTORS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 958,
+      "max_value": 958
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - PRIME MOVERS",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 3318,
+      "max_value": 7127
+    }
+  },
+  {
+    "source_id": "dmtlk",
+    "category": "Total Vehicle Population",
+    "sub_category": "Total Vehicle Population - QUADRICYCLE",
+    "frequency_name": "Annual",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2010-01-01",
+      "max_t": "2022-01-01",
+      "min_value": 0,
+      "max_value": 2442
+    }
+  }
+]
