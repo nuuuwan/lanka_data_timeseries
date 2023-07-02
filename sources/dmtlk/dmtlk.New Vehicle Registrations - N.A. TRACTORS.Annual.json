@@ -1,0 +1,38 @@
+{
+  "source_id": "dmtlk",
+  "category": "New Vehicle Registrations",
+  "sub_category": "New Vehicle Registrations - N.A. TRACTORS",
+  "frequency_name": "Annual",
+  "scale": "",
+  "unit": "",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 1,
+    "min_t": "2010-01-01",
+    "max_t": "2010-01-01",
+    "min_value": 79,
+    "max_value": 79
+  },
+  "raw_data": {
+    "2007": "n.a.",
+    "2008": "n.a.",
+    "2009": "n.a.",
+    "2010": " 79 ",
+    "2011": " - ",
+    "2012": " - ",
+    "2013": " - ",
+    "2014": " - ",
+    "2015": " - ",
+    "2016": " - ",
+    "2017": " - ",
+    "2018": " - ",
+    "2019": " - ",
+    "2020": " - ",
+    "2021": " - ",
+    "2022": " - "
+  },
+  "cleaned_data": {
+    "2010-01-01": 79
+  }
+}
