@@ -18275,10 +18275,10 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 11,
-      "min_t": "2011-01-01",
+      "n": 22,
+      "min_t": "2000-01-01",
       "max_t": "2021-01-01",
-      "min_value": 1,
+      "min_value": 0,
       "max_value": 1
     }
   },
@@ -18563,10 +18563,10 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 11,
-      "min_t": "2011-01-01",
+      "n": 22,
+      "min_t": "2000-01-01",
       "max_t": "2021-01-01",
-      "min_value": 14858.57,
+      "min_value": 0,
       "max_value": 22917.58
     }
   },
@@ -18851,10 +18851,10 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 11,
-      "min_t": "2011-01-01",
+      "n": 22,
+      "min_t": "2000-01-01",
       "max_t": "2021-01-01",
-      "min_value": 1266.87,
+      "min_value": 0,
       "max_value": 1632.31
     }
   },
