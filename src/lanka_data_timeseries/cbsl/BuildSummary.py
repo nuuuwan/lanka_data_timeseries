@@ -56,7 +56,8 @@ class BuildSummary:
         JSONFile(file_path).write(data_list)
         file_size = os.path.getsize(file_path) / 1_000_000
         log.info(
-            f'Wrote {len(data_list)} data items to "{file_path}" ({file_size:.2f}MB)'
+            f'Wrote {len(data_list)} data items'
+            + f' to "{file_path}" ({file_size:.2f}MB)'
         )
 
     @staticmethod
