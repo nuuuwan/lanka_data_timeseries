@@ -97,16 +97,3 @@ def build_data():
         )
         JSONFile(file_path).write(d)
         log.debug(f'{i}/{n_indicators}) Wrote {file_path} ({n} values)')
-
-        summary_d = d
-        del summary_d['cleaned_data']
-        del summary_d['raw_data']
-        summary_d_list.append(summary_d)
-
-    file_path = os.path.join(
-        dir_output,
-        'summary.json',
-    )
-    JSONFile(file_path).write(summary_d_list)
-    n_datasets = len(summary_d_list)
-    log.info(f'Wrote {file_path} ({n_datasets} datasets)')

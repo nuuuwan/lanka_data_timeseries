@@ -91,24 +91,3 @@ def build_data():
         n = summary_statistics['n']
         log.debug(f'Wrote {n} time items to {new_data_path}')
 
-        # new summary
-        new_summary_data = dict(
-            source_id=details['source_id'],
-            category=details['category'],
-            sub_category=details['sub_category'],
-            frequency_name=details['frequency_name'],
-            unit=details['unit'],
-            scale=details['scale'],
-            summary_statistics=details['summary_statistics'],
-            footnotes={
-                'source_file': 'API_LKA_DS2_en_csv_v2_5554850.csv',
-            },
-        )
-        new_summary_data_list.append(new_summary_data)
-
-    # write summary
-    new_summary_path = os.path.join(dir_output_new, 'summary.json')
-    JSONFile(new_summary_path).write(new_summary_data_list)
-    log.debug(
-        f'Wrote {len(new_summary_data_list)} items to {new_summary_path}'
-    )

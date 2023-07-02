@@ -147,24 +147,7 @@ def build_details(d_list, dir_output):
         # log.debug(f'Wrote {file_path}')
 
 
-def build_summary(d_list, dir_output):
-    summary_d_list = []
-    for d in d_list:
-        summary_d = d
-        del summary_d['cleaned_data']
-        del summary_d['raw_data']
-        summary_d_list.append(summary_d)
-
-    file_path = os.path.join(
-        dir_output,
-        'summary.json',
-    )
-    JSONFile(file_path).write(summary_d_list)
-    log.debug(f'Wrote {file_path}')
-
-
 def build_data():
     dir_output = init_dir()
     d_list = parse_excel()
     build_details(d_list, dir_output)
-    build_summary(d_list, dir_output)
