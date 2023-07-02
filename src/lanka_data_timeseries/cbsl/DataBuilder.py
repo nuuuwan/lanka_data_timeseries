@@ -5,6 +5,7 @@ from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
+from lanka_data_timeseries.constants import HALVES, MONTHS, QUARTERS
 
 log = Log(__name__)
 
@@ -35,27 +36,12 @@ class DataBuilder:
     @staticmethod
     def clean_time(t: str) -> str:
         t = t.replace('"', '')
-        MONTHS = [
-            'Jan',
-            'Feb',
-            'Mar',
-            'Apr',
-            'May',
-            'Jun',
-            'Jul',
-            'Aug',
-            'Sep',
-            'Oct',
-            'Nov',
-            'Dec',
-        ]
+
         for i, month in enumerate(MONTHS):
             t = t.replace(month, f'{i+1:02d}')
-        QUARTERS = ['Q1', 'Q2', 'Q3', 'Q4']
         for i, quarter in enumerate(QUARTERS):
             m = (i + 1) * 3
             t = t.replace(quarter, f'{m:02d}')
-        HALVES = ['H1', 'H2']
         for i, half in enumerate(HALVES):
             m = (i + 1) * 6
             t = t.replace(half, f'{m:02d}')
