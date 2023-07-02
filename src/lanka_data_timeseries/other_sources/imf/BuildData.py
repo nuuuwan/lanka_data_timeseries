@@ -56,7 +56,6 @@ def build_data():
         log.debug(f'Created {dir_output}')
 
     indicator_idx = get_indicator_idx()
-    summary_d_list = []
     n_indicators = len(indicator_idx)
     i = 0
     for indicator_key, metadata in indicator_idx.items():

@@ -46,7 +46,6 @@ def build_data():
 
     year_list = lines[4].split(',')[4:-1]
 
-    new_summary_data_list = []
     for tokens in csv.reader(
         lines[5:],
         quotechar='"',
@@ -90,4 +89,3 @@ def build_data():
         JSONFile(new_data_path).write(details)
         n = summary_statistics['n']
         log.debug(f'Wrote {n} time items to {new_data_path}')
-
