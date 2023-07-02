@@ -16475,7 +16475,7 @@
       "Update frequency": "Two months after the end of Quarter"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "2015-03-01",
       "max_t": "2023-03-01",
       "min_value": 94,
