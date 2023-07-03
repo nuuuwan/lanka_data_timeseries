@@ -4,8 +4,9 @@
 * adb: 537 datasets
 * cbsl: 1,802 datasets
 * imf: 88 datasets
+* sltda: 1 datasets
 * dmtlk: 32 datasets
 * world_bank: 2,298 datasets
-* TOTAL: **4,757** datasets
+* TOTAL: **4,758** datasets
 
-Last Updated: **09:42 AM, Monday, 03 July, 2023**
+Last Updated: **10:10 AM, Monday, 03 July, 2023**
