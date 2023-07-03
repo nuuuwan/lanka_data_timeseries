@@ -6,7 +6,7 @@
 * imf: 88 datasets
 * sltda: 1 datasets
 * dmtlk: 32 datasets
-* world_bank: 2,298 datasets
-* TOTAL: **4,758** datasets
+* world_bank: 1,478 datasets
+* TOTAL: **3,938** datasets
 
-Last Updated: **10:42 AM, Monday, 03 July, 2023**
+Last Updated: **11:09 AM, Monday, 03 July, 2023**
