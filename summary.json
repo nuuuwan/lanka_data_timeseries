@@ -27861,11 +27861,11 @@
       "Update frequency": "Four months after the end of the half year"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 56,
       "min_t": "1964-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2019-01-01",
       "min_value": 55,
-      "max_value": 8.5
+      "max_value": 0
     }
   },
   {
@@ -38543,7 +38543,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 317,
@@ -38567,7 +38567,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 879,
@@ -38591,7 +38591,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 151,
@@ -38615,7 +38615,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 20,
@@ -38639,7 +38639,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 1638,
@@ -38663,7 +38663,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 779,
@@ -38687,7 +38687,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 31,
+      "n": 37,
       "min_t": "1980-01-01",
       "max_t": "2017-01-01",
       "min_value": 2055,
@@ -38711,7 +38711,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 31,
+      "n": 37,
       "min_t": "1980-01-01",
       "max_t": "2017-01-01",
       "min_value": 6123,
@@ -38735,7 +38735,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 841,
@@ -38759,7 +38759,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 199,
@@ -38783,7 +38783,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 886,
@@ -38807,7 +38807,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 3321,
@@ -38831,7 +38831,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 140,
@@ -38855,7 +38855,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 18,
+      "n": 19,
       "min_t": "2000-01-01",
       "max_t": "2020-01-01",
       "min_value": 290,
@@ -38879,7 +38879,7 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 29,
+      "n": 30,
       "min_t": "1990-01-01",
       "max_t": "2020-01-01",
       "min_value": 1074,
@@ -38903,10 +38903,10 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 13,
-      "min_t": "2005-01-01",
+      "n": 19,
+      "min_t": "2000-01-01",
       "max_t": "2020-01-01",
-      "min_value": 416,
+      "min_value": 0,
       "max_value": 364
     }
   },
