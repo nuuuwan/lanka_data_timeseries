@@ -29798,10 +29798,10 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 160,
-      "min_t": "2010-01-01",
+      "n": 412,
+      "min_t": "1989-01-01",
       "max_t": "2023-04-01",
-      "min_value": 97.48,
+      "min_value": 0,
       "max_value": 53.38
     }
   },
@@ -32204,10 +32204,10 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 160,
-      "min_t": "2010-01-01",
+      "n": 412,
+      "min_t": "1989-01-01",
       "max_t": "2023-04-01",
-      "min_value": 96.52,
+      "min_value": 0,
       "max_value": 69.77
     }
   },
