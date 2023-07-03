@@ -12,7 +12,12 @@ from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
 log = Log(__file__)
 
 dir_data = os.path.join(
-    'src', 'lanka_data_timeseries', 'other_sources', 'misc', 'data'
+    'src',
+    'lanka_data_timeseries',
+    'other_sources',
+    'misc',
+    'multi_data',
+    'data',
 )
 DIR_TMP_DATA = os.path.join(
     tempfile.gettempdir(),
