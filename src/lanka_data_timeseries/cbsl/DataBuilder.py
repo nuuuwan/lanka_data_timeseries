@@ -48,6 +48,9 @@ class DataBuilder:
     def clean_time(t: str) -> str:
         t = t.replace('"', '')
 
+        if len(t) == 7 and t[4] == '/':
+            t = t[:4] + '-07-01'
+
         for i, month in enumerate(MONTHS):
             t = t.replace(month, f'{i+1:02d}')
 
