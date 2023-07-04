@@ -40508,11 +40508,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 24,
+      "n": 26,
       "min_t": "1996-01-01",
-      "max_t": "2019-01-01",
+      "max_t": "2021-01-01",
       "min_value": 542,
-      "max_value": 6344
+      "max_value": 0
     }
   },
   {
