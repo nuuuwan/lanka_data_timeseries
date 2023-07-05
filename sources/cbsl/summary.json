@@ -89,8 +89,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 7669,
       "max_value": 26708
     }
@@ -113,8 +113,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 6851,
       "max_value": 14933
     }
@@ -9795,8 +9795,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 67985,
       "max_value": 118120
     }
@@ -9819,8 +9819,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 43740,
       "max_value": 63086
     }
@@ -21810,10 +21810,10 @@
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 29,
-      "min_t": "1998-12-01",
+      "n": 40,
+      "min_t": "1998-06-01",
       "max_t": "2017-12-01",
-      "min_value": 100.0,
+      "min_value": 0,
       "max_value": 694.1
     }
   },
@@ -21834,10 +21834,10 @@
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 29,
-      "min_t": "1998-12-01",
+      "n": 40,
+      "min_t": "1998-06-01",
       "max_t": "2017-12-01",
-      "min_value": 100.0,
+      "min_value": 0,
       "max_value": 615.2
     }
   },
@@ -21858,10 +21858,10 @@
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 29,
-      "min_t": "1998-12-01",
+      "n": 40,
+      "min_t": "1998-06-01",
       "max_t": "2017-12-01",
-      "min_value": 100.0,
+      "min_value": 0,
       "max_value": 661.3
     }
   },
@@ -21882,10 +21882,10 @@
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 29,
-      "min_t": "1998-12-01",
+      "n": 40,
+      "min_t": "1998-06-01",
       "max_t": "2017-12-01",
-      "min_value": 100.0,
+      "min_value": 0,
       "max_value": 674.5
     }
   },
@@ -31047,8 +31047,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 11.3,
       "max_value": 22.6
     }
@@ -31071,8 +31071,8 @@
     },
     "summary_statistics": {
       "n": 15,
-      "min_t": "2004/05-01",
-      "max_t": "2019/20-01",
+      "min_t": "2004-07-01",
+      "max_t": "2019-07-01",
       "min_value": 15.7,
       "max_value": 23.7
     }
