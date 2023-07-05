@@ -10099,10 +10099,10 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 3,
-      "min_t": "2019-01-01",
+      "n": 17,
+      "min_t": "2005-01-01",
       "max_t": "2021-01-01",
-      "min_value": 0.1,
+      "min_value": 0,
       "max_value": 0.2
     }
   },
@@ -10123,11 +10123,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -10171,11 +10171,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -10315,11 +10315,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -10339,11 +10339,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -10363,11 +10363,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -10387,11 +10387,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -28886,11 +28886,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -28910,11 +28910,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -28934,11 +28934,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
@@ -28958,11 +28958,11 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 17,
+      "min_t": "2005-01-01",
+      "max_t": "2021-01-01",
+      "min_value": 0,
+      "max_value": 0
     }
   },
   {
