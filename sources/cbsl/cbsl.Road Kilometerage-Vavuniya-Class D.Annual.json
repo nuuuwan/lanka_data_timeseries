@@ -15,13 +15,14 @@
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 13,
-    "min_t": "2009-01-01",
+    "n": 14,
+    "min_t": "2008-01-01",
     "max_t": "2021-01-01",
-    "min_value": 115,
+    "min_value": 0,
     "max_value": 34
   },
   "cleaned_data": {
+    "2008-01-01": 0,
     "2009-01-01": 115,
     "2010-01-01": 115,
     "2011-01-01": 24,
