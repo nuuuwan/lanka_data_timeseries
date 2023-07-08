@@ -27586,15 +27586,15 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-06-02",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 437,
+      "n": 438,
       "min_t": "1986-01-01",
-      "max_t": "2023-05-01",
+      "max_t": "2023-06-01",
       "min_value": 27.5,
-      "max_value": 310.16
+      "max_value": 301.26
     }
   },
   {
@@ -29794,15 +29794,15 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-06-09",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 412,
+      "n": 413,
       "min_t": "1989-01-01",
-      "max_t": "2023-04-01",
+      "max_t": "2023-05-01",
       "min_value": 0,
-      "max_value": 53.38
+      "max_value": 55.79
     }
   },
   {
@@ -32200,15 +32200,15 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-06-09",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 412,
+      "n": 413,
       "min_t": "1989-01-01",
-      "max_t": "2023-04-01",
+      "max_t": "2023-05-01",
       "min_value": 0,
-      "max_value": 69.77
+      "max_value": 72.92
     }
   },
   {
