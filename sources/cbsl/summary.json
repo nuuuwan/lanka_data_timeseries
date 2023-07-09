@@ -7096,11 +7096,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 25,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-02-01",
       "min_value": 17.75,
-      "max_value": 119.83
+      "max_value": 45.71
     }
   },
   {
@@ -30014,11 +30014,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 27,
       "min_t": "2021-01-01",
-      "max_t": "2023-01-01",
+      "max_t": "2023-03-01",
       "min_value": 24088.0,
-      "max_value": 24088
+      "max_value": 0
     }
   },
   {
@@ -32252,11 +32252,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 26,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-02-01",
       "min_value": 230.43,
-      "max_value": 1140.22
+      "max_value": 735.78
     }
   },
   {
