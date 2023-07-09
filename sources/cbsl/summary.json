@@ -31648,15 +31648,15 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 23,
       "min_t": "2017-09-01",
-      "max_t": "2022-09-01",
+      "max_t": "2023-03-01",
       "min_value": 91.2,
-      "max_value": 169.8
+      "max_value": 182.3
     }
   },
   {
