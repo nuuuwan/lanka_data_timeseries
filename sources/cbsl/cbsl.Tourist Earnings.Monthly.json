@@ -11,15 +11,15 @@
     "Source": "Central Bank of Sri Lanka",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-06-02",
+    "Data last updated": "2023-07-07",
     "Update frequency": "Two months after the end of month"
   },
   "summary_statistics": {
-    "n": 173,
+    "n": 174,
     "min_t": "2009-01-01",
-    "max_t": "2023-05-01",
+    "max_t": "2023-06-01",
     "min_value": 30.0,
-    "max_value": 131.5
+    "max_value": 158.4
   },
   "cleaned_data": {
     "2009-01-01": 30.0,
@@ -194,7 +194,8 @@
     "2023-02-01": 169.9,
     "2023-03-01": 198.1,
     "2023-04-01": 166.5,
-    "2023-05-01": 131.5
+    "2023-05-01": 131.5,
+    "2023-06-01": 158.4
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -910,7 +911,7 @@
     "2023-Mar": "198.10",
     "2023-Apr": "166.50",
     "2023-May": "131.50",
-    "2023-Jun": " ",
+    "2023-Jun": "158.40",
     "2023-Jul": " ",
     "2023-Aug": " ",
     "2023-Sep": " ",
