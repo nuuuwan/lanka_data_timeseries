@@ -26606,11 +26606,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 102.8,
-      "max_value": 93.26
+      "max_value": 94.1
     }
   },
   {
@@ -26702,11 +26702,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 120.6,
-      "max_value": 152.01
+      "max_value": 138.5
     }
   },
   {
@@ -26798,11 +26798,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 117.3,
-      "max_value": 163.0
+      "max_value": 147.2
     }
   },
   {
@@ -26846,11 +26846,11 @@
       "Update frequency": "Two months after end of the month/quarter/year"
     },
     "summary_statistics": {
-      "n": 59,
+      "n": 56,
       "min_t": "1964-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 371.1,
-      "max_value": 13106.44
+      "max_value": 11940.01
     }
   },
   {
@@ -26942,11 +26942,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 109.8,
-      "max_value": 108.29
+      "max_value": 90.5
     }
   },
   {
@@ -27038,11 +27038,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 134.3,
-      "max_value": 136.42
+      "max_value": 148.7
     }
   },
   {
@@ -27134,11 +27134,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 122.3,
-      "max_value": 125.98
+      "max_value": 164.2
     }
   },
   {
@@ -27182,11 +27182,11 @@
       "Update frequency": "Two months after end of the month/quarter/year"
     },
     "summary_statistics": {
-      "n": 59,
+      "n": 56,
       "min_t": "1964-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 411.6,
-      "max_value": 18291.02
+      "max_value": 19937.08
     }
   },
   {
@@ -40412,11 +40412,11 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 10,
+      "n": 7,
       "min_t": "2013-01-01",
-      "max_t": "2022-01-01",
+      "max_t": "2019-01-01",
       "min_value": 93.6,
-      "max_value": 86.12
+      "max_value": 103.9
     }
   },
   {
