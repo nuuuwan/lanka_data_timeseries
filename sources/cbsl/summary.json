@@ -6721,6 +6721,30 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Budget Deficit",
+    "scale": " ",
+    "unit": "Rs.",
+    "frequency_name": "Monthly",
+    "i_subject": 30,
+    "footnotes": {
+      "Sector": "Fiscal",
+      "Source": "MOF",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "",
+      "Update frequency": ""
+    },
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
+    }
+  },
+  {
+    "source_id": "cbsl",
     "category": "Agriculture-Subsidiary Food Crops",
     "sub_category": "CABBAGE Production",
     "scale": "Million",
@@ -31657,6 +31681,30 @@
       "max_t": "2023-03-01",
       "min_value": 91.2,
       "max_value": 182.3
+    }
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Central Government Finance-Central Government Revenue",
+    "sub_category": "Primary Balance",
+    "scale": " ",
+    "unit": "Rs",
+    "frequency_name": "Monthly",
+    "i_subject": 30,
+    "footnotes": {
+      "Sector": "Fiscal",
+      "Source": "MOF",
+      "GeoArea": "National",
+      "Note": "",
+      "Data last updated": "",
+      "Update frequency": ""
+    },
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
     }
   },
   {
