@@ -2340,15 +2340,15 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 45,
+      "n": 51,
       "min_t": "2019-01-01",
-      "max_t": "2022-09-01",
+      "max_t": "2023-03-01",
       "min_value": 98.3,
-      "max_value": 156.2
+      "max_value": 171.0
     }
   },
   {
@@ -2364,15 +2364,15 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 45,
+      "n": 51,
       "min_t": "2019-01-01",
-      "max_t": "2022-09-01",
+      "max_t": "2023-03-01",
       "min_value": 96.7,
-      "max_value": 120.6
+      "max_value": 110.4
     }
   },
   {
@@ -2388,15 +2388,15 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-07-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 36,
+      "n": 42,
       "min_t": "2019-10-01",
-      "max_t": "2022-09-01",
+      "max_t": "2023-03-01",
       "min_value": 100.0,
-      "max_value": 152.6
+      "max_value": 158.4
     }
   },
   {
