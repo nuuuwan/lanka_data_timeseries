@@ -40,8 +40,10 @@ class BuildSummary:
             ]:
                 continue
             file_path = os.path.join(dir_data, file_name_only)
+            ut = os.path.getmtime(file_path)
             d = JSONFile(file_path).read()
             assert d['source_id'] == source_id
+            d['ut_last_updated'] = ut
             d_list.append(d)
 
         d_list = sorted(
