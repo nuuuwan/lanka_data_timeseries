@@ -48,7 +48,9 @@ class BuildSummary:
 
             last_updated_time = git_future.get_last_update_ut(file_path)
             d['last_updated_time_ut'] = last_updated_time.ut
-            d['last_updated_time_str'] = TIME_FORMAT_TIME.stringify(last_updated_time)
+            d['last_updated_time_str'] = TIME_FORMAT_TIME.stringify(
+                last_updated_time
+            )
             d_list.append(d)
 
         d_list = sorted(
@@ -111,13 +113,10 @@ class BuildSummary:
         return source_to_n
 
     @staticmethod
-    def build_readme(combined_summary_data_list):
-        lines = [
-            '# Lanka Data Timeseries',
-            '*Public Timeseries Data about Sri Lanka*',
-            '',
-        ]
-
+    def build_readme_source_summary(
+        combined_summary_data_list: list,
+    ) -> list[str]:
+        lines = []
         source_to_n = BuildSummary.get_source_to_n(combined_summary_data_list)
         for source, n in source_to_n.items():
             lines.append(f'* {source}: {n:,} datasets')
@@ -128,7 +127,45 @@ class BuildSummary:
         lines += [
             '',
             f'Last Updated: **{time_str}**',
+            '',
         ]
+        return lines
+
+    @staticmethod
+    def build_readme_latest_updates(
+        combined_summary_data_list: list,
+    ) -> list[str]:
+        lines = ['## Latest updates', '']
+        sorted_combined_summary_data_list = sorted(
+            combined_summary_data_list,
+            key=lambda x: x['last_updated_time_ut'],
+            reverse=True,
+        )
+        N_DISPLAY = 10
+        for d in sorted_combined_summary_data_list[:N_DISPLAY]:
+            source_id = d['source_id']
+            sub_category = d['sub_category']
+            frequency_name = d['frequency_name']
+            last_updated_time_str = d['last_updated_time_str']
+            lines.append(
+                f'* {last_updated_time_str} - {sub_category} ({source_id} - {frequency_name})'
+            )
+        return lines
+
+    @staticmethod
+    def build_readme(combined_summary_data_list: list):
+        lines = [
+            '# Lanka Data Timeseries',
+            '*Public Timeseries Data about Sri Lanka*',
+            '',
+        ]
+
+        lines += BuildSummary.build_readme_source_summary(
+            combined_summary_data_list
+        )
+        lines += BuildSummary.build_readme_latest_updates(
+            combined_summary_data_list
+        )
 
         file_path = os.path.join(DIR_TMP_DATA, 'README.md')
         File(file_path).write_lines(lines)
