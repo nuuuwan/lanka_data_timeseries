@@ -21,7 +21,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
 
-    - name: Run build_cbsl.py
+    - name: Run build_other_misc.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_other_misc.py 
