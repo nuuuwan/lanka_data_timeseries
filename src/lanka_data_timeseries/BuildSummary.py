@@ -46,9 +46,9 @@ class BuildSummary:
             d = JSONFile(file_path).read()
             assert d['source_id'] == source_id
 
-            ut = git_future.get_last_update_ut(file_path)
-            d['last_updated_ut'] = ut
-            d['last_updated_time'] = TIME_FORMAT_TIME.stringify(Time(ut))
+            last_updated_time = git_future.get_last_update_ut(file_path)
+            d['last_updated_time_ut'] = last_updated_time.ut
+            d['last_updated_time_str'] = TIME_FORMAT_TIME.stringify(last_updated_time)
             d_list.append(d)
 
         d_list = sorted(
