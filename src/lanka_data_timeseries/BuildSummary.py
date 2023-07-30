@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-from utils import File, Git, JSONFile, Log, Time, TimeFormat
+from utils import TIME_FORMAT_TIME, File, Git, JSONFile, Log, Time, TimeFormat
 
 log = Log(__name__)
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
@@ -43,7 +43,8 @@ class BuildSummary:
             ut = os.path.getmtime(file_path)
             d = JSONFile(file_path).read()
             assert d['source_id'] == source_id
-            d['ut_last_updated'] = ut
+            d['last_updated_ut'] = ut
+            d['last_updated_time'] = TIME_FORMAT_TIME.stringify(Time(ut))
             d_list.append(d)
 
         d_list = sorted(
