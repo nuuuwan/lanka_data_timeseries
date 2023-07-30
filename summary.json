@@ -7044,15 +7044,15 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-07-28",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "2020-01-01",
-      "max_t": "2023-05-01",
+      "max_t": "2023-06-01",
       "min_value": 70.44,
-      "max_value": 86.9
+      "max_value": 90.9
     }
   },
   {
