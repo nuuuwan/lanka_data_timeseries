@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-from utils import File, Git, JSONFile, Log, Time, TimeFormat
+from utils import TIME_FORMAT_TIME, File, Git, JSONFile, Log, Time, TimeFormat
 
 from utils_future import GitFuture
 
@@ -46,11 +46,9 @@ class BuildSummary:
             d = JSONFile(file_path).read()
             assert d['source_id'] == source_id
 
-            ut = os.path.getctime(file_path)
+            ut = git_future.get_last_update_ut(file_path)
             d['last_updated_ut'] = ut
-            d['last_updated_time'] = git_future.get_last_update_time(
-                file_path
-            )
+            d['last_updated_time'] = TIME_FORMAT_TIME.stringify(Time(ut))
             d_list.append(d)
 
         d_list = sorted(
