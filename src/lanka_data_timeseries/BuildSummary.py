@@ -1,7 +1,9 @@
 import os
 import tempfile
 
-from utils import TIME_FORMAT_TIME, File, Git, JSONFile, Log, Time, TimeFormat
+from utils import File, Git, JSONFile, Log, Time, TimeFormat
+
+from utils_future import GitFuture
 
 log = Log(__name__)
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
@@ -29,6 +31,7 @@ class BuildSummary:
 
     @staticmethod
     def get_data_list(source_id):
+        git_future = GitFuture(DIR_TMP_DATA)
         dir_data = os.path.join(DIR_TMP_DATA, 'sources', source_id)
         d_list = []
         for file_name_only in os.listdir(dir_data):
@@ -42,10 +45,12 @@ class BuildSummary:
             file_path = os.path.join(dir_data, file_name_only)
             d = JSONFile(file_path).read()
             assert d['source_id'] == source_id
-            
+
             ut = os.path.getctime(file_path)
             d['last_updated_ut'] = ut
-            d['last_updated_time'] = TIME_FORMAT_TIME.stringify(Time(ut))
+            d['last_updated_time'] = git_future.get_last_update_time(
+                file_path
+            )
             d_list.append(d)
 
         d_list = sorted(
