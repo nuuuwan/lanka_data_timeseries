@@ -10,11 +10,11 @@ from lanka_data_timeseries.other_sources.world_bank import \
 
 if __name__ == '__main__':
     for BuildData in [
-        BuildDataADB,
-        BuildDataIMF,
-        BuildDataWorldBank,
         BuildDataMiscMulti,
         BuildDataMiscSingle,
+        BuildDataADB,
+        BuildDataWorldBank,
+        BuildDataIMF,
     ]:
         BuildData.build_data()
     BuildSummary.build()
