@@ -20,7 +20,8 @@
       "max_t": "2014",
       "min_value": 0.69120187,
       "max_value": 0.54787654
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -43,7 +44,8 @@
       "max_t": "2014",
       "min_value": 0.80503815,
       "max_value": 0.84082144
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -66,7 +68,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -89,7 +92,8 @@
       "max_t": "2021",
       "min_value": 9.6520760457731,
       "max_value": 103.07929971721
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -112,7 +116,8 @@
       "max_t": "2014",
       "min_value": 0.94766182,
       "max_value": 0.93882143
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -135,7 +140,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -158,7 +164,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -181,7 +188,8 @@
       "max_t": "2014",
       "min_value": 0.89438331,
       "max_value": 0.36798221
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -204,7 +212,8 @@
       "max_t": "2014",
       "min_value": 0.86176306,
       "max_value": 0.79697567
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -227,7 +236,8 @@
       "max_t": "2022",
       "min_value": -0.848,
       "max_value": -1.458
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -250,7 +260,8 @@
       "max_t": "2028",
       "min_value": -16.3,
       "max_value": -1.3
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -273,7 +284,8 @@
       "max_t": "2015",
       "min_value": 14.26,
       "max_value": 76.04
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -296,7 +308,8 @@
       "max_t": "2012",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -319,7 +332,8 @@
       "max_t": "2014",
       "min_value": -105.28,
       "max_value": -0.22
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -342,7 +356,8 @@
       "max_t": "2014",
       "min_value": -107.31,
       "max_value": 1811.88
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -365,7 +380,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -388,7 +404,8 @@
       "max_t": "2014",
       "min_value": 0,
       "max_value": 66.82
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -411,7 +428,8 @@
       "max_t": "2014",
       "min_value": 56,
       "max_value": 944.25
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -434,7 +452,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -457,7 +476,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -480,7 +500,8 @@
       "max_t": "2012",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -503,7 +524,8 @@
       "max_t": "2014",
       "min_value": 0,
       "max_value": 184.19
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -526,7 +548,8 @@
       "max_t": "2013",
       "min_value": 0.25,
       "max_value": 0.25
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -549,7 +572,8 @@
       "max_t": "2022",
       "min_value": 25.352644817849,
       "max_value": 18.880887661551
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -572,7 +596,8 @@
       "max_t": "2014",
       "min_value": 5.1276236,
       "max_value": 3.2205775
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -595,7 +620,8 @@
       "max_t": "2014",
       "min_value": 0.70959306,
       "max_value": 0.91079408
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -618,7 +644,8 @@
       "max_t": "2014",
       "min_value": 1.617470264,
       "max_value": 0.242959507
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -641,7 +668,8 @@
       "max_t": "2014",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -664,7 +692,8 @@
       "max_t": "2013",
       "min_value": 0.05,
       "max_value": 0.05
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -687,7 +716,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -710,7 +740,8 @@
       "max_t": "2021",
       "min_value": 0,
       "max_value": 1
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -733,7 +764,8 @@
       "max_t": "2014",
       "min_value": 0.63173836,
       "max_value": 0.69745159
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -756,7 +788,8 @@
       "max_t": "2028",
       "min_value": 0.126,
       "max_value": 0.181
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -779,7 +812,8 @@
       "max_t": "2028",
       "min_value": 16.913,
       "max_value": 403.97
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -802,7 +836,8 @@
       "max_t": "2028",
       "min_value": 1087.425,
       "max_value": 16910.769
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -825,7 +860,8 @@
       "max_t": "2015",
       "min_value": 2,
       "max_value": 2
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -848,7 +884,8 @@
       "max_t": "2013",
       "min_value": 0.92,
       "max_value": 0.94
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -871,7 +908,8 @@
       "max_t": "2013",
       "min_value": 0.46,
       "max_value": 0.37
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -894,7 +932,8 @@
       "max_t": "2022",
       "min_value": 78.9,
       "max_value": 117.7
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -917,7 +956,8 @@
       "max_t": "2022",
       "min_value": -6.4,
       "max_value": -10.4
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -940,7 +980,8 @@
       "max_t": "2021",
       "min_value": 25.352644817849,
       "max_value": 19.912727991535
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -963,7 +1004,8 @@
       "max_t": "2021",
       "min_value": -1.1389310053022,
       "max_value": -5.708200463489
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -986,7 +1028,8 @@
       "max_t": "2021",
       "min_value": 20.102995839797,
       "max_value": 13.984922639303
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1009,7 +1052,8 @@
       "max_t": "2021",
       "min_value": 18.964064834494,
       "max_value": 8.2767221758135
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1032,7 +1076,8 @@
       "max_t": "2022",
       "min_value": 78.93764682478,
       "max_value": 117.66132512264
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1055,7 +1100,8 @@
       "max_t": "2021",
       "min_value": 78.93764682478,
       "max_value": 103.07929971721
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1078,7 +1124,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1101,7 +1148,8 @@
       "max_t": "2019",
       "min_value": 21.299035790586,
       "max_value": 12.018082527381
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1124,7 +1172,8 @@
       "max_t": "2028",
       "min_value": 5.077,
       "max_value": 114.252
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1147,7 +1196,8 @@
       "max_t": "2028",
       "min_value": 26.1,
       "max_value": 5
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1170,7 +1220,8 @@
       "max_t": "2028",
       "min_value": 24.7,
       "max_value": 5
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1193,7 +1244,8 @@
       "max_t": "2014",
       "min_value": 3.510153055,
       "max_value": 2.97761786
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1216,7 +1268,8 @@
       "max_t": "2021",
       "min_value": 5.2496489780522,
       "max_value": 5.9278053522324
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1239,7 +1292,8 @@
       "max_t": "2014",
       "min_value": 0.94421834,
       "max_value": 0.90581471
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1262,7 +1316,8 @@
       "max_t": "2014",
       "min_value": 0.98455501,
       "max_value": 0.94495362
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1285,7 +1340,8 @@
       "max_t": "2014",
       "min_value": 0.45477533,
       "max_value": 0.51275432
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1308,7 +1364,8 @@
       "max_t": "2014",
       "min_value": 1.0176978,
       "max_value": 0.9633193
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1331,7 +1388,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1354,7 +1412,8 @@
       "max_t": "2022",
       "min_value": -6.3885799833544,
       "max_value": -10.386468733778
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1377,7 +1436,8 @@
       "max_t": "2014",
       "min_value": 12787.3,
       "max_value": 74923.78
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1400,7 +1460,8 @@
       "max_t": "2019",
       "min_value": 3.2798419321906,
       "max_value": 43.965189230879
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1423,7 +1484,8 @@
       "max_t": "2013",
       "min_value": 0.1,
       "max_value": 0.1
-    }
+    },
+    "ut_last_updated": 1690698562.0302608
   },
   {
     "source_id": "imf",
@@ -1446,7 +1508,8 @@
       "max_t": "2013",
       "min_value": 0.07,
       "max_value": 0.07
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1469,7 +1532,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1492,7 +1556,8 @@
       "max_t": "2014",
       "min_value": -41.72,
       "max_value": 688
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1515,7 +1580,8 @@
       "max_t": "2014",
       "min_value": 600.35,
       "max_value": 1298.48
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1538,7 +1604,8 @@
       "max_t": "2013",
       "min_value": 0.02,
       "max_value": 0.02
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1561,7 +1628,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1584,7 +1652,8 @@
       "max_t": "2028",
       "min_value": 15.553,
       "max_value": 23.888
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1607,7 +1676,8 @@
       "max_t": "2014",
       "min_value": -105.28,
       "max_value": -0.22
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1630,7 +1700,8 @@
       "max_t": "2014",
       "min_value": -107.31,
       "max_value": 1996.06
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1653,7 +1724,8 @@
       "max_t": "2022",
       "min_value": -1.1389310053022,
       "max_value": -3.7790084747835
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1676,7 +1748,8 @@
       "max_t": "2014",
       "min_value": 0.5,
       "max_value": 4.29
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1699,7 +1772,8 @@
       "max_t": "2014",
       "min_value": 64.34,
       "max_value": 3215.89
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1722,7 +1796,8 @@
       "max_t": "2014",
       "min_value": -1.15,
       "max_value": 0.92
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1745,7 +1820,8 @@
       "max_t": "2014",
       "min_value": -147,
       "max_value": 687.78
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1768,7 +1844,8 @@
       "max_t": "2019",
       "min_value": 2.4544456607442,
       "max_value": 55.98327175826
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1791,7 +1868,8 @@
       "max_t": "2014",
       "min_value": 428.69,
       "max_value": 78.65
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1814,7 +1892,8 @@
       "max_t": "2022",
       "min_value": 1.0070901382489,
       "max_value": 0.18357213180366
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1837,7 +1916,8 @@
       "max_t": "2021",
       "min_value": 7.3200620519325,
       "max_value": 3.3267766027088
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1860,7 +1940,8 @@
       "max_t": "2028",
       "min_value": 5.8,
       "max_value": 3.1
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1883,7 +1964,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1906,7 +1988,8 @@
       "max_t": "2019",
       "min_value": 8.7250367789775,
       "max_value": 6.9353564585181
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1929,7 +2012,8 @@
       "max_t": "2022",
       "min_value": 1.5272380266979,
       "max_value": 1.1639850492827
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1952,7 +2036,8 @@
       "max_t": "2022",
       "min_value": 0.17900084739582,
       "max_value": 0.056037489769686
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1975,7 +2060,8 @@
       "max_t": "2013",
       "min_value": 0,
       "max_value": 0
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -1998,7 +2084,8 @@
       "max_t": "2022",
       "min_value": 18.964064834494,
       "max_value": 8.4944189277736
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   },
   {
     "source_id": "imf",
@@ -2021,6 +2108,7 @@
       "max_t": "2028",
       "min_value": 15.9,
       "max_value": 4.4
-    }
+    },
+    "ut_last_updated": 1690698562.0342607
   }
 ]
