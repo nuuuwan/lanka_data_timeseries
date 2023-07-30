@@ -2,7 +2,7 @@ import os
 import tempfile
 
 from openpyxl import load_workbook
-from utils import JSONFile, Log
+from utils import WWW, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
@@ -17,13 +17,7 @@ log = Log(__file__)
 SOURCE_ID = 'adb'
 I_COL_CATEGORY = 2
 I_ROW_T_HEADER = 7
-EXCEL_PATH = os.path.join(
-    'src',
-    'lanka_data_timeseries',
-    'other_sources',
-    'adb',
-    'sri-key-indicators-2022.xlsx',
-)
+URL_DOWNLOAD = 'https://data.adb.org/media/10061/download'
 
 INDENT_STR = ' ' * 5
 
@@ -41,8 +35,15 @@ def init_dir():
     return dir_output
 
 
-def parse_excel():
-    workbook = load_workbook(EXCEL_PATH)
+def download_source() -> str:
+    excel_path = tempfile.NamedTemporaryFile(suffix='.xlsx').name
+    WWW.download_binary(URL_DOWNLOAD, excel_path)
+    log.info(f'Downloaded {URL_DOWNLOAD} to {excel_path}')
+    return excel_path
+
+
+def parse_excel(excel_path: str):
+    workbook = load_workbook(excel_path)
     worksheet = workbook.active
 
     i_col = 3
@@ -149,5 +150,10 @@ def build_details(d_list, dir_output):
 
 def build_data():
     dir_output = init_dir()
-    d_list = parse_excel()
+    excel_path = download_source()
+    d_list = parse_excel(excel_path)
     build_details(d_list, dir_output)
+
+
+if __name__ == '__main__':
+    download_source()
