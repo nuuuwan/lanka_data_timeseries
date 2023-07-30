@@ -21,7 +21,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
 
-    - name: Run pipeline.py
+    - name: Run build_cbsl.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_other_adb.py 

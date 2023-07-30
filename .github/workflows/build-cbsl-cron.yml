@@ -1,10 +1,12 @@
-name: Pipeline TEST (Manual)
+name: Build CBSL (Cron)
 
-on: workflow_dispatch
-
+# on: workflow_dispatch
+on:
+  schedule:
+    - cron:  '30 * * * *'
 
 jobs:
-  pipeline_test:
+  build_cbsl:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,10 +23,10 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
 
-    - name: Run pipeline.py
+    - name: Run build_cbsl.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline_test.py 
+        python workflows/build_cbsl.py 
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
@@ -38,8 +40,9 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) pipeline TEST (manual)" >> update.log
+        echo "* $(date) build_cbsl (cron)" >> update.log
         
+
         git add .
-        git commit -m "Pipeline TEST (Manual) $(date)"
+        git commit -m "Build CBSL (Cron) $(date)"
         git push origin data

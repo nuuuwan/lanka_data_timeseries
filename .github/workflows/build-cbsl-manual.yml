@@ -1,12 +1,10 @@
-name: Pipeline (Cron)
+name: Build CBSL (Manual)
 
-# on: workflow_dispatch
-on:
-  schedule:
-    - cron:  '30 * * * *'
+on: workflow_dispatch
+
 
 jobs:
-  pipeline:
+  build_cbsl:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,10 +21,10 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
 
-    - name: Run pipeline.py
+    - name: Run build_cbsl.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline.py 
+        python workflows/build_cbsl.py 
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
@@ -40,9 +38,8 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) pipeline (cron)" >> update.log
+        echo "* $(date) build_cbsl (manual)" >> update.log
         
-
         git add .
-        git commit -m "Pipeline (Cron) $(date)"
+        git commit -m "Build CBSL (Manual) $(date)"
         git push origin data
