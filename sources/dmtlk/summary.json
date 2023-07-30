@@ -15,7 +15,8 @@
       "min_value": 53,
       "max_value": 14
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -33,7 +34,8 @@
       "min_value": 2637,
       "max_value": 210
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -51,7 +53,8 @@
       "min_value": 5193,
       "max_value": 384
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -69,7 +72,8 @@
       "min_value": 15,
       "max_value": 1
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -87,7 +91,8 @@
       "min_value": 21346,
       "max_value": 2694
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -105,7 +110,8 @@
       "min_value": 2129,
       "max_value": 1653
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -123,7 +129,8 @@
       "min_value": 389,
       "max_value": 335
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -141,7 +148,8 @@
       "min_value": 292,
       "max_value": 128
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -159,7 +167,8 @@
       "min_value": 22603,
       "max_value": 690
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -177,7 +186,8 @@
       "min_value": 182508,
       "max_value": 3358
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -195,7 +205,8 @@
       "min_value": 2,
       "max_value": 3
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -213,7 +224,8 @@
       "min_value": 18408,
       "max_value": 603
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -231,7 +243,8 @@
       "min_value": 43068,
       "max_value": 17
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -249,7 +262,8 @@
       "min_value": 79,
       "max_value": 79
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -267,7 +281,8 @@
       "min_value": 293,
       "max_value": 72
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -285,7 +300,8 @@
       "min_value": 654,
       "max_value": 470
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -303,7 +319,8 @@
       "min_value": 2143,
       "max_value": 3566
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -321,7 +338,8 @@
       "min_value": 79870,
       "max_value": 113074
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -339,7 +357,8 @@
       "min_value": 193380,
       "max_value": 449707
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -357,7 +376,8 @@
       "min_value": 347,
       "max_value": 491
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -375,7 +395,8 @@
       "min_value": 221326,
       "max_value": 393782
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -393,7 +414,8 @@
       "min_value": 41048,
       "max_value": 80382
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -411,7 +433,8 @@
       "min_value": 2299,
       "max_value": 14562
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -429,7 +452,8 @@
       "min_value": 6552,
       "max_value": 9675
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -447,7 +471,8 @@
       "min_value": 361211,
       "max_value": 901070
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -465,7 +490,8 @@
       "min_value": 1604648,
       "max_value": 4831077
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -483,7 +509,8 @@
       "min_value": 0,
       "max_value": 6
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3744555,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -501,7 +528,8 @@
       "min_value": 262584,
       "max_value": 349605
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3784554,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -519,7 +547,8 @@
       "min_value": 361727,
       "max_value": 1184337
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3784554,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -537,7 +566,8 @@
       "min_value": 958,
       "max_value": 958
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3784554,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -555,7 +585,8 @@
       "min_value": 3318,
       "max_value": 7127
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3784554,
+    "last_updated_time": "2023-07-30 12:06:52"
   },
   {
     "source_id": "dmtlk",
@@ -573,6 +604,7 @@
       "min_value": 0,
       "max_value": 2442
     },
-    "ut_last_updated": 1690698562.0302608
+    "last_updated_ut": 1690699012.3784554,
+    "last_updated_time": "2023-07-30 12:06:52"
   }
 ]
