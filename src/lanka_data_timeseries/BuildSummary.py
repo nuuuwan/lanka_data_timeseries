@@ -141,7 +141,7 @@ class BuildSummary:
             key=lambda x: x['last_updated_time_ut'],
             reverse=True,
         )
-        N_DISPLAY = 10
+        N_DISPLAY = 100
         for d in sorted_combined_summary_data_list[:N_DISPLAY]:
             source_id = d['source_id']
             sub_category = d['sub_category']
