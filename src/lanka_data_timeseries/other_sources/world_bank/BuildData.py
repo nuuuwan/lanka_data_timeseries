@@ -1,21 +1,19 @@
 import csv
 import os
 import tempfile
+import zipfile
 
-from utils import File, JSONFile, Log
+from utils import WWW, File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import clean_str
 
 SOURCE_ID = 'world_bank'
 
-CSV_PATH = os.path.join(
-    'src',
-    'lanka_data_timeseries',
-    'other_sources',
-    'world_bank',
-    'API_LKA_DS2_en_csv_v2_5554850.csv',
+URL_DOWNLOAD = (
+    'https://api.worldbank.org' + '/v2/en/country/LKA' + '?downloadformat=csv'
 )
+
 
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
 DIR_TMP_DATA = os.path.join(
@@ -36,13 +34,33 @@ SOURCE_ID = 'world_bank'
 log = Log(__name__)
 
 
+def download_source() -> str:
+    zip_path = tempfile.NamedTemporaryFile(suffix='.zip').name
+    WWW.download_binary(URL_DOWNLOAD, zip_path)
+    log.debug(f'Downloaded {URL_DOWNLOAD} to {zip_path}')
+
+    dir_path = tempfile.NamedTemporaryFile().name
+    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+        zip_ref.extractall(dir_path)
+    log.debug(f'Extracted {zip_path} to {dir_path}')
+
+    for file_only in os.listdir(dir_path):
+        if file_only.endswith('.csv') and file_only.startswith('API_LKA'):
+            csv_path = os.path.join(dir_path, file_only)
+            log.debug(f'Found {csv_path}')
+            return csv_path
+    raise Exception(f'No CSV file found in {dir_path}')
+
+
 def build_data():
+    csv_path = download_source()
+
     dir_output_new = os.path.join(DIR_TMP_DATA, 'sources', 'world_bank')
     if not os.path.exists(dir_output_new):
         os.makedirs(dir_output_new)
         log.debug(f'Created {dir_output_new}')
 
-    lines = File(CSV_PATH).read_lines()
+    lines = File(csv_path).read_lines()
 
     year_list = lines[4].split(',')[4:-1]
 
@@ -89,3 +107,7 @@ def build_data():
         JSONFile(new_data_path).write(details)
         n = summary_statistics['n']
         log.debug(f'Wrote {n} time items to {new_data_path}')
+
+
+if __name__ == '__main__':
+    print(download_source())
