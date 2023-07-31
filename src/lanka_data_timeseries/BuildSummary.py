@@ -145,7 +145,8 @@ class BuildSummary:
             frequency_name = d['frequency_name']
             last_updated_time_str = d['last_updated_time_str']
             lines.append(
-                f'* {last_updated_time_str} - {sub_category} ({source_id} - {frequency_name})'
+                f'* {last_updated_time_str} - {sub_category}'
+                + f' ({source_id} - {frequency_name})'
             )
         return lines
 

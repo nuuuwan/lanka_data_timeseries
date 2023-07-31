@@ -123,11 +123,6 @@ def parse_excel(excel_path: str):
             raw_data=data,
         )
         d_list.append(d)
-        print(d['category'])
-        print(d['sub_category'])
-        print(d['unit'])
-        print(list(d['cleaned_data'].items())[0])
-        print('-' * 32)
     return d_list
 
 
