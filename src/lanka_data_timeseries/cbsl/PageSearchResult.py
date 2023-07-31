@@ -3,17 +3,10 @@ from utils import Log
 
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.cbsl.DataBuilder import DataBuilder
+from lanka_data_timeseries.common import clean_str
 from utils_future import WebpageWrapper
 
 log = Log(__name__)
-
-
-def clean_str(x):
-    x = x.replace('"', '')
-    x = x.replace('%', 'Pct.')
-    x = x.replace('/', ' or ')
-    x = x.replace(':', '_')
-    return x
 
 
 class PageSearchResult(WebpageWrapper):
@@ -97,10 +90,7 @@ class PageSearchResult(WebpageWrapper):
 
     def run(self):
         log.info('STEP 3️⃣) Running PageSearchResult.')
-
         current_url = self.driver.current_url
         log.debug(f'{current_url=}')
-
         self.extract_table()
-
         return self
