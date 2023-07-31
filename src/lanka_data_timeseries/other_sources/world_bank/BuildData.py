@@ -42,6 +42,52 @@ def download_source() -> str:
     raise Exception(f'No CSV file found in {dir_path}')
 
 
+def build_data_row_d(
+    tokens: list[str], year_list: list[str], sub_category
+) -> dict:
+    data = {}
+
+    for year, value in zip(year_list, tokens[4:-1]):
+        data[year] = value
+
+    raw_data = data
+    cleaned_data = CBSLDataBuilder.clean_data(raw_data)
+    summary_statistics = get_summary_statistics(cleaned_data)
+
+    return dict(
+        source_id=SOURCE_ID,
+        category=DEFAULT_CATEGORY,
+        sub_category=sub_category,
+        scale=DEFAULT_SCALE,
+        unit=DEFAULT_UNIT,
+        frequency_name=DEFAULT_FREQUENCY_NAME,
+        i_subject=DEFAULT_I_SUBJECT,
+        footnotes=DEFAULT_FOOTNOTES,
+        summary_statistics=summary_statistics,
+        cleaned_data=cleaned_data,
+        raw_data=raw_data,
+    )
+
+
+def build_data_row(
+    tokens: list[str], year_list: list[str], dir_output_new: str
+):
+    if len(tokens) < 4 + len(year_list):
+        return
+    sub_category = clean_str(tokens[2])
+
+    d = build_data_row_d(tokens, year_list, sub_category)
+
+    # write detailed data (per sub_category) to new path
+    new_data_path = os.path.join(
+        dir_output_new,
+        f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
+    )
+    JSONFile(new_data_path).write(d)
+    n = d['summary_statistics']['n']
+    log.debug(f'Wrote {n} time items to {new_data_path}')
+
+
 def build_data():
     csv_path = download_source()
 
@@ -61,37 +107,4 @@ def build_data():
         quoting=csv.QUOTE_ALL,
         skipinitialspace=True,
     ):
-        if len(tokens) < 4 + len(year_list):
-            continue
-        sub_category = clean_str(tokens[2])
-        data = {}
-
-        for year, value in zip(year_list, tokens[4:-1]):
-            data[year] = value
-
-        raw_data = data
-        cleaned_data = CBSLDataBuilder.clean_data(raw_data)
-        summary_statistics = get_summary_statistics(cleaned_data)
-
-        details = dict(
-            source_id=SOURCE_ID,
-            category=DEFAULT_CATEGORY,
-            sub_category=sub_category,
-            scale=DEFAULT_SCALE,
-            unit=DEFAULT_UNIT,
-            frequency_name=DEFAULT_FREQUENCY_NAME,
-            i_subject=DEFAULT_I_SUBJECT,
-            footnotes=DEFAULT_FOOTNOTES,
-            summary_statistics=summary_statistics,
-            cleaned_data=cleaned_data,
-            raw_data=raw_data,
-        )
-
-        # write detailed data (per sub_category) to new path
-        new_data_path = os.path.join(
-            dir_output_new,
-            f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
-        )
-        JSONFile(new_data_path).write(details)
-        n = summary_statistics['n']
-        log.debug(f'Wrote {n} time items to {new_data_path}')
+        build_data_row(tokens, year_list, dir_output_new)
