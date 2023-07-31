@@ -4,7 +4,6 @@ import tempfile
 from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl.Config import Config
-from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
 from lanka_data_timeseries.common import parse_number
 from lanka_data_timeseries.constants import HALVES, MONTHS, QUARTERS
 
@@ -157,49 +156,3 @@ class DataBuilder:
         for category, d_sub in self.d_idx.items():
             for sub_category, d_data in d_sub.items():
                 self.write_sub_category(category, sub_category, d_data)
-
-
-if __name__ == '__main__':
-    print(DataBuilder.clean_time('2021-Jan'))
-    print(DataBuilder.clean_time('2021-Dec'))
-    print(DataBuilder.clean_time('2021-Q1'))
-    print(DataBuilder.clean_time('2021-Q4'))
-    print(DataBuilder.clean_time('2021-H1'))
-    print(DataBuilder.clean_time('2021-H2'))
-
-    print(DataBuilder.clean_value('1,000'))
-    print(DataBuilder.clean_value('1,000.00'))
-    print(DataBuilder.clean_value('l,000.00'))
-    print(DataBuilder.clean_value('(1,000.00)'))
-
-    print(
-        DataBuilder.clean_data(
-            {
-                '2021-Q1': '1,000.00',
-                '2021-01-07': '2,000.00',
-                '2021-04': '3,000.00',
-                '2021': 'None',
-            }
-        )
-    )
-
-    d_idx = {
-        'A': {
-            'B': {
-                'scale': 'M',
-                'unit': 'kg',
-                'data': {
-                    '2021-Q1': '1,000.00',
-                    '2021-01-07': '2,000.00',
-                    '2021-04': '3,000.00',
-                },
-            }
-        }
-    }
-    d_footnote_idx = {
-        'B': {
-            'source': 'Finance Ministry',
-            'sector': 'New Sector',
-        }
-    }
-    DataBuilder(d_idx, d_footnote_idx, Config(FREQUENCY_LIST[0], 0)).write()
