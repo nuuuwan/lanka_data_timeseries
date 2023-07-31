@@ -4,8 +4,8 @@ import tempfile
 from utils import JSONFile, Log
 
 from lanka_data_timeseries.cbsl.Config import Config
-from lanka_data_timeseries.common import parse_number
-from lanka_data_timeseries.constants import HALVES, MONTHS, QUARTERS
+from lanka_data_timeseries.common import clean_time, clean_value
+from lanka_data_timeseries.common_statistics import get_summary_statistics
 
 log = Log(__name__)
 
@@ -34,61 +34,10 @@ class DataBuilder:
         return dir_data
 
     @staticmethod
-    def normalize_time(t: str) -> str:
-        if len(t) == 4:
-            t = f'{t}-01-01'
-
-        if len(t) == 7:
-            t = f'{t}-01'
-
-        return t
-
-    @staticmethod
-    def clean_time(t: str) -> str:
-        t = t.replace('"', '')
-
-        if len(t) == 7 and t[4] == '/':
-            t = t[:4] + '-07-01'
-
-        for i, month in enumerate(MONTHS):
-            t = t.replace(month, f'{i+1:02d}')
-
-        for i, quarter in enumerate(QUARTERS):
-            m = (i + 1) * 3
-            t = t.replace(quarter, f'{m:02d}')
-
-        for i, half in enumerate(HALVES):
-            m = (i + 1) * 6
-            t = t.replace(half, f'{m:02d}')
-
-        return DataBuilder.normalize_time(t)
-
-    @staticmethod
-    def clean_value(x: str):
-        if x == '-':
-            return 0
-
-        x = x.replace('"', '')
-        x = x.replace(' ', '')
-
-        if x.startswith('(') and x.endswith(')'):
-            x = '-' + x[1:-1]
-
-        if x.lower() in ['...', '', 'n.a', 'n.a.']:
-            return None
-
-        x = x.replace(',', '')
-        x = x.replace('l', '1')
-        x = x.replace('I', '1')
-        x = x.replace("'", '')
-
-        return parse_number(x)
-
-    @staticmethod
     def clean_data(t_to_value: dict[str, str]) -> dict[str,]:
         cleaned_d = dict(
             [
-                (DataBuilder.clean_time(t), DataBuilder.clean_value(value))
+                (clean_time(t), clean_value(value))
                 for t, value in t_to_value.items()
             ]
         )
@@ -98,37 +47,13 @@ class DataBuilder:
         return sorted_d
 
     @staticmethod
-    def get_summary_statistics(d_data: dict) -> dict:
-        t_list = list(d_data.keys())
-
-        n = len(t_list)
-
-        if n > 0:
-            min_t = t_list[0]
-            max_t = t_list[-1]
-            min_value = d_data[min_t]
-            max_value = d_data[max_t]
-        else:
-            min_t = None
-            max_t = None
-            min_value = None
-            max_value = None
-
-        return dict(
-            n=n,
-            min_t=min_t,
-            max_t=max_t,
-            min_value=min_value,
-            max_value=max_value,
-        )
-
     def write_sub_category(self, category, sub_category, d_data):
         frequency_name = self.config.frequency.name
         i_subject = self.config.i_subject
 
         raw_data = d_data['data']
         cleaned_data = DataBuilder.clean_data(raw_data)
-        summary_statistics = DataBuilder.get_summary_statistics(cleaned_data)
+        summary_statistics = get_summary_statistics(cleaned_data)
 
         footnotes = self.d_footnote_idx.get(sub_category, {})
         d_data_cleaned = dict(
