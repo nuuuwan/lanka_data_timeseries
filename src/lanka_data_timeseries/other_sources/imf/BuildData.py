@@ -12,9 +12,10 @@ from lanka_data_timeseries.common import (DEFAULT_FREQUENCY_NAME,
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
 ALPHA3_LKA = 'LKA'
-log = Log(__name__)
 SOURCE_ID = 'imf'
 DEFAULT_CATEGORY = 'IMF - Sri Lanka Data'
+
+log = Log(__name__)
 
 
 def get_json(url):

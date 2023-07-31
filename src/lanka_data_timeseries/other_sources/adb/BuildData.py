@@ -11,15 +11,13 @@ from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
                                           DEFAULT_UNIT, clean_str,
                                           parse_number)
 
-log = Log(__file__)
-
-
 SOURCE_ID = 'adb'
 I_COL_CATEGORY = 2
 I_ROW_T_HEADER = 7
 URL_DOWNLOAD = 'https://data.adb.org/media/10061/download'
-
 INDENT_STR = ' ' * 5
+
+log = Log(__file__)
 
 
 def init_dir():

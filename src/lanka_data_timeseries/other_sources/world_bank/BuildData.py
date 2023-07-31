@@ -13,20 +13,10 @@ from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
                                              DEFAULT_UNIT)
 
 SOURCE_ID = 'world_bank'
-
 URL_DOWNLOAD = (
     'https://api.worldbank.org' + '/v2/en/country/LKA' + '?downloadformat=csv'
 )
-
-
-URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
-
-BRANCH_DATA = 'data'
-
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
-
-
-SOURCE_ID = 'world_bank'
 
 
 log = Log(__name__)
