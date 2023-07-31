@@ -1,5 +1,4 @@
 import os
-import tempfile
 
 from utils import CSVFile, JSONFile, Log
 
@@ -8,6 +7,7 @@ from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
                                           DEFAULT_FREQUENCY_NAME,
                                           DEFAULT_I_SUBJECT, DEFAULT_SCALE,
                                           DEFAULT_UNIT)
+from src.lanka_data_timeseries.common import DIR_TMP_DATA
 
 log = Log(__file__)
 
@@ -18,10 +18,6 @@ dir_data = os.path.join(
     'misc',
     'single_data',
     'data',
-)
-DIR_TMP_DATA = os.path.join(
-    tempfile.gettempdir(),
-    'tmp.lanka_data_timeseries',
 )
 
 

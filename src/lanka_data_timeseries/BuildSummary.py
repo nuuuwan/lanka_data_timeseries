@@ -1,15 +1,12 @@
 import os
-import tempfile
 
 from utils import TIME_FORMAT_TIME, File, Git, JSONFile, Log, Time, TimeFormat
 
+from src.lanka_data_timeseries.common import DIR_TMP_DATA
 from utils_future import GitFuture
 
 log = Log(__name__)
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
-DIR_TMP_DATA = os.path.join(
-    tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
-)
 BRANCH_DATA = 'data'
 
 

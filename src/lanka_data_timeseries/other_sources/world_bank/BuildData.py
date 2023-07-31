@@ -6,7 +6,7 @@ import zipfile
 from utils import WWW, File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
-from lanka_data_timeseries.common import clean_str
+from lanka_data_timeseries.common import DIR_TMP_DATA, clean_str
 
 SOURCE_ID = 'world_bank'
 
@@ -16,9 +16,7 @@ URL_DOWNLOAD = (
 
 
 URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
-DIR_TMP_DATA = os.path.join(
-    tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
-)
+
 BRANCH_DATA = 'data'
 
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
