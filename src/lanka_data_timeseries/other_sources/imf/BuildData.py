@@ -45,6 +45,50 @@ def get_lka_data(indicator_key: str):
     return data
 
 
+def build_indicator_d(indicator_key, metadata):
+    data = get_lka_data(indicator_key)
+    summary_statistics = get_summary_statistics(data)
+    label = metadata['label']
+    if not label or str(label) == 'null':
+        log.warning(f'No data for {indicator_key}')
+
+    return dict(
+        source_id=SOURCE_ID,
+        category=DEFAULT_CATEGORY,
+        sub_category=clean_str(label),
+        scale=DEFAULT_SCALE,
+        unit=metadata['unit'],
+        frequency_name=DEFAULT_FREQUENCY_NAME,
+        i_subject=DEFAULT_I_SUBJECT,
+        footnotes=dict(
+            indicator_key=indicator_key,
+            description=metadata['description'],
+            source=metadata['source'],
+            dataset=metadata['dataset'],
+            url=url_lka(indicator_key),
+        ),
+        summary_statistics=summary_statistics,
+        cleaned_data=data,
+        raw_data=data,
+    )
+
+
+def build_indicator(i, indicator_key, metadata, dir_output, n_indicators):
+    d = build_indicator_d(indicator_key, metadata)
+
+    n = d['summary_statistics']['n']
+    if n <= 0:
+        log.warning(f'No data for {indicator_key}')
+        return
+
+    file_path = os.path.join(
+        dir_output,
+        f'{SOURCE_ID}.{d["sub_category"]}.{DEFAULT_FREQUENCY_NAME}.json',
+    )
+    JSONFile(file_path).write(d)
+    log.debug(f'{i}/{n_indicators}) Wrote {file_path} ({n} values)')
+
+
 def build_data():
     dir_output = os.path.join(
         tempfile.gettempdir(),
@@ -61,39 +105,4 @@ def build_data():
     i = 0
     for indicator_key, metadata in indicator_idx.items():
         i += 1
-        data = get_lka_data(indicator_key)
-        summary_statistics = get_summary_statistics(data)
-        label = metadata['label']
-        if not label or str(label) == 'null':
-            log.warning(f'No data for {indicator_key}')
-        d = dict(
-            source_id=SOURCE_ID,
-            category=DEFAULT_CATEGORY,
-            sub_category=clean_str(label),
-            scale=DEFAULT_SCALE,
-            unit=metadata['unit'],
-            frequency_name=DEFAULT_FREQUENCY_NAME,
-            i_subject=DEFAULT_I_SUBJECT,
-            footnotes=dict(
-                indicator_key=indicator_key,
-                description=metadata['description'],
-                source=metadata['source'],
-                dataset=metadata['dataset'],
-                url=url_lka(indicator_key),
-            ),
-            summary_statistics=summary_statistics,
-            cleaned_data=data,
-            raw_data=data,
-        )
-
-        n = summary_statistics['n']
-        if n <= 0:
-            log.warning(f'No data for {indicator_key}')
-            continue
-
-        file_path = os.path.join(
-            dir_output,
-            f'{SOURCE_ID}.{d["sub_category"]}.{DEFAULT_FREQUENCY_NAME}.json',
-        )
-        JSONFile(file_path).write(d)
-        log.debug(f'{i}/{n_indicators}) Wrote {file_path} ({n} values)')
+        build_indicator(i, indicator_key, metadata, dir_output, n_indicators)

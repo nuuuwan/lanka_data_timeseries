@@ -4,4 +4,3 @@ from lanka_data_timeseries.cbsl.FREQUENCY_LIST import FREQUENCY_LIST
 from lanka_data_timeseries.cbsl.PageSearchCriteria import PageSearchCriteria
 from lanka_data_timeseries.cbsl.PageSearchResult import PageSearchResult
 from lanka_data_timeseries.cbsl.PageSelectItems import PageSelectItems
-from lanka_data_timeseries.summary.build import BuildSummary
