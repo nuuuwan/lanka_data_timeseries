@@ -2,12 +2,6 @@ import re
 
 from lanka_data_timeseries.constants import HALVES, MONTHS, QUARTERS
 
-DEFAULT_SCALE = ''
-DEFAULT_FREQUENCY_NAME = 'Annual'
-DEFAULT_I_SUBJECT = -1
-DEFAULT_UNIT = ''
-DEFAULT_FOOTNOTES = {}
-
 
 def clean_str(x):
     if x is None:

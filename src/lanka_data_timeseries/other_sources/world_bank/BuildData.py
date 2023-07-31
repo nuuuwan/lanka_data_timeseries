@@ -7,6 +7,10 @@ from utils import WWW, File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import DIR_TMP_DATA, clean_str
+from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
+                                             DEFAULT_FREQUENCY_NAME,
+                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE,
+                                             DEFAULT_UNIT)
 
 SOURCE_ID = 'world_bank'
 
@@ -20,11 +24,7 @@ URL_GIT_REPO = 'https://github.com/nuuuwan/lanka_data_timeseries.git'
 BRANCH_DATA = 'data'
 
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
-DEFAULT_SCALE = ''
-DEFAULT_UNIT = ''
-DEFAULT_FREQUENCY_NAME = 'Annual'
-DEFAULT_I_SUBJECT = 0
-DEFAULT_FOOTNOTES = {}
+
 
 SOURCE_ID = 'world_bank'
 
