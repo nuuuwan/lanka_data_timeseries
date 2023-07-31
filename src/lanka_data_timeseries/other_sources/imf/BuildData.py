@@ -8,6 +8,7 @@ from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.constants import (DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE)
+from lanka_data_timeseries.common_statistics import get_summary_statistics
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
@@ -62,7 +63,7 @@ def build_data():
     for indicator_key, metadata in indicator_idx.items():
         i += 1
         data = get_lka_data(indicator_key)
-        summary_statistics = CBSLDataBuilder.get_summary_statistics(data)
+        summary_statistics = get_summary_statistics(data)
         label = metadata['label']
         if not label or str(label) == 'null':
             log.warning(f'No data for {indicator_key}')
