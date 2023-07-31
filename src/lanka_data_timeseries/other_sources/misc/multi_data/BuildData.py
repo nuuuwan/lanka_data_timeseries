@@ -31,18 +31,21 @@ def get_dataset_group_list() -> list[str]:
     return dataset_group_list
 
 
-def build_sub_category(
-    dataset_group: str, metadata: dict, sub_category_data: dict
+def build_sub_category_d(
+    sub_category_data: dict,
+    metadata: dict,
+    dataset_group: str,
+    sub_category_suffix: str,
+    frequency_name: str,
 ):
-    sub_category_suffix = list(sub_category_data.values())[0]
     raw_data = dict(list(sub_category_data.items())[1:])
     cleaned_data = CBSLDataBuilder.clean_data(raw_data)
     summary_statistics = get_summary_statistics(cleaned_data)
 
     source_id = metadata['source_id']
     sub_category = dataset_group + ' - ' + sub_category_suffix
-    frequency_name = metadata.get('frequency_name', DEFAULT_FREQUENCY_NAME)
-    d = dict(
+
+    return dict(
         source_id=source_id,
         category=dataset_group,
         sub_category=sub_category,
@@ -56,6 +59,23 @@ def build_sub_category(
         cleaned_data=cleaned_data,
     )
 
+
+def build_sub_category(
+    dataset_group: str, metadata: dict, sub_category_data: dict
+):
+    sub_category_suffix = list(sub_category_data.values())[0]
+    source_id = metadata['source_id']
+    sub_category = dataset_group + ' - ' + sub_category_suffix
+    frequency_name = metadata.get('frequency_name', DEFAULT_FREQUENCY_NAME)
+
+    d = build_sub_category_d(
+        sub_category_data,
+        metadata,
+        dataset_group,
+        sub_category_suffix,
+        frequency_name,
+    )
+
     id = f'{source_id}.{sub_category}.{frequency_name}'
 
     dir_source = os.path.join(DIR_TMP_DATA, 'sources', source_id)
@@ -65,7 +85,7 @@ def build_sub_category(
     dataset_path = os.path.join(dir_source, id + '.json')
     JSONFile(dataset_path).write(d)
 
-    n = summary_statistics['n']
+    n = d['summary_statistics']['n']
     log.debug(f'Wrote {n} time-items to {dataset_path}')
 
 

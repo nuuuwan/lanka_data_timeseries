@@ -31,10 +31,7 @@ def get_sub_category_list() -> list[str]:
     return sub_category_list
 
 
-def build_sub_category(sub_category: str):
-    metadata_path = os.path.join(dir_data, sub_category + '.json')
-    metadata = JSONFile(metadata_path).read()
-
+def build_sub_category_d(sub_category: str, metadata: dict):
     data_path = os.path.join(dir_data, sub_category + '.csv')
     sub_category_data = CSVFile(data_path).read()
 
@@ -45,7 +42,7 @@ def build_sub_category(sub_category: str):
     source_id = metadata['source_id']
     frequency_name = metadata.get('frequency_name', DEFAULT_FREQUENCY_NAME)
 
-    d = dict(
+    return dict(
         source_id=source_id,
         category=source_id.upper(),
         sub_category=sub_category,
@@ -59,6 +56,16 @@ def build_sub_category(sub_category: str):
         cleaned_data=cleaned_data,
     )
 
+
+def build_sub_category(sub_category: str):
+    metadata_path = os.path.join(dir_data, sub_category + '.json')
+    metadata = JSONFile(metadata_path).read()
+
+    source_id = metadata['source_id']
+    frequency_name = metadata.get('frequency_name', DEFAULT_FREQUENCY_NAME)
+
+    d = build_sub_category_d(sub_category, metadata)
+
     id = f'{source_id}.{sub_category}.{frequency_name}'
 
     dir_source = os.path.join(DIR_TMP_DATA, 'sources', source_id)
@@ -68,7 +75,7 @@ def build_sub_category(sub_category: str):
     dataset_path = os.path.join(dir_source, id + '.json')
     JSONFile(dataset_path).write(d)
 
-    n = summary_statistics['n']
+    n = d['summary_statistics']['n']
     log.debug(f'Wrote {n} time-items to {dataset_path}')
 
 
