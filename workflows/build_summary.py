@@ -1,8 +1,8 @@
-from lanka_data_timeseries.BuildSummary import BuildSummary
+from lanka_data_timeseries.summary import build
 
 
 def main():
-    BuildSummary.build()
+    build.build()
 
 
 if __name__ == '__main__':
