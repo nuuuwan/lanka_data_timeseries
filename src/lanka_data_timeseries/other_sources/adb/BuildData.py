@@ -13,7 +13,7 @@ from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
 
 log = Log(__file__)
 SOURCE_ID = 'adb'
-I_COL_CATEGORY = 2
+
 I_ROW_T_HEADER = 7
 
 
@@ -38,22 +38,60 @@ def download_source() -> str:
     return excel_path
 
 
-def parse_row(
-    worksheet, i_row, year_list, indent_to_text, category1, last_unit
-):
-    category_str = worksheet.cell(row=i_row, column=I_COL_CATEGORY).value
+def parse_category(worksheet, i_row):
+    I_COL_CATEGORY = 2
+    return worksheet.cell(row=i_row, column=I_COL_CATEGORY).value
 
+
+def parse_data(worksheet, i_row, year_list):
     data = {}
     for i_year, year in enumerate(year_list):
         value = worksheet.cell(row=i_row, column=3 + i_year).value
         data[year] = parse_number(str(value))
 
-    data = dict([item for item in data.items() if item[1] is not None])
+    return dict([item for item in data.items() if item[1] is not None])
+
+
+def build_d(category1, indent_to_text, last_unit, data, i_row, i):
+    category = category1
+    sub_category = ' - '.join(indent_to_text[: i + 1])
+
+    summary_statistics = get_summary_statistics(data)
+
+    if last_unit in category or last_unit in sub_category:
+        unit = last_unit
+    else:
+        unit = DEFAULT_UNIT
+
+    return dict(
+        source_id=SOURCE_ID,
+        category=clean_str(category),
+        sub_category=clean_str(sub_category),
+        scale=DEFAULT_SCALE,
+        unit=unit,
+        frequency_name=DEFAULT_FREQUENCY_NAME,
+        i_subject=DEFAULT_I_SUBJECT,
+        footnotes=DEFAULT_FOOTNOTES,
+        summary_statistics=summary_statistics,
+        cleaned_data=data,
+        raw_data=data,
+    )
+
+
+def parse_row(
+    worksheet, i_row, year_list, indent_to_text, category1, last_unit
+):
+    category_str = parse_category(worksheet, i_row)
+    data = parse_data(worksheet, i_row, year_list)
 
     # data reading complete
     i_row += 1
 
     if not category_str:
+        return None, i_row, indent_to_text, category1, last_unit
+
+    n_non_none = sum(1 for v in data.values() if v is not None)
+    if n_non_none == 0:
         return None, i_row, indent_to_text, category1, last_unit
 
     if '(' in category_str:
@@ -72,33 +110,7 @@ def parse_row(
     i = n_leading_spaces // 5
     indent_to_text[i] = category_str.strip()
 
-    category = category1
-    sub_category = ' - '.join(indent_to_text[: i + 1])
-
-    summary_statistics = get_summary_statistics(data)
-
-    if last_unit in category or last_unit in sub_category:
-        unit = last_unit
-    else:
-        unit = DEFAULT_UNIT
-
-    n_non_none = sum(1 for v in data.values() if v is not None)
-    if n_non_none == 0:
-        return None, i_row, indent_to_text, category1, last_unit
-
-    d = dict(
-        source_id=SOURCE_ID,
-        category=clean_str(category),
-        sub_category=clean_str(sub_category),
-        scale=DEFAULT_SCALE,
-        unit=unit,
-        frequency_name=DEFAULT_FREQUENCY_NAME,
-        i_subject=DEFAULT_I_SUBJECT,
-        footnotes=DEFAULT_FOOTNOTES,
-        summary_statistics=summary_statistics,
-        cleaned_data=data,
-        raw_data=data,
-    )
+    d = build_d(category1, indent_to_text, last_unit, data, i_row, i)
     return d, i_row, indent_to_text, category1, last_unit
 
 
@@ -144,7 +156,6 @@ def build_details(d_list, dir_output):
             log.error(f'Duplicate file path: {file_path}')
         file_path_set.add(file_path)
         JSONFile(file_path).write(d)
-        # log.debug(f'Wrote {file_path}')
 
 
 def build_data():
