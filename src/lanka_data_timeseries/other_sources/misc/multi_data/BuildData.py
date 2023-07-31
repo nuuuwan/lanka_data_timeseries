@@ -6,7 +6,8 @@ from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
                                           DEFAULT_FREQUENCY_NAME,
                                           DEFAULT_I_SUBJECT, DEFAULT_SCALE,
-                                          DEFAULT_UNIT, DIR_TMP_DATA)
+                                          DEFAULT_UNIT)
+from src.lanka_data_timeseries.constants import DIR_TMP_DATA
 
 log = Log(__file__)
 

@@ -2,7 +2,7 @@ import os
 
 from utils import TIME_FORMAT_TIME, File, Git, JSONFile, Log, Time, TimeFormat
 
-from src.lanka_data_timeseries.common import DIR_TMP_DATA
+from src.lanka_data_timeseries.constants import DIR_TMP_DATA
 from utils_future import GitFuture
 
 log = Log(__name__)

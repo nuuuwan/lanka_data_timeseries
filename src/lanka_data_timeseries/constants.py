@@ -1,4 +1,12 @@
+import os
+import tempfile
+
 from utils_future import WWWFuture
+
+DIR_TMP_DATA = os.path.join(
+    tempfile.gettempdir(),
+    'tmp.lanka_data_timeseries',
+)
 
 URL_CBSL = 'https://www.cbsl.lk'
 URL_ERESEARCH = WWWFuture.join(URL_CBSL, 'eresearch')

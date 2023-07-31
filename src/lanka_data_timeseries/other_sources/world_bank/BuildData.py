@@ -6,11 +6,11 @@ import zipfile
 from utils import WWW, File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
-from lanka_data_timeseries.common import DIR_TMP_DATA, clean_str
+from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
                                              DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE,
-                                             DEFAULT_UNIT)
+                                             DEFAULT_UNIT, DIR_TMP_DATA)
 from utils_future import WWWFuture
 
 SOURCE_ID = 'world_bank'
