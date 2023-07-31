@@ -46,7 +46,6 @@ class DataBuilder:
 
         return sorted_d
 
-    @staticmethod
     def write_sub_category(self, category, sub_category, d_data):
         frequency_name = self.config.frequency.name
         i_subject = self.config.i_subject
