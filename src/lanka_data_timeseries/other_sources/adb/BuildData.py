@@ -78,33 +78,41 @@ def build_d(category1, indent_to_text, last_unit, data, i_row, i):
     )
 
 
+def is_valid_row(category_str, data, n_leading_spaces):
+    if not category_str:
+        return False
+
+    is_n_non_none_zero = sum(1 for v in data.values() if v is not None) == 0
+
+    first_word = category_str.split(' ')[0]
+    is_first_word_invalid = first_word.isupper() and first_word not in [
+        'GDP',
+        'GNI',
+    ]
+
+    is_leading_spaces_invalud = n_leading_spaces % 5 != 0
+
+    return not (
+        is_n_non_none_zero
+        or is_first_word_invalid
+        or is_leading_spaces_invalud
+    )
+
+
 def parse_row(
     worksheet, i_row, year_list, indent_to_text, category1, last_unit
 ):
     category_str = parse_category(worksheet, i_row)
     data = parse_data(worksheet, i_row, year_list)
-
-    # data reading complete
     i_row += 1
 
-    if not category_str:
-        return None, i_row, indent_to_text, category1, last_unit
+    n_leading_spaces = None
+    if category_str:
+        if '(' in category_str:
+            last_unit = category_str.split('(')[1].split(')')[0]
+        n_leading_spaces = len(category_str) - len(category_str.lstrip())
 
-    n_non_none = sum(1 for v in data.values() if v is not None)
-    if n_non_none == 0:
-        return None, i_row, indent_to_text, category1, last_unit
-
-    if '(' in category_str:
-        last_unit = category_str.split('(')[1].split(')')[0]
-
-    first_word = category_str.split(' ')[0]
-    if first_word.isupper() and first_word not in ['GDP', 'GNI']:
-        category1 = category_str.strip()
-        return None, i_row, indent_to_text, category1, last_unit
-
-    n_leading_spaces = len(category_str) - len(category_str.lstrip())
-    if n_leading_spaces % 5 != 0:
-        log.error(f'Unexpected indent ({n_leading_spaces}): {category_str}')
+    if not is_valid_row(category_str, data, n_leading_spaces):
         return None, i_row, indent_to_text, category1, last_unit
 
     i = n_leading_spaces // 5
