@@ -2,13 +2,13 @@ import os
 import tempfile
 
 from utils import JSONFile, Log
-from utils_future import WWWFuture
 
 from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.common_statistics import get_summary_statistics
 from lanka_data_timeseries.constants import (ALPHA3_LKA,
                                              DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE)
+from utils_future import WWWFuture
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
