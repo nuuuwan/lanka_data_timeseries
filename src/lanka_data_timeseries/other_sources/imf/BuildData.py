@@ -1,35 +1,25 @@
 import os
 import tempfile
 
-import requests
-from utils import JSONFile, Log
+from utils import JSONFile, Log, WWWFuture
 
 from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.common_statistics import get_summary_statistics
-from lanka_data_timeseries.constants import (DEFAULT_FREQUENCY_NAME,
+from lanka_data_timeseries.constants import (ALPHA3_LKA,
+                                             DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE)
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
-ALPHA3_LKA = 'LKA'
 SOURCE_ID = 'imf'
 DEFAULT_CATEGORY = 'IMF - Sri Lanka Data'
 
 log = Log(__name__)
 
 
-def get_json(url):
-    response = requests.get(url)
-    data = response.json()
-    return data
-
-
 def get_indicator_idx() -> list[str]:
-    data = get_json(URL_INDICATORS)
-    idx = data['indicators']
-    n_indicators = len(idx)
-    log.debug(f'Found {n_indicators} indicators')
-    return idx
+    data = WWWFuture.get_json(URL_INDICATORS)
+    return data['indicators']
 
 
 def url_lka(indicator_key: str):
@@ -38,11 +28,10 @@ def url_lka(indicator_key: str):
 
 def get_lka_data(indicator_key: str):
     url = url_lka(indicator_key)
-    raw_data = get_json(url)
-    data = (
+    raw_data = WWWFuture.get_json(url)
+    return (
         raw_data.get('values', {}).get(indicator_key, {}).get(ALPHA3_LKA, {})
     )
-    return data
 
 
 def build_indicator_d(indicator_key, metadata):
