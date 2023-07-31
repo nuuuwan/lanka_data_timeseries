@@ -1,7 +1,8 @@
 import os
 import tempfile
 
-from utils import JSONFile, Log, WWWFuture
+from utils import JSONFile, Log
+from utils_future import WWWFuture
 
 from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.common_statistics import get_summary_statistics
