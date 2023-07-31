@@ -45,9 +45,7 @@ def build_data_row_d(
     for year, value in zip(year_list, tokens[4:-1]):
         data[year] = value
 
-    raw_data = data
-    cleaned_data = CBSLDataBuilder.clean_data(raw_data)
-    summary_statistics = get_summary_statistics(cleaned_data)
+    cleaned_data = CBSLDataBuilder.clean_data(data)
 
     return dict(
         source_id=SOURCE_ID,
@@ -58,9 +56,9 @@ def build_data_row_d(
         frequency_name=DEFAULT_FREQUENCY_NAME,
         i_subject=DEFAULT_I_SUBJECT,
         footnotes=DEFAULT_FOOTNOTES,
-        summary_statistics=summary_statistics,
+        summary_statistics=get_summary_statistics(cleaned_data),
         cleaned_data=cleaned_data,
-        raw_data=raw_data,
+        raw_data=data,
     )
 
 
