@@ -4,11 +4,10 @@ import tempfile
 import requests
 from utils import JSONFile, Log
 
-from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import clean_str
+from lanka_data_timeseries.common_statistics import get_summary_statistics
 from lanka_data_timeseries.constants import (DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE)
-from lanka_data_timeseries.common_statistics import get_summary_statistics
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
 URL_INDICATORS = URL_API + '/indicators'
