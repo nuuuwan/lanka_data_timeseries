@@ -11,10 +11,11 @@ from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
                                              DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE,
                                              DEFAULT_UNIT)
+from utils_future import WWWFuture
 
 SOURCE_ID = 'world_bank'
-URL_DOWNLOAD = (
-    'https://api.worldbank.org' + '/v2/en/country/LKA' + '?downloadformat=csv'
+URL_DOWNLOAD = WWWFuture.join(
+    'https://api.worldbank.org', 'v2/en/country', 'LKA?downloadformat=csv'
 )
 DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
 
@@ -95,7 +96,3 @@ def build_data():
         JSONFile(new_data_path).write(details)
         n = summary_statistics['n']
         log.debug(f'Wrote {n} time items to {new_data_path}')
-
-
-if __name__ == '__main__':
-    print(download_source())
