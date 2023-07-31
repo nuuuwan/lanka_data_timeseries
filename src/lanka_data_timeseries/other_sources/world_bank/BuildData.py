@@ -7,6 +7,7 @@ from utils import WWW, File, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import clean_str
+from lanka_data_timeseries.common_statistics import get_summary_statistics
 from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
                                              DEFAULT_FREQUENCY_NAME,
                                              DEFAULT_I_SUBJECT, DEFAULT_SCALE,
@@ -70,9 +71,7 @@ def build_data():
 
         raw_data = data
         cleaned_data = CBSLDataBuilder.clean_data(raw_data)
-        summary_statistics = CBSLDataBuilder.get_summary_statistics(
-            cleaned_data
-        )
+        summary_statistics = get_summary_statistics(cleaned_data)
 
         details = dict(
             source_id=SOURCE_ID,

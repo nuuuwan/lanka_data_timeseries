@@ -4,12 +4,12 @@ import tempfile
 from openpyxl import load_workbook
 from utils import WWW, JSONFile, Log
 
-from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
-from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
-                                          DEFAULT_FREQUENCY_NAME,
-                                          DEFAULT_I_SUBJECT, DEFAULT_SCALE,
-                                          DEFAULT_UNIT, clean_str,
-                                          parse_number)
+from lanka_data_timeseries.common import clean_str, parse_number
+from lanka_data_timeseries.common_statistics import get_summary_statistics
+from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
+                                             DEFAULT_FREQUENCY_NAME,
+                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE,
+                                             DEFAULT_UNIT)
 
 log = Log(__file__)
 SOURCE_ID = 'adb'
@@ -75,7 +75,7 @@ def parse_row(
     category = category1
     sub_category = ' - '.join(indent_to_text[: i + 1])
 
-    summary_statistics = CBSLDataBuilder.get_summary_statistics(data)
+    summary_statistics = get_summary_statistics(data)
 
     if last_unit in category or last_unit in sub_category:
         unit = last_unit

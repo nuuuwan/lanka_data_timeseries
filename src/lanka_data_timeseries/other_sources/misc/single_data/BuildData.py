@@ -3,11 +3,11 @@ import os
 from utils import CSVFile, JSONFile, Log
 
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
-from lanka_data_timeseries.common import (DEFAULT_FOOTNOTES,
-                                          DEFAULT_FREQUENCY_NAME,
-                                          DEFAULT_I_SUBJECT, DEFAULT_SCALE,
-                                          DEFAULT_UNIT)
-from src.lanka_data_timeseries.common import DIR_TMP_DATA
+from lanka_data_timeseries.common_statistics import get_summary_statistics
+from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
+                                             DEFAULT_FREQUENCY_NAME,
+                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE,
+                                             DEFAULT_UNIT, DIR_TMP_DATA)
 
 log = Log(__file__)
 
@@ -40,7 +40,7 @@ def build_sub_category(sub_category: str):
 
     raw_data = dict([d['time'], d['value']] for d in sub_category_data)
     cleaned_data = CBSLDataBuilder.clean_data(raw_data)
-    summary_statistics = CBSLDataBuilder.get_summary_statistics(cleaned_data)
+    summary_statistics = get_summary_statistics(cleaned_data)
 
     source_id = metadata['source_id']
     frequency_name = metadata.get('frequency_name', DEFAULT_FREQUENCY_NAME)
