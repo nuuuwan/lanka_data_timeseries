@@ -1,3 +1,6 @@
+import os
+import tempfile
+
 from utils import Log
 
 from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria,
@@ -27,7 +30,14 @@ def inner(config):
         return False
 
 
+def init():
+    os.makedirs(
+        os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries')
+    )
+
+
 def main():
+    init()
     config_list = Config.random_list()
     n = 0
     n_success = 0
