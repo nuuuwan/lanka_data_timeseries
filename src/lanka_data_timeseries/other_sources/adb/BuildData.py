@@ -66,9 +66,9 @@ def parse_row(
 
     n_leading_spaces = len(category_str) - len(category_str.lstrip())
     if n_leading_spaces % 5 != 0:
-        raise Exception(
-            f'Unexpected indent ({n_leading_spaces}): {category_str}'
-        )
+        log.error(f'Unexpected indent ({n_leading_spaces}): {category_str}')
+        return None, i_row, indent_to_text, category1, last_unit
+
     i = n_leading_spaces // 5
     indent_to_text[i] = category_str.strip()
 
@@ -127,7 +127,8 @@ def parse_excel(excel_path: str):
         d, i_row, indent_to_text, category1, last_unit = parse_row(
             worksheet, i_row, year_list, indent_to_text, category1, last_unit
         )
-        d_list.append(d)
+        if d:
+            d_list.append(d)
     return d_list
 
 
