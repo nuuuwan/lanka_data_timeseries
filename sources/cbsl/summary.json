@@ -11993,6 +11993,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 4367.8,
+      "max_value": 3469.4
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation, culture and relig",
     "scale": "Million",
     "unit": "Rs.",
@@ -12119,6 +12138,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDE - Constant (2010) Prices - HH Cons. by COICOP - Alcoholic beverages tobacco and narcotics",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 168024.4,
+      "max_value": 102381.5
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -12305,6 +12343,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 66947.41,
+      "max_value": 83200.5
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings, household equipment and routine hou",
     "scale": "Million",
     "unit": "Rs.",
@@ -12353,6 +12410,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDE - Constant (2010) Prices - HH Cons. by COICOP - Housing water electricity gas and other fuels",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 434569.69,
+      "max_value": 950599.6
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -12903,6 +12979,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Recreation culture and rel",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 4367.8,
+      "max_value": 7429.3
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
     "sub_category": "GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Recreation, culture and rel",
     "scale": "Million",
     "unit": "Rs.",
@@ -13029,6 +13124,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDE - Current MP (2010 Series) - HH Cons. by COICOP - Alcoholic beverages tobacco and narcotics",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 168024.4,
+      "max_value": 360780.5
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -13215,6 +13329,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings household equipment and routine h",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 66947.41,
+      "max_value": 105279.3
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
     "sub_category": "GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings, household equipment and routine h",
     "scale": "Million",
     "unit": "Rs.",
@@ -13263,6 +13396,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDE - Current MP (2010 Series) - HH Cons. by COICOP - Housing water electricity gas and other fue",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 434569.69,
+      "max_value": 1105003.3
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -13839,6 +13991,82 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Electricity",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 29775.0,
+      "max_value": 79796
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 3765.0,
+      "max_value": 7066
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Water",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 2068.0,
+      "max_value": 3405
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Industry - Electricity Gas and Water",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 35608.0,
+      "max_value": 90267
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
     "sub_category": "GDP - Constant (2002) Prices - Industry - Electricity, Gas and Water - Electricity",
     "scale": "Million",
     "unit": "Rs.",
@@ -13995,6 +14223,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea Rubber and Coconut)",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 13560.0,
+      "max_value": 17324
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
     "sub_category": "GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)",
     "scale": "Million",
     "unit": "Rs.",
@@ -14121,6 +14368,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2002",
+    "sub_category": "GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc.",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 130465.2,
+      "max_value": 322839
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -14485,6 +14751,329 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Animal Production",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 27229.78,
+      "max_value": 61566.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Forestry and Logging",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 43338.68,
+      "max_value": 54066.4
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Fresh water fishing and Fresh wa",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 9736.72,
+      "max_value": 18929.69
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Cereals (except rice)",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 10547.7,
+      "max_value": 14956.77
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Oleaginous Fruits (Co",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 60230.99,
+      "max_value": 60803.53
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Rice",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 60086.15,
+      "max_value": 78417.07
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Sugar cane tobacco a",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 2441.73,
+      "max_value": 2339.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Tea (Green leaves)",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 72207.68,
+      "max_value": 61621.21
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Vegetables )",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 47703.95,
+      "max_value": 58606.01
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of fruits",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 36609.79,
+      "max_value": 64156.24
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other beverage crops",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 1294.62,
+      "max_value": 1436.95
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other perennial crops",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 14496.39,
+      "max_value": 16680.62
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of rubber",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 44410.93,
+      "max_value": 23830.63
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of spices aromatic dru",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 28468.08,
+      "max_value": 68436.56
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Marine fishing and Marine Aquacu",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 77578.51,
+      "max_value": 75592.52
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Plant propagation and Support ac",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 8532.56,
+      "max_value": 8362.69
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Agriculture Forestry and Fishing",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 544914.27,
+      "max_value": 669801.87
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15035,6 +15624,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 68491.16,
+      "max_value": 102758.05
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Industries - Electricity, gas, steam and air conditioning supply",
     "scale": "Million",
     "unit": "Rs.",
@@ -15135,6 +15743,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of food beverages & Tobacco products",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 433768.82,
+      "max_value": 599901.82
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15243,6 +15870,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of paper products printing and reproductio",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 26093.79,
+      "max_value": 30094.44
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of paper products, printing and reproductio",
     "scale": "Million",
     "unit": "Rs.",
@@ -15295,6 +15941,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of textiles wearing apparel and leather rel",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 264905.03,
+      "max_value": 287843.93
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of textiles, wearing apparel and leather rel",
     "scale": "Million",
     "unit": "Rs.",
@@ -15317,6 +15982,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork ex",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 26317.66,
+      "max_value": 28724.79
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15373,6 +16057,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Other manufacturing and Repair and installation of mach",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 48659.59,
+      "max_value": 69623.12
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Industries - Other manufacturing, and Repair and installation of mach",
     "scale": "Million",
     "unit": "Rs.",
@@ -15399,6 +16102,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Sewerage Waste treatment and disposal activities",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 11712.33,
+      "max_value": 32078.09
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Industries - Sewerage, Waste, treatment and disposal activities",
     "scale": "Million",
     "unit": "Rs.",
@@ -15421,6 +16143,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Industries - Water collection treatment and supply",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 9380.68,
+      "max_value": 15865.81
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15503,6 +16244,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 87692.75,
+      "max_value": 89451.93
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Services - Accommodation, Food and beverage service activities",
     "scale": "Million",
     "unit": "Rs.",
@@ -15581,6 +16341,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Services - Human health activities Residential care and social work",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 136573.87,
+      "max_value": 190705.6
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Services - Human health activities, Residential care and social work",
     "scale": "Million",
     "unit": "Rs.",
@@ -15629,6 +16408,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Services - Insurance reinsurance and pension funding",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 67829.85,
+      "max_value": 118133.86
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15785,6 +16583,44 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Services - Public administration and defense_ compulsory social secur",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 383823.46,
+      "max_value": 443959.9
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP - Constant (2010) Prices - Services - Real estate activities Including Ownership of dwelling",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 307112.42,
+      "max_value": 572798.75
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -15967,6 +16803,329 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Animal Production",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 27229.78,
+      "max_value": 139960.91
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 43338.68,
+      "max_value": 105760.08
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Fresh water fishing",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 9736.72,
+      "max_value": 30702.34
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Cereals",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 10547.7,
+      "max_value": 37500.51
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Oleagino",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 60230.99,
+      "max_value": 109611.97
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Rice",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 60086.15,
+      "max_value": 168512.32
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Sugar ca",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 2441.73,
+      "max_value": 4567.08
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Tea (Gre",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 72207.68,
+      "max_value": 108543.79
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 47703.95,
+      "max_value": 133317.4
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 36609.79,
+      "max_value": 116135.38
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other be",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 1294.62,
+      "max_value": 3863.65
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 14496.39,
+      "max_value": 32544.66
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of rubber",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 44410.93,
+      "max_value": 17421.96
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 28468.08,
+      "max_value": 94891.81
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 77578.51,
+      "max_value": 135409.13
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Plant propagation a",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 8532.56,
+      "max_value": 13178.24
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 544914.27,
+      "max_value": 1251921.24
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -16517,6 +17676,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Industries - Electricity gas steam and air conditionin",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 68491.16,
+      "max_value": 116710.24
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
     "sub_category": "GDP - Current Market Prices (2010 Series) - Industries - Electricity, gas, steam and air conditionin",
     "scale": "Million",
     "unit": "Rs.",
@@ -16621,6 +17799,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Industries - Manufacture of food beverages & Tobacco pr",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 433768.82,
+      "max_value": 945657.68
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
     "sub_category": "GDP - Current Market Prices (2010 Series) - Industries - Manufacture of food, beverages & Tobacco pr",
     "scale": "Million",
     "unit": "Rs.",
@@ -16695,6 +17892,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2010",
+    "sub_category": "GDP - Current Market Prices (2010 Series) - Industries - Manufacture of paper products printing an",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 11,
+      "min_t": "2010-01-01",
+      "max_t": "2020-01-01",
+      "min_value": 26093.79,
+      "max_value": 58875.6
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -17141,6 +18357,82 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Electricity",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 29775.0,
+      "max_value": 136852
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Gas",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 3765.0,
+      "max_value": 20992
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Water",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 2068.0,
+      "max_value": 12755
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 35608.0,
+      "max_value": 170599
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
     "sub_category": "GDP - Current Prices (2002 Series) - Industry - Electricity, Gas and Water - Electricity",
     "scale": "Million",
     "unit": "Rs.",
@@ -17297,6 +18589,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea Rubber and Coconut)",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 13560.0,
+      "max_value": 75793
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
     "sub_category": "GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)",
     "scale": "Million",
     "unit": "Rs.",
@@ -17423,6 +18734,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Current Prices (2002 Series) - Services - Banking Insurance and Real Estate etc.",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 14,
+      "min_t": "2002-01-01",
+      "max_t": "2015-01-01",
+      "min_value": 130465.2,
+      "max_value": 1234163
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -18441,6 +19771,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food Beverages and Tobacco",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2002-01-01",
+      "max_t": "2014-01-01",
+      "min_value": 557445.0,
+      "max_value": 2259878.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
     "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food, Beverages and Tobacco",
     "scale": "Million",
     "unit": "Rs.",
@@ -18463,6 +19812,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Furnishings Household Equipment and Rou",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2002-01-01",
+      "max_t": "2014-01-01",
+      "min_value": 34753.0,
+      "max_value": 248673.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -18519,6 +19887,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Hotels Cafes and Restaurants",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2002-01-01",
+      "max_t": "2014-01-01",
+      "min_value": 20682.0,
+      "max_value": 150433.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
     "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Hotels, Cafes and Restaurants",
     "scale": "Million",
     "unit": "Rs.",
@@ -18545,6 +19932,25 @@
   {
     "source_id": "cbsl",
     "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing Water Electricity Gas and ot",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2002-01-01",
+      "max_t": "2014-01-01",
+      "min_value": 125274.6,
+      "max_value": 867980.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
     "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing, Water, Electricity, Gas and ot",
     "scale": "Million",
     "unit": "Rs.",
@@ -18567,6 +19973,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Current Prices - Base Year 2002",
+    "sub_category": "GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture",
+    "scale": "Million",
+    "unit": "Rs.",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 13,
+      "min_t": "2002-01-01",
+      "max_t": "2014-01-01",
+      "min_value": 31669.0,
+      "max_value": 140418.0
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
@@ -19087,6 +20512,25 @@
     },
     "last_updated_time_ut": 1688096165.0,
     "last_updated_time_str": "2023-06-30 09:06:05"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
+    "sub_category": "GDP Growth - Constant (2010) Prices - Agriculture Forestry and Fishing",
+    "scale": "%",
+    "unit": " ",
+    "frequency_name": "Annual",
+    "i_subject": 1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
+    },
+    "last_updated_time_ut": 1691016173.0,
+    "last_updated_time_str": "2023-08-03 04:12:53"
   },
   {
     "source_id": "cbsl",
