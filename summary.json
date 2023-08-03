@@ -22815,6 +22815,44 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Prices and Indices-Index of Industrial Production (IIP)",
+    "sub_category": "IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change",
+    "scale": " ",
+    "unit": "%",
+    "frequency_name": "Annual",
+    "i_subject": 4,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
+    },
+    "last_updated_time_ut": 1691033967.0,
+    "last_updated_time_str": "2023-08-03 09:09:27"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Prices and Indices-Index of Industrial Production (IIP)",
+    "sub_category": "IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials",
+    "scale": " ",
+    "unit": "Index",
+    "frequency_name": "Annual",
+    "i_subject": 4,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
+    },
+    "last_updated_time_ut": 1691033967.0,
+    "last_updated_time_str": "2023-08-03 09:09:27"
+  },
+  {
+    "source_id": "cbsl",
     "category": "International Investment Position-Other Investments",
     "sub_category": "IIP - Other Investments- Currency and Deposits -Assets",
     "scale": "Millions",

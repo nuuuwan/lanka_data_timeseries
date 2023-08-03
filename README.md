@@ -1,18 +1,20 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* cbsl: 1,880 datasets
+* cbsl: 1,882 datasets
 * adb: 537 datasets
 * world_bank: 1,482 datasets
 * sltda: 1 datasets
 * imf: 88 datasets
 * dmtlk: 32 datasets
-* TOTAL: **4,020** datasets
+* TOTAL: **4,022** datasets
 
-Last Updated: **08:44 AM, Thursday, 03 August, 2023**
+Last Updated: **09:43 AM, Thursday, 03 August, 2023**
 
 ## Latest updates
 
+* 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change (cbsl - Annual)
+* 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - HH Cons. by COICOP - Alcoholic beverages tobacco and narcotics (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou (cbsl - Annual)
@@ -111,5 +113,3 @@ Last Updated: **08:44 AM, Thursday, 03 August, 2023**
 * 2023-07-31 15:36:26 - Adequacy of unemployment benefits and ALMP (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Adjusted net enrollment rate primary (Pct. of primary school age children) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Adjusted net enrollment rate primary female (Pct. of primary school age children) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adjusted net enrollment rate primary male (Pct. of primary school age children) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adjusted net national income (annual Pct. growth) (world_bank - Annual)
