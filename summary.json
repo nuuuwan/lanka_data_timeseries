@@ -48531,6 +48531,25 @@
   {
     "source_id": "cbsl",
     "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Central Government - Overall Deficit or Surplus",
+    "scale": "Rs. million",
+    "unit": "LKR",
+    "frequency_name": "Quarterly",
+    "i_subject": 30,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 33,
+      "min_t": "2015-03-01",
+      "max_t": "2023-03-01",
+      "min_value": -207781,
+      "max_value": -624778
+    },
+    "last_updated_time_ut": 1691062757.0,
+    "last_updated_time_str": "2023-08-03 17:09:17"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Central Government Finance-Debt Statistics",
     "sub_category": "Central Government - Primary Deficit  or  Surplus",
     "scale": "Rs. million",
     "unit": "LKR",
@@ -48546,6 +48565,25 @@
     },
     "last_updated_time_ut": 1688029978.0,
     "last_updated_time_str": "2023-06-29 14:42:58"
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Central Government Finance-Debt Statistics",
+    "sub_category": "Central Government - Primary Deficit or Surplus",
+    "scale": "Rs. million",
+    "unit": "LKR",
+    "frequency_name": "Quarterly",
+    "i_subject": 30,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 33,
+      "min_t": "2015-03-01",
+      "max_t": "2023-03-01",
+      "min_value": -62553,
+      "max_value": 48294
+    },
+    "last_updated_time_ut": 1691062757.0,
+    "last_updated_time_str": "2023-08-03 17:09:17"
   },
   {
     "source_id": "cbsl",
