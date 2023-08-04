@@ -45798,18 +45798,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 368222507150,
-      "max_value": 905258795927
+      "max_value": 793746512098
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -45824,18 +45824,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 7912058601,
-      "max_value": 23742517251
+      "max_value": 19977999349
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -45850,18 +45850,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 92,
+      "n": 95,
       "min_t": "2015-08-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 50476015.86,
-      "max_value": 1010585290435
+      "max_value": 991767396622
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46006,18 +46006,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 2667915670225,
-      "max_value": 29691746659591
+      "max_value": 26401307583883
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46058,18 +46058,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 11778035,
-      "max_value": 34149498
+      "max_value": 30083638
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46110,18 +46110,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "ATM transactions carried out through Common ATM Switch (Not-on-us)",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 116,
+      "n": 119,
       "min_t": "2013-08-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 631918970,
-      "max_value": 103388763300
+      "max_value": 100089490700
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46136,18 +46136,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 23287074328,
-      "max_value": 307774636762
+      "max_value": 279292143915
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46162,18 +46162,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 3156105,
-      "max_value": 3103388
+      "max_value": 2646655
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46188,18 +46188,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 118476,
-      "max_value": 90893
+      "max_value": 77129
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46214,18 +46214,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 92,
+      "n": 95,
       "min_t": "2015-08-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 626,
-      "max_value": 11404431
+      "max_value": 12322048
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46370,18 +46370,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 16534,
-      "max_value": 62487
+      "max_value": 54409
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46422,18 +46422,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 4348,
-      "max_value": 6150
+      "max_value": 5178
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46474,18 +46474,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "ATM transactions carried out through Common ATM Switch (Not-on-us)",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 116,
+      "n": 119,
       "min_t": "2013-08-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 196229,
-      "max_value": 8418186
+      "max_value": 8251528
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",
@@ -46500,18 +46500,18 @@
       "Source": "LCPL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-09",
+      "Data last updated": "2023-07-25",
       "Update frequency": "15 th day of the following month"
     },
     "summary_statistics": {
-      "n": 159,
+      "n": 162,
       "min_t": "2010-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 831860,
-      "max_value": 4281069
+      "max_value": 3738243
     },
-    "last_updated_time_ut": 1688104551.0,
-    "last_updated_time_str": "2023-06-30 11:25:51"
+    "last_updated_time_ut": 1691149201.0,
+    "last_updated_time_str": "2023-08-04 17:10:01"
   },
   {
     "source_id": "cbsl",

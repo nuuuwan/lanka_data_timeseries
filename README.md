@@ -9,10 +9,24 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,024** datasets
 
-Last Updated: **04:42 PM, Friday, 04 August, 2023**
+Last Updated: **05:44 PM, Friday, 04 August, 2023**
 
 ## Latest updates
 
+* 2023-08-04 17:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of Cheques returned (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of Cheques returned (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-08-04 17:10:01 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2023-08-03 17:09:17 - Central Government - Overall Deficit or Surplus (cbsl - Quarterly)
 * 2023-08-03 17:09:17 - Central Government - Primary Deficit or Surplus (cbsl - Quarterly)
 * 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change (cbsl - Annual)
@@ -99,17 +113,3 @@ Last Updated: **04:42 PM, Friday, 04 August, 2023**
 * 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking urban (Pct. of urban population) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Access to electricity (Pct. of population) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Access to electricity rural (Pct. of rural population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to electricity urban (Pct. of urban population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider female (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider male (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider older adults (Pct. of population ages 25_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider poorest 40Pct. (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider primary education or less (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider richest 60Pct. (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider secondary education or more (Pct. of population ages 15_) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Account ownership at a financial institution or with a mobile-money-service provider young adults (Pct. of population ages 15-24) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adequacy of social safety net programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Adequacy of unemployment benefits and ALMP (Pct. of total welfare of beneficiary households) (world_bank - Annual)
