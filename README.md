@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **01:43 PM, Saturday, 05 August, 2023**
+Last Updated: **02:43 PM, Saturday, 05 August, 2023**
 
 ## Latest updates
 
+* 2023-08-05 14:08:49 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Exports - Total (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Merchandise Imports - Total (cbsl - Quarterly)
+* 2023-08-05 14:08:49 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-08-05 11:09:10 - Government sector western medicine - Hospital beds per 1 000 persons (cbsl - Annual)
 * 2023-08-05 11:09:10 - Government sector western medicine - Nurses per 10 000 persons (cbsl - Annual)
 * 2023-08-05 11:09:10 - Health Indicators - Infant Mortality per 1 000 live births (cbsl - Annual)
@@ -104,12 +113,3 @@ Last Updated: **01:43 PM, Saturday, 05 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea Rubber and Coconut) (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food Beverages and Tobacco (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Furnishings Household Equipment and Rou (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Hotels Cafes and Restaurants (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing Water Electricity Gas and ot (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP Growth - Constant (2010) Prices - Agriculture Forestry and Fishing (cbsl - Annual)
-* 2023-07-31 15:36:26 - ARI treatment (Pct. of children under 5 taken to a health provider) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking (Pct. of population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking rural (Pct. of rural population) (world_bank - Annual)
