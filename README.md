@@ -9,10 +9,12 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **08:43 PM, Saturday, 05 August, 2023**
+Last Updated: **09:43 PM, Saturday, 05 August, 2023**
 
 ## Latest updates
 
+* 2023-08-05 21:10:00 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-08-05 21:10:00 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-08-05 14:08:49 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
@@ -111,5 +113,3 @@ Last Updated: **08:43 PM, Saturday, 05 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Gas (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Water (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea Rubber and Coconut) (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
