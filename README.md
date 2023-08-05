@@ -5,14 +5,17 @@
 * imf: 88 datasets
 * adb: 537 datasets
 * sltda: 1 datasets
-* cbsl: 1,884 datasets
+* cbsl: 1,887 datasets
 * dmtlk: 32 datasets
-* TOTAL: **4,024** datasets
+* TOTAL: **4,027** datasets
 
-Last Updated: **10:43 AM, Saturday, 05 August, 2023**
+Last Updated: **11:43 AM, Saturday, 05 August, 2023**
 
 ## Latest updates
 
+* 2023-08-05 11:09:10 - Government sector western medicine - Hospital beds per 1 000 persons (cbsl - Annual)
+* 2023-08-05 11:09:10 - Government sector western medicine - Nurses per 10 000 persons (cbsl - Annual)
+* 2023-08-05 11:09:10 - Health Indicators - Infant Mortality per 1 000 live births (cbsl - Annual)
 * 2023-08-04 17:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2023-08-04 17:10:01 - Total Value of Cheques returned (cbsl - Monthly)
 * 2023-08-04 17:10:01 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
@@ -110,6 +113,3 @@ Last Updated: **10:43 AM, Saturday, 05 August, 2023**
 * 2023-07-31 15:36:26 - ARI treatment (Pct. of children under 5 taken to a health provider) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking (Pct. of population) (world_bank - Annual)
 * 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking rural (Pct. of rural population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to clean fuels and technologies for cooking urban (Pct. of urban population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to electricity (Pct. of population) (world_bank - Annual)
-* 2023-07-31 15:36:26 - Access to electricity rural (Pct. of rural population) (world_bank - Annual)
