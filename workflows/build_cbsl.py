@@ -1,10 +1,10 @@
 import os
-import tempfile
 
 from utils import Log
 
 from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria,
                                         PageSearchResult, PageSelectItems)
+from lanka_data_timeseries.constants import DIR_TMP_DATA
 
 log = Log(__name__)
 MAX_CONFIGS = 5
@@ -31,11 +31,8 @@ def inner(config):
 
 
 def init():
-    dir_path = os.path.join(
-        tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
-    )
-    os.makedirs(dir_path)
-    log.debug(f'Created {dir_path}.')
+    os.makedirs(DIR_TMP_DATA)
+    log.debug(f'Created {DIR_TMP_DATA}.')
 
 
 def main():
