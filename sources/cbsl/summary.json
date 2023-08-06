@@ -35741,18 +35741,18 @@
       "Source": "Sri Lanka Ports Authority",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-19",
+      "Data last updated": "2023-08-04",
       "Update frequency": "One month after the end of the month"
     },
     "summary_statistics": {
-      "n": 291,
+      "n": 294,
       "min_t": "1999-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 2342372,
-      "max_value": 8617013
+      "max_value": 9831765
     },
-    "last_updated_time_ut": 1688229891.0,
-    "last_updated_time_str": "2023-07-01 22:14:51"
+    "last_updated_time_ut": 1691278833.0,
+    "last_updated_time_str": "2023-08-06 05:10:33"
   },
   {
     "source_id": "cbsl",
@@ -35767,18 +35767,18 @@
       "Source": "Sri Lanka Ports Authority",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-15",
+      "Data last updated": "2023-08-04",
       "Update frequency": "One month after the end of the month"
     },
     "summary_statistics": {
-      "n": 291,
+      "n": 294,
       "min_t": "1999-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 145842,
-      "max_value": 593335
+      "max_value": 640663
     },
-    "last_updated_time_ut": 1688229891.0,
-    "last_updated_time_str": "2023-07-01 22:14:51"
+    "last_updated_time_ut": 1691278833.0,
+    "last_updated_time_str": "2023-08-06 05:10:33"
   },
   {
     "source_id": "cbsl",
@@ -35793,18 +35793,18 @@
       "Source": "Sri Lanka Ports Authority",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-15",
+      "Data last updated": "2023-08-04",
       "Update frequency": "One month after the end of the month"
     },
     "summary_statistics": {
-      "n": 291,
+      "n": 294,
       "min_t": "1999-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 377,
-      "max_value": 403
+      "max_value": 414
     },
-    "last_updated_time_ut": 1688229891.0,
-    "last_updated_time_str": "2023-07-01 22:14:51"
+    "last_updated_time_ut": 1691278833.0,
+    "last_updated_time_str": "2023-08-06 05:10:33"
   },
   {
     "source_id": "cbsl",
