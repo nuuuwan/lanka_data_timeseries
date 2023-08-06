@@ -1,5 +1,4 @@
 import os
-import tempfile
 
 from utils import JSONFile, Log
 
@@ -7,7 +6,8 @@ from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.common_statistics import get_summary_statistics
 from lanka_data_timeseries.constants import (ALPHA3_LKA,
                                              DEFAULT_FREQUENCY_NAME,
-                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE)
+                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE,
+                                             DIR_TMP_DATA)
 from utils_future import WWWFuture
 
 URL_API = 'https://www.imf.org/external/datamapper/api/v1'
@@ -81,8 +81,7 @@ def build_indicator(i, indicator_key, metadata, dir_output, n_indicators):
 
 def build_data():
     dir_output = os.path.join(
-        tempfile.gettempdir(),
-        'tmp.lanka_data_timeseries',
+        DIR_TMP_DATA,
         'sources',
         SOURCE_ID,
     )

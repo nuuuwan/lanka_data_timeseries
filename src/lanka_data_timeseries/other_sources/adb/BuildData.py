@@ -4,7 +4,8 @@ import tempfile
 from openpyxl import load_workbook
 from utils import WWW, JSONFile, Log
 
-from lanka_data_timeseries.constants import DEFAULT_FREQUENCY_NAME
+from lanka_data_timeseries.constants import (DEFAULT_FREQUENCY_NAME,
+                                             DIR_TMP_DATA)
 from lanka_data_timeseries.other_sources.adb.parsers import (I_ROW_T_HEADER,
                                                              SOURCE_ID,
                                                              parse_row)
@@ -14,8 +15,7 @@ log = Log(__file__)
 
 def init_dir():
     dir_output = os.path.join(
-        tempfile.gettempdir(),
-        'tmp.lanka_data_timeseries',
+        DIR_TMP_DATA,
         'sources',
         SOURCE_ID,
     )

@@ -6,6 +6,7 @@ from utils import JSONFile, Log
 from lanka_data_timeseries.cbsl.Config import Config
 from lanka_data_timeseries.common import clean_time, clean_value
 from lanka_data_timeseries.common_statistics import get_summary_statistics
+from lanka_data_timeseries.constants import DIR_TMP_DATA
 
 log = Log(__name__)
 
@@ -21,8 +22,7 @@ class DataBuilder:
     @property
     def dir_data(self) -> str:
         dir_data = os.path.join(
-            tempfile.gettempdir(),
-            'tmp.lanka_data_timeseries',
+           DIR_TMP_DATA,
             'sources',
             'cbsl',
         )
