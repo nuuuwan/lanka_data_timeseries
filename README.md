@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:56 AM, Sunday, 06 August, 2023**
+Last Updated: **07:05 AM, Sunday, 06 August, 2023**
 
 ## Latest updates
 
+* 2023-08-06 06:22:19 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2023-08-06 06:22:19 - Month End a Exchange Rates (cbsl - Monthly)
+* 2023-08-06 06:22:19 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2023-08-06 06:22:19 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2023-08-06 06:22:19 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Cargo handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Container handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Vessels arrived (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **05:56 AM, Sunday, 06 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Plant propagation a (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Industries - Electricity gas steam and air conditionin (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Industries - Manufacture of food beverages & Tobacco pr (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Industries - Manufacture of paper products printing an (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Electricity (cbsl - Annual)
