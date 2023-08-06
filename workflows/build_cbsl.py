@@ -31,9 +31,11 @@ def inner(config):
 
 
 def init():
-    os.makedirs(
-        os.path.join(tempfile.gettempdir(), 'tmp.lanka_data_timeseries')
+    dir_path = os.path.join(
+        tempfile.gettempdir(), 'tmp.lanka_data_timeseries'
     )
+    os.makedirs(dir_path)
+    log.debug(f'Created {dir_path}.')
 
 
 def main():
