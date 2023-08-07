@@ -11,7 +11,7 @@
     "Source": "CBSL",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-07-07",
+    "Data last updated": "2023-08-02",
     "Update frequency": ""
   },
   "summary_statistics": {
@@ -19,12 +19,12 @@
     "min_t": "2022-06-01",
     "max_t": "2023-06-01",
     "min_value": 679.6,
-    "max_value": 986.2
+    "max_value": 875.0
   },
   "cleaned_data": {
     "2022-06-01": 679.6,
     "2023-05-01": 827.8,
-    "2023-06-01": 986.2
+    "2023-06-01": 875.0
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -740,7 +740,7 @@
     "2023-Mar": " ",
     "2023-Apr": " ",
     "2023-May": "827.80",
-    "2023-Jun": "986.20",
+    "2023-Jun": "875.00",
     "2023-Jul": " ",
     "2023-Aug": " ",
     "2023-Sep": " ",
