@@ -50080,7 +50080,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-08-02",
       "Update frequency": "NULL"
     },
     "summary_statistics": {
@@ -50088,10 +50088,10 @@
       "min_t": "2022-01-01",
       "max_t": "2023-06-01",
       "min_value": 3560.7,
-      "max_value": 89.8
+      "max_value": 69.2
     },
-    "last_updated_time_ut": 1689011063.0,
-    "last_updated_time_str": "2023-07-10 23:14:23"
+    "last_updated_time_ut": 1691451635.0,
+    "last_updated_time_str": "2023-08-08 05:10:35"
   },
   {
     "source_id": "cbsl",
@@ -50106,7 +50106,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-08-02",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -50114,10 +50114,10 @@
       "min_t": "2022-06-01",
       "max_t": "2023-06-01",
       "min_value": 172.5,
-      "max_value": 327.4
+      "max_value": 292.0
     },
-    "last_updated_time_ut": 1689011063.0,
-    "last_updated_time_str": "2023-07-10 23:14:23"
+    "last_updated_time_ut": 1691451635.0,
+    "last_updated_time_str": "2023-08-08 05:10:35"
   },
   {
     "source_id": "cbsl",
@@ -50132,7 +50132,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-08-02",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -50140,10 +50140,10 @@
       "min_t": "2022-06-01",
       "max_t": "2023-06-01",
       "min_value": 679.6,
-      "max_value": 986.2
+      "max_value": 875.0
     },
-    "last_updated_time_ut": 1689011063.0,
-    "last_updated_time_str": "2023-07-10 23:14:23"
+    "last_updated_time_ut": 1691451635.0,
+    "last_updated_time_str": "2023-08-08 05:10:35"
   },
   {
     "source_id": "cbsl",
@@ -87267,7 +87267,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-08-02",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -87275,10 +87275,10 @@
       "min_t": "2022-01-01",
       "max_t": "2023-06-01",
       "min_value": 30.6,
-      "max_value": 47.7
+      "max_value": 37.0
     },
-    "last_updated_time_ut": 1689011063.0,
-    "last_updated_time_str": "2023-07-10 23:14:23"
+    "last_updated_time_ut": 1691451635.0,
+    "last_updated_time_str": "2023-08-08 05:10:35"
   },
   {
     "source_id": "cbsl",
@@ -87293,7 +87293,7 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-07",
+      "Data last updated": "2023-08-02",
       "Update frequency": "Two months after the end of month"
     },
     "summary_statistics": {
@@ -87301,10 +87301,10 @@
       "min_t": "2009-01-01",
       "max_t": "2023-06-01",
       "min_value": 30.0,
-      "max_value": 158.4
+      "max_value": 122.9
     },
-    "last_updated_time_ut": 1689011063.0,
-    "last_updated_time_str": "2023-07-10 23:14:23"
+    "last_updated_time_ut": 1691451635.0,
+    "last_updated_time_str": "2023-08-08 05:10:35"
   },
   {
     "source_id": "cbsl",

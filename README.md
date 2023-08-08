@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **04:43 AM, Tuesday, 08 August, 2023**
+Last Updated: **05:58 AM, Tuesday, 08 August, 2023**
 
 ## Latest updates
 
+* 2023-08-08 05:10:35 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2023-08-08 05:10:35 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2023-08-08 05:10:35 - Tourist Earnings (cbsl - Monthly)
 * 2023-08-06 06:22:19 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-08-06 06:22:19 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-08-06 06:22:19 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **04:43 AM, Tuesday, 08 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other be (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of rubber (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Plant propagation a (cbsl - Annual)
