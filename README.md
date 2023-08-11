@@ -9,10 +9,23 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:43 AM, Saturday, 12 August, 2023**
+Last Updated: **03:43 AM, Saturday, 12 August, 2023**
 
 ## Latest updates
 
+* 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Coconut Production (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Inland Fish Production (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Marine Fish Production (cbsl - Monthly)
@@ -100,16 +113,3 @@ Last Updated: **02:43 AM, Saturday, 12 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of textiles wearing apparel and leather rel (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork ex (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Other manufacturing and Repair and installation of mach (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Sewerage Waste treatment and disposal activities (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Water collection treatment and supply (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Services - Human health activities Residential care and social work (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Services - Insurance reinsurance and pension funding (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Services - Public administration and defense_ compulsory social secur (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Services - Real estate activities Including Ownership of dwelling (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Animal Production (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Fresh water fishing (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Cereals (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Oleagino (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Rice (cbsl - Annual)
