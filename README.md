@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:44 PM, Friday, 11 August, 2023**
+Last Updated: **06:43 PM, Friday, 11 August, 2023**
 
 ## Latest updates
 
+* 2023-08-11 18:15:13 - Coconut Production (cbsl - Monthly)
+* 2023-08-11 18:15:13 - Inland Fish Production (cbsl - Monthly)
+* 2023-08-11 18:15:13 - Marine Fish Production (cbsl - Monthly)
+* 2023-08-11 18:15:13 - Rubber Production (cbsl - Monthly)
+* 2023-08-11 18:15:13 - Tea Production (cbsl - Monthly)
 * 2023-08-08 05:10:35 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **05:44 PM, Friday, 11 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Cereals (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Oleagino (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Rice (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Sugar ca (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Tea (Gre (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other be (cbsl - Annual)
