@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **12:42 AM, Sunday, 13 August, 2023**
+Last Updated: **01:43 AM, Sunday, 13 August, 2023**
 
 ## Latest updates
 
+* 2023-08-13 01:08:40 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Exports - Total (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
+* 2023-08-13 01:08:40 - Merchandise Imports - Total (cbsl - Annual)
+* 2023-08-13 01:08:40 - Terms of Trade (2010=100) (cbsl - Annual)
 * 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -104,12 +113,3 @@ Last Updated: **12:42 AM, Sunday, 13 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other perennial crops (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of rubber (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of spices aromatic dru (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Marine fishing and Marine Aquacu (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Plant propagation and Support ac (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of food beverages & Tobacco products (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of paper products printing and reproductio (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of textiles wearing apparel and leather rel (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork ex (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Industries - Other manufacturing and Repair and installation of mach (cbsl - Annual)
