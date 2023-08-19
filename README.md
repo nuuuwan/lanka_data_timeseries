@@ -9,10 +9,23 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:43 PM, Saturday, 19 August, 2023**
+Last Updated: **03:44 PM, Saturday, 19 August, 2023**
 
 ## Latest updates
 
+* 2023-08-19 15:11:42 - Labour Statistics-Employed Population (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Household Population (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Labour Force (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Unemployed Population (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Unemployment Rate-Female (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Unemployment Rate-Male (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above (cbsl - Annual)
+* 2023-08-19 15:11:42 - Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
@@ -100,16 +113,3 @@ Last Updated: **02:43 PM, Saturday, 19 August, 2023**
 * 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea Rubber and Coconut) (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
 * 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Animal Production (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Forestry and Logging (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Fresh water fishing and Fresh wa (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Cereals (except rice) (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Oleaginous Fruits (Co (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Rice (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Sugar cane tobacco a (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Tea (Green leaves) (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Vegetables ) (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of fruits (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other beverage crops (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other perennial crops (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of rubber (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of spices aromatic dru (cbsl - Annual)
