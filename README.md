@@ -9,10 +9,25 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **03:43 PM, Sunday, 20 August, 2023**
+Last Updated: **04:42 PM, Sunday, 20 August, 2023**
 
 ## Latest updates
 
+* 2023-08-20 16:11:33 - Beverages - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Beverages (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Chemicals and chemical products (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Coke and refined petroleum products (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Food products - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Food products (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Index of Industrial Production - change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Other non-metallic mineral products (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Rubber and plastic products (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Wearing apparel - Change (cbsl - Monthly)
+* 2023-08-20 16:11:33 - Wearing apparel (cbsl - Monthly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employed Population (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
@@ -98,18 +113,3 @@ Last Updated: **03:43 PM, Sunday, 20 August, 2023**
 * 2023-08-05 11:09:10 - Health Indicators - Infant Mortality per 1 000 live births (cbsl - Annual)
 * 2023-08-04 17:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2023-08-04 17:10:01 - Total Value of Cheques returned (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of Cheques returned (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
-* 2023-08-03 17:09:17 - Central Government - Overall Deficit or Surplus (cbsl - Quarterly)
-* 2023-08-03 17:09:17 - Central Government - Primary Deficit or Surplus (cbsl - Quarterly)
-* 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change (cbsl - Annual)
