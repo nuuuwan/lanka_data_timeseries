@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **08:43 AM, Sunday, 20 August, 2023**
+Last Updated: **09:43 AM, Sunday, 20 August, 2023**
 
 ## Latest updates
 
+* 2023-08-20 09:08:29 - Labour Statistics-Employed Population (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Household Population (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Labour Force (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above (cbsl - Quarterly)
+* 2023-08-20 09:08:29 - Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L) (cbsl - Quarterly)
 * 2023-08-19 15:11:42 - Labour Statistics-Employed Population (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
@@ -97,19 +113,3 @@ Last Updated: **08:43 AM, Sunday, 20 August, 2023**
 * 2023-08-03 17:09:17 - Central Government - Overall Deficit or Surplus (cbsl - Quarterly)
 * 2023-08-03 17:09:17 - Central Government - Primary Deficit or Surplus (cbsl - Quarterly)
 * 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change (cbsl - Annual)
-* 2023-08-03 09:09:27 - IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - HH Cons. by COICOP - Alcoholic beverages tobacco and narcotics (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Constant (2010) Prices - HH Cons. by COICOP - Housing water electricity gas and other fuels (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Recreation culture and rel (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Alcoholic beverages tobacco and narcotics (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings household equipment and routine h (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Housing water electricity gas and other fue (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Electricity (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Water (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Electricity Gas and Water (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea Rubber and Coconut) (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
-* 2023-08-03 04:12:53 - GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Animal Production (cbsl - Annual)
