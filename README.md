@@ -9,10 +9,13 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:44 PM, Wednesday, 23 August, 2023**
+Last Updated: **03:44 PM, Wednesday, 23 August, 2023**
 
 ## Latest updates
 
+* 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
+* 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
+* 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Beverages - Change (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Beverages (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -110,6 +113,3 @@ Last Updated: **02:44 PM, Wednesday, 23 August, 2023**
 * 2023-08-05 14:08:49 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-08-05 11:09:10 - Government sector western medicine - Hospital beds per 1 000 persons (cbsl - Annual)
 * 2023-08-05 11:09:10 - Government sector western medicine - Nurses per 10 000 persons (cbsl - Annual)
-* 2023-08-05 11:09:10 - Health Indicators - Infant Mortality per 1 000 live births (cbsl - Annual)
-* 2023-08-04 17:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
-* 2023-08-04 17:10:01 - Total Value of Cheques returned (cbsl - Monthly)

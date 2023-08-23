@@ -19852,18 +19852,18 @@
       "Source": "Ceylon Electricity Board",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-23",
+      "Data last updated": "2023-08-18",
       "Update frequency": "Three months after the end of the quarter"
     },
     "summary_statistics": {
-      "n": 145,
+      "n": 150,
       "min_t": "2011-01-01",
-      "max_t": "2023-02-01",
+      "max_t": "2023-06-01",
       "min_value": 3119,
-      "max_value": 4084
+      "max_value": 4252.33
     },
-    "last_updated_time_ut": 1688117280.0,
-    "last_updated_time_str": "2023-06-30 14:58:00"
+    "last_updated_time_ut": 1692783559.0,
+    "last_updated_time_str": "2023-08-23 15:09:19"
   },
   {
     "source_id": "cbsl",
@@ -19904,18 +19904,18 @@
       "Source": "Ceylon Electricity Board",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-23",
+      "Data last updated": "2023-08-18",
       "Update frequency": "Three months after the end of the quarter"
     },
     "summary_statistics": {
-      "n": 301,
+      "n": 306,
       "min_t": "1998-01-01",
-      "max_t": "2023-01-01",
+      "max_t": "2023-06-01",
       "min_value": 360,
-      "max_value": 1127
+      "max_value": 1215.86
     },
-    "last_updated_time_ut": 1688117280.0,
-    "last_updated_time_str": "2023-06-30 14:58:00"
+    "last_updated_time_ut": 1692783559.0,
+    "last_updated_time_str": "2023-08-23 15:09:19"
   },
   {
     "source_id": "cbsl",
@@ -19930,18 +19930,18 @@
       "Source": "Ceylon Electricity Board",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-05-23",
+      "Data last updated": "2023-08-18",
       "Update frequency": "Three months after the end of the quarter"
     },
     "summary_statistics": {
-      "n": 299,
+      "n": 306,
       "min_t": "1998-01-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 464,
-      "max_value": 1235
+      "max_value": 1291.07
     },
-    "last_updated_time_ut": 1688117280.0,
-    "last_updated_time_str": "2023-06-30 14:58:00"
+    "last_updated_time_ut": 1692783559.0,
+    "last_updated_time_str": "2023-08-23 15:09:19"
   },
   {
     "source_id": "cbsl",
