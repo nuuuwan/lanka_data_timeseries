@@ -9,10 +9,13 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **10:43 AM, Saturday, 02 September, 2023**
+Last Updated: **11:45 AM, Saturday, 02 September, 2023**
 
 ## Latest updates
 
+* 2023-09-02 11:11:32 - CPC Import Prices (cbsl - Monthly)
+* 2023-09-02 11:11:32 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-09-02 11:11:32 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
@@ -100,8 +103,6 @@ Last Updated: **10:43 AM, Saturday, 02 September, 2023**
 * 2023-08-06 05:10:33 - Port Services - Cargo handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Container handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Vessels arrived (cbsl - Monthly)
-* 2023-08-05 21:10:00 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2023-08-05 21:10:00 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-08-05 14:08:49 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
@@ -112,4 +113,3 @@ Last Updated: **10:43 AM, Saturday, 02 September, 2023**
 * 2023-08-05 14:08:49 - Merchandise Imports - Total (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-08-05 11:09:10 - Government sector western medicine - Hospital beds per 1 000 persons (cbsl - Annual)
-* 2023-08-05 11:09:10 - Government sector western medicine - Nurses per 10 000 persons (cbsl - Annual)

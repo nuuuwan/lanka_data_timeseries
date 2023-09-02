@@ -7630,18 +7630,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-28",
+      "Data last updated": "2023-08-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2020-01-01",
-      "max_t": "2023-06-01",
+      "max_t": "2023-07-01",
       "min_value": 70.44,
-      "max_value": 90.9
+      "max_value": 81.29
     },
-    "last_updated_time_ut": 1690692086.0,
-    "last_updated_time_str": "2023-07-30 10:11:26"
+    "last_updated_time_ut": 1693633292.0,
+    "last_updated_time_str": "2023-09-02 11:11:32"
   },
   {
     "source_id": "cbsl",
@@ -8876,18 +8876,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 43,
+      "n": 44,
       "min_t": "2020-01-01",
-      "max_t": "2023-07-01",
+      "max_t": "2023-08-01",
       "min_value": 64.28,
-      "max_value": 79.9
+      "max_value": 85.09
     },
-    "last_updated_time_ut": 1691250000.0,
-    "last_updated_time_str": "2023-08-05 21:10:00"
+    "last_updated_time_ut": 1693633292.0,
+    "last_updated_time_str": "2023-09-02 11:11:32"
   },
   {
     "source_id": "cbsl",
@@ -8902,18 +8902,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 43,
+      "n": 44,
       "min_t": "2020-01-01",
-      "max_t": "2023-07-01",
+      "max_t": "2023-08-01",
       "min_value": 58.28,
-      "max_value": 75.52
+      "max_value": 81.28
     },
-    "last_updated_time_ut": 1691250000.0,
-    "last_updated_time_str": "2023-08-05 21:10:00"
+    "last_updated_time_ut": 1693633292.0,
+    "last_updated_time_str": "2023-09-02 11:11:32"
   },
   {
     "source_id": "cbsl",
