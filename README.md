@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **12:44 AM, Monday, 04 September, 2023**
+Last Updated: **01:44 AM, Monday, 04 September, 2023**
 
 ## Latest updates
 
+* 2023-09-04 01:09:21 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-02 11:11:32 - CPC Import Prices (cbsl - Monthly)
 * 2023-09-02 11:11:32 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-09-02 11:11:32 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **12:44 AM, Monday, 04 September, 2023**
 * 2023-08-05 14:08:49 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Merchandise Imports - Total (cbsl - Quarterly)
 * 2023-08-05 14:08:49 - Terms of Trade (2010=100) (cbsl - Quarterly)
-* 2023-08-05 11:09:10 - Government sector western medicine - Hospital beds per 1 000 persons (cbsl - Annual)
