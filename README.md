@@ -9,10 +9,23 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **04:44 PM, Monday, 04 September, 2023**
+Last Updated: **05:46 PM, Monday, 04 September, 2023**
 
 ## Latest updates
 
+* 2023-09-04 17:11:02 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2023-09-04 17:11:02 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
@@ -86,19 +99,6 @@ Last Updated: **04:44 PM, Monday, 04 September, 2023**
 * 2023-08-13 01:08:40 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Imports - Total (cbsl - Annual)
 * 2023-08-13 01:08:40 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
-* 2023-08-12 03:11:43 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Coconut Production (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Inland Fish Production (cbsl - Monthly)
 * 2023-08-11 18:15:13 - Marine Fish Production (cbsl - Monthly)
