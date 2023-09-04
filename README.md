@@ -9,10 +9,14 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **10:45 AM, Monday, 04 September, 2023**
+Last Updated: **11:45 AM, Monday, 04 September, 2023**
 
 ## Latest updates
 
+* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
+* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
+* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
+* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
 * 2023-09-04 06:23:30 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
@@ -109,7 +113,3 @@ Last Updated: **10:45 AM, Monday, 04 September, 2023**
 * 2023-08-06 06:22:19 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-08-06 06:22:19 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2023-08-06 06:22:19 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-08-06 06:22:19 - Real Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-08-06 05:10:33 - Port Services - Cargo handled (cbsl - Monthly)
-* 2023-08-06 05:10:33 - Port Services - Container handled (cbsl - Monthly)
-* 2023-08-06 05:10:33 - Port Services - Vessels arrived (cbsl - Monthly)

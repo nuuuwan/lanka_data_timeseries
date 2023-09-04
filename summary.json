@@ -35556,18 +35556,18 @@
       "Sector": "Real Sector",
       "Source": "CBSL",
       "GeoArea": "National",
-      "Data last updated": "2023-02-24",
+      "Data last updated": "2023-08-23",
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 12,
+      "n": 13,
       "min_t": "2017-06-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 100,
-      "max_value": 200.5
+      "max_value": 210.3
     },
-    "last_updated_time_ut": 1688023659.0,
-    "last_updated_time_str": "2023-06-29 12:57:39"
+    "last_updated_time_ut": 1693805979.0,
+    "last_updated_time_str": "2023-09-04 11:09:39"
   },
   {
     "source_id": "cbsl",
@@ -35581,18 +35581,18 @@
       "Sector": "Real Sector",
       "Source": "CBSL",
       "GeoArea": "National",
-      "Data last updated": "2023-02-24",
+      "Data last updated": "2023-08-23",
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 12,
+      "n": 13,
       "min_t": "2017-06-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 100,
-      "max_value": 212.0
+      "max_value": 220.7
     },
-    "last_updated_time_ut": 1688023659.0,
-    "last_updated_time_str": "2023-06-29 12:57:39"
+    "last_updated_time_ut": 1693805979.0,
+    "last_updated_time_str": "2023-09-04 11:09:39"
   },
   {
     "source_id": "cbsl",
@@ -35606,18 +35606,18 @@
       "Sector": "Real Sector",
       "Source": "CBSL",
       "GeoArea": "National",
-      "Data last updated": "2023-02-24",
+      "Data last updated": "2023-08-23",
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 12,
+      "n": 13,
       "min_t": "2017-06-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 100,
-      "max_value": 205.2
+      "max_value": 215.3
     },
-    "last_updated_time_ut": 1688023659.0,
-    "last_updated_time_str": "2023-06-29 12:57:39"
+    "last_updated_time_ut": 1693805979.0,
+    "last_updated_time_str": "2023-09-04 11:09:39"
   },
   {
     "source_id": "cbsl",
@@ -35631,18 +35631,18 @@
       "Sector": "Real Sector",
       "Source": "CBSL",
       "GeoArea": "National",
-      "Data last updated": "2023-02-24",
+      "Data last updated": "2023-08-23",
       "Update frequency": "60th day after the semi annum"
     },
     "summary_statistics": {
-      "n": 12,
+      "n": 13,
       "min_t": "2017-06-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 100,
-      "max_value": 203.1
+      "max_value": 215.0
     },
-    "last_updated_time_ut": 1688023659.0,
-    "last_updated_time_str": "2023-06-29 12:57:39"
+    "last_updated_time_ut": 1693805979.0,
+    "last_updated_time_str": "2023-09-04 11:09:39"
   },
   {
     "source_id": "cbsl",
