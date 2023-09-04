@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **08:45 PM, Monday, 04 September, 2023**
+Last Updated: **09:44 PM, Monday, 04 September, 2023**
 
 ## Latest updates
 
+* 2023-09-04 21:09:28 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2023-09-04 21:09:28 - Month End a Exchange Rates (cbsl - Monthly)
+* 2023-09-04 21:09:28 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2023-09-04 21:09:28 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2023-09-04 21:09:28 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-09-04 17:11:02 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-09-04 17:11:02 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-09-04 17:11:02 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **08:45 PM, Monday, 04 September, 2023**
 * 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
 * 2023-08-08 05:10:35 - Tourist Earnings (In LKR) (cbsl - Monthly)
-* 2023-08-08 05:10:35 - Tourist Earnings (cbsl - Monthly)
-* 2023-08-06 06:22:19 - Month End Exchange Rates (GBP) (cbsl - Monthly)
-* 2023-08-06 06:22:19 - Month End a Exchange Rates (cbsl - Monthly)
-* 2023-08-06 06:22:19 - Monthly Average Exchange Rates (cbsl - Monthly)
-* 2023-08-06 06:22:19 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
