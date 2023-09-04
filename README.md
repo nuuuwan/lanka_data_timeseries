@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:55 AM, Monday, 04 September, 2023**
+Last Updated: **07:02 AM, Monday, 04 September, 2023**
 
 ## Latest updates
 
+* 2023-09-04 06:23:30 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Exports - Total (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Merchandise Imports - Total (cbsl - Quarterly)
+* 2023-09-04 06:23:30 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-09-04 01:09:21 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-02 11:11:32 - CPC Import Prices (cbsl - Monthly)
 * 2023-09-02 11:11:32 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
@@ -104,12 +113,3 @@ Last Updated: **05:55 AM, Monday, 04 September, 2023**
 * 2023-08-06 05:10:33 - Port Services - Cargo handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Container handled (cbsl - Monthly)
 * 2023-08-06 05:10:33 - Port Services - Vessels arrived (cbsl - Monthly)
-* 2023-08-05 14:08:49 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Exports - Total (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Merchandise Imports - Total (cbsl - Quarterly)
-* 2023-08-05 14:08:49 - Terms of Trade (2010=100) (cbsl - Quarterly)
