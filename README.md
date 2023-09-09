@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **08:45 AM, Saturday, 09 September, 2023**
+Last Updated: **09:44 AM, Saturday, 09 September, 2023**
 
 ## Latest updates
 
+* 2023-09-09 09:08:04 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-08 20:09:20 - Coconut Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Inland Fish Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Marine Fish Production (cbsl - Monthly)
@@ -51,7 +52,6 @@ Last Updated: **08:45 AM, Saturday, 09 September, 2023**
 * 2023-09-04 06:23:30 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Merchandise Imports - Total (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Terms of Trade (2010=100) (cbsl - Quarterly)
-* 2023-09-04 01:09:21 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-02 11:11:32 - CPC Import Prices (cbsl - Monthly)
 * 2023-09-02 11:11:32 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-09-02 11:11:32 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
