@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **08:44 PM, Saturday, 09 September, 2023**
+Last Updated: **09:44 PM, Saturday, 09 September, 2023**
 
 ## Latest updates
 
+* 2023-09-09 21:08:03 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-09-09 09:08:04 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-08 20:09:20 - Coconut Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Inland Fish Production (cbsl - Monthly)
@@ -20,7 +21,6 @@ Last Updated: **08:44 PM, Saturday, 09 September, 2023**
 * 2023-09-08 20:09:20 - Rubber Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Tea Production (cbsl - Monthly)
 * 2023-09-07 10:08:38 - Total Tourist Arrivals (cbsl - Annual)
-* 2023-09-07 05:09:54 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Monthly Average Exchange Rates (cbsl - Monthly)
