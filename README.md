@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:43 AM, Monday, 11 September, 2023**
+Last Updated: **03:44 AM, Monday, 11 September, 2023**
 
 ## Latest updates
 
+* 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Total Tourist Arrivals (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Tourist Earnings (cbsl - Monthly)
+* 2023-09-11 03:09:26 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-09-09 21:08:03 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-09-09 09:08:04 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-09-08 20:09:20 - Coconut Production (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **02:43 AM, Monday, 11 September, 2023**
 * 2023-08-13 01:08:40 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2023-08-13 01:08:40 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Exports - Total (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Imports - Total (cbsl - Annual)
-* 2023-08-13 01:08:40 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-08-08 05:10:35 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
-* 2023-08-08 05:10:35 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
