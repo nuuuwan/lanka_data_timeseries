@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:56 AM, Monday, 11 September, 2023**
+Last Updated: **07:02 AM, Monday, 11 September, 2023**
 
 ## Latest updates
 
+* 2023-09-11 06:21:35 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -28,7 +29,6 @@ Last Updated: **05:56 AM, Monday, 11 September, 2023**
 * 2023-09-08 20:09:20 - Marine Fish Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Rubber Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Tea Production (cbsl - Monthly)
-* 2023-09-07 10:08:38 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-09-04 21:09:28 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Monthly Average Exchange Rates (cbsl - Monthly)
