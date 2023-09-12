@@ -9,10 +9,14 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **11:45 PM, Tuesday, 12 September, 2023**
+Last Updated: **12:44 AM, Wednesday, 13 September, 2023**
 
 ## Latest updates
 
+* 2023-09-13 00:09:24 - Beverages - Change (cbsl - Monthly)
+* 2023-09-13 00:09:24 - Beverages (cbsl - Monthly)
+* 2023-09-13 00:09:24 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-09-13 00:09:24 - Rubber and plastic products (cbsl - Monthly)
 * 2023-09-11 06:21:35 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
@@ -66,8 +70,6 @@ Last Updated: **11:45 PM, Tuesday, 12 September, 2023**
 * 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Beverages - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Beverages (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Chemicals and chemical products - Change (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Chemicals and chemical products (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Coke and refined petroleum products Change (cbsl - Monthly)
@@ -77,8 +79,6 @@ Last Updated: **11:45 PM, Tuesday, 12 September, 2023**
 * 2023-08-20 16:11:33 - Index of Industrial Production - change (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Other non-metallic mineral products - Change (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Other non-metallic mineral products (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Rubber and plastic products (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Wearing apparel - Change (cbsl - Monthly)
 * 2023-08-20 16:11:33 - Wearing apparel (cbsl - Monthly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employed Population (cbsl - Quarterly)
