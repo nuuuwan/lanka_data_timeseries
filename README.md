@@ -9,10 +9,19 @@
 * cbsl: 1,887 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **11:45 AM, Friday, 15 September, 2023**
+Last Updated: **12:44 PM, Friday, 15 September, 2023**
 
 ## Latest updates
 
+* 2023-09-15 12:11:03 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Exports - Total (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
+* 2023-09-15 12:11:03 - Merchandise Imports - Total (cbsl - Annual)
+* 2023-09-15 12:11:03 - Terms of Trade (2010=100) (cbsl - Annual)
 * 2023-09-13 00:09:24 - Beverages - Change (cbsl - Monthly)
 * 2023-09-13 00:09:24 - Beverages (cbsl - Monthly)
 * 2023-09-13 00:09:24 - Rubber and plastic products - Change (cbsl - Monthly)
@@ -104,12 +113,3 @@ Last Updated: **11:45 AM, Friday, 15 September, 2023**
 * 2023-08-19 15:11:42 - Labour Statistics-Household Population (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Labour Force (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Unemployed Population (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Unemployment Rate-Female (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Unemployment Rate-Male (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
-* 2023-08-13 01:08:40 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)

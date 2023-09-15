@@ -71615,7 +71615,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -71625,8 +71625,8 @@
       "min_value": 102.8,
       "max_value": 94.1
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -71719,7 +71719,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -71729,8 +71729,8 @@
       "min_value": 120.6,
       "max_value": 138.5
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -71823,7 +71823,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -71833,8 +71833,8 @@
       "min_value": 117.3,
       "max_value": 147.2
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -71875,7 +71875,7 @@
       "Source": "Ceylon Petroleum Corporation and Other Exporters of Petroleum, National Gem and Jewellery Authority, Sri Lanka Customs, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": "Two months after end of the month/quarter/year"
     },
     "summary_statistics": {
@@ -71885,8 +71885,8 @@
       "min_value": 371.1,
       "max_value": 11940.01
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -71979,7 +71979,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -71989,8 +71989,8 @@
       "min_value": 109.8,
       "max_value": 90.5
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -72083,7 +72083,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -72093,8 +72093,8 @@
       "min_value": 134.3,
       "max_value": 148.7
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -72187,7 +72187,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -72197,8 +72197,8 @@
       "min_value": 122.3,
       "max_value": 164.2
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -72239,7 +72239,7 @@
       "Source": "Ceylon Petroleum Corporation, Lanka IOC PLC, Sri Lanka Customs, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": "Two months after end of the month/quarter/year"
     },
     "summary_statistics": {
@@ -72249,8 +72249,8 @@
       "min_value": 411.6,
       "max_value": 19937.08
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
@@ -86601,7 +86601,7 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "2010=100",
-      "Data last updated": "2023-08-04",
+      "Data last updated": "2023-09-01",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -86611,8 +86611,8 @@
       "min_value": 93.6,
       "max_value": 103.9
     },
-    "last_updated_time_ut": 1691869120.0,
-    "last_updated_time_str": "2023-08-13 01:08:40"
+    "last_updated_time_ut": 1694760063.0,
+    "last_updated_time_str": "2023-09-15 12:11:03"
   },
   {
     "source_id": "cbsl",
