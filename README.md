@@ -9,10 +9,25 @@
 * cbsl: 1,887 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:58 AM, Sunday, 24 September, 2023**
+Last Updated: **07:05 AM, Sunday, 24 September, 2023**
 
 ## Latest updates
 
+* 2023-09-24 06:27:01 - Beverages - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Beverages (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Chemicals and chemical products (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Coke and refined petroleum products (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Food products - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Food products (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Index of Industrial Production - change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Other non-metallic mineral products (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Rubber and plastic products (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Wearing apparel - Change (cbsl - Monthly)
+* 2023-09-24 06:27:01 - Wearing apparel (cbsl - Monthly)
 * 2023-09-15 12:11:03 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
@@ -22,10 +37,6 @@ Last Updated: **05:58 AM, Sunday, 24 September, 2023**
 * 2023-09-15 12:11:03 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Imports - Total (cbsl - Annual)
 * 2023-09-15 12:11:03 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-09-13 00:09:24 - Beverages - Change (cbsl - Monthly)
-* 2023-09-13 00:09:24 - Beverages (cbsl - Monthly)
-* 2023-09-13 00:09:24 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2023-09-13 00:09:24 - Rubber and plastic products (cbsl - Monthly)
 * 2023-09-11 06:21:35 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
@@ -79,17 +90,6 @@ Last Updated: **05:58 AM, Sunday, 24 September, 2023**
 * 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Chemicals and chemical products - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Chemicals and chemical products (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Coke and refined petroleum products Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Coke and refined petroleum products (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Food products - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Food products (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Index of Industrial Production - change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Other non-metallic mineral products - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Other non-metallic mineral products (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Wearing apparel - Change (cbsl - Monthly)
-* 2023-08-20 16:11:33 - Wearing apparel (cbsl - Monthly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employed Population (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
