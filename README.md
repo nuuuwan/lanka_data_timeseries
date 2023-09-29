@@ -9,10 +9,12 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **01:45 PM, Friday, 29 September, 2023**
+Last Updated: **02:45 PM, Friday, 29 September, 2023**
 
 ## Latest updates
 
+* 2023-09-29 14:10:14 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2023-09-29 14:10:14 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -66,8 +68,6 @@ Last Updated: **01:45 PM, Friday, 29 September, 2023**
 * 2023-09-08 20:09:20 - Marine Fish Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Rubber Production (cbsl - Monthly)
 * 2023-09-08 20:09:20 - Tea Production (cbsl - Monthly)
-* 2023-09-04 21:09:28 - Month End Exchange Rates (GBP) (cbsl - Monthly)
-* 2023-09-04 21:09:28 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Real Effective Exchange Rate Index (cbsl - Monthly)
