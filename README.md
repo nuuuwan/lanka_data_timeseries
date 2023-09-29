@@ -9,10 +9,13 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **04:44 PM, Friday, 29 September, 2023**
+Last Updated: **05:46 PM, Friday, 29 September, 2023**
 
 ## Latest updates
 
+* 2023-09-29 17:08:35 - CPC Import Prices (cbsl - Monthly)
+* 2023-09-29 17:08:35 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-09-29 17:08:35 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-09-29 14:10:14 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-09-29 14:10:14 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
@@ -84,9 +87,6 @@ Last Updated: **04:44 PM, Friday, 29 September, 2023**
 * 2023-09-04 06:23:30 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Merchandise Imports - Total (cbsl - Quarterly)
 * 2023-09-04 06:23:30 - Terms of Trade (2010=100) (cbsl - Quarterly)
-* 2023-09-02 11:11:32 - CPC Import Prices (cbsl - Monthly)
-* 2023-09-02 11:11:32 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2023-09-02 11:11:32 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
