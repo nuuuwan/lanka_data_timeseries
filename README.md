@@ -9,10 +9,12 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **07:05 AM, Thursday, 05 October, 2023**
+Last Updated: **07:49 AM, Thursday, 05 October, 2023**
 
 ## Latest updates
 
+* 2023-10-05 07:23:40 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2023-10-05 07:23:40 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-09-29 17:08:35 - CPC Import Prices (cbsl - Monthly)
 * 2023-09-29 17:08:35 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-09-29 17:08:35 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
@@ -111,5 +113,3 @@ Last Updated: **07:05 AM, Thursday, 05 October, 2023**
 * 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Annual)
 * 2023-08-19 15:11:42 - Labour Statistics-Household Population (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Annual)

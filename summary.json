@@ -62934,14 +62934,14 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 24,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2022-12-01",
       "min_value": 6341041.11,
-      "max_value": 11311386
+      "max_value": 12458155
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1696470820.0,
+    "last_updated_time_str": "2023-10-05 07:23:40"
   },
   {
     "source_id": "cbsl",
@@ -75424,14 +75424,14 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 24,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2022-12-01",
       "min_value": 15687942.76,
-      "max_value": 26927887
+      "max_value": 27492031
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1696470820.0,
+    "last_updated_time_str": "2023-10-05 07:23:40"
   },
   {
     "source_id": "cbsl",
