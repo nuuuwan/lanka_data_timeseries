@@ -60278,18 +60278,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-01",
+      "Data last updated": "2023-10-06",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 440,
+      "n": 441,
       "min_t": "1986-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 27.5,
-      "max_value": 321.58
+      "max_value": 322.77
     },
-    "last_updated_time_ut": 1693841968.0,
-    "last_updated_time_str": "2023-09-04 21:09:28"
+    "last_updated_time_ut": 1696596493.0,
+    "last_updated_time_str": "2023-10-06 18:18:13"
   },
   {
     "source_id": "cbsl",
@@ -62670,18 +62670,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-01",
+      "Data last updated": "2023-10-06",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 415,
+      "n": 416,
       "min_t": "1989-01-01",
-      "max_t": "2023-07-01",
+      "max_t": "2023-08-01",
       "min_value": 0,
-      "max_value": 54.2
+      "max_value": 54.64
     },
-    "last_updated_time_ut": 1693841968.0,
-    "last_updated_time_str": "2023-09-04 21:09:28"
+    "last_updated_time_ut": 1696596493.0,
+    "last_updated_time_str": "2023-10-06 18:18:13"
   },
   {
     "source_id": "cbsl",
@@ -65306,18 +65306,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-01",
+      "Data last updated": "2023-10-06",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 415,
+      "n": 416,
       "min_t": "1989-01-01",
-      "max_t": "2023-07-01",
+      "max_t": "2023-08-01",
       "min_value": 0,
-      "max_value": 69.45
+      "max_value": 69.65
     },
-    "last_updated_time_ut": 1693841968.0,
-    "last_updated_time_str": "2023-09-04 21:09:28"
+    "last_updated_time_ut": 1696596493.0,
+    "last_updated_time_str": "2023-10-06 18:18:13"
   },
   {
     "source_id": "cbsl",
