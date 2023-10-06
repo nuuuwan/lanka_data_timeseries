@@ -9,10 +9,11 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **09:45 PM, Friday, 06 October, 2023**
+Last Updated: **10:46 PM, Friday, 06 October, 2023**
 
 ## Latest updates
 
+* 2023-10-06 22:10:32 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-10-06 18:18:13 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2023-10-06 18:18:13 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-10-06 18:18:13 - Real Effective Exchange Rate Index (cbsl - Monthly)
@@ -65,7 +66,6 @@ Last Updated: **09:45 PM, Friday, 06 October, 2023**
 * 2023-09-15 12:11:03 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Imports - Total (cbsl - Annual)
 * 2023-09-15 12:11:03 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-09-11 06:21:35 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
