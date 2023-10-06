@@ -9,10 +9,15 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:45 PM, Friday, 06 October, 2023**
+Last Updated: **03:47 PM, Friday, 06 October, 2023**
 
 ## Latest updates
 
+* 2023-10-06 15:08:41 - Coconut Production (cbsl - Monthly)
+* 2023-10-06 15:08:41 - Inland Fish Production (cbsl - Monthly)
+* 2023-10-06 15:08:41 - Marine Fish Production (cbsl - Monthly)
+* 2023-10-06 15:08:41 - Rubber Production (cbsl - Monthly)
+* 2023-10-06 15:08:41 - Tea Production (cbsl - Monthly)
 * 2023-10-05 07:23:40 - Outstanding Total Foreign Debt (cbsl - Monthly)
 * 2023-10-05 07:23:40 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-09-29 17:08:35 - CPC Import Prices (cbsl - Monthly)
@@ -68,11 +73,6 @@ Last Updated: **02:45 PM, Friday, 06 October, 2023**
 * 2023-09-11 03:09:26 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-09-09 21:08:03 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-09-09 09:08:04 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2023-09-08 20:09:20 - Coconut Production (cbsl - Monthly)
-* 2023-09-08 20:09:20 - Inland Fish Production (cbsl - Monthly)
-* 2023-09-08 20:09:20 - Marine Fish Production (cbsl - Monthly)
-* 2023-09-08 20:09:20 - Rubber Production (cbsl - Monthly)
-* 2023-09-08 20:09:20 - Tea Production (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-09-04 21:09:28 - Real Effective Exchange Rate Index (cbsl - Monthly)
