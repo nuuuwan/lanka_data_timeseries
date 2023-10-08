@@ -45829,7 +45829,7 @@
       "Source": "Sri Lanka Tourism Development Authority",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-08",
+      "Data last updated": "2023-10-06",
       "Update frequency": "Two months after end of the month/quarter/year"
     },
     "summary_statistics": {
@@ -45839,8 +45839,8 @@
       "min_value": 17174,
       "max_value": 114855.0
     },
-    "last_updated_time_ut": 1694230684.0,
-    "last_updated_time_str": "2023-09-09 09:08:04"
+    "last_updated_time_ut": 1696747168.0,
+    "last_updated_time_str": "2023-10-08 12:09:28"
   },
   {
     "source_id": "cbsl",
