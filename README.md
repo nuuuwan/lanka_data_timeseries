@@ -9,10 +9,11 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **03:45 PM, Sunday, 08 October, 2023**
+Last Updated: **04:44 PM, Sunday, 08 October, 2023**
 
 ## Latest updates
 
+* 2023-10-08 16:08:04 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-10-08 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-10-06 22:10:32 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-10-06 18:18:13 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -75,7 +76,6 @@ Last Updated: **03:45 PM, Sunday, 08 October, 2023**
 * 2023-09-11 03:09:26 - Tourist Earnings (In LKR) (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Tourist Earnings (cbsl - Monthly)
 * 2023-09-11 03:09:26 - Tourists Arrivals-cumulative (cbsl - Monthly)
-* 2023-09-09 21:08:03 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
