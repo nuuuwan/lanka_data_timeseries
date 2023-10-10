@@ -11,15 +11,15 @@
     "Source": "Sri Lanka Tourism Development Authority",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-09-08",
+    "Data last updated": "2023-10-06",
     "Update frequency": "Two months after end of the month/quarter/year"
   },
   "summary_statistics": {
-    "n": 620,
+    "n": 621,
     "min_t": "1972-01-01",
-    "max_t": "2023-08-01",
+    "max_t": "2023-09-01",
     "min_value": 5762,
-    "max_value": 136405
+    "max_value": 111938
   },
   "cleaned_data": {
     "1972-01-01": 5762,
@@ -641,7 +641,8 @@
     "2023-05-01": 83309,
     "2023-06-01": 100388,
     "2023-07-01": 143039,
-    "2023-08-01": 136405
+    "2023-08-01": 136405,
+    "2023-09-01": 111938
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -1360,7 +1361,7 @@
     "2023-Jun": "100,388",
     "2023-Jul": "143,039",
     "2023-Aug": "136,405",
-    "2023-Sep": " ",
+    "2023-Sep": "111,938",
     "2023-Oct": " ",
     "2023-Nov": " ",
     "2023-Dec": " ",
