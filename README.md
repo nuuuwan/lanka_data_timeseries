@@ -9,10 +9,18 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **01:46 PM, Tuesday, 10 October, 2023**
+Last Updated: **02:46 PM, Tuesday, 10 October, 2023**
 
 ## Latest updates
 
+* 2023-10-10 14:10:56 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Total Tourist Arrivals (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Tourist Earnings (cbsl - Monthly)
+* 2023-10-10 14:10:56 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-10-08 16:08:04 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-10-08 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-10-06 22:10:32 - Total Tourist Arrivals (cbsl - Annual)
@@ -68,14 +76,6 @@ Last Updated: **01:46 PM, Tuesday, 10 October, 2023**
 * 2023-09-15 12:11:03 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Imports - Total (cbsl - Annual)
 * 2023-09-15 12:11:03 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-09-11 03:09:26 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Total Tourist Arrivals (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Tourist Earnings (In LKR) (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Tourist Earnings (cbsl - Monthly)
-* 2023-09-11 03:09:26 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
