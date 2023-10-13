@@ -9,10 +9,25 @@
 * imf: 88 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **09:45 AM, Friday, 13 October, 2023**
+Last Updated: **10:45 AM, Friday, 13 October, 2023**
 
 ## Latest updates
 
+* 2023-10-13 10:10:04 - Beverages - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Beverages (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Chemicals and chemical products (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Coke and refined petroleum products (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Food products - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Food products (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Index of Industrial Production - change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Other non-metallic mineral products (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Rubber and plastic products (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Wearing apparel - Change (cbsl - Monthly)
+* 2023-10-13 10:10:04 - Wearing apparel (cbsl - Monthly)
 * 2023-10-10 14:10:56 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -52,21 +67,6 @@ Last Updated: **09:45 AM, Friday, 13 October, 2023**
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Beverages - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Beverages (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Chemicals and chemical products - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Chemicals and chemical products (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Coke and refined petroleum products Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Coke and refined petroleum products (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Food products - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Food products (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Index of Industrial Production - change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Other non-metallic mineral products - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Other non-metallic mineral products (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Rubber and plastic products (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Wearing apparel - Change (cbsl - Monthly)
-* 2023-09-24 06:27:01 - Wearing apparel (cbsl - Monthly)
 * 2023-09-15 12:11:03 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2023-09-15 12:11:03 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
