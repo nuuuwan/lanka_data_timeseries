@@ -1,18 +1,32 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* imf: 88 datasets
-* sltda: 1 datasets
 * adb: 537 datasets
-* dmtlk: 32 datasets
+* imf: 88 datasets
 * cbsl: 1,887 datasets
+* dmtlk: 32 datasets
+* sltda: 1 datasets
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **02:47 PM, Tuesday, 24 October, 2023**
+Last Updated: **03:45 PM, Tuesday, 24 October, 2023**
 
 ## Latest updates
 
+* 2023-10-24 15:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of Cheques returned (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of Cheques returned (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-10-24 15:10:01 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2023-10-13 10:10:04 - Beverages - Change (cbsl - Monthly)
 * 2023-10-13 10:10:04 - Beverages (cbsl - Monthly)
 * 2023-10-13 10:10:04 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -99,17 +113,3 @@ Last Updated: **02:47 PM, Tuesday, 24 October, 2023**
 * 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
 * 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Household Population (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Labour Force (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L) (cbsl - Quarterly)
-* 2023-08-19 15:11:42 - Labour Statistics-Employed Population (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Annual)
-* 2023-08-19 15:11:42 - Labour Statistics-Household Population (cbsl - Annual)
