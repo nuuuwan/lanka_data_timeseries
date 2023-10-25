@@ -9,10 +9,18 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **12:46 PM, Wednesday, 25 October, 2023**
+Last Updated: **01:47 PM, Wednesday, 25 October, 2023**
 
 ## Latest updates
 
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Deposits-Total (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Agriculture & Animal Husbandry (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Commerce & Other Projects (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Housing Electrification & Water (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Other (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Small Industries (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Total (cbsl - Annual)
+* 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-No. of Societies (cbsl - Annual)
 * 2023-10-24 15:10:01 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2023-10-24 15:10:01 - Total Value of Cheques returned (cbsl - Monthly)
 * 2023-10-24 15:10:01 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **12:46 PM, Wednesday, 25 October, 2023**
 * 2023-09-04 06:23:30 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
 * 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
-* 2023-08-23 15:09:19 - Electricity - Power generation (cbsl - Monthly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employed Population (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
-* 2023-08-20 09:08:29 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
