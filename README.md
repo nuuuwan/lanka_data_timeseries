@@ -9,10 +9,20 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **04:46 PM, Wednesday, 25 October, 2023**
+Last Updated: **05:47 PM, Wednesday, 25 October, 2023**
 
 ## Latest updates
 
+* 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Grand Total Sri Lanka (cbsl - Annual)
+* 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO (cbsl - Annual)
+* 2023-10-25 17:09:20 - Electricity Sales-Revenue-Grand Total Sri Lanka (cbsl - Annual)
+* 2023-10-25 17:09:20 - Electricity Sales-Revenue-Transmission Bulk Supply to LECO (cbsl - Annual)
+* 2023-10-25 17:09:20 - Electricity Sales-Units-Grand Total Sri Lanka (cbsl - Annual)
+* 2023-10-25 17:09:20 - Electricity Sales-Units-Transmission Bulk Supply to LECO (cbsl - Annual)
+* 2023-10-25 17:09:20 - Water Consumption-No. of Consumers-Sri Lanka-Total (cbsl - Annual)
+* 2023-10-25 17:09:20 - Water Consumption-Quantity of Water-Sri Lanka-Total (cbsl - Annual)
+* 2023-10-25 17:09:20 - Water Consumption-Revenue Billed-Sri Lanka-Total (cbsl - Annual)
+* 2023-10-25 17:09:20 - Water Consumption-Revenue Collected-Sri Lanka-Total (cbsl - Annual)
 * 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Deposits-Total (cbsl - Annual)
 * 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Agriculture & Animal Husbandry (cbsl - Annual)
 * 2023-10-25 13:09:08 - Thrift & Credit Co-operative Societies-Loans Granted-Commerce & Other Projects (cbsl - Annual)
@@ -103,13 +113,3 @@ Last Updated: **04:46 PM, Wednesday, 25 October, 2023**
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
 * 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
 * 2023-09-04 06:23:30 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Exports - Total (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Merchandise Imports - Total (cbsl - Quarterly)
-* 2023-09-04 06:23:30 - Terms of Trade (2010=100) (cbsl - Quarterly)
-* 2023-08-23 15:09:19 - Electricity - Installed capacity (cbsl - Monthly)
-* 2023-08-23 15:09:19 - Electricity - Power consumption (cbsl - Monthly)
