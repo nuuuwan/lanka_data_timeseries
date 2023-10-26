@@ -1,18 +1,32 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* imf: 88 datasets
-* sltda: 1 datasets
 * adb: 537 datasets
-* dmtlk: 32 datasets
+* imf: 88 datasets
 * cbsl: 1,887 datasets
+* dmtlk: 32 datasets
+* sltda: 1 datasets
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **05:56 AM, Thursday, 26 October, 2023**
+Last Updated: **07:03 AM, Thursday, 26 October, 2023**
 
 ## Latest updates
 
+* 2023-10-26 06:23:39 - No.of Dental Surgeons (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Dispensers (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of ECG Recordists (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of EEG Recordists (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Hospital Midwives (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Medical Laboratory Technologists (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Pharmacists (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Physiotherapists (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Public Health Inspectors (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Public Health Midwives (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Public Health Nursing Sisters (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Radiographers (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of Registered-Assistant Medical Offices (cbsl - Annual)
+* 2023-10-26 06:23:39 - No.of School Dental Therapists (cbsl - Annual)
 * 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Grand Total Sri Lanka (cbsl - Annual)
 * 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO (cbsl - Annual)
 * 2023-10-25 17:09:20 - Electricity Sales-Revenue-Grand Total Sri Lanka (cbsl - Annual)
@@ -99,17 +113,3 @@ Last Updated: **05:56 AM, Thursday, 26 October, 2023**
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
-* 2023-09-15 12:11:03 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Exports - Total (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
-* 2023-09-15 12:11:03 - Merchandise Imports - Total (cbsl - Annual)
-* 2023-09-15 12:11:03 - Terms of Trade (2010=100) (cbsl - Annual)
-* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
-* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
-* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
-* 2023-09-04 11:09:39 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
-* 2023-09-04 06:23:30 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
