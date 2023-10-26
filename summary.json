@@ -20716,14 +20716,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 30,
+      "n": 29,
       "min_t": "1991-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2019-01-01",
       "min_value": 390,
-      "max_value": 12756
+      "max_value": 15377
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -33873,18 +33873,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 28890,
-      "max_value": 99099
+      "max_value": 241951
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -33899,18 +33899,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 182392,
-      "max_value": 1355779
+      "max_value": 1811026
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -33925,18 +33925,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 211282,
-      "max_value": 1454878
+      "max_value": 2052977
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -33951,18 +33951,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 67769,
-      "max_value": 588175
+      "max_value": 942663
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -33977,18 +33977,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 254279,
-      "max_value": 1701658
+      "max_value": 3603683
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -34003,18 +34003,18 @@
       "Source": "Ministry of Finance",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2022-09-28",
+      "Data last updated": "2023-10-25",
       "Update frequency": "Four months after the end of year"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 23,
       "min_t": "2000-01-01",
-      "max_t": "2015-01-01",
+      "max_t": "2022-01-01",
       "min_value": 335823,
-      "max_value": 2290394
+      "max_value": 4546349
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -49581,14 +49581,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 30,
+      "n": 29,
       "min_t": "1991-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2019-01-01",
       "min_value": 1080,
-      "max_value": 56819
+      "max_value": 57231
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",
@@ -58707,14 +58707,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 30,
+      "n": 29,
       "min_t": "1991-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2019-01-01",
       "min_value": 1470,
-      "max_value": 69575
+      "max_value": 72608
     },
-    "last_updated_time_ut": 1688091760.0,
-    "last_updated_time_str": "2023-06-30 07:52:40"
+    "last_updated_time_ut": 1698360019.0,
+    "last_updated_time_str": "2023-10-27 04:10:19"
   },
   {
     "source_id": "cbsl",

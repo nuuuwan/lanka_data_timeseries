@@ -9,10 +9,19 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **03:45 AM, Friday, 27 October, 2023**
+Last Updated: **04:45 AM, Friday, 27 October, 2023**
 
 ## Latest updates
 
+* 2023-10-27 04:10:19 - Capital Expenditure on Higher Education (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Government Revenue - Non-Tax Revenue (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Government Revenue - Tax Revenue (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Government Revenue - Total Tax and Non Tax Revenue (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Governmnet Expenditure - Capital Expenditure (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Governmnet Expenditure - Recurrent Expenditure (cbsl - Annual)
+* 2023-10-27 04:10:19 - General Governmnet Expenditure - Total Expenditure (cbsl - Annual)
+* 2023-10-27 04:10:19 - Recurrent Expenditure on Higher Education (cbsl - Annual)
+* 2023-10-27 04:10:19 - Total Expenditure on Higher Education (cbsl - Annual)
 * 2023-10-26 06:23:39 - No.of Dental Surgeons (cbsl - Annual)
 * 2023-10-26 06:23:39 - No.of Dispensers (cbsl - Annual)
 * 2023-10-26 06:23:39 - No.of ECG Recordists (cbsl - Annual)
@@ -104,12 +113,3 @@ Last Updated: **03:45 AM, Friday, 27 October, 2023**
 * 2023-09-29 05:09:33 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
 * 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
-* 2023-09-29 05:09:33 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
