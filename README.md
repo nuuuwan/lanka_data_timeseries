@@ -9,10 +9,15 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **03:46 AM, Saturday, 28 October, 2023**
+Last Updated: **04:46 AM, Saturday, 28 October, 2023**
 
 ## Latest updates
 
+* 2023-10-28 04:07:36 - Area Served by a Post Office (cbsl - Annual)
+* 2023-10-28 04:07:36 - No. of Agency Post Offices (cbsl - Annual)
+* 2023-10-28 04:07:36 - No. of Main Post Offices (cbsl - Annual)
+* 2023-10-28 04:07:36 - No. of Postal Delivery Areas (cbsl - Annual)
+* 2023-10-28 04:07:36 - No. of Sub Post Offices (cbsl - Annual)
 * 2023-10-28 01:11:35 - Budget Deficit (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Capital and Net Lending (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Expenditure and Net Lending (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **03:46 AM, Saturday, 28 October, 2023**
 * 2023-10-24 15:10:01 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
 * 2023-10-24 15:10:01 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
 * 2023-10-24 15:10:01 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Beverages - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Beverages (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Chemicals and chemical products - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Chemicals and chemical products (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Coke and refined petroleum products Change (cbsl - Monthly)
