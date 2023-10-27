@@ -9,10 +9,26 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **12:44 AM, Saturday, 28 October, 2023**
+Last Updated: **01:45 AM, Saturday, 28 October, 2023**
 
 ## Latest updates
 
+* 2023-10-28 01:11:35 - Budget Deficit (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Capital and Net Lending (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Expenditure and Net Lending (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Grants (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Non Tax Revenue (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Primary Balance (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Recurrent Expenditure (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Revenue and Grants (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Revenue (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Tax Revenue (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2023-10-28 01:11:35 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Dual Purpose Vehicles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Goods Transport Vehicles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Land Vehicles-All Island (cbsl - Annual)
@@ -97,19 +113,3 @@ Last Updated: **12:44 AM, Saturday, 28 October, 2023**
 * 2023-10-13 10:10:04 - Chemicals and chemical products - Change (cbsl - Monthly)
 * 2023-10-13 10:10:04 - Chemicals and chemical products (cbsl - Monthly)
 * 2023-10-13 10:10:04 - Coke and refined petroleum products Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Coke and refined petroleum products (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Food products - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Food products (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Index of Industrial Production - change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Other non-metallic mineral products - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Other non-metallic mineral products (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Rubber and plastic products (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Wearing apparel - Change (cbsl - Monthly)
-* 2023-10-13 10:10:04 - Wearing apparel (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Total Tourist Arrivals (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
-* 2023-10-10 14:10:56 - Tourist Earnings (In LKR) (cbsl - Monthly)

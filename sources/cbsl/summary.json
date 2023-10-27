@@ -7292,18 +7292,18 @@
       "Source": "MOF",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 15,
+      "min_t": "2022-03-01",
+      "max_t": "2023-07-01",
+      "min_value": -484.29,
+      "max_value": -1470.86
     },
-    "last_updated_time_ut": 1689662640.0,
-    "last_updated_time_str": "2023-07-18 12:14:00"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -7708,18 +7708,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-02-01",
+      "max_t": "2023-07-01",
       "min_value": 17.75,
-      "max_value": 45.71
+      "max_value": 312.92
     },
-    "last_updated_time_ut": 1688907133.0,
-    "last_updated_time_str": "2023-07-09 18:22:13"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -11443,18 +11443,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 248.18,
-      "max_value": 1260.05
+      "max_value": 2987.67
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -21680,18 +21680,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 26,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 0.0,
-      "max_value": 0.38
+      "max_value": 3.97
     },
-    "last_updated_time_ut": 1688907133.0,
-    "last_updated_time_str": "2023-07-09 18:22:13"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -33911,18 +33911,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 8.08,
-      "max_value": 57.2
+      "max_value": 135.96
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -34119,18 +34119,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 24088.0,
       "max_value": 0
     },
-    "last_updated_time_ut": 1688907133.0,
-    "last_updated_time_str": "2023-07-09 18:22:13"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -34145,18 +34145,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 24,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 6341041.11,
-      "max_value": 12458155
+      "max_value": 10954816
     },
-    "last_updated_time_ut": 1696470820.0,
-    "last_updated_time_str": "2023-10-05 07:23:40"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -34171,18 +34171,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 20,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2022-08-01",
+      "max_t": "2023-06-01",
       "min_value": 1656072.46,
-      "max_value": 3483518.97
+      "max_value": 5140936
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -34197,18 +34197,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-01-12",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 20,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2022-08-01",
+      "max_t": "2023-06-01",
       "min_value": 5812750.29,
-      "max_value": 8256936.69
+      "max_value": 9019971
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -35923,18 +35923,18 @@
       "Source": "MOF",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 0,
-      "min_t": null,
-      "max_t": null,
-      "min_value": null,
-      "max_value": null
+      "n": 15,
+      "min_t": "2022-03-01",
+      "max_t": "2023-07-01",
+      "min_value": -105.33,
+      "max_value": -27.41
     },
-    "last_updated_time_ut": 1689662640.0,
-    "last_updated_time_str": "2023-07-18 12:14:00"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -36573,18 +36573,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 26,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-02-01",
+      "max_t": "2023-07-01",
       "min_value": 230.43,
-      "max_value": 735.78
+      "max_value": 2674.75
     },
-    "last_updated_time_ut": 1688907133.0,
-    "last_updated_time_str": "2023-07-09 18:22:13"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -38159,18 +38159,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 96.19,
-      "max_value": 635.27
+      "max_value": 1516.8
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -38185,18 +38185,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 96.19,
-      "max_value": 634.89
+      "max_value": 1512.83
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -45179,18 +45179,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "Figures are reported on a cumulative basis for the financial year",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 31,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-07-01",
       "min_value": 88.11,
-      "max_value": 577.69
+      "max_value": 1376.87
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -45751,18 +45751,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 27,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-06-01",
       "min_value": 9346901.65,
-      "max_value": 15616501
+      "max_value": 15961411
     },
-    "last_updated_time_ut": 1688043114.0,
-    "last_updated_time_str": "2023-06-29 18:21:54"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
@@ -46635,18 +46635,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-06-16",
+      "Data last updated": "2023-10-25",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 24,
+      "n": 30,
       "min_t": "2021-01-01",
-      "max_t": "2022-12-01",
+      "max_t": "2023-06-01",
       "min_value": 15687942.76,
-      "max_value": 27492031
+      "max_value": 26916227
     },
-    "last_updated_time_ut": 1696470820.0,
-    "last_updated_time_str": "2023-10-05 07:23:40"
+    "last_updated_time_ut": 1698435695.0,
+    "last_updated_time_str": "2023-10-28 01:11:35"
   },
   {
     "source_id": "cbsl",
