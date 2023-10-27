@@ -31523,14 +31523,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 109471,
-      "max_value": 398856
+      "max_value": 401444
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -31783,14 +31783,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 94465,
-      "max_value": 232417
+      "max_value": 231935
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -32043,14 +32043,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 52199,
-      "max_value": 115981
+      "max_value": 114298
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -32303,14 +32303,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 16,
+      "n": 14,
       "min_t": "2006-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 981294,
-      "max_value": 3003325
+      "max_value": 3023304
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -35953,14 +35953,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 19,
+      "n": 18,
       "min_t": "2000-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2017-01-01",
       "min_value": 11084,
-      "max_value": 10787
+      "max_value": 16972
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -35979,14 +35979,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 534.3,
-      "max_value": 364.1
+      "max_value": 773.9
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -36005,14 +36005,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 19,
+      "n": 18,
       "min_t": "2000-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2017-01-01",
       "min_value": 28034.3,
-      "max_value": 18547
+      "max_value": 50542.4
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -36031,14 +36031,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 525325,
-      "max_value": 398490
+      "max_value": 654822
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -36057,14 +36057,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 15834,
-      "max_value": 20021
+      "max_value": 16852
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44403,14 +44403,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 4221,
-      "max_value": 4217
+      "max_value": 4215
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44429,14 +44429,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 6926,
-      "max_value": 8007
+      "max_value": 8005
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44455,14 +44455,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 7900,
-      "max_value": 12589
+      "max_value": 12619
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44481,14 +44481,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 4643,
-      "max_value": 6259
+      "max_value": 6189
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44507,14 +44507,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 771,
       "max_value": 0
     },
-    "last_updated_time_ut": 1688691689.0,
-    "last_updated_time_str": "2023-07-07 06:31:29"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44533,14 +44533,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 23,
       "min_t": "1997-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 0,
-      "max_value": 313
+      "max_value": 218
     },
-    "last_updated_time_ut": 1688691689.0,
-    "last_updated_time_str": "2023-07-07 06:31:29"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44663,14 +44663,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 5243,
-      "max_value": 4449
+      "max_value": 5048
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44689,14 +44689,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 19,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 387,
-      "max_value": 247.8
+      "max_value": 431.3
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44741,14 +44741,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 6080,
-      "max_value": 26413
+      "max_value": 43490
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44897,14 +44897,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2019-01-01",
       "min_value": 88.0,
-      "max_value": 114.4
+      "max_value": 115.6
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44923,14 +44923,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 161,
       "max_value": 182
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44949,14 +44949,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2020-01-01",
+      "max_t": "2019-01-01",
       "min_value": 8.5,
-      "max_value": 3.7
+      "max_value": 11.7
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -44975,14 +44975,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 3208,
-      "max_value": 206
+      "max_value": 7310
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -45001,14 +45001,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 1404,
-      "max_value": 1648
+      "max_value": 1652
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
@@ -45027,14 +45027,14 @@
       "Update frequency": "End of August"
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 20,
       "min_t": "2000-01-01",
-      "max_t": "2021-01-01",
+      "max_t": "2019-01-01",
       "min_value": 141,
-      "max_value": 163
+      "max_value": 165
     },
-    "last_updated_time_ut": 1688094735.0,
-    "last_updated_time_str": "2023-06-30 08:42:15"
+    "last_updated_time_ut": 1698381721.0,
+    "last_updated_time_str": "2023-10-27 10:12:01"
   },
   {
     "source_id": "cbsl",
