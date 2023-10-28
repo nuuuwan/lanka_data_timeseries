@@ -9,10 +9,25 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **11:46 PM, Saturday, 28 October, 2023**
+Last Updated: **12:44 AM, Sunday, 29 October, 2023**
 
 ## Latest updates
 
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Total Revenue (cbsl - Annual)
+* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditures-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Total (cbsl - Annual)
+* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Total (cbsl - Annual)
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Agriculture (B.Sc.) (cbsl - Annual)
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Architecture and Quantity Surveying (B.Sc.) (cbsl - Annual)
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Arts & Oriental Studies (B.A.-B.A. Special) (cbsl - Annual)
@@ -98,18 +113,3 @@ Last Updated: **11:46 PM, Saturday, 28 October, 2023**
 * 2023-10-26 06:23:39 - No.of Medical Laboratory Technologists (cbsl - Annual)
 * 2023-10-26 06:23:39 - No.of Pharmacists (cbsl - Annual)
 * 2023-10-26 06:23:39 - No.of Physiotherapists (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Public Health Inspectors (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Public Health Midwives (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Public Health Nursing Sisters (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Radiographers (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Registered-Assistant Medical Offices (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of School Dental Therapists (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Grand Total Sri Lanka (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-Revenue-Grand Total Sri Lanka (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-Revenue-Transmission Bulk Supply to LECO (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-Units-Grand Total Sri Lanka (cbsl - Annual)
-* 2023-10-25 17:09:20 - Electricity Sales-Units-Transmission Bulk Supply to LECO (cbsl - Annual)
-* 2023-10-25 17:09:20 - Water Consumption-No. of Consumers-Sri Lanka-Total (cbsl - Annual)
-* 2023-10-25 17:09:20 - Water Consumption-Quantity of Water-Sri Lanka-Total (cbsl - Annual)
-* 2023-10-25 17:09:20 - Water Consumption-Revenue Billed-Sri Lanka-Total (cbsl - Annual)
