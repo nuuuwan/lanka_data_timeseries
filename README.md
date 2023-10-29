@@ -9,10 +9,14 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **11:46 PM, Sunday, 29 October, 2023**
+Last Updated: **12:45 AM, Monday, 30 October, 2023**
 
 ## Latest updates
 
+* 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
+* 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
+* 2023-10-30 00:10:41 - No. of Tea Factories (cbsl - Annual)
+* 2023-10-30 00:10:41 - Total Fish Production (cbsl - Annual)
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Savings Deposits (cbsl - Annual)
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
@@ -109,7 +113,3 @@ Last Updated: **11:46 PM, Sunday, 29 October, 2023**
 * 2023-10-27 04:10:19 - Capital Expenditure on Higher Education (cbsl - Annual)
 * 2023-10-27 04:10:19 - General Government Revenue - Non-Tax Revenue (cbsl - Annual)
 * 2023-10-27 04:10:19 - General Government Revenue - Tax Revenue (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Government Revenue - Total Tax and Non Tax Revenue (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Governmnet Expenditure - Capital Expenditure (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Governmnet Expenditure - Recurrent Expenditure (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Governmnet Expenditure - Total Expenditure (cbsl - Annual)
