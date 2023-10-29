@@ -9,10 +9,20 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **12:45 PM, Sunday, 29 October, 2023**
+Last Updated: **01:46 PM, Sunday, 29 October, 2023**
 
 ## Latest updates
 
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Savings Deposits (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Agriculture & Animal Husbandry (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Commerce & Other Projects (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Other (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Small Industries (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Total (cbsl - Annual)
+* 2023-10-29 13:07:52 - Co-operative Rural Banks-No. of Banks (cbsl - Annual)
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Total (cbsl - Annual)
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Total (cbsl - Annual)
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Total (cbsl - Annual)
@@ -103,13 +113,3 @@ Last Updated: **12:45 PM, Sunday, 29 October, 2023**
 * 2023-10-27 04:10:19 - General Governmnet Expenditure - Capital Expenditure (cbsl - Annual)
 * 2023-10-27 04:10:19 - General Governmnet Expenditure - Recurrent Expenditure (cbsl - Annual)
 * 2023-10-27 04:10:19 - General Governmnet Expenditure - Total Expenditure (cbsl - Annual)
-* 2023-10-27 04:10:19 - Recurrent Expenditure on Higher Education (cbsl - Annual)
-* 2023-10-27 04:10:19 - Total Expenditure on Higher Education (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Dental Surgeons (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Dispensers (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of ECG Recordists (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of EEG Recordists (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Hospital Midwives (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Medical Laboratory Technologists (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Pharmacists (cbsl - Annual)
-* 2023-10-26 06:23:39 - No.of Physiotherapists (cbsl - Annual)
