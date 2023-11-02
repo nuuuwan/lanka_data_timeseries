@@ -9,7 +9,7 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **11:47 PM, Thursday, 02 November, 2023**
+Last Updated: **12:44 AM, Friday, 03 November, 2023**
 
 ## Latest updates
 
