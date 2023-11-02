@@ -2200,25 +2200,6 @@
     "last_updated_time_str": "2023-06-30 22:04:22"
   },
   {
-    "source_id": "sltda",
-    "category": "SLTDA",
-    "sub_category": "Tourist Arrivals Monthly",
-    "frequency_name": "Monthly",
-    "scale": "",
-    "unit": "",
-    "i_subject": -1,
-    "footnotes": {},
-    "summary_statistics": {
-      "n": 617,
-      "min_t": "1972-01-01",
-      "max_t": "2023-05-01",
-      "min_value": 5762,
-      "max_value": 83309
-    },
-    "last_updated_time_ut": 1688359101.0,
-    "last_updated_time_str": "2023-07-03 10:08:21"
-  },
-  {
     "source_id": "adb",
     "category": "PRODUCTION INDEX period averages",
     "sub_category": "Agriculture_ 2014\u20132016 = 100",
@@ -12420,6 +12401,25 @@
     },
     "last_updated_time_ut": 1688186330.0,
     "last_updated_time_str": "2023-07-01 10:08:50"
+  },
+  {
+    "source_id": "sltda",
+    "category": "SLTDA",
+    "sub_category": "Tourist Arrivals Monthly",
+    "frequency_name": "Monthly",
+    "scale": "",
+    "unit": "",
+    "i_subject": -1,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 617,
+      "min_t": "1972-01-01",
+      "max_t": "2023-05-01",
+      "min_value": 5762,
+      "max_value": 83309
+    },
+    "last_updated_time_ut": 1688359101.0,
+    "last_updated_time_str": "2023-07-03 10:08:21"
   },
   {
     "source_id": "dmtlk",
