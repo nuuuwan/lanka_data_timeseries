@@ -9,10 +9,15 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **04:45 PM, Friday, 03 November, 2023**
+Last Updated: **05:47 PM, Friday, 03 November, 2023**
 
 ## Latest updates
 
+* 2023-11-03 17:08:00 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2023-11-03 17:08:00 - Month End a Exchange Rates (cbsl - Monthly)
+* 2023-11-03 17:08:00 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2023-11-03 17:08:00 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2023-11-03 17:08:00 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - No. of Tea Factories (cbsl - Annual)
@@ -108,8 +113,3 @@ Last Updated: **04:45 PM, Friday, 03 November, 2023**
 * 2023-10-27 10:12:01 - Sri Lanka Railways-Main Stations-Broad Gauge (cbsl - Annual)
 * 2023-10-27 10:12:01 - Sri Lanka Railways-Operated Kilometers-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Sri Lanka Railways-Passenger Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Route-Broad Gauge (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Sub Stations-Broad Gauge (cbsl - Annual)
-* 2023-10-27 04:10:19 - Capital Expenditure on Higher Education (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Government Revenue - Non-Tax Revenue (cbsl - Annual)
-* 2023-10-27 04:10:19 - General Government Revenue - Tax Revenue (cbsl - Annual)
