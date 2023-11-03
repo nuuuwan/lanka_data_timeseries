@@ -9,10 +9,13 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,027** datasets
 
-Last Updated: **01:45 AM, Saturday, 04 November, 2023**
+Last Updated: **02:44 AM, Saturday, 04 November, 2023**
 
 ## Latest updates
 
+* 2023-11-04 02:08:10 - CPC Import Prices (cbsl - Monthly)
+* 2023-11-04 02:08:10 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-11-04 02:08:10 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -110,6 +113,3 @@ Last Updated: **01:45 AM, Saturday, 04 November, 2023**
 * 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Operated Kilometers-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Revenue (cbsl - Annual)
 * 2023-10-27 10:12:01 - Sri Lanka Railways-Freight Tonne Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Main Stations-Broad Gauge (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Operated Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Passenger Kilometers-All Island (cbsl - Annual)

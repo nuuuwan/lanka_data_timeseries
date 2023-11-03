@@ -20660,7 +20660,7 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-15",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
@@ -20670,8 +20670,8 @@
       "min_value": 70.44,
       "max_value": 81.53
     },
-    "last_updated_time_ut": 1695987515.0,
-    "last_updated_time_str": "2023-09-29 17:08:35"
+    "last_updated_time_ut": 1699043890.0,
+    "last_updated_time_str": "2023-11-04 02:08:10"
   },
   {
     "source_id": "cbsl",
@@ -21906,18 +21906,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 45,
+      "n": 46,
       "min_t": "2020-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 64.28,
-      "max_value": 91.89
+      "max_value": 89.19
     },
-    "last_updated_time_ut": 1695987515.0,
-    "last_updated_time_str": "2023-09-29 17:08:35"
+    "last_updated_time_ut": 1699043890.0,
+    "last_updated_time_str": "2023-11-04 02:08:10"
   },
   {
     "source_id": "cbsl",
@@ -21932,18 +21932,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 45,
+      "n": 46,
       "min_t": "2020-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 58.28,
-      "max_value": 88.72
+      "max_value": 86.16
     },
-    "last_updated_time_ut": 1695987515.0,
-    "last_updated_time_str": "2023-09-29 17:08:35"
+    "last_updated_time_ut": 1699043890.0,
+    "last_updated_time_str": "2023-11-04 02:08:10"
   },
   {
     "source_id": "cbsl",
