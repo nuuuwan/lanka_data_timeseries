@@ -11,15 +11,15 @@
     "Source": "Ceylon Petroleum Corporation, Bloomberg",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-09-27",
+    "Data last updated": "2023-11-03",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 45,
+    "n": 46,
     "min_t": "2020-01-01",
-    "max_t": "2023-09-01",
+    "max_t": "2023-10-01",
     "min_value": 58.28,
-    "max_value": 88.72
+    "max_value": 86.16
   },
   "cleaned_data": {
     "2020-01-01": 58.28,
@@ -66,7 +66,8 @@
     "2023-06-01": 70.13,
     "2023-07-01": 75.52,
     "2023-08-01": 81.28,
-    "2023-09-01": 88.72
+    "2023-09-01": 88.72,
+    "2023-10-01": 86.16
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -786,7 +787,7 @@
     "2023-Jul": "75.52",
     "2023-Aug": "81.28",
     "2023-Sep": "88.72",
-    "2023-Oct": " ",
+    "2023-Oct": "86.16",
     "2023-Nov": " ",
     "2023-Dec": " ",
     "2024-Jan": " "
