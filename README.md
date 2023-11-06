@@ -5,14 +5,15 @@
 * adb: 537 datasets
 * sltda: 1 datasets
 * dmtlk: 32 datasets
-* cbsl: 1,887 datasets
+* cbsl: 1,888 datasets
 * world_bank: 1,482 datasets
-* TOTAL: **4,027** datasets
+* TOTAL: **4,028** datasets
 
-Last Updated: **09:45 PM, Monday, 06 November, 2023**
+Last Updated: **10:45 PM, Monday, 06 November, 2023**
 
 ## Latest updates
 
+* 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-11-04 02:08:10 - CPC Import Prices (cbsl - Monthly)
 * 2023-11-04 02:08:10 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-11-04 02:08:10 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **09:45 PM, Monday, 06 November, 2023**
 * 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Buses Operated-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Operated Kilometers-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Revenue (cbsl - Annual)
-* 2023-10-27 10:12:01 - Sri Lanka Railways-Freight Tonne Kilometers-All Island (cbsl - Annual)

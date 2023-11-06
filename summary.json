@@ -49124,6 +49124,25 @@
   },
   {
     "source_id": "cbsl",
+    "category": "Prices and Indices-Producer\u2019s Price Index(PPI)",
+    "sub_category": "Producer Price Index (Base_ Fourth Quarter 2018 = 100)",
+    "scale": " ",
+    "unit": "Index Value",
+    "frequency_name": "Annual",
+    "i_subject": 4,
+    "footnotes": {},
+    "summary_statistics": {
+      "n": 0,
+      "min_t": null,
+      "max_t": null,
+      "min_value": null,
+      "max_value": null
+    },
+    "last_updated_time_ut": 1699288892.0,
+    "last_updated_time_str": "2023-11-06 22:11:32"
+  },
+  {
+    "source_id": "cbsl",
     "category": "Labour Force and Employment-Public Sector Employment",
     "sub_category": "Public Sector Employment-All",
     "scale": " ",
