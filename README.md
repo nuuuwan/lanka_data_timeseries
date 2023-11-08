@@ -9,10 +9,23 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:46 PM, Wednesday, 08 November, 2023**
+Last Updated: **06:46 PM, Wednesday, 08 November, 2023**
 
 ## Latest updates
 
+* 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2023-11-08 18:19:15 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-11-04 02:08:10 - CPC Import Prices (cbsl - Monthly)
 * 2023-11-04 02:08:10 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
@@ -100,16 +113,3 @@ Last Updated: **05:46 PM, Wednesday, 08 November, 2023**
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Land Vehicles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Motor Cycles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Private Bus Services-Buses Operated-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Private Bus Services-Operated Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Private Bus Services-Passenger Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Private Bus Services-Seating Capacity-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Private Bus Services-Total Fleet-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Class A Roads (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Class B Roads (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Class C Roads (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Class D Roads (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Class E Roads (cbsl - Annual)
-* 2023-10-27 10:12:01 - Road Network-Expressways (cbsl - Annual)
-* 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Buses Operated-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Operated Kilometers-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - SLTB - Regional Bus Companies-Revenue (cbsl - Annual)

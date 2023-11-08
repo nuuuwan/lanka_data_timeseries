@@ -24655,18 +24655,18 @@
       "Source": "Department of Labour",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": "Two months"
     },
     "summary_statistics": {
-      "n": 308,
+      "n": 309,
       "min_t": "1998-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 941.3,
-      "max_value": 8239.0
+      "max_value": 8238.8
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -24681,18 +24681,18 @@
       "Source": "Department of Labour",
       "GeoArea": "National",
       "Note": "Based on CCPI (2006/07=100)",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": "Two months"
     },
     "summary_statistics": {
-      "n": 308,
+      "n": 309,
       "min_t": "1998-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 97.2,
-      "max_value": 99.1
+      "max_value": 98.2
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -36873,18 +36873,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 44,
+      "n": 45,
       "min_t": "2020-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 6.0,
-      "max_value": 6.3
+      "max_value": 5.7
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -36899,18 +36899,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 56,
+      "n": 57,
       "min_t": "2019-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 103.8,
-      "max_value": 170.5
+      "max_value": 171.3
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -36925,18 +36925,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 44,
+      "n": 45,
       "min_t": "2020-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 9.7,
-      "max_value": 6.9
+      "max_value": 7.1
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -36951,18 +36951,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 56,
+      "n": 57,
       "min_t": "2019-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 102.5,
-      "max_value": 171.9
+      "max_value": 172.0
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -36977,18 +36977,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 44,
+      "n": 45,
       "min_t": "2020-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 7.6,
-      "max_value": 8.4
+      "max_value": 7.7
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -37003,18 +37003,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 56,
+      "n": 57,
       "min_t": "2019-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 102.2,
-      "max_value": 172.4
+      "max_value": 172.9
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -37029,18 +37029,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 44,
+      "n": 45,
       "min_t": "2020-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 8.3,
-      "max_value": 7.1
+      "max_value": 6.8
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -37055,18 +37055,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 56,
+      "n": 57,
       "min_t": "2019-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 102.8,
-      "max_value": 171.6
+      "max_value": 172.0
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -49284,18 +49284,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 68,
+      "n": 69,
       "min_t": "2018-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 0.2,
       "max_value": 0.0
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -49310,18 +49310,18 @@
       "Source": "",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 68,
+      "n": 69,
       "min_t": "2018-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 100.2,
       "max_value": 133.1
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
@@ -49336,18 +49336,18 @@
       "Source": "",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-09-27",
+      "Data last updated": "2023-11-03",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 68,
+      "n": 69,
       "min_t": "2018-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 90.6,
-      "max_value": 58.7
+      "max_value": 58.2
     },
-    "last_updated_time_ut": 1695944373.0,
-    "last_updated_time_str": "2023-09-29 05:09:33"
+    "last_updated_time_ut": 1699447755.0,
+    "last_updated_time_str": "2023-11-08 18:19:15"
   },
   {
     "source_id": "cbsl",
