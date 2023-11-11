@@ -9,10 +9,11 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:03 AM, Saturday, 11 November, 2023**
+Last Updated: **08:09 AM, Saturday, 11 November, 2023**
 
 ## Latest updates
 
+* 2023-11-11 07:21:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-11-08 18:19:15 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **07:03 AM, Saturday, 11 November, 2023**
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Goods Transport Vehicles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Land Vehicles-All Island (cbsl - Annual)
 * 2023-10-27 10:12:01 - Motor Vehicles by Province-Motor Cycles-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Private Bus Services-Buses Operated-All Island (cbsl - Annual)
