@@ -9,10 +9,18 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **08:47 AM, Saturday, 11 November, 2023**
+Last Updated: **09:46 AM, Saturday, 11 November, 2023**
 
 ## Latest updates
 
+* 2023-11-11 09:08:32 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Total Tourist Arrivals (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Tourist Earnings (cbsl - Monthly)
+* 2023-11-11 09:08:32 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-11-11 07:21:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-11-08 18:19:15 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **08:47 AM, Saturday, 11 November, 2023**
 * 2023-10-28 01:11:35 - Primary Balance (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Recurrent Expenditure (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Revenue and Grants (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Revenue (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Tax Revenue (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Total Outstanding Domestic Debt (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Total outstanding central Government Debt (cbsl - Monthly)
-* 2023-10-27 10:12:01 - Motor Vehicles by Province-Dual Purpose Vehicles-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Motor Vehicles by Province-Goods Transport Vehicles-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Motor Vehicles by Province-Land Vehicles-All Island (cbsl - Annual)
-* 2023-10-27 10:12:01 - Motor Vehicles by Province-Motor Cycles-All Island (cbsl - Annual)
