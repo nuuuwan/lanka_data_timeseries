@@ -9,10 +9,11 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **08:44 PM, Saturday, 11 November, 2023**
+Last Updated: **09:47 PM, Saturday, 11 November, 2023**
 
 ## Latest updates
 
+* 2023-11-11 21:08:49 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-11-11 09:08:32 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **08:44 PM, Saturday, 11 November, 2023**
 * 2023-10-28 01:11:35 - Outstanding Treasury Bonds (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Primary Balance (cbsl - Monthly)
 * 2023-10-28 01:11:35 - Recurrent Expenditure (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Revenue and Grants (cbsl - Monthly)
