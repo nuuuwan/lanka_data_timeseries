@@ -11,15 +11,15 @@
     "Source": "Department of Census and Statistics",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-10-13",
+    "Data last updated": "2023-11-10",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 21,
+    "n": 22,
     "min_t": "2021-12-01",
-    "max_t": "2023-08-01",
+    "max_t": "2023-09-01",
     "min_value": -3.1,
-    "max_value": 0.1
+    "max_value": 13.2
   },
   "cleaned_data": {
     "2021-12-01": -3.1,
@@ -42,7 +42,8 @@
     "2023-05-01": -9.9,
     "2023-06-01": -1.4,
     "2023-07-01": -23.3,
-    "2023-08-01": 0.1
+    "2023-08-01": 0.1,
+    "2023-09-01": 13.2
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -761,7 +762,7 @@
     "2023-Jun": "-1.40",
     "2023-Jul": "-23.30",
     "2023-Aug": "0.10",
-    "2023-Sep": " ",
+    "2023-Sep": "13.20",
     "2023-Oct": " ",
     "2023-Nov": " ",
     "2023-Dec": " ",
