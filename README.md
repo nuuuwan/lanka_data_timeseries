@@ -9,10 +9,25 @@
 * world_bank: 1,482 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:46 PM, Monday, 13 November, 2023**
+Last Updated: **06:45 PM, Monday, 13 November, 2023**
 
 ## Latest updates
 
+* 2023-11-13 18:17:37 - Beverages - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Beverages (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Chemicals and chemical products (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Coke and refined petroleum products (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Food products - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Food products (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Index of Industrial Production - change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Other non-metallic mineral products (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Rubber and plastic products (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Wearing apparel - Change (cbsl - Monthly)
+* 2023-11-13 18:17:37 - Wearing apparel (cbsl - Monthly)
 * 2023-11-11 21:08:49 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-11-11 09:08:32 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
@@ -98,18 +113,3 @@ Last Updated: **05:46 PM, Monday, 13 November, 2023**
 * 2023-10-28 19:08:08 - Performance of Candidates-School candidates sat for GCE (A-L) (cbsl - Annual)
 * 2023-10-28 19:08:08 - Performance of Candidates-School candidates sat for GCE (O-L) (cbsl - Annual)
 * 2023-10-28 04:07:36 - Area Served by a Post Office (cbsl - Annual)
-* 2023-10-28 04:07:36 - No. of Agency Post Offices (cbsl - Annual)
-* 2023-10-28 04:07:36 - No. of Main Post Offices (cbsl - Annual)
-* 2023-10-28 04:07:36 - No. of Postal Delivery Areas (cbsl - Annual)
-* 2023-10-28 04:07:36 - No. of Sub Post Offices (cbsl - Annual)
-* 2023-10-28 01:11:35 - Budget Deficit (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Capital and Net Lending (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Expenditure and Net Lending (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Grants (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Non Tax Revenue (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Outstanding Rupee Loans (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Outstanding Total Foreign Debt (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Outstanding Treasury Bills (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Outstanding Treasury Bonds (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Primary Balance (cbsl - Monthly)
-* 2023-10-28 01:11:35 - Recurrent Expenditure (cbsl - Monthly)

@@ -20270,18 +20270,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": -3.1,
-      "max_value": 0.1
+      "max_value": 13.2
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -20296,18 +20296,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 117.1,
-      "max_value": 129.7
+      "max_value": 130.3
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -21256,18 +21256,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 15.3,
-      "max_value": -26.3
+      "max_value": -23.5
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -21282,18 +21282,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 100.4,
-      "max_value": 72.2
+      "max_value": 76.0
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -21594,18 +21594,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": -57.8,
-      "max_value": 259.1
+      "max_value": -36.7
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -21620,18 +21620,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 48.9,
-      "max_value": 113.8
+      "max_value": 59.8
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -24577,18 +24577,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 1.5,
-      "max_value": 0.8
+      "max_value": 10.7
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -24603,18 +24603,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 114.7,
-      "max_value": 94.5
+      "max_value": 98.6
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -36821,18 +36821,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": -2.6,
       "max_value": -0.6
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -47097,18 +47097,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 2.6,
-      "max_value": -11.9
+      "max_value": -0.9
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -47123,18 +47123,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 142.7,
-      "max_value": 107.2
+      "max_value": 103.7
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -57656,18 +57656,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 13.7,
-      "max_value": -13.6
+      "max_value": 4.7
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -57682,18 +57682,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 106.3,
-      "max_value": 82.6
+      "max_value": 76.5
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -61367,18 +61367,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 2.0,
-      "max_value": -28.9
+      "max_value": -10.0
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "cbsl",
@@ -61393,18 +61393,18 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-10-13",
+      "Data last updated": "2023-11-10",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 21,
+      "n": 22,
       "min_t": "2021-12-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-09-01",
       "min_value": 102.6,
-      "max_value": 70.1
+      "max_value": 87.0
     },
-    "last_updated_time_ut": 1697172004.0,
-    "last_updated_time_str": "2023-10-13 10:10:04"
+    "last_updated_time_ut": 1699879657.0,
+    "last_updated_time_str": "2023-11-13 18:17:37"
   },
   {
     "source_id": "world_bank",
