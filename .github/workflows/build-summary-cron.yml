@@ -1,7 +1,7 @@
-name: Build Summary (Cron)
+name: Build Summary
 
-# on: workflow_dispatch
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '5 * * * *'
 
@@ -41,8 +41,8 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) build-summary (cron)" >> update.log
+        echo "* $(date) build-summary" >> update.log
         
         git add .
-        git commit -m "Build Summary (Cron) $(date)"
+        git commit -m "Build Summary $(date)"
         git push origin data

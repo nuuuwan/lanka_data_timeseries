@@ -1,7 +1,7 @@
-name: Build Other ALL (Cron)
+name: Build Other ALL
 
-# on: workflow_dispatch
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '5 12 * * *'
 
@@ -41,8 +41,8 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) build other adb (manual)" >> update.log
+        echo "* $(date) build other all" >> update.log
         
         git add .
-        git commit -m "Build Other ADB (Manual) $(date)"
+        git commit -m "Build Other ALL $(date)"
         git push origin data

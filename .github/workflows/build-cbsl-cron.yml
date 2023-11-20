@@ -1,7 +1,7 @@
-name: Build CBSL (Cron)
+name: Build CBSL 
 
-# on: workflow_dispatch
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '30 * * * *'
 
@@ -40,9 +40,9 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) build_cbsl (cron)" >> update.log
+        echo "* $(date) build_cbsl" >> update.log
         
 
         git add .
-        git commit -m "Build CBSL (Cron) $(date)"
+        git commit -m "Build CBSL $(date)"
         git push origin data
