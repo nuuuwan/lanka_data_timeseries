@@ -7,7 +7,7 @@ from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria,
 from lanka_data_timeseries.constants import DIR_TMP_DATA
 
 log = Log(__name__)
-MAX_CONFIGS = 5
+MAX_CONFIGS = 10
 
 
 def inner_unsafe(config):
