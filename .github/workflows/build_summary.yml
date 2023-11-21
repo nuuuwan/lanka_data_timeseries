@@ -1,13 +1,13 @@
-name: Build Other ALL
+name: build_summary
 
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '5 12 * * *'
+    - cron:  '5 * * * *'
 
 
 jobs:
-  build_other_all:
+  build_summary:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,11 +24,11 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
 
-    - name: Run build_other_all.py
+    - name: Run build_summary.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/build_other_all.py 
-     
+        python workflows/build_summary.py 
+
     - name: Checkout repo branch data
       uses: actions/checkout@v2
       with:
@@ -41,8 +41,8 @@ jobs:
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
         
         cp -r /tmp/tmp.lanka_data_timeseries/* .
-        echo "* $(date) build other all" >> update.log
+        echo "* $(date) build-summary" >> update.log
         
         git add .
-        git commit -m "Build Other ALL $(date)"
+        git commit -m "Build Summary $(date)"
         git push origin data

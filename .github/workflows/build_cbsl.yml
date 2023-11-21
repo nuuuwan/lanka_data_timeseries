@@ -1,4 +1,4 @@
-name: Build CBSL 
+name: build_cbsl 
 
 on:
   workflow_dispatch:
