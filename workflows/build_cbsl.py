@@ -7,7 +7,8 @@ from lanka_data_timeseries.cbsl import (Config, PageSearchCriteria,
 from lanka_data_timeseries.constants import DIR_TMP_DATA
 
 log = Log(__name__)
-MAX_CONFIGS = 10
+MAX_N = 20
+MAX_N_SUCCESS = 1
 
 
 def inner_unsafe(config):
@@ -37,16 +38,19 @@ def init():
 
 def main():
     init()
-    config_list = Config.random_list()
+    random_config_list = Config.random_list()
     n = 0
     n_success = 0
-    for config in config_list[:MAX_CONFIGS]:
+    for config in random_config_list[:MAX_N]:
         success = inner(config)
         n += 1
         if success:
             n_success += 1
+            if n_success >= MAX_N_SUCCESS:
+                break
 
     message = '✅' * n_success + '🔴' * (n - n_success)
+    
     if n_success == n:
         log.info(message)
     elif n_success == 0:
