@@ -13,13 +13,6 @@ class PageSearchCriteria(Webpage):
         super().__init__(URL_ERESEARCH)
         self.config = config
 
-    def select_all_subjects(self):
-        elem_input_select_all = self.find_element(
-            By.ID, 'ContentPlaceHolder1_btnSelectAll'
-        )
-        elem_input_select_all.click()
-        log.debug('Clicked Select All.')
-
     def select_some_subjects(self, i_start, i_end):
         elem_item_list = self.find_elements(
             By.XPATH, "//input[@type='checkbox']"

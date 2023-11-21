@@ -60,11 +60,6 @@ class Webpage:
         self.find_element(by, value)
         return self.driver.find_elements(by, value)
 
-    def scroll_to_bottom(self):
-        self.driver.execute_script(
-            "window.scrollTo(0, document.body.scrollHeight);"
-        )
-
     def close(self):
         self.driver.close()
         self.driver.quit()
