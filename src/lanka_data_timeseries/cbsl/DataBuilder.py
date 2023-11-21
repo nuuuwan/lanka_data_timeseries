@@ -1,5 +1,4 @@
 import os
-import tempfile
 
 from utils import JSONFile, Log
 
@@ -22,7 +21,7 @@ class DataBuilder:
     @property
     def dir_data(self) -> str:
         dir_data = os.path.join(
-           DIR_TMP_DATA,
+            DIR_TMP_DATA,
             'sources',
             'cbsl',
         )

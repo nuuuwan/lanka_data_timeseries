@@ -50,7 +50,7 @@ def main():
                 break
 
     message = '✅' * n_success + '🔴' * (n - n_success)
-    
+
     if n_success == n:
         log.info(message)
     elif n_success == 0:
