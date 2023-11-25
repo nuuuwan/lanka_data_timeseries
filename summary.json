@@ -8238,18 +8238,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-11-24",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 35,
+      "n": 36,
       "min_t": "2020-01-01",
-      "max_t": "2023-08-01",
+      "max_t": "2023-10-01",
       "min_value": 70.44,
-      "max_value": 81.53
+      "max_value": 88.98
     },
-    "last_updated_time_ut": 1699043890.0,
-    "last_updated_time_str": "2023-11-04 02:08:10"
+    "last_updated_time_ut": 1700897877.0,
+    "last_updated_time_str": "2023-11-25 13:07:57"
   },
   {
     "source_id": "cbsl",

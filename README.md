@@ -9,10 +9,11 @@
 * adb: 537 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:41 PM, Saturday, 25 November, 2023**
+Last Updated: **01:42 PM, Saturday, 25 November, 2023**
 
 ## Latest updates
 
+* 2023-11-25 13:07:57 - CPC Import Prices (cbsl - Monthly)
 * 2023-11-18 03:07:59 - Coconut Production (cbsl - Monthly)
 * 2023-11-18 03:07:59 - Inland Fish Production (cbsl - Monthly)
 * 2023-11-18 03:07:59 - Marine Fish Production (cbsl - Monthly)
@@ -58,7 +59,6 @@ Last Updated: **12:41 PM, Saturday, 25 November, 2023**
 * 2023-11-08 18:19:15 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-11-08 18:19:15 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
-* 2023-11-04 02:08:10 - CPC Import Prices (cbsl - Monthly)
 * 2023-11-04 02:08:10 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-11-04 02:08:10 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Month End Exchange Rates (GBP) (cbsl - Monthly)
