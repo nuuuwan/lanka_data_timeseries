@@ -9,10 +9,24 @@
 * adb: 537 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **08:42 AM, Sunday, 26 November, 2023**
+Last Updated: **09:42 AM, Sunday, 26 November, 2023**
 
 ## Latest updates
 
+* 2023-11-26 09:05:15 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of Cheques returned (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of Cheques returned (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2023-11-26 09:05:15 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -99,17 +113,3 @@ Last Updated: **08:42 AM, Sunday, 26 November, 2023**
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Architecture and Quantity Surveying (B.Sc.) (cbsl - Annual)
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Arts & Oriental Studies (B.A.-B.A. Special) (cbsl - Annual)
 * 2023-10-28 19:08:08 - No. of University Students Graduated - Commerce & Management Studies (B.Sc.-B.Com.-B.B.A.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Computer Science-Information Technology-Information & Communication Technology-Management & Information Technology (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Dental Surgery (B.D.S.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Engineering (B.Sc. (Eng.)) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Indigenous Medicine (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Law (L.L.B.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Medicine (M.B.B.S.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Paramedical Studies (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Science (B.Sc.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Veterinary Science (B.V. Sc.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - Performance of Candidates-All candidates sat for GCE (A-L) (cbsl - Annual)
-* 2023-10-28 19:08:08 - Performance of Candidates-All candidates sat for GCE (O-L) (cbsl - Annual)
-* 2023-10-28 19:08:08 - Performance of Candidates-GCE (A-L)-All candidates _ Percentage of qualifying to enter University (cbsl - Annual)
-* 2023-10-28 19:08:08 - Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University (cbsl - Annual)
-* 2023-10-28 19:08:08 - Performance of Candidates-GCE (A-L)-School candidates _ Percentage of qualifying to enter University (cbsl - Annual)
