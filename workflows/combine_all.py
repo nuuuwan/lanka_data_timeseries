@@ -14,9 +14,9 @@ def get_data_small(d: dict) -> dict:
         category=d['category'],
         sub_category=d['sub_category'],
         scale=d['scale'],
-        unit=d['unit'],
-        footnotes=d['footnotes'],
-        frequency_name=d['frequency_name'],
+        # unit=d['unit'],
+        # footnotes=d['footnotes'],
+        # frequency_name=d['frequency_name'],
         cleaned_data=d['cleaned_data'],
     )
 
@@ -43,7 +43,6 @@ def combine():
     n = len(file_path_list)
     for i, file_path in enumerate(file_path_list):
         data = JSONFile(file_path).read()
-        print(file_path)
         data_small = get_data_small(data)
         data_list.append(data_small)
         log.debug(f'{i + 1}/{n}) {file_path}')
