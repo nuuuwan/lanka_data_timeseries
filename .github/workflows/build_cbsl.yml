@@ -3,7 +3,7 @@ name: build_cbsl
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '30 * * * *'
 
 jobs:
   build_cbsl:
