@@ -1,6 +1,7 @@
 import os
+from functools import cache
 
-from utils import JSONFile, Log
+from utils import File, JSONFile, Log
 
 from lanka_data_timeseries.constants import DIR_TMP_DATA
 from utils_future import Git
@@ -21,6 +22,7 @@ def get_data_small(d: dict) -> dict:
     )
 
 
+@cache
 def get_source_file_path_list() -> list[str]:
     file_path_list = []
     for dir_only in os.listdir(os.path.join(DIR_TMP_DATA, 'sources')):
@@ -37,19 +39,51 @@ def get_source_file_path_list() -> list[str]:
     return file_path_list
 
 
-def combine():
+@cache
+def get_data_list():
     file_path_list = get_source_file_path_list()
-    data_list = []
-    n = len(file_path_list)
-    for i, file_path in enumerate(file_path_list):
-        data = JSONFile(file_path).read()
-        data_small = get_data_small(data)
-        data_list.append(data_small)
-        log.debug(f'{i + 1}/{n}) {file_path}')
+    return [JSONFile(file_path).read() for file_path in file_path_list]
 
+
+def combine_as_json():
+    original_data_list = get_data_list()
+    data_list = [get_data_small(d) for d in original_data_list]
     all_data_path = os.path.join(DIR_TMP_DATA, 'all.json')
     JSONFile(all_data_path).write(data_list)
     file_size = os.path.getsize(all_data_path) / 1_000_000
+    n = len(original_data_list)
+    log.info(
+        f'Wrote {n} data tables to {all_data_path} ({file_size:.2f} MB))'
+    )
+
+
+def combine_as_txt():
+    original_data_list = get_data_list()
+    lines = []
+    for d in original_data_list:
+        title = d['category'] + ' ' + d['sub_category']
+        lines.append(title)
+        for k, v in d['cleaned_data'].items():
+            lines.append(str(k) + '\t' + str(v))
+        lines.append('')
+        lines.append('Source: ' + d['source_id'])
+        lines.append('Frequency: ' + d['frequency_name'])
+
+        if d['unit']:
+            lines.append('Unit: ' + d['unit'])
+
+        if d['scale']:
+            lines.append('Scale: ' + d['scale'])
+
+        if d['footnotes']:
+            lines.append('Footnotes: ' + str(d['footnotes']))
+
+        lines.append('-' * 32)
+        lines.append('')
+    all_data_path = os.path.join(DIR_TMP_DATA, 'all.txt')
+    File(all_data_path).write_lines(lines)
+    file_size = os.path.getsize(all_data_path) / 1_000_000
+    n = len(original_data_list)
     log.info(
         f'Wrote {n} data tables to {all_data_path} ({file_size:.2f} MB))'
     )
@@ -59,7 +93,8 @@ def main():
     git = Git.from_github('nuuuwan', 'lanka_data_timeseries')
     git.clone(DIR_TMP_DATA, 'data')
 
-    combine()
+    combine_as_json()
+    combine_as_txt()
 
 
 if __name__ == '__main__':
