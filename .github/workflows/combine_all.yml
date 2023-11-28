@@ -3,7 +3,7 @@ name: combine_all
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '30 * * * *'
+    - cron:  '0 18 * * *'
 
 jobs:
   combine_all:

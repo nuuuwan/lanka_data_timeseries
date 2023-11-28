@@ -3,7 +3,8 @@ name: build_other_all
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '5 12 * * *'
+    - cron:  '0 6 * * *'
+
 
 
 jobs:
