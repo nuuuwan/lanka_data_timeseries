@@ -1,4 +1,5 @@
 from utils_future.FileFuture import FileFuture
+from utils_future.Git import Git
 from utils_future.GitFuture import GitFuture
 from utils_future.Image import Image
 from utils_future.Point2D import Point2D

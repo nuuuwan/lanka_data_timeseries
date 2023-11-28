@@ -1,4 +1,3 @@
-
 from PIL import Image as PILImage
 from utils import Log
 
