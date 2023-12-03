@@ -9,10 +9,12 @@
 * adb: 537 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:39 PM, Sunday, 03 December, 2023**
+Last Updated: **01:40 PM, Sunday, 03 December, 2023**
 
 ## Latest updates
 
+* 2023-12-03 13:11:27 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-12-03 13:11:27 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Cheques returned (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
@@ -73,8 +75,6 @@ Last Updated: **12:39 PM, Sunday, 03 December, 2023**
 * 2023-11-11 09:08:32 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-11-11 07:21:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
-* 2023-11-04 02:08:10 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2023-11-04 02:08:10 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-11-03 17:08:00 - Monthly Average Exchange Rates (cbsl - Monthly)
