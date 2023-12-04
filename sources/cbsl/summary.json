@@ -31441,18 +31441,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-12-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 22,
+      "n": 23,
       "min_t": "2022-01-01",
-      "max_t": "2023-10-01",
+      "max_t": "2023-11-01",
       "min_value": 269.84,
-      "max_value": 397.77
+      "max_value": 417.82
     },
-    "last_updated_time_ut": 1699011480.0,
-    "last_updated_time_str": "2023-11-03 17:08:00"
+    "last_updated_time_ut": 1701715156.0,
+    "last_updated_time_str": "2023-12-05 00:09:16"
   },
   {
     "source_id": "cbsl",
@@ -31467,18 +31467,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-12-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 334,
+      "n": 335,
       "min_t": "1996-01-01",
-      "max_t": "2023-10-01",
+      "max_t": "2023-11-01",
       "min_value": 54.2,
-      "max_value": 327.38
+      "max_value": 329.04
     },
-    "last_updated_time_ut": 1699011480.0,
-    "last_updated_time_str": "2023-11-03 17:08:00"
+    "last_updated_time_ut": 1701715156.0,
+    "last_updated_time_str": "2023-12-05 00:09:16"
   },
   {
     "source_id": "cbsl",
@@ -31493,18 +31493,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-12-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 442,
+      "n": 443,
       "min_t": "1986-01-01",
-      "max_t": "2023-10-01",
+      "max_t": "2023-11-01",
       "min_value": 27.5,
-      "max_value": 324.73
+      "max_value": 328.25
     },
-    "last_updated_time_ut": 1699011480.0,
-    "last_updated_time_str": "2023-11-03 17:08:00"
+    "last_updated_time_ut": 1701715156.0,
+    "last_updated_time_str": "2023-12-05 00:09:16"
   },
   {
     "source_id": "cbsl",
@@ -33885,18 +33885,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-12-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 417,
+      "n": 418,
       "min_t": "1989-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 0,
-      "max_value": 54.82
+      "max_value": 54.84
     },
-    "last_updated_time_ut": 1699011480.0,
-    "last_updated_time_str": "2023-11-03 17:08:00"
+    "last_updated_time_ut": 1701715156.0,
+    "last_updated_time_str": "2023-12-05 00:09:16"
   },
   {
     "source_id": "cbsl",
@@ -36540,18 +36540,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-11-03",
+      "Data last updated": "2023-12-01",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 417,
+      "n": 418,
       "min_t": "1989-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 0,
-      "max_value": 70.4
+      "max_value": 70.28
     },
-    "last_updated_time_ut": 1699011480.0,
-    "last_updated_time_str": "2023-11-03 17:08:00"
+    "last_updated_time_ut": 1701715156.0,
+    "last_updated_time_str": "2023-12-05 00:09:16"
   },
   {
     "source_id": "cbsl",

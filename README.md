@@ -9,10 +9,15 @@
 * adb: 537 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:40 PM, Monday, 04 December, 2023**
+Last Updated: **12:39 AM, Tuesday, 05 December, 2023**
 
 ## Latest updates
 
+* 2023-12-05 00:09:16 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2023-12-05 00:09:16 - Month End a Exchange Rates (cbsl - Monthly)
+* 2023-12-05 00:09:16 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2023-12-05 00:09:16 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2023-12-05 00:09:16 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-12-03 13:11:27 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-12-03 13:11:27 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
@@ -75,11 +80,6 @@ Last Updated: **11:40 PM, Monday, 04 December, 2023**
 * 2023-11-11 09:08:32 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-11-11 07:21:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
-* 2023-11-03 17:08:00 - Month End Exchange Rates (GBP) (cbsl - Monthly)
-* 2023-11-03 17:08:00 - Month End a Exchange Rates (cbsl - Monthly)
-* 2023-11-03 17:08:00 - Monthly Average Exchange Rates (cbsl - Monthly)
-* 2023-11-03 17:08:00 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-11-03 17:08:00 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - No. of Tea Factories (cbsl - Annual)
