@@ -40755,13 +40755,12 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2023-08-01	85.09
 2023-09-01	91.89
 2023-10-01	89.19
-2023-11-01	82.22
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Plant propagation and Support ac
@@ -49340,13 +49339,12 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2023-08-01	81.28
 2023-09-01	88.72
 2023-10-01	86.16
-2023-11-01	77.58
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva
