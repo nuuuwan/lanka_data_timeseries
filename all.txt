@@ -4947,12 +4947,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2023-08-01	322.66
 2023-09-01	324.45
 2023-10-01	327.38
+2023-11-01	329.04
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Food products
@@ -14130,12 +14131,13 @@ Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 2023-08-01	321.58
 2023-09-01	322.77
 2023-10-01	324.73
+2023-11-01	328.25
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Non-performing Advances
@@ -40755,12 +40757,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2023-08-01	85.09
 2023-09-01	91.89
 2023-10-01	89.19
+2023-11-01	82.22
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Plant propagation and Support ac
@@ -43855,12 +43858,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2023-08-01	410.56
 2023-09-01	394.01
 2023-10-01	397.77
+2023-11-01	417.82
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing
@@ -47922,12 +47926,13 @@ Exchange Rates-Exchange Rate Indices Nominal Effective Exchange Rate Index
 2023-07-01	54.2
 2023-08-01	54.64
 2023-09-01	54.82
+2023-10-01	54.84
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 Other Socio-Economic Data-Access to Facilities Electricity - Electrification level
@@ -49339,12 +49344,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2023-08-01	81.28
 2023-09-01	88.72
 2023-10-01	86.16
+2023-11-01	77.58
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva
@@ -58716,12 +58722,13 @@ Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 2023-07-01	69.45
 2023-08-01	69.63
 2023-09-01	70.4
+2023-10-01	70.28
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-11-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-12-01', 'Update frequency': ''}
 --------------------------------
 
 Tourism-Tourist Arrivals Total Tourist Arrivals
