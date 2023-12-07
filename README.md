@@ -1,15 +1,15 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* adb: 537 datasets
 * dmtlk: 32 datasets
-* world_bank: 1,482 datasets
-* sltda: 1 datasets
-* imf: 88 datasets
 * cbsl: 1,888 datasets
+* sltda: 1 datasets
+* world_bank: 1,482 datasets
+* imf: 88 datasets
+* adb: 537 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:50 AM, Thursday, 07 December, 2023**
+Last Updated: **08:40 AM, Thursday, 07 December, 2023**
 
 ## Latest updates
 
