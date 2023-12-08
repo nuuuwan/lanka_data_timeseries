@@ -1,18 +1,34 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* dmtlk: 32 datasets
-* cbsl: 1,888 datasets
-* sltda: 1 datasets
-* world_bank: 1,482 datasets
-* imf: 88 datasets
 * adb: 537 datasets
+* dmtlk: 32 datasets
+* world_bank: 1,482 datasets
+* sltda: 1 datasets
+* imf: 88 datasets
+* cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:40 PM, Friday, 08 December, 2023**
+Last Updated: **01:41 PM, Friday, 08 December, 2023**
 
 ## Latest updates
 
+* 2023-12-08 13:13:32 - Budget Deficit (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Capital and Net Lending (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Expenditure and Net Lending (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Grants (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Non Tax Revenue (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Primary Balance (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Recurrent Expenditure (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Revenue and Grants (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Revenue (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Tax Revenue (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2023-12-08 13:13:32 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -97,19 +113,3 @@ Last Updated: **12:40 PM, Friday, 08 December, 2023**
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Total (cbsl - Annual)
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Total (cbsl - Annual)
 * 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Total Revenue (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Expenditures-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Revenue and Expenditure of Provincial Councils-Receipts-Total (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Agriculture (B.Sc.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Architecture and Quantity Surveying (B.Sc.) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Arts & Oriental Studies (B.A.-B.A. Special) (cbsl - Annual)
-* 2023-10-28 19:08:08 - No. of University Students Graduated - Commerce & Management Studies (B.Sc.-B.Com.-B.B.A.) (cbsl - Annual)
