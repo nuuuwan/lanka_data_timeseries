@@ -11,15 +11,15 @@
     "Source": "Rubber Development Department",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2023-11-17",
+    "Data last updated": "2023-12-08",
     "Update frequency": "Two months after the end of the month"
   },
   "summary_statistics": {
-    "n": 297,
+    "n": 298,
     "min_t": "1990-01-01",
-    "max_t": "2023-09-01",
+    "max_t": "2023-10-01",
     "min_value": 9.1,
-    "max_value": 4.5
+    "max_value": 3.74
   },
   "cleaned_data": {
     "1990-01-01": 9.1,
@@ -318,7 +318,8 @@
     "2023-06-01": 6.1,
     "2023-07-01": 6.2,
     "2023-08-01": 6.0,
-    "2023-09-01": 4.5
+    "2023-09-01": 4.5,
+    "2023-10-01": 3.74
   },
   "raw_data": {
     "1964-Jan": " ",
@@ -1038,7 +1039,7 @@
     "2023-Jul": "6.20",
     "2023-Aug": "6.00",
     "2023-Sep": "4.50",
-    "2023-Oct": " ",
+    "2023-Oct": "3.74",
     "2023-Nov": " ",
     "2023-Dec": " ",
     "2024-Jan": " "
