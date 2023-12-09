@@ -9,10 +9,11 @@
 * cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:48 AM, Saturday, 09 December, 2023**
+Last Updated: **08:40 AM, Saturday, 09 December, 2023**
 
 ## Latest updates
 
+* 2023-12-09 08:15:17 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-12-09 05:11:29 - Coconut Production (cbsl - Monthly)
 * 2023-12-09 05:11:29 - Inland Fish Production (cbsl - Monthly)
 * 2023-12-09 05:11:29 - Marine Fish Production (cbsl - Monthly)
@@ -85,7 +86,6 @@ Last Updated: **07:48 AM, Saturday, 09 December, 2023**
 * 2023-11-13 18:17:37 - Rubber and plastic products (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Wearing apparel - Change (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Wearing apparel (cbsl - Monthly)
-* 2023-11-11 21:08:49 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-11-11 09:08:32 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
