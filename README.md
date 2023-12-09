@@ -9,10 +9,11 @@
 * cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:40 AM, Saturday, 09 December, 2023**
+Last Updated: **12:40 PM, Saturday, 09 December, 2023**
 
 ## Latest updates
 
+* 2023-12-09 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-12-09 08:15:17 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-12-09 05:11:29 - Coconut Production (cbsl - Monthly)
 * 2023-12-09 05:11:29 - Inland Fish Production (cbsl - Monthly)
@@ -94,7 +95,6 @@ Last Updated: **11:40 AM, Saturday, 09 December, 2023**
 * 2023-11-11 09:08:32 - Tourist Earnings (In LKR) (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Tourist Earnings (cbsl - Monthly)
 * 2023-11-11 09:08:32 - Tourists Arrivals-cumulative (cbsl - Monthly)
-* 2023-11-11 07:21:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
