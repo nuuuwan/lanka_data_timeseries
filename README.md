@@ -9,10 +9,15 @@
 * cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **04:40 AM, Saturday, 09 December, 2023**
+Last Updated: **05:54 AM, Saturday, 09 December, 2023**
 
 ## Latest updates
 
+* 2023-12-09 05:11:29 - Coconut Production (cbsl - Monthly)
+* 2023-12-09 05:11:29 - Inland Fish Production (cbsl - Monthly)
+* 2023-12-09 05:11:29 - Marine Fish Production (cbsl - Monthly)
+* 2023-12-09 05:11:29 - Rubber Production (cbsl - Monthly)
+* 2023-12-09 05:11:29 - Tea Production (cbsl - Monthly)
 * 2023-12-08 13:13:32 - Budget Deficit (cbsl - Monthly)
 * 2023-12-08 13:13:32 - Capital and Net Lending (cbsl - Monthly)
 * 2023-12-08 13:13:32 - Expenditure and Net Lending (cbsl - Monthly)
@@ -64,11 +69,6 @@ Last Updated: **04:40 AM, Saturday, 09 December, 2023**
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-25 13:07:57 - CPC Import Prices (cbsl - Monthly)
-* 2023-11-18 03:07:59 - Coconut Production (cbsl - Monthly)
-* 2023-11-18 03:07:59 - Inland Fish Production (cbsl - Monthly)
-* 2023-11-18 03:07:59 - Marine Fish Production (cbsl - Monthly)
-* 2023-11-18 03:07:59 - Rubber Production (cbsl - Monthly)
-* 2023-11-18 03:07:59 - Tea Production (cbsl - Monthly)
 * 2023-11-17 17:08:34 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Beverages - Change (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Beverages (cbsl - Monthly)
