@@ -9,10 +9,11 @@
 * cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:04 AM, Monday, 11 December, 2023**
+Last Updated: **07:51 AM, Monday, 11 December, 2023**
 
 ## Latest updates
 
+* 2023-12-11 07:24:29 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-12-09 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-12-09 08:15:17 - Total Tourist Arrivals (cbsl - Annual)
 * 2023-12-09 05:11:29 - Coconut Production (cbsl - Monthly)
@@ -71,7 +72,6 @@ Last Updated: **07:04 AM, Monday, 11 December, 2023**
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-25 13:07:57 - CPC Import Prices (cbsl - Monthly)
-* 2023-11-17 17:08:34 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Beverages - Change (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Beverages (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Chemicals and chemical products - Change (cbsl - Monthly)
