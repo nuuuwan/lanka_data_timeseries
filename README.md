@@ -1,18 +1,26 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* imf: 88 datasets
-* sltda: 1 datasets
-* world_bank: 1,482 datasets
-* cbsl: 1,888 datasets
 * adb: 537 datasets
 * dmtlk: 32 datasets
+* world_bank: 1,482 datasets
+* sltda: 1 datasets
+* imf: 88 datasets
+* cbsl: 1,888 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:40 PM, Tuesday, 12 December, 2023**
+Last Updated: **11:40 PM, Tuesday, 12 December, 2023**
 
 ## Latest updates
 
+* 2023-12-12 23:15:21 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Total Tourist Arrivals (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Tourist Earnings (cbsl - Monthly)
+* 2023-12-12 23:15:21 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-12-11 07:24:29 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2023-12-09 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2023-12-09 08:15:17 - Total Tourist Arrivals (cbsl - Annual)
@@ -87,14 +95,6 @@ Last Updated: **10:40 PM, Tuesday, 12 December, 2023**
 * 2023-11-13 18:17:37 - Rubber and plastic products (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Wearing apparel - Change (cbsl - Monthly)
 * 2023-11-13 18:17:37 - Wearing apparel (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Total Tourist Arrivals (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Tourist Earnings (In LKR) (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Tourist Earnings (cbsl - Monthly)
-* 2023-11-11 09:08:32 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
