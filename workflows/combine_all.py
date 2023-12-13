@@ -17,7 +17,7 @@ def minimize_data(t_to_v):
         t2_list = list(set([t[:offset] for t in t_list]))
         if len(t2_list) == len(t_list):
             return dict(
-                list([(int(t[:offset]), v) for t, v in t_to_v.items()])
+                list([(t[:offset], v) for t, v in t_to_v.items()])
             )
 
     return t_to_v
