@@ -89,12 +89,33 @@ def combine_as_txt():
     )
 
 
+def combine_as_md():
+    original_data_list = get_data_list()
+    lines = []
+    for d in original_data_list:
+        title = d['category'] + ' ' + d['sub_category']
+        lines.append('# ' + title)
+        lines.append('')
+        for k, v in d['cleaned_data'].items():
+            lines.append(f'* {k}: {v}')
+        lines.append('')
+
+    all_data_md_path = os.path.join(DIR_TMP_DATA, 'all.md')
+    File(all_data_md_path).write_lines(lines)
+    file_size = os.path.getsize(all_data_md_path) / 1_000_000
+    n = len(original_data_list)
+    log.info(
+        f'Wrote {n} data tables to {all_data_md_path} ({file_size:.2f} MB))'
+    )
+
+
 def main():
     git = Git.from_github('nuuuwan', 'lanka_data_timeseries')
     git.clone(DIR_TMP_DATA, 'data')
 
     combine_as_json()
     combine_as_txt()
+    combine_as_md()
 
 
 if __name__ == '__main__':
