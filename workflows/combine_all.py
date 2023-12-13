@@ -77,7 +77,7 @@ def combine_as_txt():
     for d in original_data_list:
         title = d['category'] + ' ' + d['sub_category']
         lines.append(title)
-        for k, v in minimize_data(d['cleaned_data'].items()):
+        for k, v in minimize_data(d['cleaned_data']).items():
             lines.append(str(k) + '\t' + str(v))
         lines.append('')
         lines.append('Source: ' + d['source_id'])
@@ -109,7 +109,7 @@ def combine_as_txt_small():
     for d in original_data_list:
         title = d['category'] + ' ' + d['sub_category']
         lines.append(title)
-        for k, v in minimize_data(d['cleaned_data'].items()):
+        for k, v in minimize_data(d['cleaned_data']).items():
             lines.append(str(k) + '\t' + str(v))
         lines.append('')
         lines.append('-' * 32)
