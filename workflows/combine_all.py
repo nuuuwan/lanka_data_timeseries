@@ -9,7 +9,7 @@ from utils_future import Git
 log = Log('combine_all')
 
 
-def get_data_small(d: dict) -> dict:
+def get_data_compressed(d: dict) -> dict:
     return dict(
         source_id=d['source_id'],
         category=d['category'],
@@ -47,7 +47,7 @@ def get_data_list():
 
 def combine_as_json():
     original_data_list = get_data_list()
-    data_list = [get_data_small(d) for d in original_data_list]
+    data_list = [get_data_compressed(d) for d in original_data_list]
     all_data_path = os.path.join(DIR_TMP_DATA, 'all.json')
     JSONFile(all_data_path).write(data_list)
     file_size = os.path.getsize(all_data_path) / 1_000_000
@@ -109,6 +109,24 @@ def combine_as_md():
     )
 
 
+def combine_as_small_json():
+    original_data_list = get_data_list()
+
+    idx = {}
+    for d in original_data_list:
+        title = d['category'] + ' ' + d['sub_category']
+        idx_inner = d['cleaned_data']
+        idx[title] = idx_inner
+
+    all_small_data_path = os.path.join(DIR_TMP_DATA, 'all.small.json')
+    JSONFile(all_small_data_path).write(idx)
+    file_size = os.path.getsize(all_small_data_path) / 1_000_000
+    n = len(original_data_list)
+    log.info(
+        f'Wrote {n} data tables to {all_small_data_path} ({file_size:.2f} MB))'
+    )
+
+
 def main():
     git = Git.from_github('nuuuwan', 'lanka_data_timeseries')
     git.clone(DIR_TMP_DATA, 'data')
@@ -116,6 +134,7 @@ def main():
     combine_as_json()
     combine_as_txt()
     combine_as_md()
+    combine_as_small_json()
 
 
 if __name__ == '__main__':
