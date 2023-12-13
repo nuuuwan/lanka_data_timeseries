@@ -9,7 +9,7 @@ from utils_future import Git
 log = Log('combine_all')
 
 
-@cache
+
 def minimize_data(t_to_v):
     t_list = list(t_to_v.keys())
 
