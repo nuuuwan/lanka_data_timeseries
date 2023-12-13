@@ -9,6 +9,20 @@ from utils_future import Git
 log = Log('combine_all')
 
 
+@cache
+def minimize_data(t_to_v):
+    t_list = list(t_to_v.keys())
+
+    for offset in [4, 7]:
+        t2_list = list(set([t[:offset] for t in t_list]))
+        if len(t2_list) == len(t_list):
+            return dict(
+                list([(int(t[:offset]), v) for t, v in t_to_v.items()])
+            )
+
+    return t_to_v
+
+
 def get_data_compressed(d: dict) -> dict:
     return dict(
         source_id=d['source_id'],
@@ -18,7 +32,7 @@ def get_data_compressed(d: dict) -> dict:
         # unit=d['unit'],
         # footnotes=d['footnotes'],
         # frequency_name=d['frequency_name'],
-        cleaned_data=d['cleaned_data'],
+        cleaned_data=minimize_data(d['cleaned_data']),
     )
 
 
@@ -63,7 +77,7 @@ def combine_as_txt():
     for d in original_data_list:
         title = d['category'] + ' ' + d['sub_category']
         lines.append(title)
-        for k, v in d['cleaned_data'].items():
+        for k, v in minimize_data(d['cleaned_data'].items()):
             lines.append(str(k) + '\t' + str(v))
         lines.append('')
         lines.append('Source: ' + d['source_id'])
@@ -89,6 +103,26 @@ def combine_as_txt():
     )
 
 
+def combine_as_txt_small():
+    original_data_list = get_data_list()
+    lines = []
+    for d in original_data_list:
+        title = d['category'] + ' ' + d['sub_category']
+        lines.append(title)
+        for k, v in minimize_data(d['cleaned_data'].items()):
+            lines.append(str(k) + '\t' + str(v))
+        lines.append('')
+        lines.append('-' * 32)
+        lines.append('')
+    all_small_data_path = os.path.join(DIR_TMP_DATA, 'all.small.txt')
+    File(all_small_data_path).write_lines(lines)
+    file_size = os.path.getsize(all_small_data_path) / 1_000_000
+    n = len(original_data_list)
+    log.info(
+        f'Wrote {n} data tables to {all_small_data_path} ({file_size:.2f} MB))'
+    )
+
+
 def combine_as_md():
     original_data_list = get_data_list()
     lines = []
@@ -96,7 +130,7 @@ def combine_as_md():
         title = d['category'] + ' ' + d['sub_category']
         lines.append('# ' + title)
         lines.append('')
-        for k, v in d['cleaned_data'].items():
+        for k, v in minimize_data(d['cleaned_data']).items():
             lines.append(f'* {k}: {v}')
         lines.append('')
 
@@ -115,7 +149,7 @@ def combine_as_small_json():
     idx = {}
     for d in original_data_list:
         title = d['category'] + ' ' + d['sub_category']
-        idx_inner = d['cleaned_data']
+        idx_inner = minimize_data(d['cleaned_data'])
         idx[title] = idx_inner
 
     all_small_data_path = os.path.join(DIR_TMP_DATA, 'all.small.json')
@@ -132,9 +166,12 @@ def main():
     git.clone(DIR_TMP_DATA, 'data')
 
     combine_as_json()
-    combine_as_txt()
-    combine_as_md()
     combine_as_small_json()
+
+    combine_as_txt()
+    combine_as_txt_small()
+
+    combine_as_md()
 
 
 if __name__ == '__main__':
