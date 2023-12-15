@@ -9,10 +9,25 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:40 PM, Friday, 15 December, 2023**
+Last Updated: **12:40 AM, Saturday, 16 December, 2023**
 
 ## Latest updates
 
+* 2023-12-16 00:17:04 - Beverages - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Beverages (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Chemicals and chemical products (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Coke and refined petroleum products (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Food products - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Food products (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Index of Industrial Production - change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Other non-metallic mineral products (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Rubber and plastic products (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Wearing apparel - Change (cbsl - Monthly)
+* 2023-12-16 00:17:04 - Wearing apparel (cbsl - Monthly)
 * 2023-12-12 23:15:21 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2023-12-12 23:15:21 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2023-12-12 23:15:21 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -80,21 +95,6 @@ Last Updated: **11:40 PM, Friday, 15 December, 2023**
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-25 13:07:57 - CPC Import Prices (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Beverages - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Beverages (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Chemicals and chemical products - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Chemicals and chemical products (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Coke and refined petroleum products Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Coke and refined petroleum products (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Food products - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Food products (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Index of Industrial Production - change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Other non-metallic mineral products - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Other non-metallic mineral products (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Rubber and plastic products (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Wearing apparel - Change (cbsl - Monthly)
-* 2023-11-13 18:17:37 - Wearing apparel (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
