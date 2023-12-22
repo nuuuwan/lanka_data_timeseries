@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **02:40 PM, Friday, 22 December, 2023**
+Last Updated: **03:40 PM, Friday, 22 December, 2023**
 
 ## Latest updates
 
+* 2023-12-22 15:13:55 - CPC Import Prices (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages - Change (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -94,7 +95,6 @@ Last Updated: **02:40 PM, Friday, 22 December, 2023**
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
-* 2023-11-25 13:07:57 - CPC Import Prices (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
