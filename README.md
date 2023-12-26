@@ -9,10 +9,21 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:40 AM, Tuesday, 26 December, 2023**
+Last Updated: **11:41 AM, Tuesday, 26 December, 2023**
 
 ## Latest updates
 
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-12-22 15:13:55 - CPC Import Prices (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages - Change (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages (cbsl - Monthly)
@@ -84,17 +95,6 @@ Last Updated: **10:40 AM, Tuesday, 26 December, 2023**
 * 2023-11-26 09:05:15 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
 * 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
 * 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
