@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:41 PM, Friday, 29 December, 2023**
+Last Updated: **12:40 AM, Saturday, 30 December, 2023**
 
 ## Latest updates
 
+* 2023-12-30 00:31:02 - Budget Deficit (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Capital and Net Lending (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Expenditure and Net Lending (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Grants (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Non Tax Revenue (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Primary Balance (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Recurrent Expenditure (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Revenue and Grants (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Revenue (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Tax Revenue (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2023-12-30 00:31:02 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-12-29 18:27:24 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2023-12-29 18:27:24 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -58,22 +74,6 @@ Last Updated: **11:41 PM, Friday, 29 December, 2023**
 * 2023-12-09 05:11:29 - Marine Fish Production (cbsl - Monthly)
 * 2023-12-09 05:11:29 - Rubber Production (cbsl - Monthly)
 * 2023-12-09 05:11:29 - Tea Production (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Budget Deficit (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Capital and Net Lending (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Expenditure and Net Lending (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Grants (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Non Tax Revenue (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Outstanding Rupee Loans (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Outstanding Total Foreign Debt (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Outstanding Treasury Bills (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Outstanding Treasury Bonds (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Primary Balance (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Recurrent Expenditure (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Revenue and Grants (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Revenue (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Tax Revenue (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Total Outstanding Domestic Debt (cbsl - Monthly)
-* 2023-12-08 13:13:32 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Month End a Exchange Rates (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Monthly Average Exchange Rates (cbsl - Monthly)
