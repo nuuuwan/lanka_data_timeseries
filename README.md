@@ -9,10 +9,12 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:41 PM, Friday, 29 December, 2023**
+Last Updated: **06:40 PM, Friday, 29 December, 2023**
 
 ## Latest updates
 
+* 2023-12-29 18:27:24 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2023-12-29 18:27:24 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
@@ -77,8 +79,6 @@ Last Updated: **05:41 PM, Friday, 29 December, 2023**
 * 2023-12-05 00:09:16 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
 * 2023-12-05 00:09:16 - Real Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-12-03 13:11:27 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2023-12-03 13:11:27 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Cheques returned (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
