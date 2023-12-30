@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:02 AM, Saturday, 30 December, 2023**
+Last Updated: **07:48 AM, Saturday, 30 December, 2023**
 
 ## Latest updates
 
+* 2023-12-30 07:28:35 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Exports - Total (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Merchandise Imports - Total (cbsl - Quarterly)
+* 2023-12-30 07:28:35 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2023-12-30 00:31:02 - Budget Deficit (cbsl - Monthly)
 * 2023-12-30 00:31:02 - Capital and Net Lending (cbsl - Monthly)
 * 2023-12-30 00:31:02 - Expenditure and Net Lending (cbsl - Monthly)
@@ -104,12 +113,3 @@ Last Updated: **07:02 AM, Saturday, 30 December, 2023**
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
 * 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Agriculture & Animal Husbandry (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Commerce & Other Projects (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Other (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Small Industries (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Total (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-No. of Banks (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Total (cbsl - Annual)
-* 2023-10-29 00:10:31 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Total (cbsl - Annual)
