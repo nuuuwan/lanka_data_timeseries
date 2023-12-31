@@ -9,10 +9,13 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **01:40 AM, Monday, 01 January, 2024**
+Last Updated: **02:40 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 02:15:30 - Asking Price Index (API) for Condominiums (2019=100) - Colombo (cbsl - Monthly)
+* 2024-01-01 02:15:30 - Asking Price Index (API) for Lands (2019=100) - Colombo (cbsl - Monthly)
+* 2024-01-01 02:15:30 - Asking Price Index (API) for houses (2019-100) - Colombo (cbsl - Monthly)
 * 2024-01-01 01:13:02 - Electricity - Installed capacity (cbsl - Monthly)
 * 2024-01-01 01:13:02 - Electricity - Per capita electricity consumption (cbsl - Monthly)
 * 2024-01-01 01:13:02 - Electricity - Power consumption (cbsl - Monthly)
@@ -110,6 +113,3 @@ Last Updated: **01:40 AM, Monday, 01 January, 2024**
 * 2023-11-26 09:05:15 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
