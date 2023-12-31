@@ -9,10 +9,28 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **02:40 AM, Monday, 01 January, 2024**
+Last Updated: **03:40 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 03:06:51 - Labour Statistics-Employed Population (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Household Population (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Labour Force Participation Rate-Sri Lanka (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Labour Force (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployment Rate-Sri Lanka (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above (cbsl - Quarterly)
+* 2024-01-01 03:06:51 - Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L) (cbsl - Quarterly)
 * 2024-01-01 02:15:30 - Asking Price Index (API) for Condominiums (2019=100) - Colombo (cbsl - Monthly)
 * 2024-01-01 02:15:30 - Asking Price Index (API) for Lands (2019=100) - Colombo (cbsl - Monthly)
 * 2024-01-01 02:15:30 - Asking Price Index (API) for houses (2019-100) - Colombo (cbsl - Monthly)
@@ -95,21 +113,3 @@ Last Updated: **02:40 AM, Monday, 01 January, 2024**
 * 2023-12-12 23:15:21 - Tourist Earnings (In LKR) (cbsl - Monthly)
 * 2023-12-12 23:15:21 - Tourist Earnings (cbsl - Monthly)
 * 2023-12-12 23:15:21 - Tourists Arrivals-cumulative (cbsl - Monthly)
-* 2023-12-11 07:24:29 - Secondary income - Workers' Remittances (cbsl - Monthly)
-* 2023-12-09 12:09:28 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2023-12-09 08:15:17 - Total Tourist Arrivals (cbsl - Annual)
-* 2023-12-09 05:11:29 - Coconut Production (cbsl - Monthly)
-* 2023-12-09 05:11:29 - Inland Fish Production (cbsl - Monthly)
-* 2023-12-09 05:11:29 - Marine Fish Production (cbsl - Monthly)
-* 2023-12-09 05:11:29 - Rubber Production (cbsl - Monthly)
-* 2023-12-09 05:11:29 - Tea Production (cbsl - Monthly)
-* 2023-12-05 00:09:16 - Month End Exchange Rates (GBP) (cbsl - Monthly)
-* 2023-12-05 00:09:16 - Month End a Exchange Rates (cbsl - Monthly)
-* 2023-12-05 00:09:16 - Monthly Average Exchange Rates (cbsl - Monthly)
-* 2023-12-05 00:09:16 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-12-05 00:09:16 - Real Effective Exchange Rate Index (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of Cheques returned (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
