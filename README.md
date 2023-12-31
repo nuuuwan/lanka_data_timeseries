@@ -9,10 +9,17 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:41 PM, Sunday, 31 December, 2023**
+Last Updated: **12:40 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 00:07:27 - CPC Import Prices (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Petroleum - Crude oil imports (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Petroleum - Diesel sales (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Petroleum - Kerosene sales (cbsl - Monthly)
+* 2024-01-01 00:07:27 - Petroleum - Petrol sales (cbsl - Monthly)
 * 2023-12-31 15:11:02 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2023-12-31 15:11:02 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2023-12-31 15:11:02 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
@@ -47,8 +54,6 @@ Last Updated: **11:41 PM, Sunday, 31 December, 2023**
 * 2023-12-30 00:31:02 - Tax Revenue (cbsl - Monthly)
 * 2023-12-30 00:31:02 - Total Outstanding Domestic Debt (cbsl - Monthly)
 * 2023-12-30 00:31:02 - Total outstanding central Government Debt (cbsl - Monthly)
-* 2023-12-29 18:27:24 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2023-12-29 18:27:24 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
@@ -60,7 +65,6 @@ Last Updated: **11:41 PM, Sunday, 31 December, 2023**
 * 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
 * 2023-12-26 11:13:54 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
-* 2023-12-22 15:13:55 - CPC Import Prices (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages - Change (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Beverages (cbsl - Monthly)
 * 2023-12-16 00:17:04 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -109,7 +113,3 @@ Last Updated: **11:41 PM, Sunday, 31 December, 2023**
 * 2023-11-26 09:05:15 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
 * 2023-11-26 09:05:15 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
-* 2023-11-26 09:05:15 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
-* 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)

@@ -7640,8 +7640,8 @@
       "min_value": 70.44,
       "max_value": 99.98
     },
-    "last_updated_time_ut": 1703238235.0,
-    "last_updated_time_str": "2023-12-22 15:13:55"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -8886,8 +8886,8 @@
       "min_value": 64.28,
       "max_value": 77.53
     },
-    "last_updated_time_ut": 1703854644.0,
-    "last_updated_time_str": "2023-12-29 18:27:24"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -8912,8 +8912,8 @@
       "min_value": 58.28,
       "max_value": 72.36
     },
-    "last_updated_time_ut": 1703854644.0,
-    "last_updated_time_str": "2023-12-29 18:27:24"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -35517,8 +35517,8 @@
       "min_value": 158212,
       "max_value": 79604
     },
-    "last_updated_time_ut": 1689140609.0,
-    "last_updated_time_str": "2023-07-12 11:13:29"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -35543,8 +35543,8 @@
       "min_value": 90238,
       "max_value": 93336
     },
-    "last_updated_time_ut": 1688044658.0,
-    "last_updated_time_str": "2023-06-29 18:47:38"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -35569,8 +35569,8 @@
       "min_value": 20076,
       "max_value": 424
     },
-    "last_updated_time_ut": 1688044658.0,
-    "last_updated_time_str": "2023-06-29 18:47:38"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
@@ -35595,8 +35595,8 @@
       "min_value": 16960,
       "max_value": 43978
     },
-    "last_updated_time_ut": 1688044658.0,
-    "last_updated_time_str": "2023-06-29 18:47:38"
+    "last_updated_time_ut": 1704047847.0,
+    "last_updated_time_str": "2024-01-01 00:07:27"
   },
   {
     "source_id": "cbsl",
