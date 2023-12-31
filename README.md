@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **02:40 PM, Sunday, 31 December, 2023**
+Last Updated: **03:40 PM, Sunday, 31 December, 2023**
 
 ## Latest updates
 
+* 2023-12-31 15:11:02 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Exports - Total (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
+* 2023-12-31 15:11:02 - Merchandise Imports - Total (cbsl - Annual)
+* 2023-12-31 15:11:02 - Terms of Trade (2010=100) (cbsl - Annual)
 * 2023-12-30 07:28:35 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
 * 2023-12-30 07:28:35 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
 * 2023-12-30 07:28:35 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
@@ -104,12 +113,3 @@ Last Updated: **02:40 PM, Sunday, 31 December, 2023**
 * 2023-11-26 09:05:15 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2023-11-26 06:40:29 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
-* 2023-11-06 22:11:32 - Producer Price Index (Base_ Fourth Quarter 2018 = 100) (cbsl - Annual)
-* 2023-10-30 00:10:41 - Inland Fish Production - All Island (cbsl - Annual)
-* 2023-10-30 00:10:41 - Marine Fish Production-All Island (cbsl - Annual)
-* 2023-10-30 00:10:41 - No. of Tea Factories (cbsl - Annual)
-* 2023-10-30 00:10:41 - Total Fish Production (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Savings Deposits (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
-* 2023-10-29 13:07:52 - Co-operative Rural Banks-Loans Outstanding-Agriculture & Animal Husbandry (cbsl - Annual)
