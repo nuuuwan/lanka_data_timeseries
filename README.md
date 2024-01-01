@@ -9,10 +9,14 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:53 AM, Monday, 01 January, 2024**
+Last Updated: **08:40 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 08:18:24 - Population(Census)-Estate (cbsl - Census Year)
+* 2024-01-01 08:18:24 - Population(Census)-Rural (cbsl - Census Year)
+* 2024-01-01 08:18:24 - Population(Census)-Sri Lanka (cbsl - Census Year)
+* 2024-01-01 08:18:24 - Population(Census)-Urban (cbsl - Census Year)
 * 2024-01-01 06:21:20 - Price Index for New Condominiums in Colombo (2019=100) (cbsl - Quarterly)
 * 2024-01-01 05:25:57 - Domestic Savings Investment Gap-at Current Prices (2002 Series) (cbsl - Annual)
 * 2024-01-01 05:25:57 - Domestic Savings-at Current Prices (2002 Series) (cbsl - Annual)
@@ -109,7 +113,3 @@ Last Updated: **07:53 AM, Monday, 01 January, 2024**
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry - Manufacturing - Factory Industry (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea Rubber and Coconut) (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry - Manufacturing (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry - Mining and Quarrying (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Net Factor Income from Abroad (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
