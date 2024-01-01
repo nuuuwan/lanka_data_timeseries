@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **08:39 PM, Monday, 01 January, 2024**
+Last Updated: **09:39 PM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 21:10:55 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-01-01 18:21:02 - Port Services - Cargo handled (cbsl - Monthly)
 * 2024-01-01 18:21:02 - Port Services - Container handled (cbsl - Monthly)
 * 2024-01-01 18:21:02 - Port Services - Vessels arrived (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **08:39 PM, Monday, 01 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets GAMPAHA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets HAMBANTOTA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets JAFFNA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KALUTARA (cbsl - Annual)
