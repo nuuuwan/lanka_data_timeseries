@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:58 AM, Monday, 01 January, 2024**
+Last Updated: **07:06 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 06:21:20 - Price Index for New Condominiums in Colombo (2019=100) (cbsl - Quarterly)
 * 2024-01-01 05:25:57 - Domestic Savings Investment Gap-at Current Prices (2002 Series) (cbsl - Annual)
 * 2024-01-01 05:25:57 - Domestic Savings-at Current Prices (2002 Series) (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDE - Constant (2010) Prices - GCF - GFCF - Changes in inventories and acquisition less disposals of (cbsl - Annual)
@@ -112,4 +113,3 @@ Last Updated: **05:58 AM, Monday, 01 January, 2024**
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Industry (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Net Factor Income from Abroad (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc. (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Services - Government Services (cbsl - Annual)
