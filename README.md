@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:39 PM, Monday, 01 January, 2024**
+Last Updated: **11:40 PM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 23:29:42 - Merchandise Export Unit Value Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Export Value Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Export Value Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Export Volume Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Export Volume Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Exports - Total (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Unit Value Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Unit Value Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Value Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Value Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Volume Index (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Import Volume Index (2010=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Merchandise Imports - Total (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Terms of Trade (1997=100) (cbsl - Quarterly)
+* 2024-01-01 23:29:42 - Terms of Trade (2010=100) (cbsl - Quarterly)
 * 2024-01-01 22:13:49 - Crude Birth Rate-All Island (cbsl - Annual)
 * 2024-01-01 22:13:49 - Crude Death Rate-All Island (cbsl - Annual)
 * 2024-01-01 22:13:49 - Mid Year Population-Central (cbsl - Annual)
@@ -97,19 +113,3 @@ Last Updated: **10:39 PM, Monday, 01 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches AMPARA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches ANURADHAPURA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches BADULLA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches BATTICOLOA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches COLOMBO (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches GALLE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches GAMPAHA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches HAMBANTOTA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches JAFFNA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches KALUTARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches KANDY (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches KEGALLE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches KILINOCHCHI (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches KURUNEGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches MANNER (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches MATALE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches MATARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches MONARAGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches MULATIVU (cbsl - Annual)
