@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **02:39 AM, Tuesday, 02 January, 2024**
+Last Updated: **03:39 AM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 03:09:37 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-01-02 01:15:14 - Gross Official reserves - Months of Imports (cbsl - Quarterly)
 * 2024-01-02 01:15:14 - Grosss Official Reserves (IIP - Reserve Assets) (cbsl - Quarterly)
 * 2024-01-02 01:15:14 - IIP - Direct Investment - Assets (cbsl - Quarterly)
@@ -112,4 +113,3 @@ Last Updated: **02:39 AM, Tuesday, 02 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks GAMPAHA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks HAMBANTOTA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks JAFFNA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks KALUTARA (cbsl - Annual)
