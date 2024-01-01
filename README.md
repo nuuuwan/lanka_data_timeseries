@@ -9,10 +9,25 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **09:39 PM, Monday, 01 January, 2024**
+Last Updated: **10:39 PM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 22:13:49 - Crude Birth Rate-All Island (cbsl - Annual)
+* 2024-01-01 22:13:49 - Crude Death Rate-All Island (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Central (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Eastern (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Female (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Growth Rate (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Male (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-North Central (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-North western (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Northern (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Southern (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Sri Lanka (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Uva (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-Western (cbsl - Annual)
+* 2024-01-01 22:13:49 - Mid Year Population-sabaragamuwa (cbsl - Annual)
 * 2024-01-01 21:10:55 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-01-01 18:21:02 - Port Services - Cargo handled (cbsl - Monthly)
 * 2024-01-01 18:21:02 - Port Services - Container handled (cbsl - Monthly)
@@ -98,18 +113,3 @@ Last Updated: **09:39 PM, Monday, 01 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches MATARA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches MONARAGALA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Branches MULATIVU (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches NUWARA ELIYA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches POLONNARUWA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches PUTTALAM (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches RATNAPURA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches TRINCOMALEE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches VAVUNIYA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets AMPARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets ANURADHAPURA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets BADULLA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets BATTICOLOA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets COLOMBO (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets GALLE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets GAMPAHA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets HAMBANTOTA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets JAFFNA (cbsl - Annual)
