@@ -9,10 +9,28 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:39 AM, Tuesday, 02 January, 2024**
+Last Updated: **01:39 AM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 01:15:14 - Gross Official reserves - Months of Imports (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - Grosss Official Reserves (IIP - Reserve Assets) (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Direct Investment - Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Direct Investment - Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Currency and Deposits -Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Currency and Deposits -Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Loans -Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Loans -Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Other accounts payable -Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Other accounts receivable -Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Trade Credits -Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Other Investments- Trade Credits -Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Portfolio Investment - Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - Special Drawing Rigths - Liabilities (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP - net (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - IIP- Portfolio Investment - Assets (cbsl - Quarterly)
+* 2024-01-02 01:15:14 - International Investment Position (IIP) - Assets (cbsl - Quarterly)
 * 2024-01-01 23:29:42 - Merchandise Export Unit Value Index (1997=100) (cbsl - Quarterly)
 * 2024-01-01 23:29:42 - Merchandise Export Unit Value Index (2010=100) (cbsl - Quarterly)
 * 2024-01-01 23:29:42 - Merchandise Export Value Index (1997=100) (cbsl - Quarterly)
@@ -95,21 +113,3 @@ Last Updated: **12:39 AM, Tuesday, 02 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks HAMBANTOTA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks JAFFNA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Banks KALUTARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks KANDY (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks KEGALLE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks KILINOCHCHI (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks KURUNEGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks MANNER (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks MATALE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks MATARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks MONARAGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks MULATIVU (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks NUWARA ELIYA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks POLONNARUWA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks PUTTALAM (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks RATNAPURA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks TRINCOMALEE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Banks VAVUNIYA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches AMPARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches ANURADHAPURA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Branches BADULLA (cbsl - Annual)
