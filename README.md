@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **03:39 PM, Monday, 01 January, 2024**
+Last Updated: **04:39 PM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 16:08:58 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-01 15:14:10 - Banking Sector- Borrowings (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Capital Base (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Capital Funds (cbsl - Annual)
@@ -112,4 +113,3 @@ Last Updated: **03:39 PM, Monday, 01 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets RATNAPURA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets TRINCOMALEE (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets VAVUNIYA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Operating Expenses (Non interest Expenses) (cbsl - Annual)
