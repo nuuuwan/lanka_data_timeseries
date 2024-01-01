@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:40 AM, Monday, 01 January, 2024**
+Last Updated: **11:42 AM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 11:08:57 - Coconut Production (cbsl - Monthly)
+* 2024-01-01 11:08:57 - Inland Fish Production (cbsl - Monthly)
+* 2024-01-01 11:08:57 - Marine Fish Production (cbsl - Monthly)
+* 2024-01-01 11:08:57 - Rubber Production (cbsl - Monthly)
+* 2024-01-01 11:08:57 - Tea Production (cbsl - Monthly)
 * 2024-01-01 09:07:18 - BOP - Capital Account (net) (cbsl - Annual)
 * 2024-01-01 09:07:18 - BOP - Direct Investment - Assets (cbsl - Annual)
 * 2024-01-01 09:07:18 - BOP - Direct Investments - Liabilities (cbsl - Annual)
@@ -108,8 +113,3 @@ Last Updated: **10:40 AM, Monday, 01 January, 2024**
 * 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Individual consumption (IC) expenditure of HHs (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Individual consumption expenditure of general (cbsl - Annual)
 * 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Miscellaneous goods and services (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Recreation and culture (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Restaurants and hotels (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDE - Current MP (2010 Series) - HH Cons. by COICOP - Transport (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Agriculture - Coconut (cbsl - Annual)
-* 2024-01-01 05:25:57 - GDP - Constant (2002) Prices - Agriculture - Firewood and Forestry (cbsl - Annual)
