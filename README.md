@@ -9,10 +9,19 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:41 PM, Monday, 01 January, 2024**
+Last Updated: **06:39 PM, Monday, 01 January, 2024**
 
 ## Latest updates
 
+* 2024-01-01 18:21:02 - Port Services - Cargo handled (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Port Services - Container handled (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Port Services - Vessels arrived (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Public road transport - Operated average busses (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Public road transport - Operated kilometres (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Public road transport - Passenger kilometres (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Rail transport - Freight ton kilometres (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Rail transport - Operated kilometres (cbsl - Monthly)
+* 2024-01-01 18:21:02 - Transport - Vehicle registrations (cbsl - Monthly)
 * 2024-01-01 17:08:18 - Admitted for University Education - Female (cbsl - Academic Year)
 * 2024-01-01 17:08:18 - Admitted for University Education - Male (cbsl - Academic Year)
 * 2024-01-01 17:08:18 - Eligible for University Education - Female (cbsl - Academic Year)
@@ -104,12 +113,3 @@ Last Updated: **05:41 PM, Monday, 01 January, 2024**
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets HAMBANTOTA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets JAFFNA (cbsl - Annual)
 * 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KALUTARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KANDY (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KEGALLE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KILINOCHCHI (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets KURUNEGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets MANNER (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets MATALE (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets MATARA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets MONARAGALA (cbsl - Annual)
-* 2024-01-01 15:14:10 - Banking Sector- Number of Other Banking Outlets MULATIVU (cbsl - Annual)
