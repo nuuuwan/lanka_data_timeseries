@@ -52403,7 +52403,6 @@
 * 2022-09: 2077
 * 2022-12: 1946
 * 2023-03: 2090
-* 2023-06: 2104
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Specific Provision Coverage Ratio
 
@@ -58243,7 +58242,6 @@
 * 2022-09: 4.2
 * 2022-12: 3.9
 * 2023-03: 3.4
-* 2023-06: 4.1
 
 # Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Savings Deposits
 
@@ -60589,8 +60587,6 @@
 * 2022-09: 5.0
 * 2022-12: 4.8
 * 2023-03: 4.7
-* 2023-06: 5.2
-* 2023-09: 4.7
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing
 
@@ -64491,6 +64487,7 @@
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
+* 1964: 411.6
 * 1965: 403.6
 * 1966: 423.8
 * 1967: 408.4
@@ -67268,8 +67265,6 @@
 * 2022-09: 8430
 * 2022-12: 8421
 * 2023-03: 8600
-* 2023-06: 8458
-* 2023-09: 8405
 
 # Transport-Road Network Road Kilometerage-Jaffna-Class B
 
@@ -69034,7 +69029,6 @@
 * 2022-09: 2152
 * 2022-12: 2258
 * 2023-03: 2188
-* 2023-06: 2058
 
 # Transport-Road Network Road Kilometerage-Trincomalee-Class A
 
@@ -69130,7 +69124,6 @@
 * 2022-09: 3781
 * 2022-12: 3810
 * 2023-03: 3922
-* 2023-06: 3852
 
 # Industry and Housing-Index of Industrial Production Wearing apparel
 
@@ -69337,7 +69330,6 @@
 * 2022-09: 26.9
 * 2022-12: 28.2
 * 2023-03: 26.7
-* 2023-06: 25.7
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central
 
@@ -72111,7 +72103,6 @@
 * 2022-09: 47.2
 * 2022-12: 47.5
 * 2023-03: 47.8
-* 2023-06: 48.1
 
 # Central Government Finance-Debt Statistics EDS - General Government - short term
 
@@ -72249,7 +72240,6 @@
 * 2022-09: 419
 * 2022-12: 406
 * 2023-03: 400
-* 2023-06: 444
 
 # Banking Sector-All Banks Banking Sector- Risk Weighted Assets
 
@@ -74710,7 +74700,6 @@
 * 2022-09: 6.4
 * 2022-12: 6.5
 * 2023-03: 7.0
-* 2023-06: 7.4
 
 # Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
 
@@ -75655,7 +75644,6 @@
 * 2022-09: 8010
 * 2022-12: 8015
 * 2023-03: 8200
-* 2023-06: 8014
 
 # Transport-Railways Sri Lanka Railways-Main Stations-Broad Gauge
 
@@ -76936,6 +76924,7 @@
 
 # Communication Media-Postal Services Postal Services - Average population served by a post office
 
+* 1964: 4696
 * 1965: 4759
 * 1966: 4855
 * 1967: 4957
@@ -76992,6 +76981,7 @@
 
 # Imports and Exports-Exports (in USD terms) Merchandise Exports - Total
 
+* 1964: 371.1
 * 1965: 400.9
 * 1966: 351.5
 * 1967: 339.4
@@ -81653,7 +81643,6 @@
 * 2022-09: 70.4
 * 2022-12: 69.0
 * 2023-03: 69.6
-* 2023-06: 68.8
 
 # Payment Data-Credit or Debit Cards Number of defaulted Credit Cards
 
@@ -83496,8 +83485,6 @@
 * 2022-09: 49.0
 * 2022-12: 48.9
 * 2023-03: 49.9
-* 2023-06: 48.6
-* 2023-09: 48.8
 
 # Banking Sector-All Banks Banking Sector- Total Capital Adequacy Ratio (CAR)
 
@@ -89805,6 +89792,7 @@
 
 # Communication Media-Postal Services Postal Services - Post offices
 
+* 1964: 2322
 * 1965: 2346
 * 1966: 2356
 * 1967: 2361
@@ -94843,7 +94831,6 @@
 * 2022-09: 17186
 * 2022-12: 17230
 * 2023-03: 17233
-* 2023-06: 17412
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products - Change
 
@@ -100611,7 +100598,6 @@
 * 2022-09: 25.9
 * 2022-12: 24.3
 * 2023-03: 25.5
-* 2023-06: 26.3
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-North-Central
 
@@ -103453,7 +103439,6 @@
 * 2022-09: 31.0
 * 2022-12: 31.6
 * 2023-03: 32.7
-* 2023-06: 31.1
 
 # Transport-Road Network Road Kilometerage-Kandy-Class A
 
