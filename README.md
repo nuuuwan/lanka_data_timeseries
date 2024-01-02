@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **11:40 AM, Tuesday, 02 January, 2024**
+Last Updated: **12:39 PM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 12:13:39 - Standing Lending Facility - Special Rate Volume (cbsl - Annual)
 * 2024-01-02 11:08:00 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2024-01-02 11:08:00 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2024-01-02 11:08:00 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **11:40 AM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - Marine Fish Production-All Island (cbsl - Annual)
 * 2024-01-02 07:32:11 - Mutton Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - NUTMEG Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - National Milk Production (cbsl - Annual)
