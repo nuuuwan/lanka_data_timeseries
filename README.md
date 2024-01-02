@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **08:39 AM, Tuesday, 02 January, 2024**
+Last Updated: **09:39 AM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 09:12:31 - Merchandise Export Unit Value Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Export Value Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Export Volume Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Exports - Total (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Unit Value Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Value Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Value Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Volume Index (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Import Volume Index (2010=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Merchandise Imports - Total (cbsl - Annual)
+* 2024-01-02 09:12:31 - Terms of Trade (1997=100) (cbsl - Annual)
+* 2024-01-02 09:12:31 - Terms of Trade (2010=100) (cbsl - Annual)
 * 2024-01-02 07:32:11 - ARECANUT Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - ASH PLANTAIN Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - ASH PUMPKIN Production (cbsl - Annual)
@@ -97,19 +113,3 @@ Last Updated: **08:39 AM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - No. of Tea Factories - Sabaragamuwa (cbsl - Annual)
 * 2024-01-02 07:32:11 - No. of Tea Factories - Southern (cbsl - Annual)
 * 2024-01-02 07:32:11 - No. of Tea Factories - Uva (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories (cbsl - Annual)
-* 2024-01-02 07:32:11 - PEPPER Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - POTATOES Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Eastern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - North Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - North Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Northern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Sabaragamuwa (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Southern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Uva (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Net Extent Harvested - Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Production - Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Production - Eastern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Paddy Production - North Central (cbsl - Annual)
