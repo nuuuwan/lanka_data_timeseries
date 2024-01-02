@@ -9,10 +9,17 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **04:39 PM, Tuesday, 02 January, 2024**
+Last Updated: **05:41 PM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 17:17:03 - Area Served by a Post Office (cbsl - Annual)
+* 2024-01-02 17:17:03 - No. of Agency Post Offices (cbsl - Annual)
+* 2024-01-02 17:17:03 - No. of Main Post Offices (cbsl - Annual)
+* 2024-01-02 17:17:03 - No. of Postal Delivery Areas (cbsl - Annual)
+* 2024-01-02 17:17:03 - No. of Sub Post Offices (cbsl - Annual)
+* 2024-01-02 17:17:03 - Postal Services - Average population served by a post office (cbsl - Annual)
+* 2024-01-02 17:17:03 - Postal Services - Post offices (cbsl - Annual)
 * 2024-01-02 14:06:28 - Labour Statistics-Employed Population (cbsl - Quarterly)
 * 2024-01-02 14:06:28 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2024-01-02 14:06:28 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
@@ -106,10 +113,3 @@ Last Updated: **04:39 PM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - Estimated Rubber Production - Central (cbsl - Annual)
 * 2024-01-02 07:32:11 - Estimated Rubber Production - Eastern (cbsl - Annual)
 * 2024-01-02 07:32:11 - Estimated Rubber Production - North Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - North Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - Northern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - Sabaragamuwa (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - Southern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - Uva (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Rubber Production - Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Central (cbsl - Annual)
