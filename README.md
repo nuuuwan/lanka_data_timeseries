@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **01:40 PM, Tuesday, 02 January, 2024**
+Last Updated: **02:39 PM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 14:06:28 - Labour Statistics-Employed Population (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Household Population (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Sri Lanka (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Labour Force (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
+* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Sri Lanka (cbsl - Quarterly)
 * 2024-01-02 13:07:51 - Average Weighted Deposit Rate (cbsl - Monthly)
 * 2024-01-02 13:07:51 - Average Weighted Fixed Deposit Rate (cbsl - Monthly)
 * 2024-01-02 13:07:51 - Average Weighted Lending Rate (cbsl - Monthly)
@@ -97,19 +113,3 @@ Last Updated: **01:40 PM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - Estimated Rubber Production - Uva (cbsl - Annual)
 * 2024-01-02 07:32:11 - Estimated Rubber Production - Western (cbsl - Annual)
 * 2024-01-02 07:32:11 - Estimated Tea Production - Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Eastern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - North Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - North Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Northern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Sabaragamuwa (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Southern (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Uva (cbsl - Annual)
-* 2024-01-02 07:32:11 - Estimated Tea Production - Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - GHERKIN Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - GINGELLY Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - GINGER (RAW) Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - GREEN GRAM Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - GROUND NUTS Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - INNALA Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - Inland Fish Production - All Island (cbsl - Annual)
-* 2024-01-02 07:32:11 - KNOLKHOL Production (cbsl - Annual)
