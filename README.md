@@ -9,10 +9,22 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:39 PM, Tuesday, 02 January, 2024**
+Last Updated: **01:40 PM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 13:07:51 - Average Weighted Deposit Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Average Weighted Fixed Deposit Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Average Weighted Lending Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Average Weighted New Deposit Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Average Weighted New Fixed Deposit Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Average Weighted New Lending Rate (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Licensed Commercial Banks - One Year Fixed Deposit Rates_Max (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Licensed Commercial Banks - One Year Fixed Deposit Rates_Min (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Licensed Commercial Banks - Savings Deposits Rates_Max (cbsl - Monthly)
+* 2024-01-02 13:07:51 - Licensed Commercial Banks - Savings Deposits Rates_Min (cbsl - Monthly)
+* 2024-01-02 13:07:51 - National Savings Bank - One Year Fixed Deposit Rates (cbsl - Monthly)
+* 2024-01-02 13:07:51 - National Savings Bank - Savings Deposits Rates (cbsl - Monthly)
 * 2024-01-02 12:13:39 - Standing Lending Facility - Special Rate Volume (cbsl - Annual)
 * 2024-01-02 11:08:00 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2024-01-02 11:08:00 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
@@ -101,15 +113,3 @@ Last Updated: **12:39 PM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - INNALA Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - Inland Fish Production - All Island (cbsl - Annual)
 * 2024-01-02 07:32:11 - KNOLKHOL Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - KURAKKAN Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - LEEKS Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - LONG BEAN Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - LUFFA Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - MACE Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - MAIZE Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - MANIOC Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - MENERI Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - MUSTERD Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - Marine Fish Production-All Island (cbsl - Annual)
-* 2024-01-02 07:32:11 - Mutton Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - NUTMEG Production (cbsl - Annual)
