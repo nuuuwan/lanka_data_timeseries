@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:39 AM, Tuesday, 02 January, 2024**
+Last Updated: **11:40 AM, Tuesday, 02 January, 2024**
 
 ## Latest updates
 
+* 2024-01-02 11:08:00 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Total Tourist Arrivals (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Tourist Earnings (cbsl - Monthly)
+* 2024-01-02 11:08:00 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2024-01-02 09:12:31 - Merchandise Export Unit Value Index (1997=100) (cbsl - Annual)
 * 2024-01-02 09:12:31 - Merchandise Export Unit Value Index (2010=100) (cbsl - Annual)
 * 2024-01-02 09:12:31 - Merchandise Export Value Index (1997=100) (cbsl - Annual)
@@ -105,11 +113,3 @@ Last Updated: **10:39 AM, Tuesday, 02 January, 2024**
 * 2024-01-02 07:32:11 - Mutton Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - NUTMEG Production (cbsl - Annual)
 * 2024-01-02 07:32:11 - National Milk Production (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Eastern (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - North Central (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - North Western (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Northern (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Sabaragamuwa (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Southern (cbsl - Annual)
-* 2024-01-02 07:32:11 - No. of Tea Factories - Uva (cbsl - Annual)
