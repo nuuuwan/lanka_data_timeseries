@@ -54009,6 +54009,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2022-09	2077
 2022-12	1946
 2023-03	2090
+2023-06	2104
 
 --------------------------------
 
@@ -60059,6 +60060,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Mal
 2022-09	4.2
 2022-12	3.9
 2023-03	3.4
+2023-06	4.1
 
 --------------------------------
 
@@ -62478,6 +62480,8 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Sri
 2022-09	5.0
 2022-12	4.8
 2023-03	4.7
+2023-06	5.2
+2023-09	4.7
 
 --------------------------------
 
@@ -66493,7 +66497,6 @@ Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted Fixed 
 --------------------------------
 
 Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
-1964	411.6
 1965	403.6
 1966	423.8
 1967	408.4
@@ -69385,6 +69388,8 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force
 2022-09	8430
 2022-12	8421
 2023-03	8600
+2023-06	8458
+2023-09	8405
 
 --------------------------------
 
@@ -71225,6 +71230,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2022-09	2152
 2022-12	2258
 2023-03	2188
+2023-06	2058
 
 --------------------------------
 
@@ -71325,6 +71331,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2022-09	3781
 2022-12	3810
 2023-03	3922
+2023-06	3852
 
 --------------------------------
 
@@ -71542,6 +71549,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Agriculture 
 2022-09	26.9
 2022-12	28.2
 2023-03	26.7
+2023-06	25.7
 
 --------------------------------
 
@@ -74414,6 +74422,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Services (as
 2022-09	47.2
 2022-12	47.5
 2023-03	47.8
+2023-06	48.1
 
 --------------------------------
 
@@ -74553,6 +74562,7 @@ Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 2022-09	419
 2022-12	406
 2023-03	400
+2023-06	444
 
 --------------------------------
 
@@ -77097,6 +77107,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Fem
 2022-09	6.4
 2022-12	6.5
 2023-03	7.0
+2023-06	7.4
 
 --------------------------------
 
@@ -78079,6 +78090,7 @@ Labour Force and Employment-Overall Labour Statistics-Employed Population
 2022-09	8010
 2022-12	8015
 2023-03	8200
+2023-06	8014
 
 --------------------------------
 
@@ -79398,7 +79410,6 @@ Transport-Road Network Road Kilometerage-North Central-Total
 --------------------------------
 
 Communication Media-Postal Services Postal Services - Average population served by a post office
-1964	4696
 1965	4759
 1966	4855
 1967	4957
@@ -79456,7 +79467,6 @@ Communication Media-Postal Services Postal Services - Average population served 
 --------------------------------
 
 Imports and Exports-Exports (in USD terms) Merchandise Exports - Total
-1964	371.1
 1965	400.9
 1966	351.5
 1967	339.4
@@ -84299,6 +84309,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2022-09	70.4
 2022-12	69.0
 2023-03	69.6
+2023-06	68.8
 
 --------------------------------
 
@@ -86195,6 +86206,8 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2022-09	49.0
 2022-12	48.9
 2023-03	49.9
+2023-06	48.6
+2023-09	48.8
 
 --------------------------------
 
@@ -92717,7 +92730,6 @@ International Investment Position-Other Investments IIP - Other Investments- Oth
 --------------------------------
 
 Communication Media-Postal Services Postal Services - Post offices
-1964	2322
 1965	2346
 1966	2356
 1967	2361
@@ -97929,6 +97941,7 @@ Labour Force and Employment-Overall Labour Statistics-Household Population
 2022-09	17186
 2022-12	17230
 2023-03	17233
+2023-06	17412
 
 --------------------------------
 
@@ -103859,6 +103872,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Industry (as
 2022-09	25.9
 2022-12	24.3
 2023-03	25.5
+2023-06	26.3
 
 --------------------------------
 
@@ -106783,6 +106797,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2022-09	31.0
 2022-12	31.6
 2023-03	32.7
+2023-06	31.1
 
 --------------------------------
 
