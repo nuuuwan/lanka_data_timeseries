@@ -9,10 +9,24 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **06:39 PM, Wednesday, 03 January, 2024**
+Last Updated: **07:38 PM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 19:15:54 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of Cheques returned (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of Cheques returned (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2024-01-03 19:15:54 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Dual Purpose Vehicles-All Island (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Dual Purpose Vehicles-Central (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Dual Purpose Vehicles-Eastern (cbsl - Annual)
@@ -99,17 +113,3 @@ Last Updated: **06:39 PM, Wednesday, 03 January, 2024**
 * 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class D (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class E (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Eastern-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Galle-Expressways (cbsl - Annual)
