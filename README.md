@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **04:39 PM, Wednesday, 03 January, 2024**
+Last Updated: **05:41 PM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Deposits-Total (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Agriculture & Animal Husbandry (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Commerce & Other Projects (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Housing Electrification & Water (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Other (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Small Industries (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-Loans Granted-Total (cbsl - Annual)
+* 2024-01-03 17:05:36 - Thrift & Credit Co-operative Societies-No. of Societies (cbsl - Annual)
 * 2024-01-03 13:11:10 - Telecommunication - Cellular phones (cbsl - Quarterly)
 * 2024-01-03 13:11:10 - Telecommunication - Fixed telephone lines (cbsl - Quarterly)
 * 2024-01-03 13:11:10 - Telecommunication - Fixed wireless phones (cbsl - Quarterly)
@@ -105,11 +113,3 @@ Last Updated: **04:39 PM, Wednesday, 03 January, 2024**
 * 2024-01-02 14:06:28 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
 * 2024-01-02 14:06:28 - Labour Statistics-Household Population (cbsl - Quarterly)
 * 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Labour Force Participation Rate-Sri Lanka (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Labour Force (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
-* 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Sri Lanka (cbsl - Quarterly)
-* 2024-01-02 13:07:51 - Average Weighted Deposit Rate (cbsl - Monthly)
