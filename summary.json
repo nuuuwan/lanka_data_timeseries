@@ -61818,18 +61818,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-01",
+      "Data last updated": "2023-12-29",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 23,
+      "n": 24,
       "min_t": "2022-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-12-01",
       "min_value": 269.84,
-      "max_value": 417.82
+      "max_value": 412.61
     },
-    "last_updated_time_ut": 1701715156.0,
-    "last_updated_time_str": "2023-12-05 00:09:16"
+    "last_updated_time_ut": 1704321640.0,
+    "last_updated_time_str": "2024-01-04 04:10:40"
   },
   {
     "source_id": "cbsl",
@@ -61844,18 +61844,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-01",
+      "Data last updated": "2023-12-29",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 335,
+      "n": 336,
       "min_t": "1996-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-12-01",
       "min_value": 54.2,
-      "max_value": 329.04
+      "max_value": 323.92
     },
-    "last_updated_time_ut": 1701715156.0,
-    "last_updated_time_str": "2023-12-05 00:09:16"
+    "last_updated_time_ut": 1704321640.0,
+    "last_updated_time_str": "2024-01-04 04:10:40"
   },
   {
     "source_id": "cbsl",
@@ -61880,8 +61880,8 @@
       "min_value": 27.5,
       "max_value": 328.25
     },
-    "last_updated_time_ut": 1701715156.0,
-    "last_updated_time_str": "2023-12-05 00:09:16"
+    "last_updated_time_ut": 1704321640.0,
+    "last_updated_time_str": "2024-01-04 04:10:40"
   },
   {
     "source_id": "cbsl",
@@ -64272,8 +64272,8 @@
       "min_value": 0,
       "max_value": 54.84
     },
-    "last_updated_time_ut": 1701715156.0,
-    "last_updated_time_str": "2023-12-05 00:09:16"
+    "last_updated_time_ut": 1704321640.0,
+    "last_updated_time_str": "2024-01-04 04:10:40"
   },
   {
     "source_id": "cbsl",
@@ -66927,8 +66927,8 @@
       "min_value": 0,
       "max_value": 70.28
     },
-    "last_updated_time_ut": 1701715156.0,
-    "last_updated_time_str": "2023-12-05 00:09:16"
+    "last_updated_time_ut": 1704321640.0,
+    "last_updated_time_str": "2024-01-04 04:10:40"
   },
   {
     "source_id": "cbsl",

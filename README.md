@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **03:38 AM, Thursday, 04 January, 2024**
+Last Updated: **04:39 AM, Thursday, 04 January, 2024**
 
 ## Latest updates
 
+* 2024-01-04 04:10:40 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2024-01-04 04:10:40 - Month End a Exchange Rates (cbsl - Monthly)
+* 2024-01-04 04:10:40 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2024-01-04 04:10:40 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2024-01-04 04:10:40 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-01-03 23:07:16 - Beverages - Change (cbsl - Monthly)
 * 2024-01-03 23:07:16 - Beverages (cbsl - Monthly)
 * 2024-01-03 23:07:16 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **03:38 AM, Thursday, 04 January, 2024**
 * 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Total (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class A (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Total (cbsl - Annual)
