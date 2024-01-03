@@ -9,10 +9,27 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **10:38 PM, Wednesday, 03 January, 2024**
+Last Updated: **11:39 PM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 23:07:16 - Beverages - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Beverages (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Chemicals and chemical products (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Coke and refined petroleum products (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Factory Industry Production Index (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Food products - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Food products (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Index of Industrial Production - change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Index of Industrial Production (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Other non-metallic mineral products (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Rubber and plastic products (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Wearing apparel - Change (cbsl - Monthly)
+* 2024-01-03 23:07:16 - Wearing apparel (cbsl - Monthly)
 * 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Savings Deposits (cbsl - Annual)
 * 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
 * 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
@@ -96,20 +113,3 @@ Last Updated: **10:38 PM, Wednesday, 03 January, 2024**
 * 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class E (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Expressways (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Badulla-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Batticaloa-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Class C (cbsl - Annual)

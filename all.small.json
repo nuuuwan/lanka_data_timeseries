@@ -50168,8 +50168,7 @@
     "2022-06": 3.7,
     "2022-09": 4.2,
     "2022-12": 3.9,
-    "2023-03": 3.4,
-    "2023-06": 4.1
+    "2023-03": 3.4
   },
   "Payment Data-Credit or Debit Cards Total Volume of Debit Card transactions (carried out at POS terminals)": {
     "2010-03": 1023357,
@@ -50472,6 +50471,7 @@
     "2020": 6.9
   },
   "Health-Health Statistics Government sector western medicine - In-patients": {
+    "1964": 1615,
     "1965": 1642,
     "1966": 1785,
     "1967": 1764,
@@ -53462,6 +53462,7 @@
     "2015": 15693
   },
   "Health-Health Statistics Health Indicators - Infant Mortality per 1 000 live births": {
+    "1964": 55,
     "1965": 53,
     "1966": 54,
     "1967": 48,
@@ -54074,8 +54075,7 @@
     "2022-06": 32.1,
     "2022-09": 31.0,
     "2022-12": 31.6,
-    "2023-03": 32.7,
-    "2023-06": 31.1
+    "2023-03": 32.7
   },
   "Banking Sector-All Banks Banking Sector- Net Non-performing Advances": {
     "1998": 31515,
@@ -54103,6 +54103,7 @@
     "2020": 216313
   },
   "Central Government Finance-Central Government Expenditure Government expenditure on education as a per cent of GDP": {
+    "1964": 4.59,
     "1965": 4.44,
     "1966": 4.2,
     "1967": 4.06,
@@ -63709,8 +63710,7 @@
     "2022-06": 399,
     "2022-09": 419,
     "2022-12": 406,
-    "2023-03": 400,
-    "2023-06": 444
+    "2023-03": 400
   },
   "National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food Beverages and Tobacco": {
     "2002": 557445.0,
@@ -65491,6 +65491,7 @@
     "2019": 0
   },
   "Health-Health Statistics Government sector western medicine - Beds": {
+    "1964": 33065,
     "1965": 33802,
     "1966": 33461,
     "1967": 35684,
@@ -66085,8 +66086,7 @@
     "2022-06": 6.5,
     "2022-09": 6.4,
     "2022-12": 6.5,
-    "2023-03": 7.0,
-    "2023-06": 7.4
+    "2023-03": 7.0
   },
   "Open Market Operations-Standing Deposit Facility Standing Lending Facility - Special Rate Volume": {},
   "Central Government Finance-Central Government Revenue General Government Revenue - Total Tax and Non Tax Revenue": {
@@ -66952,8 +66952,7 @@
     "2022-06": 26.0,
     "2022-09": 26.9,
     "2022-12": 28.2,
-    "2023-03": 26.7,
-    "2023-06": 25.7
+    "2023-03": 26.7
   },
   "Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central": {
     "1999": 27,
@@ -69580,8 +69579,7 @@
     "2022-06": 46.3,
     "2022-09": 47.2,
     "2022-12": 47.5,
-    "2023-03": 47.8,
-    "2023-06": 48.1
+    "2023-03": 47.8
   },
   "Central Government Finance-Debt Statistics EDS - General Government - short term": {
     "2012": 576.0,
@@ -70611,6 +70609,7 @@
     "2021": 0
   },
   "Health-Health Statistics Government sector western medicine - Out-patients": {
+    "1964": 26168,
     "1965": 26738,
     "1966": 27235,
     "1967": 31704,
@@ -70717,6 +70716,7 @@
   },
   "Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Machinery & equipment": {},
   "Health-Health Statistics Government sector western medicine - Persons per doctor": {
+    "1964": 7499,
     "1965": 7473,
     "1966": 7565,
     "1967": 7324,
@@ -71301,9 +71301,7 @@
     "2022-06": 50.1,
     "2022-09": 49.0,
     "2022-12": 48.9,
-    "2023-03": 49.9,
-    "2023-06": 48.6,
-    "2023-09": 48.8
+    "2023-03": 49.9
   },
   "Transport-Road Network Road Kilometerage-Kalutara-Class D": {
     "2008": 203,
@@ -73696,6 +73694,7 @@
     "2023-10": 22.85
   },
   "Health-Health Statistics Government sector western medicine - Hospitals": {
+    "1964": 294,
     "1965": 296,
     "1966": 297,
     "1967": 298,
@@ -74047,6 +74046,7 @@
     "2021": 3145
   },
   "Communication Media-Postal Services Postal Services - Average population served by a post office": {
+    "1964": 4696,
     "1965": 4759,
     "1966": 4855,
     "1967": 4957,
@@ -76317,6 +76317,7 @@
     "2015": 28948
   },
   "Health-Health Statistics Government sector western medicine - Hospital beds per 1 000 persons": {
+    "1964": 3.0,
     "1965": 3.0,
     "1966": 2.9,
     "1967": 3.0,
@@ -77369,8 +77370,7 @@
     "2022-06": 17126,
     "2022-09": 17186,
     "2022-12": 17230,
-    "2023-03": 17233,
-    "2023-06": 17412
+    "2023-03": 17233
   },
   "Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks AMPARA": {
     "2008": 6,
@@ -79055,6 +79055,7 @@
     "2021": 25662
   },
   "Health-Health Statistics Government sector western medicine - Doctors": {
+    "1964": 1454,
     "1965": 1494,
     "1966": 1512,
     "1967": 1598,
@@ -81122,6 +81123,7 @@
     "2020": 1920.19
   },
   "Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons": {
+    "1964": 3.2,
     "1965": 3.3,
     "1966": 3.1,
     "1967": 3.4,
@@ -84977,6 +84979,7 @@
     "2020": 5
   },
   "Communication Media-Postal Services Postal Services - Post offices": {
+    "1964": 2322,
     "1965": 2346,
     "1966": 2356,
     "1967": 2361,
@@ -85353,6 +85356,7 @@
     "2023-10": 93.9
   },
   "Central Government Finance-Central Government Expenditure Government expenditure on health as a per cent of GDP": {
+    "1964": 2.05,
     "1965": 2.06,
     "1966": 2.07,
     "1967": 2.09,
@@ -94814,8 +94818,7 @@
     "2022-06": 27.7,
     "2022-09": 25.9,
     "2022-12": 24.3,
-    "2023-03": 25.5,
-    "2023-06": 26.3
+    "2023-03": 25.5
   },
   "Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-North-Central": {
     "1999": 3416,
@@ -97108,6 +97111,7 @@
     "2021": 240
   },
   "Health-Health Statistics Government sector western medicine - Nurses": {
+    "1964": 3435,
     "1965": 3642,
     "1966": 3499,
     "1967": 3999,
