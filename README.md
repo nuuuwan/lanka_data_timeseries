@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:39 PM, Wednesday, 03 January, 2024**
+Last Updated: **01:40 PM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 13:11:10 - Telecommunication - Cellular phones (cbsl - Quarterly)
+* 2024-01-03 13:11:10 - Telecommunication - Fixed telephone lines (cbsl - Quarterly)
+* 2024-01-03 13:11:10 - Telecommunication - Fixed wireless phones (cbsl - Quarterly)
+* 2024-01-03 13:11:10 - Telecommunication - Internet penetration (cbsl - Quarterly)
+* 2024-01-03 13:11:10 - Telecommunication - Telephone penetration (cbsl - Quarterly)
 * 2024-01-03 12:20:26 - Capital Expenditure on Higher Education (cbsl - Annual)
 * 2024-01-03 12:20:26 - EDS - Central Bank - long term (cbsl - Annual)
 * 2024-01-03 12:20:26 - EDS - Central Bank - short term (cbsl - Annual)
@@ -108,8 +113,3 @@ Last Updated: **12:39 PM, Wednesday, 03 January, 2024**
 * 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
 * 2024-01-02 14:06:28 - Labour Statistics-Unemployment Rate-Sri Lanka (cbsl - Quarterly)
 * 2024-01-02 13:07:51 - Average Weighted Deposit Rate (cbsl - Monthly)
-* 2024-01-02 13:07:51 - Average Weighted Fixed Deposit Rate (cbsl - Monthly)
-* 2024-01-02 13:07:51 - Average Weighted Lending Rate (cbsl - Monthly)
-* 2024-01-02 13:07:51 - Average Weighted New Deposit Rate (cbsl - Monthly)
-* 2024-01-02 13:07:51 - Average Weighted New Fixed Deposit Rate (cbsl - Monthly)
-* 2024-01-02 13:07:51 - Average Weighted New Lending Rate (cbsl - Monthly)
