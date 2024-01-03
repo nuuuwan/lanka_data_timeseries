@@ -9,10 +9,13 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **05:54 AM, Wednesday, 03 January, 2024**
+Last Updated: **07:02 AM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 06:24:42 - Electricity - Electrification level (cbsl - Annual)
+* 2024-01-03 06:24:42 - Water supply - Access to pipe borne water (cbsl - Annual)
+* 2024-01-03 06:24:42 - Water supply - Access to safe drinking water (cbsl - Annual)
 * 2024-01-03 03:09:44 - BOP - Capital Account (net) (cbsl - Quarterly)
 * 2024-01-03 03:09:44 - BOP - Direct Investment - Assets (cbsl - Quarterly)
 * 2024-01-03 03:09:44 - BOP - Direct Investments - Liabilities (cbsl - Quarterly)
@@ -110,6 +113,3 @@ Last Updated: **05:54 AM, Wednesday, 03 January, 2024**
 * 2024-01-02 09:12:31 - Merchandise Export Value Index (2010=100) (cbsl - Annual)
 * 2024-01-02 09:12:31 - Merchandise Export Volume Index (1997=100) (cbsl - Annual)
 * 2024-01-02 09:12:31 - Merchandise Export Volume Index (2010=100) (cbsl - Annual)
-* 2024-01-02 09:12:31 - Merchandise Exports - Total (cbsl - Annual)
-* 2024-01-02 09:12:31 - Merchandise Import Unit Value Index (1997=100) (cbsl - Annual)
-* 2024-01-02 09:12:31 - Merchandise Import Unit Value Index (2010=100) (cbsl - Annual)
