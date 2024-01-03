@@ -9,10 +9,20 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **07:38 PM, Wednesday, 03 January, 2024**
+Last Updated: **08:38 PM, Wednesday, 03 January, 2024**
 
 ## Latest updates
 
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Savings Deposits (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Time Deposits (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Deposits-Total (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Agriculture & Animal Husbandry (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Commerce & Other Projects (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Other (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Small Industries (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-Loans Outstanding-Total (cbsl - Annual)
+* 2024-01-03 20:16:47 - Co-operative Rural Banks-No. of Banks (cbsl - Annual)
 * 2024-01-03 19:15:54 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2024-01-03 19:15:54 - Total Value of Cheques returned (cbsl - Monthly)
 * 2024-01-03 19:15:54 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
@@ -103,13 +113,3 @@ Last Updated: **07:38 PM, Wednesday, 03 January, 2024**
 * 2024-01-03 18:29:12 - Road Kilometerage-Central-Class A (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Central-Class B (cbsl - Annual)
 * 2024-01-03 18:29:12 - Road Kilometerage-Central-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Central-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Colombo-Expressways (cbsl - Annual)
