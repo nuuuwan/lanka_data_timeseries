@@ -9,10 +9,26 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **04:39 AM, Thursday, 04 January, 2024**
+Last Updated: **05:54 AM, Thursday, 04 January, 2024**
 
 ## Latest updates
 
+* 2024-01-04 05:10:49 - Budget Deficit (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Capital and Net Lending (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Expenditure and Net Lending (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Grants (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Non Tax Revenue (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Primary Balance (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Recurrent Expenditure (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Revenue and Grants (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Revenue (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Tax Revenue (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2024-01-04 05:10:49 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2024-01-04 04:10:40 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-01-04 04:10:40 - Month End a Exchange Rates (cbsl - Monthly)
 * 2024-01-04 04:10:40 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -97,19 +113,3 @@ Last Updated: **04:39 AM, Thursday, 04 January, 2024**
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Northern (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Sabaragamuwa (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Southern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Uva (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Western (cbsl - Annual)
-* 2024-01-03 18:29:12 - Private Bus Services-Buses Operated-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Private Bus Services-Operated Kilometers-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Private Bus Services-Passenger Kilometers-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Private Bus Services-Seating Capacity-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Private Bus Services-Total Fleet-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Class B (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Class C (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Class D (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Class E (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Expressways (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Ampara-Total (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class A (cbsl - Annual)
-* 2024-01-03 18:29:12 - Road Kilometerage-Anuradhapura-Class B (cbsl - Annual)
