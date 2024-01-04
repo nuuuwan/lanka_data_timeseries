@@ -9,10 +9,28 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,028** datasets
 
-Last Updated: **12:38 PM, Thursday, 04 January, 2024**
+Last Updated: **01:39 PM, Thursday, 04 January, 2024**
 
 ## Latest updates
 
+* 2024-01-04 13:25:01 - Gross Official reserves - Months of Imports (cbsl - Annual)
+* 2024-01-04 13:25:01 - Grosss Official Reserves (IIP - Reserve Assets) (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Direct Investment - Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Direct Investment - Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Currency and Deposits -Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Currency and Deposits -Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Loans -Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Loans -Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Other accounts payable -Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Other accounts receivable -Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Trade Credits -Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Other Investments- Trade Credits -Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Portfolio Investment - Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - Special Drawing Rigths - Liabilities (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP - net (cbsl - Annual)
+* 2024-01-04 13:25:01 - IIP- Portfolio Investment - Assets (cbsl - Annual)
+* 2024-01-04 13:25:01 - International Investment Position (IIP) - Assets (cbsl - Annual)
 * 2024-01-04 05:10:49 - Budget Deficit (cbsl - Monthly)
 * 2024-01-04 05:10:49 - Capital and Net Lending (cbsl - Monthly)
 * 2024-01-04 05:10:49 - Expenditure and Net Lending (cbsl - Monthly)
@@ -95,21 +113,3 @@ Last Updated: **12:38 PM, Thursday, 04 January, 2024**
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Goods Transport Vehicles-Southern (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Goods Transport Vehicles-Uva (cbsl - Annual)
 * 2024-01-03 18:29:12 - Motor Vehicles by Province-Goods Transport Vehicles-Western (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Central (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Eastern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-North Central (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-North Western (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Northern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Sabaragamuwa (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Southern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Uva (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Land Vehicles-Western (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-All Island (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Central (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Eastern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-North Central (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-North Western (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Northern (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Sabaragamuwa (cbsl - Annual)
-* 2024-01-03 18:29:12 - Motor Vehicles by Province-Motor Cycles-Southern (cbsl - Annual)
