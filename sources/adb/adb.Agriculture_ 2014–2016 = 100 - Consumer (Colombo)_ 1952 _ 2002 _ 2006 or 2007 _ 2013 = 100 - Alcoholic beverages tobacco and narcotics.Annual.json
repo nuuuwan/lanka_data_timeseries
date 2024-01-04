@@ -1,0 +1,39 @@
+{
+  "source_id": "adb",
+  "category": "",
+  "sub_category": "Agriculture_ 2014\u20132016 = 100 - Consumer (Colombo)_ 1952 _ 2002 _ 2006 or 2007 _ 2013 = 100 - Alcoholic beverages tobacco and narcotics",
+  "scale": "",
+  "unit": "Colombo",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 9,
+    "min_t": 2013,
+    "max_t": 2021,
+    "min_value": 100,
+    "max_value": 231.1583333
+  },
+  "cleaned_data": {
+    "2013": 100,
+    "2014": 111.1,
+    "2015": 127.3,
+    "2016": 153.8,
+    "2017": 186,
+    "2018": 193.5,
+    "2019": 215.9,
+    "2020": 223.475,
+    "2021": 231.1583333
+  },
+  "raw_data": {
+    "2013": 100,
+    "2014": 111.1,
+    "2015": 127.3,
+    "2016": 153.8,
+    "2017": 186,
+    "2018": 193.5,
+    "2019": 215.9,
+    "2020": 223.475,
+    "2021": 231.1583333
+  }
+}

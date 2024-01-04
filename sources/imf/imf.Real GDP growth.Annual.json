@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "NGDP_RPCH",
     "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value at constant prices of final goods and services produced within a country during a specified time period, such as one year.",
-    "source": "World Economic Outlook (April 2023)",
+    "source": "World Economic Outlook (October 2023)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/LKA"
   },
   "summary_statistics": {
-    "n": 49,
+    "n": 43,
     "min_t": "1980",
-    "max_t": "2028",
+    "max_t": "2022",
     "min_value": 5.8,
-    "max_value": 3.1
+    "max_value": -7.8
   },
   "cleaned_data": {
     "1980": 5.8,
@@ -61,15 +61,9 @@
     "2017": 6.5,
     "2018": 2.3,
     "2019": -0.2,
-    "2020": -3.5,
-    "2021": 3.3,
-    "2022": -8.7,
-    "2023": -3,
-    "2024": 1.5,
-    "2025": 2.6,
-    "2026": 3,
-    "2027": 3.1,
-    "2028": 3.1
+    "2020": -4.6,
+    "2021": 3.5,
+    "2022": -7.8
   },
   "raw_data": {
     "1980": 5.8,
@@ -112,14 +106,8 @@
     "2017": 6.5,
     "2018": 2.3,
     "2019": -0.2,
-    "2020": -3.5,
-    "2021": 3.3,
-    "2022": -8.7,
-    "2023": -3,
-    "2024": 1.5,
-    "2025": 2.6,
-    "2026": 3,
-    "2027": 3.1,
-    "2028": 3.1
+    "2020": -4.6,
+    "2021": 3.5,
+    "2022": -7.8
   }
 }

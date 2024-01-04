@@ -1,0 +1,39 @@
+{
+  "source_id": "adb",
+  "category": "",
+  "sub_category": "Agriculture_ 2014\u20132016 = 100 - Consumer (national)_ 1995\u20131997 _ 2013 = 100 - Housing water electricity gas and other fuels",
+  "scale": "",
+  "unit": "national",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 9,
+    "min_t": 2013,
+    "max_t": 2021,
+    "min_value": 100,
+    "max_value": 129.1416667
+  },
+  "cleaned_data": {
+    "2013": 100,
+    "2014": 110.1,
+    "2015": 114.7,
+    "2016": 114.8,
+    "2017": 115.8,
+    "2018": 117.275,
+    "2019": 126.7,
+    "2020": 127.7083333,
+    "2021": 129.1416667
+  },
+  "raw_data": {
+    "2013": 100,
+    "2014": 110.1,
+    "2015": 114.7,
+    "2016": 114.8,
+    "2017": 115.8,
+    "2018": 117.275,
+    "2019": 126.7,
+    "2020": 127.7083333,
+    "2021": 129.1416667
+  }
+}

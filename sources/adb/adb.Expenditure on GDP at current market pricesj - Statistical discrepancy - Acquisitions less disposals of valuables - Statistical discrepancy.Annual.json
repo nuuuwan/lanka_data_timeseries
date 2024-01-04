@@ -1,0 +1,41 @@
+{
+  "source_id": "adb",
+  "category": "",
+  "sub_category": "Expenditure on GDP at current market pricesj - Statistical discrepancy - Acquisitions less disposals of valuables - Statistical discrepancy",
+  "scale": "",
+  "unit": "",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {},
+  "summary_statistics": {
+    "n": 10,
+    "min_t": 2000,
+    "max_t": 2009,
+    "min_value": 0.16189,
+    "max_value": 0.14067
+  },
+  "cleaned_data": {
+    "2000": 0.16189,
+    "2001": 0.35335,
+    "2002": 0.48899,
+    "2003": 0.39639,
+    "2004": 0.52319,
+    "2005": 0.69109,
+    "2006": 0.62157158996556,
+    "2007": 0.64624,
+    "2008": 0.45316,
+    "2009": 0.14067
+  },
+  "raw_data": {
+    "2000": 0.16189,
+    "2001": 0.35335,
+    "2002": 0.48899,
+    "2003": 0.39639,
+    "2004": 0.52319,
+    "2005": 0.69109,
+    "2006": 0.62157158996556,
+    "2007": 0.64624,
+    "2008": 0.45316,
+    "2009": 0.14067
+  }
+}

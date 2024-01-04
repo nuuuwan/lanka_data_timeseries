@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "PPPGDP",
     "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-    "source": "World Economic Outlook (April 2023)",
+    "source": "World Economic Outlook (October 2023)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA"
   },
   "summary_statistics": {
-    "n": 49,
+    "n": 43,
     "min_t": "1980",
-    "max_t": "2028",
+    "max_t": "2022",
     "min_value": 16.913,
-    "max_value": 403.97
+    "max_value": 319.523
   },
   "cleaned_data": {
     "1980": 16.913,
@@ -61,15 +61,9 @@
     "2017": 291.299,
     "2018": 305.194,
     "2019": 309.983,
-    "2020": 303.124,
-    "2021": 327.277,
-    "2022": 319.882,
-    "2023": 321.979,
-    "2024": 333.994,
-    "2025": 349.206,
-    "2026": 366.382,
-    "2027": 384.566,
-    "2028": 403.97
+    "2020": 299.506,
+    "2021": 323.951,
+    "2022": 319.523
   },
   "raw_data": {
     "1980": 16.913,
@@ -112,14 +106,8 @@
     "2017": 291.299,
     "2018": 305.194,
     "2019": 309.983,
-    "2020": 303.124,
-    "2021": 327.277,
-    "2022": 319.882,
-    "2023": 321.979,
-    "2024": 333.994,
-    "2025": 349.206,
-    "2026": 366.382,
-    "2027": 384.566,
-    "2028": 403.97
+    "2020": 299.506,
+    "2021": 323.951,
+    "2022": 319.523
   }
 }

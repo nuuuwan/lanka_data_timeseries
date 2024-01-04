@@ -9,7 +9,7 @@
   "footnotes": {
     "indicator_key": "PVD_LS",
     "description": "Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.",
-    "source": "Global Debt Database (Dec 2022)",
+    "source": "Global Debt Database (Sept 2023)",
     "dataset": "GDD",
     "url": "https://www.imf.org/external/datamapper/api/v1/PVD_LS/LKA"
   },

@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "G_XWDG_G01_GDP_PT",
     "description": "All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF\u2019s Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term \u201cpublic debt\u201d is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term \u201cpublic debt\u201d refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)",
-    "source": "Fiscal Monitor (April 2023)",
+    "source": "Fiscal Monitor (October 2023)",
     "dataset": "FM",
     "url": "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/LKA"
   },
   "summary_statistics": {
-    "n": 33,
+    "n": 39,
     "min_t": "1990",
-    "max_t": "2022",
+    "max_t": "2028",
     "min_value": 78.93764682478,
-    "max_value": 117.66132512264
+    "max_value": 102.28589642313
   },
   "cleaned_data": {
     "1990": 78.93764682478,
@@ -51,9 +51,15 @@
     "2017": 72.2602787092,
     "2018": 83.584943130292,
     "2019": 82.594027710914,
-    "2020": 95.695080940771,
-    "2021": 102.24204453204,
-    "2022": 117.66132512264
+    "2020": 96.724767782813,
+    "2021": 102.73967323737,
+    "2022": 115.53644062651,
+    "2023": 107.09914176984,
+    "2024": 109.55964499442,
+    "2025": 110.06278688062,
+    "2026": 109.04822128016,
+    "2027": 105.7259670125,
+    "2028": 102.28589642313
   },
   "raw_data": {
     "1990": 78.93764682478,
@@ -86,8 +92,14 @@
     "2017": 72.2602787092,
     "2018": 83.584943130292,
     "2019": 82.594027710914,
-    "2020": 95.695080940771,
-    "2021": 102.24204453204,
-    "2022": 117.66132512264
+    "2020": 96.724767782813,
+    "2021": 102.73967323737,
+    "2022": 115.53644062651,
+    "2023": 107.09914176984,
+    "2024": 109.55964499442,
+    "2025": 110.06278688062,
+    "2026": 109.04822128016,
+    "2027": 105.7259670125,
+    "2028": 102.28589642313
   }
 }

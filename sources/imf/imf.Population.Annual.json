@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "LP",
     "description": "Total population of a country, region, or group of countries.",
-    "source": "World Economic Outlook (April 2023)",
+    "source": "World Economic Outlook (October 2023)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/LP/LKA"
   },
   "summary_statistics": {
-    "n": 49,
+    "n": 43,
     "min_t": "1980",
-    "max_t": "2028",
+    "max_t": "2022",
     "min_value": 15.553,
-    "max_value": 23.888
+    "max_value": 22.396
   },
   "cleaned_data": {
     "1980": 15.553,
@@ -63,13 +63,7 @@
     "2019": 21.803,
     "2020": 21.919,
     "2021": 22.156,
-    "2022": 22.396,
-    "2023": 22.638,
-    "2024": 22.882,
-    "2025": 23.13,
-    "2026": 23.38,
-    "2027": 23.633,
-    "2028": 23.888
+    "2022": 22.396
   },
   "raw_data": {
     "1980": 15.553,
@@ -114,12 +108,6 @@
     "2019": 21.803,
     "2020": 21.919,
     "2021": 22.156,
-    "2022": 22.396,
-    "2023": 22.638,
-    "2024": 22.882,
-    "2025": 23.13,
-    "2026": 23.38,
-    "2027": 23.633,
-    "2028": 23.888
+    "2022": 22.396
   }
 }

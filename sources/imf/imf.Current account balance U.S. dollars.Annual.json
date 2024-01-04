@@ -9,7 +9,7 @@
   "footnotes": {
     "indicator_key": "BCA",
     "description": "The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.",
-    "source": "World Economic Outlook (April 2023)",
+    "source": "World Economic Outlook (October 2023)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/BCA/LKA"
   },
@@ -18,7 +18,7 @@
     "min_t": "1980",
     "max_t": "2022",
     "min_value": -0.848,
-    "max_value": -1.458
+    "max_value": -0.744
   },
   "cleaned_data": {
     "1980": -0.848,
@@ -62,8 +62,8 @@
     "2018": -2.798,
     "2019": -1.844,
     "2020": -1.187,
-    "2021": -3.343,
-    "2022": -1.458
+    "2021": -3.285,
+    "2022": -0.744
   },
   "raw_data": {
     "1980": -0.848,
@@ -107,7 +107,7 @@
     "2018": -2.798,
     "2019": -1.844,
     "2020": -1.187,
-    "2021": -3.343,
-    "2022": -1.458
+    "2021": -3.285,
+    "2022": -0.744
   }
 }

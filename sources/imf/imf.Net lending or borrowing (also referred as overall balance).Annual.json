@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "GGXCNL_G01_GDP_PT",
     "description": "Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF\u2019s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.",
-    "source": "Fiscal Monitor (April 2023)",
+    "source": "Fiscal Monitor (October 2023)",
     "dataset": "FM",
     "url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/LKA"
   },
   "summary_statistics": {
-    "n": 33,
+    "n": 39,
     "min_t": "1990",
-    "max_t": "2022",
+    "max_t": "2028",
     "min_value": -6.3885799833544,
-    "max_value": -10.386468733778
+    "max_value": -3.9882249665849
   },
   "cleaned_data": {
     "1990": -6.3885799833544,
@@ -51,9 +51,15 @@
     "2017": -5.0981979338889,
     "2018": -4.9555254732075,
     "2019": -7.5192279056021,
-    "2020": -12.060450388042,
-    "2021": -11.636005815721,
-    "2022": -10.386468733778
+    "2020": -12.190221813612,
+    "2021": -11.692628596036,
+    "2022": -10.187116146481,
+    "2023": -8.1938066945396,
+    "2024": -7.1240813455255,
+    "2025": -5.258484639878,
+    "2026": -4.6579663608367,
+    "2027": -4.1370535827484,
+    "2028": -3.9882249665849
   },
   "raw_data": {
     "1990": -6.3885799833544,
@@ -86,8 +92,14 @@
     "2017": -5.0981979338889,
     "2018": -4.9555254732075,
     "2019": -7.5192279056021,
-    "2020": -12.060450388042,
-    "2021": -11.636005815721,
-    "2022": -10.386468733778
+    "2020": -12.190221813612,
+    "2021": -11.692628596036,
+    "2022": -10.187116146481,
+    "2023": -8.1938066945396,
+    "2024": -7.1240813455255,
+    "2025": -5.258484639878,
+    "2026": -4.6579663608367,
+    "2027": -4.1370535827484,
+    "2028": -3.9882249665849
   }
 }

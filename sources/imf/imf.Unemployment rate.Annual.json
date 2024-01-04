@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "LUR",
     "description": "The number of unemployed persons as a percentage of the total labor force.",
-    "source": "World Economic Outlook (April 2023)",
+    "source": "World Economic Outlook (October 2023)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/LUR/LKA"
   },
   "summary_statistics": {
-    "n": 39,
+    "n": 33,
     "min_t": "1990",
-    "max_t": "2028",
+    "max_t": "2022",
     "min_value": 15.9,
-    "max_value": 4.4
+    "max_value": 5.3
   },
   "cleaned_data": {
     "1990": 15.9,
@@ -53,13 +53,7 @@
     "2019": 4.8,
     "2020": 5.5,
     "2021": 5.1,
-    "2022": 5.3,
-    "2023": 5,
-    "2024": 4.8,
-    "2025": 4.4,
-    "2026": 4.4,
-    "2027": 4.4,
-    "2028": 4.4
+    "2022": 5.3
   },
   "raw_data": {
     "1990": 15.9,
@@ -94,12 +88,6 @@
     "2019": 4.8,
     "2020": 5.5,
     "2021": 5.1,
-    "2022": 5.3,
-    "2023": 5,
-    "2024": 4.8,
-    "2025": 4.4,
-    "2026": 4.4,
-    "2027": 4.4,
-    "2028": 4.4
+    "2022": 5.3
   }
 }
