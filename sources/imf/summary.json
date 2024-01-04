@@ -85,19 +85,19 @@
     "footnotes": {
       "indicator_key": "CG_DEBT_GDP",
       "description": "Total stock of debt liabilities issued by the central government as a share of GDP.",
-      "source": "Global Debt Database (Dec 2022)",
+      "source": "Global Debt Database (Sept 2023)",
       "dataset": "GDD",
       "url": "https://www.imf.org/external/datamapper/api/v1/CG_DEBT_GDP/LKA"
     },
     "summary_statistics": {
-      "n": 71,
+      "n": 72,
       "min_t": "1951",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 9.6520760457731,
-      "max_value": 103.07929971721
+      "max_value": 117.66132512264
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -235,7 +235,7 @@
     "footnotes": {
       "indicator_key": "BCA",
       "description": "The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/BCA/LKA"
     },
@@ -244,10 +244,10 @@
       "min_t": "1980",
       "max_t": "2022",
       "min_value": -0.848,
-      "max_value": -1.458
+      "max_value": -0.744
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -260,19 +260,19 @@
     "footnotes": {
       "indicator_key": "BCA_NGDPD",
       "description": "The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": -16.3,
-      "max_value": -1.3
+      "max_value": -1
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -585,19 +585,19 @@
     "footnotes": {
       "indicator_key": "G_X_G01_GDP_PT",
       "description": "Expenditure",
-      "source": "Fiscal Monitor (April 2023)",
+      "source": "Fiscal Monitor (October 2023)",
       "dataset": "FM",
       "url": "https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/LKA"
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 39,
       "min_t": "1990",
-      "max_t": "2022",
+      "max_t": "2028",
       "min_value": 25.352644817849,
-      "max_value": 18.880887661551
+      "max_value": 19.240159283979
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -810,19 +810,19 @@
     "footnotes": {
       "indicator_key": "PPPSH",
       "description": "Purchasing Power Parity (PPP) weights are individual countries' share of total World gross domestic product at purchasing power parities.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PPPSH/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 0.126,
-      "max_value": 0.181
+      "max_value": 0.195
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -835,19 +835,19 @@
     "footnotes": {
       "indicator_key": "PPPGDP",
       "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 16.913,
-      "max_value": 403.97
+      "max_value": 319.523
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -860,19 +860,19 @@
     "footnotes": {
       "indicator_key": "PPPPC",
       "description": "Gross domestic product (GDP) is the most commonly used single measure of a country's overall economic activity. Per capita GDP represents the total value in PPP terms of final goods and services produced within a country during a specified time period divided by the average population for the same one year.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PPPPC/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 1087.425,
-      "max_value": 16910.769
+      "max_value": 14267.229
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -960,7 +960,7 @@
     "footnotes": {
       "indicator_key": "GGXWDG_NGDP",
       "description": "Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/LKA"
     },
@@ -969,10 +969,10 @@
       "min_t": "1990",
       "max_t": "2022",
       "min_value": 78.9,
-      "max_value": 117.7
+      "max_value": 115.5
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -985,7 +985,7 @@
     "footnotes": {
       "indicator_key": "GGXCNL_NGDP",
       "description": "Net lending (+)/ borrowing (\u2013) is calculated as revenue minus total expenditure. This is a core GFS balance that measures the extent to which general government is either putting financial resources at the disposal of other sectors in the economy and nonresidents (net lending), or utilizing the financial resources generated by other sectors and nonresidents (net borrowing). This balance may be viewed as an indicator of the financial impact of general government activity on the rest of the economy and nonresidents (GFSM 2001, paragraph 4.17). Note: Net lending (+)/borrowing (\u2013) is also equal to net acquisition of financial assets minus net incurrence of liabilities.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/LKA"
     },
@@ -994,10 +994,10 @@
       "min_t": "1990",
       "max_t": "2022",
       "min_value": -6.4,
-      "max_value": -10.4
+      "max_value": -10.2
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1015,14 +1015,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/exp/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 25.352644817849,
-      "max_value": 19.912727991535
+      "max_value": 18.521604724371
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1040,14 +1040,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/pb/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": -1.1389310053022,
-      "max_value": -5.708200463489
+      "max_value": -3.7053878048559
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1065,14 +1065,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/prim_exp/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 20.102995839797,
-      "max_value": 13.984922639303
+      "max_value": 12.039876382746
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1090,14 +1090,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/rev/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 18.964064834494,
-      "max_value": 8.2767221758135
+      "max_value": 8.3344885778903
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1110,19 +1110,19 @@
     "footnotes": {
       "indicator_key": "G_XWDG_G01_GDP_PT",
       "description": "All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF\u2019s Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term \u201cpublic debt\u201d is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term \u201cpublic debt\u201d refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)",
-      "source": "Fiscal Monitor (April 2023)",
+      "source": "Fiscal Monitor (October 2023)",
       "dataset": "FM",
       "url": "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/LKA"
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 39,
       "min_t": "1990",
-      "max_t": "2022",
+      "max_t": "2028",
       "min_value": 78.93764682478,
-      "max_value": 117.66132512264
+      "max_value": 102.28589642313
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1140,14 +1140,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/d/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 78.93764682478,
-      "max_value": 103.07929971721
+      "max_value": 115.53644062651
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1185,7 +1185,7 @@
     "footnotes": {
       "indicator_key": "HH_LS",
       "description": "Total stock of loans and debt securities issued by households as a share of GDP.",
-      "source": "Global Debt Database (Dec 2022)",
+      "source": "Global Debt Database (Sept 2023)",
       "dataset": "GDD",
       "url": "https://www.imf.org/external/datamapper/api/v1/HH_LS/LKA"
     },
@@ -1196,8 +1196,8 @@
       "min_value": 21.299035790586,
       "max_value": 12.018082527381
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1210,19 +1210,19 @@
     "footnotes": {
       "indicator_key": "PPPEX",
       "description": "Purchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PPPEX/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 5.077,
-      "max_value": 114.252
+      "max_value": 75.574
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1235,19 +1235,19 @@
     "footnotes": {
       "indicator_key": "PCPIPCH",
       "description": "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.\n \n",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 26.1,
-      "max_value": 5
+      "max_value": 45.2
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1260,19 +1260,19 @@
     "footnotes": {
       "indicator_key": "PCPIEPCH",
       "description": "The end of period consumer price index (CPI) is a measure of a country's general level of prices based on the cost of a typical basket of consumer goods and services at the end of a given period. The rate of inflation is the percent change in the end of period CPI.\n \n",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/PCPIEPCH/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 24.7,
-      "max_value": 5
+      "max_value": 54.5
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1315,14 +1315,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/ie/LKA"
     },
     "summary_statistics": {
-      "n": 32,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 5.2496489780522,
-      "max_value": 5.9278053522324
+      "max_value": 6.4817283416252
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1460,19 +1460,19 @@
     "footnotes": {
       "indicator_key": "GGXCNL_G01_GDP_PT",
       "description": "Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF\u2019s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.",
-      "source": "Fiscal Monitor (April 2023)",
+      "source": "Fiscal Monitor (October 2023)",
       "dataset": "FM",
       "url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/LKA"
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 39,
       "min_t": "1990",
-      "max_t": "2022",
+      "max_t": "2028",
       "min_value": -6.3885799833544,
-      "max_value": -10.386468733778
+      "max_value": -3.9882249665849
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1510,7 +1510,7 @@
     "footnotes": {
       "indicator_key": "NFC_LS",
       "description": "Total stock of loans and debt securities issued by nonfinancial corporations as a share of GDP.",
-      "source": "Global Debt Database (Dec 2022)",
+      "source": "Global Debt Database (Sept 2023)",
       "dataset": "GDD",
       "url": "https://www.imf.org/external/datamapper/api/v1/NFC_LS/LKA"
     },
@@ -1521,8 +1521,8 @@
       "min_value": 3.2798419321906,
       "max_value": 43.965189230879
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1710,19 +1710,19 @@
     "footnotes": {
       "indicator_key": "LP",
       "description": "Total population of a country, region, or group of countries.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/LP/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 15.553,
-      "max_value": 23.888
+      "max_value": 22.396
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1785,19 +1785,19 @@
     "footnotes": {
       "indicator_key": "GGXONLB_G01_GDP_PT",
       "description": "Overall balance excluding net interest payment (interest expenditure minus interest revenue).",
-      "source": "Fiscal Monitor (April 2023)",
+      "source": "Fiscal Monitor (October 2023)",
       "dataset": "FM",
       "url": "https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/LKA"
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 39,
       "min_t": "1990",
-      "max_t": "2022",
+      "max_t": "2028",
       "min_value": -1.1389310053022,
-      "max_value": -3.7790084747835
+      "max_value": 2.3
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1910,7 +1910,7 @@
     "footnotes": {
       "indicator_key": "PVD_LS",
       "description": "Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.",
-      "source": "Global Debt Database (Dec 2022)",
+      "source": "Global Debt Database (Sept 2023)",
       "dataset": "GDD",
       "url": "https://www.imf.org/external/datamapper/api/v1/PVD_LS/LKA"
     },
@@ -1921,8 +1921,8 @@
       "min_value": 2.4544456607442,
       "max_value": 55.98327175826
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1969,10 +1969,10 @@
       "min_t": "2011",
       "max_t": "2022",
       "min_value": 1.0070901382489,
-      "max_value": 0.18357213180366
+      "max_value": 0.12288366406226
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -1990,14 +1990,14 @@
       "url": "https://www.imf.org/external/datamapper/api/v1/rgc/LKA"
     },
     "summary_statistics": {
-      "n": 59,
+      "n": 60,
       "min_t": "1963",
-      "max_t": "2021",
+      "max_t": "2022",
       "min_value": 7.3200620519325,
-      "max_value": 3.3267766027088
+      "max_value": -7.8239773264691
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -2010,19 +2010,19 @@
     "footnotes": {
       "indicator_key": "NGDP_RPCH",
       "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value at constant prices of final goods and services produced within a country during a specified time period, such as one year.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/LKA"
     },
     "summary_statistics": {
-      "n": 49,
+      "n": 43,
       "min_t": "1980",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 5.8,
-      "max_value": 3.1
+      "max_value": -7.8
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -2093,11 +2093,11 @@
       "n": 23,
       "min_t": "2000",
       "max_t": "2022",
-      "min_value": 1.5272380266979,
-      "max_value": 1.1639850492827
+      "min_value": 0.50907934223264,
+      "max_value": 0.39443703831114
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -2119,10 +2119,10 @@
       "min_t": "2000",
       "max_t": "2022",
       "min_value": 0.17900084739582,
-      "max_value": 0.056037489769686
+      "max_value": 0.056036817276727
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -2160,19 +2160,19 @@
     "footnotes": {
       "indicator_key": "GGR_G01_GDP_PT",
       "description": "Revenue",
-      "source": "Fiscal Monitor (April 2023)",
+      "source": "Fiscal Monitor (October 2023)",
       "dataset": "FM",
       "url": "https://www.imf.org/external/datamapper/api/v1/GGR_G01_GDP_PT/LKA"
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 39,
       "min_t": "1990",
-      "max_t": "2022",
+      "max_t": "2028",
       "min_value": 18.964064834494,
-      "max_value": 8.4944189277736
+      "max_value": 15.251934317394
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   },
   {
     "source_id": "imf",
@@ -2185,18 +2185,18 @@
     "footnotes": {
       "indicator_key": "LUR",
       "description": "The number of unemployed persons as a percentage of the total labor force.",
-      "source": "World Economic Outlook (April 2023)",
+      "source": "World Economic Outlook (October 2023)",
       "dataset": "WEO",
       "url": "https://www.imf.org/external/datamapper/api/v1/LUR/LKA"
     },
     "summary_statistics": {
-      "n": 39,
+      "n": 33,
       "min_t": "1990",
-      "max_t": "2028",
+      "max_t": "2022",
       "min_value": 15.9,
-      "max_value": 4.4
+      "max_value": 5.3
     },
-    "last_updated_time_ut": 1688142862.0,
-    "last_updated_time_str": "2023-06-30 22:04:22"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   }
 ]

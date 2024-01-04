@@ -9,13 +9,13 @@
     "i_subject": -1,
     "footnotes": {},
     "summary_statistics": {
-      "n": 617,
+      "n": 624,
       "min_t": "1972-01-01",
-      "max_t": "2023-05-01",
+      "max_t": "2023-12-01",
       "min_value": 5762,
-      "max_value": 83309
+      "max_value": 210352
     },
-    "last_updated_time_ut": 1688359101.0,
-    "last_updated_time_str": "2023-07-03 10:08:21"
+    "last_updated_time_ut": 1704356558.0,
+    "last_updated_time_str": "2024-01-04 13:52:38"
   }
 ]
