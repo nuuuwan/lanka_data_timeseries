@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **03:38 PM, Thursday, 04 January, 2024**
+Last Updated: **04:37 PM, Thursday, 04 January, 2024**
 
 ## Latest updates
 
+* 2024-01-04 16:07:45 - Greater Colombo Housing Approval Index (cbsl - Quarterly)
 * 2024-01-04 13:52:38 - Central Government Debt (imf - Annual)
 * 2024-01-04 13:52:38 - Current account balance U.S. dollars (imf - Annual)
 * 2024-01-04 13:52:38 - Current account balance percent of GDP (imf - Annual)
@@ -112,4 +113,3 @@ Last Updated: **03:38 PM, Thursday, 04 January, 2024**
 * 2024-01-04 13:52:38 - Computer communications and other services (Pct. of commercial service imports) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Consumer price index (2010 = 100) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Control of Corruption_ Estimate (world_bank - Annual)
-* 2024-01-04 13:52:38 - Control of Corruption_ Number of Sources (world_bank - Annual)
