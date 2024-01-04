@@ -7,3 +7,4 @@ from utils_future.Size2D import Size2D
 from utils_future.Webpage import Webpage
 from utils_future.WebpageWrapper import WebpageWrapper
 from utils_future.WWWFuture import WWWFuture
+from utils_future.ZipFile import ZipFile
