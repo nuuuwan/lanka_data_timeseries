@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **02:38 PM, Saturday, 06 January, 2024**
+Last Updated: **03:38 PM, Saturday, 06 January, 2024**
 
 ## Latest updates
 
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Commercial (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Industrial (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Overall (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Residential (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
+* 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
 * 2024-01-06 07:29:05 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2024-01-06 07:29:05 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2024-01-06 07:29:05 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **02:38 PM, Saturday, 06 January, 2024**
 * 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (constant 2015 US$) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (current US$) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Arable land (Pct. of land area) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Arable land (hectares per person) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Arable land (hectares) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Armed forces personnel (Pct. of total labor force) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Armed forces personnel total (world_bank - Annual)
-* 2024-01-04 13:52:38 - Broad money (Pct. of GDP) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Broad money to total reserves ratio (world_bank - Annual)
-* 2024-01-04 13:52:38 - CO2 emissions (kg per 2015 US$ of GDP) (world_bank - Annual)
-* 2024-01-04 13:52:38 - CO2 emissions (kg per 2017 PPP $ of GDP) (world_bank - Annual)
