@@ -75738,18 +75738,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-08",
+      "Data last updated": "2024-01-05",
       "Update frequency": "Two months after the end of month"
     },
     "summary_statistics": {
-      "n": 179,
+      "n": 180,
       "min_t": "2009-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-12-01",
       "min_value": 258.0,
-      "max_value": 537.3
+      "max_value": 569.7
     },
-    "last_updated_time_ut": 1704123655.0,
-    "last_updated_time_str": "2024-01-01 21:10:55"
+    "last_updated_time_ut": 1704596172.0,
+    "last_updated_time_str": "2024-01-07 08:26:12"
   },
   {
     "source_id": "cbsl",

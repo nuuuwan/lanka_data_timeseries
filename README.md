@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **07:50 AM, Sunday, 07 January, 2024**
+Last Updated: **08:38 AM, Sunday, 07 January, 2024**
 
 ## Latest updates
 
+* 2024-01-07 08:26:12 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Commercial (cbsl - Half Yearly)
 * 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Industrial (cbsl - Half Yearly)
 * 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Overall (cbsl - Half Yearly)
@@ -112,4 +113,3 @@ Last Updated: **07:50 AM, Sunday, 07 January, 2024**
 * 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (Pct. of GDP) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (constant 2015 US$) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (current US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Arable land (Pct. of land area) (world_bank - Annual)
