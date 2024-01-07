@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **07:38 PM, Sunday, 07 January, 2024**
+Last Updated: **08:38 PM, Sunday, 07 January, 2024**
 
 ## Latest updates
 
+* 2024-01-07 20:15:16 - Commercial Paper - Outstanding (as at end of the period ) (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Commercial Paper - Total Issues - Cumulative (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Global (accepted globally) (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Global Outstanding (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Local (accepted only locally) (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Local Outstanding (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Outstanding balance (cbsl - Monthly)
+* 2024-01-07 20:15:16 - Credit Card - Total Number of Active Cards (cbsl - Monthly)
 * 2024-01-07 08:26:12 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Commercial (cbsl - Half Yearly)
 * 2024-01-06 15:08:28 - Land Valuations Indicator (LVI) for Colombo (1998=100) - Industrial (cbsl - Half Yearly)
@@ -105,11 +113,3 @@ Last Updated: **07:38 PM, Sunday, 07 January, 2024**
 * 2024-01-04 13:52:38 - Adjusted savings_ net national savings (current US$) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Adjusted savings_ particulate emission damage (Pct. of GNI) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Adjusted savings_ particulate emission damage (current US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adolescents out of school (Pct. of lower secondary school age) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adolescents out of school female (Pct. of female lower secondary school age) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adolescents out of school male (Pct. of male lower secondary school age) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Agricultural land (Pct. of land area) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Agricultural land (sq. km) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (Pct. of GDP) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (constant 2015 US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Agriculture forestry and fishing value added (current US$) (world_bank - Annual)
