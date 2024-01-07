@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **03:38 AM, Monday, 08 January, 2024**
+Last Updated: **04:38 AM, Monday, 08 January, 2024**
 
 ## Latest updates
 
+* 2024-01-08 04:10:04 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Total Tourist Arrivals (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Tourist Earnings (cbsl - Monthly)
+* 2024-01-08 04:10:04 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2024-01-07 20:15:16 - Commercial Paper - Outstanding (as at end of the period ) (cbsl - Monthly)
 * 2024-01-07 20:15:16 - Commercial Paper - Total Issues - Cumulative (cbsl - Monthly)
 * 2024-01-07 20:15:16 - Credit Card - Global (accepted globally) (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **03:38 AM, Monday, 08 January, 2024**
 * 2024-01-04 13:52:38 - Adjusted savings_ energy depletion (current US$) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Adjusted savings_ gross savings (Pct. of GNI) (world_bank - Annual)
 * 2024-01-04 13:52:38 - Adjusted savings_ mineral depletion (Pct. of GNI) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ mineral depletion (current US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ natural resources depletion (Pct. of GNI) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ net forest depletion (Pct. of GNI) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ net forest depletion (current US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ net national savings (Pct. of GNI) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ net national savings (current US$) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ particulate emission damage (Pct. of GNI) (world_bank - Annual)
-* 2024-01-04 13:52:38 - Adjusted savings_ particulate emission damage (current US$) (world_bank - Annual)
