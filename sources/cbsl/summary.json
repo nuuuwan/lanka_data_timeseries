@@ -31493,18 +31493,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-01",
+      "Data last updated": "2024-01-05",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 443,
+      "n": 444,
       "min_t": "1986-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-12-01",
       "min_value": 27.5,
-      "max_value": 328.25
+      "max_value": 326.74
     },
-    "last_updated_time_ut": 1704321640.0,
-    "last_updated_time_str": "2024-01-04 04:10:40"
+    "last_updated_time_ut": 1705063498.0,
+    "last_updated_time_str": "2024-01-12 18:14:58"
   },
   {
     "source_id": "cbsl",
@@ -33885,18 +33885,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-01",
+      "Data last updated": "2024-01-05",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 418,
+      "n": 419,
       "min_t": "1989-01-01",
-      "max_t": "2023-10-01",
+      "max_t": "2023-11-01",
       "min_value": 0,
-      "max_value": 54.84
+      "max_value": 53.8
     },
-    "last_updated_time_ut": 1704321640.0,
-    "last_updated_time_str": "2024-01-04 04:10:40"
+    "last_updated_time_ut": 1705063498.0,
+    "last_updated_time_str": "2024-01-12 18:14:58"
   },
   {
     "source_id": "cbsl",
@@ -36540,18 +36540,18 @@
       "Source": "Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-01",
+      "Data last updated": "2024-01-05",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 418,
+      "n": 419,
       "min_t": "1989-01-01",
-      "max_t": "2023-10-01",
+      "max_t": "2023-11-01",
       "min_value": 0,
-      "max_value": 70.28
+      "max_value": 69.66
     },
-    "last_updated_time_ut": 1704321640.0,
-    "last_updated_time_str": "2024-01-04 04:10:40"
+    "last_updated_time_ut": 1705063498.0,
+    "last_updated_time_str": "2024-01-12 18:14:58"
   },
   {
     "source_id": "cbsl",

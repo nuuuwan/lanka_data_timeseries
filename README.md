@@ -9,10 +9,13 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **05:40 PM, Friday, 12 January, 2024**
+Last Updated: **06:38 PM, Friday, 12 January, 2024**
 
 ## Latest updates
 
+* 2024-01-12 18:14:58 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2024-01-12 18:14:58 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2024-01-12 18:14:58 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Coconut Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Inland Fish Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Marine Fish Production (cbsl - Monthly)
@@ -110,6 +113,3 @@ Last Updated: **05:40 PM, Friday, 12 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Northern (cbsl - Annual)
