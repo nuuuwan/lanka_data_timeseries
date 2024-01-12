@@ -9,10 +9,15 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **04:38 PM, Friday, 12 January, 2024**
+Last Updated: **05:40 PM, Friday, 12 January, 2024**
 
 ## Latest updates
 
+* 2024-01-12 17:21:42 - Coconut Production (cbsl - Monthly)
+* 2024-01-12 17:21:42 - Inland Fish Production (cbsl - Monthly)
+* 2024-01-12 17:21:42 - Marine Fish Production (cbsl - Monthly)
+* 2024-01-12 17:21:42 - Rubber Production (cbsl - Monthly)
+* 2024-01-12 17:21:42 - Tea Production (cbsl - Monthly)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-North-Central (cbsl - Annual)
@@ -108,8 +113,3 @@ Last Updated: **04:38 PM, Friday, 12 January, 2024**
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Western (cbsl - Annual)
