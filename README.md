@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **07:04 AM, Sunday, 14 January, 2024**
+Last Updated: **07:50 AM, Sunday, 14 January, 2024**
 
 ## Latest updates
 
+* 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-12 18:14:58 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2024-01-12 18:14:58 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-01-12 18:14:58 - Real Effective Exchange Rate Index (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **07:04 AM, Sunday, 14 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Eastern (cbsl - Annual)
