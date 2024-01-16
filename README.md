@@ -9,10 +9,18 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **07:02 AM, Tuesday, 16 January, 2024**
+Last Updated: **07:49 AM, Tuesday, 16 January, 2024**
 
 ## Latest updates
 
+* 2024-01-16 07:34:09 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Chemicals and chemical products (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Food products - Change (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Food products (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Rubber and plastic products (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Wearing apparel - Change (cbsl - Monthly)
+* 2024-01-16 07:34:09 - Wearing apparel (cbsl - Monthly)
 * 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-12 18:14:58 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2024-01-12 18:14:58 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **07:02 AM, Tuesday, 16 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Central (cbsl - Annual)
