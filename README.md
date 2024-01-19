@@ -9,10 +9,11 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **11:39 AM, Friday, 19 January, 2024**
+Last Updated: **12:38 PM, Friday, 19 January, 2024**
 
 ## Latest updates
 
+* 2024-01-19 12:07:12 - CPC Import Prices (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Chemicals and chemical products - Change (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Chemicals and chemical products (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Food products - Change (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **11:39 AM, Friday, 19 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-North-Central (cbsl - Annual)
