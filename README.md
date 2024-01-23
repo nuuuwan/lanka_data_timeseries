@@ -9,10 +9,20 @@
 * dmtlk: 32 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **12:38 PM, Tuesday, 23 January, 2024**
+Last Updated: **01:39 PM, Tuesday, 23 January, 2024**
 
 ## Latest updates
 
+* 2024-01-23 13:16:01 - Budget Deficit (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Capital and Net Lending (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Expenditure and Net Lending (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Grants (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Non Tax Revenue (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Primary Balance (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Recurrent Expenditure (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Revenue and Grants (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Revenue (cbsl - Monthly)
+* 2024-01-23 13:16:01 - Tax Revenue (cbsl - Monthly)
 * 2024-01-19 12:07:12 - CPC Import Prices (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Chemicals and chemical products - Change (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Chemicals and chemical products (cbsl - Monthly)
@@ -103,13 +113,3 @@ Last Updated: **12:38 PM, Tuesday, 23 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Eastern (cbsl - Annual)
