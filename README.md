@@ -3,16 +3,22 @@
 
 * imf: 88 datasets
 * sltda: 1 datasets
-* world_bank: 1,507 datasets
 * cbsl: 1,888 datasets
 * adb: 609 datasets
 * dmtlk: 32 datasets
+* world_bank: 1,507 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **03:38 PM, Thursday, 25 January, 2024**
+Last Updated: **04:38 PM, Thursday, 25 January, 2024**
 
 ## Latest updates
 
+* 2024-01-25 16:18:17 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2024-01-25 16:18:17 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2024-01-25 16:18:17 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2024-01-25 16:18:17 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2024-01-25 16:18:17 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2024-01-25 16:18:17 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Budget Deficit (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Capital and Net Lending (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Expenditure and Net Lending (cbsl - Monthly)
@@ -107,9 +113,3 @@ Last Updated: **03:38 PM, Thursday, 25 January, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Northern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Total Revenue-Eastern (cbsl - Annual)

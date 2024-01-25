@@ -34119,18 +34119,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 24088.0,
       "max_value": 0
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
@@ -34145,18 +34145,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 6341041.11,
-      "max_value": 11402381
+      "max_value": 11463920
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
@@ -34171,18 +34171,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 1656072.46,
-      "max_value": 3631739
+      "max_value": 3762873
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
@@ -34197,18 +34197,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 5812750.29,
-      "max_value": 11876371
+      "max_value": 11951184
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
@@ -45770,18 +45770,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 9346901.65,
-      "max_value": 16617629
+      "max_value": 16630774
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
@@ -46654,18 +46654,18 @@
       "Source": "Ministry of Finance, Central Bank of Sri Lanka",
       "GeoArea": "National",
       "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-01-23",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 33,
+      "n": 34,
       "min_t": "2021-01-01",
-      "max_t": "2023-09-01",
+      "max_t": "2023-10-01",
       "min_value": 15687942.76,
-      "max_value": 28020010
+      "max_value": 28094693
     },
-    "last_updated_time_ut": 1704325249.0,
-    "last_updated_time_str": "2024-01-04 05:10:49"
+    "last_updated_time_ut": 1706179697.0,
+    "last_updated_time_str": "2024-01-25 16:18:17"
   },
   {
     "source_id": "cbsl",
