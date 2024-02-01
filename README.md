@@ -9,10 +9,23 @@
 * adb: 609 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **03:38 PM, Thursday, 01 February, 2024**
+Last Updated: **04:38 PM, Thursday, 01 February, 2024**
 
 ## Latest updates
 
+* 2024-02-01 16:08:48 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2024-02-01 16:08:48 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2024-01-25 16:18:17 - Outstanding Rupee Loans (cbsl - Monthly)
 * 2024-01-25 16:18:17 - Outstanding Total Foreign Debt (cbsl - Monthly)
 * 2024-01-25 16:18:17 - Outstanding Treasury Bills (cbsl - Monthly)
@@ -100,16 +113,3 @@ Last Updated: **03:38 PM, Thursday, 01 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Sabaragamuwa (cbsl - Annual)
