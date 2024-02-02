@@ -9,10 +9,15 @@
 * adb: 609 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **06:38 PM, Friday, 02 February, 2024**
+Last Updated: **07:38 PM, Friday, 02 February, 2024**
 
 ## Latest updates
 
+* 2024-02-02 19:06:22 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2024-02-02 19:06:22 - Month End a Exchange Rates (cbsl - Monthly)
+* 2024-02-02 19:06:22 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2024-02-02 19:06:22 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2024-02-02 19:06:22 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-02-01 16:08:48 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2024-02-01 16:08:48 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2024-02-01 16:08:48 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -52,9 +57,6 @@ Last Updated: **06:38 PM, Friday, 02 February, 2024**
 * 2024-01-16 07:34:09 - Wearing apparel - Change (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Wearing apparel (cbsl - Monthly)
 * 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2024-01-12 18:14:58 - Monthly Average Exchange Rates (cbsl - Monthly)
-* 2024-01-12 18:14:58 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
-* 2024-01-12 18:14:58 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Coconut Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Inland Fish Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Marine Fish Production (cbsl - Monthly)
@@ -111,5 +113,3 @@ Last Updated: **06:38 PM, Friday, 02 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-North-Central (cbsl - Annual)
