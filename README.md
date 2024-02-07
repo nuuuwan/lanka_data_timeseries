@@ -1,18 +1,19 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* cbsl: 1,888 datasets
 * sltda: 1 datasets
-* imf: 88 datasets
-* world_bank: 1,507 datasets
+* cbsl: 1,888 datasets
 * dmtlk: 32 datasets
+* world_bank: 1,507 datasets
+* imf: 88 datasets
 * adb: 609 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **04:39 AM, Wednesday, 07 February, 2024**
+Last Updated: **05:51 AM, Wednesday, 07 February, 2024**
 
 ## Latest updates
 
+* 2024-02-07 05:08:10 - Price Index for New Condominiums in Colombo (2019=100) (cbsl - Quarterly)
 * 2024-02-02 19:06:22 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-02-02 19:06:22 - Month End a Exchange Rates (cbsl - Monthly)
 * 2024-02-02 19:06:22 - Monthly Average Exchange Rates (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **04:39 AM, Wednesday, 07 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Total (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central (cbsl - Annual)
