@@ -9,10 +9,12 @@
 * adb: 609 datasets
 * TOTAL: **4,125** datasets
 
-Last Updated: **04:38 PM, Thursday, 08 February, 2024**
+Last Updated: **05:40 PM, Thursday, 08 February, 2024**
 
 ## Latest updates
 
+* 2024-02-08 17:06:43 - Inland Fish Production (cbsl - Monthly)
+* 2024-02-08 17:06:43 - Marine Fish Production (cbsl - Monthly)
 * 2024-02-07 05:08:10 - Price Index for New Condominiums in Colombo (2019=100) (cbsl - Quarterly)
 * 2024-02-02 19:06:22 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-02-02 19:06:22 - Month End a Exchange Rates (cbsl - Monthly)
@@ -59,8 +61,6 @@ Last Updated: **04:38 PM, Thursday, 08 February, 2024**
 * 2024-01-16 07:34:09 - Wearing apparel (cbsl - Monthly)
 * 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-12 17:21:42 - Coconut Production (cbsl - Monthly)
-* 2024-01-12 17:21:42 - Inland Fish Production (cbsl - Monthly)
-* 2024-01-12 17:21:42 - Marine Fish Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Rubber Production (cbsl - Monthly)
 * 2024-01-12 17:21:42 - Tea Production (cbsl - Monthly)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)

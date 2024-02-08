@@ -24133,14 +24133,14 @@
       "Update frequency": "Two months after the end of the month"
     },
     "summary_statistics": {
-      "n": 287,
+      "n": 285,
       "min_t": "2000-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-09-01",
       "min_value": 2.8,
-      "max_value": 10.15
+      "max_value": 11.72
     },
-    "last_updated_time_ut": 1705060302.0,
-    "last_updated_time_str": "2024-01-12 17:21:42"
+    "last_updated_time_ut": 1707392203.0,
+    "last_updated_time_str": "2024-02-08 17:06:43"
   },
   {
     "source_id": "cbsl",
@@ -30353,14 +30353,14 @@
       "Update frequency": "Two months after the end of the month"
     },
     "summary_statistics": {
-      "n": 287,
+      "n": 285,
       "min_t": "2000-01-01",
-      "max_t": "2023-11-01",
+      "max_t": "2023-09-01",
       "min_value": 21.1,
-      "max_value": 25.56
+      "max_value": 23.81
     },
-    "last_updated_time_ut": 1705060302.0,
-    "last_updated_time_str": "2024-01-12 17:21:42"
+    "last_updated_time_ut": 1707392203.0,
+    "last_updated_time_str": "2024-02-08 17:06:43"
   },
   {
     "source_id": "cbsl",
