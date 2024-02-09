@@ -1,20 +1,26 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
-* cbsl: 1,888 datasets
+* cbsl: 1,891 datasets
 * sltda: 1 datasets
 * imf: 88 datasets
 * world_bank: 1,507 datasets
 * dmtlk: 32 datasets
 * adb: 609 datasets
-* TOTAL: **4,125** datasets
+* TOTAL: **4,128** datasets
 
-Last Updated: **08:38 PM, Friday, 09 February, 2024**
+Last Updated: **09:38 PM, Friday, 09 February, 2024**
 
 ## Latest updates
 
-* 2024-02-08 17:06:43 - Inland Fish Production (cbsl - Monthly)
-* 2024-02-08 17:06:43 - Marine Fish Production (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Coconut Production (Y-o-Y growth Pct.) (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Coconut Production (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Inland Fish Production (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Marine Fish Production (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Rubber Production (Y-o-Y growth Pct.) (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Rubber Production (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Tea Production (Y-o-Y growth Pct.) (cbsl - Monthly)
+* 2024-02-09 21:11:03 - Tea Production (cbsl - Monthly)
 * 2024-02-07 05:08:10 - Price Index for New Condominiums in Colombo (2019=100) (cbsl - Quarterly)
 * 2024-02-02 19:06:22 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-02-02 19:06:22 - Month End a Exchange Rates (cbsl - Monthly)
@@ -60,9 +66,6 @@ Last Updated: **08:38 PM, Friday, 09 February, 2024**
 * 2024-01-16 07:34:09 - Wearing apparel - Change (cbsl - Monthly)
 * 2024-01-16 07:34:09 - Wearing apparel (cbsl - Monthly)
 * 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2024-01-12 17:21:42 - Coconut Production (cbsl - Monthly)
-* 2024-01-12 17:21:42 - Rubber Production (cbsl - Monthly)
-* 2024-01-12 17:21:42 - Tea Production (cbsl - Monthly)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-North-Central (cbsl - Annual)
@@ -110,6 +113,3 @@ Last Updated: **08:38 PM, Friday, 09 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Northern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Sabaragamuwa (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western (cbsl - Annual)
