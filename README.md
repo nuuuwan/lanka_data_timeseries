@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **05:52 AM, Saturday, 10 February, 2024**
+Last Updated: **06:57 AM, Saturday, 10 February, 2024**
 
 ## Latest updates
 
+* 2024-02-10 06:37:12 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-02-09 21:11:03 - Coconut Production (Y-o-Y growth Pct.) (cbsl - Monthly)
 * 2024-02-09 21:11:03 - Coconut Production (cbsl - Monthly)
 * 2024-02-09 21:11:03 - Inland Fish Production (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **05:52 AM, Saturday, 10 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Northern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Southern (cbsl - Annual)
