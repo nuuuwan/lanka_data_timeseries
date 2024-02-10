@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **08:39 AM, Saturday, 10 February, 2024**
+Last Updated: **09:39 AM, Saturday, 10 February, 2024**
 
 ## Latest updates
 
+* 2024-02-10 09:26:01 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-02-10 07:28:02 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2024-02-10 07:28:02 - Total Tourist Arrivals (cbsl - Monthly)
 * 2024-02-10 07:28:02 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **08:39 AM, Saturday, 10 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Total (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Central (cbsl - Annual)
