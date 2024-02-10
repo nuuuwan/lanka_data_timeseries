@@ -9,10 +9,15 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **06:57 AM, Saturday, 10 February, 2024**
+Last Updated: **07:42 AM, Saturday, 10 February, 2024**
 
 ## Latest updates
 
+* 2024-02-10 07:28:02 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2024-02-10 07:28:02 - Total Tourist Arrivals (cbsl - Monthly)
+* 2024-02-10 07:28:02 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2024-02-10 07:28:02 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2024-02-10 07:28:02 - Tourist Earnings (cbsl - Monthly)
 * 2024-02-10 06:37:12 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-02-09 21:11:03 - Coconut Production (Y-o-Y growth Pct.) (cbsl - Monthly)
 * 2024-02-09 21:11:03 - Coconut Production (cbsl - Monthly)
@@ -108,8 +113,3 @@ Last Updated: **06:57 AM, Saturday, 10 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Other Revenue-Sabaragamuwa (cbsl - Annual)
