@@ -9,10 +9,25 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:39 PM, Sunday, 11 February, 2024**
+Last Updated: **08:38 PM, Sunday, 11 February, 2024**
 
 ## Latest updates
 
+* 2024-02-11 20:10:51 - Beverages - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Beverages (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Chemicals and chemical products (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Coke and refined petroleum products (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Food products - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Food products (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Index of Industrial Production - change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Other non-metallic mineral products (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Rubber and plastic products (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Wearing apparel - Change (cbsl - Monthly)
+* 2024-02-11 20:10:51 - Wearing apparel (cbsl - Monthly)
 * 2024-02-10 09:26:01 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-02-10 07:28:02 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2024-02-10 07:28:02 - Total Tourist Arrivals (cbsl - Monthly)
@@ -64,14 +79,6 @@ Last Updated: **07:39 PM, Sunday, 11 February, 2024**
 * 2024-01-23 13:16:01 - Revenue (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Tax Revenue (cbsl - Monthly)
 * 2024-01-19 12:07:12 - CPC Import Prices (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Chemicals and chemical products - Change (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Chemicals and chemical products (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Food products - Change (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Food products (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Rubber and plastic products - Change (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Rubber and plastic products (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Wearing apparel - Change (cbsl - Monthly)
-* 2024-01-16 07:34:09 - Wearing apparel (cbsl - Monthly)
 * 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Eastern (cbsl - Annual)
@@ -106,10 +113,3 @@ Last Updated: **07:39 PM, Sunday, 11 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Western (cbsl - Annual)
