@@ -9,10 +9,12 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **05:53 AM, Monday, 12 February, 2024**
+Last Updated: **06:59 AM, Monday, 12 February, 2024**
 
 ## Latest updates
 
+* 2024-02-12 06:23:15 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2024-02-12 06:23:15 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2024-02-11 20:10:51 - Beverages - Change (cbsl - Monthly)
 * 2024-02-11 20:10:51 - Beverages (cbsl - Monthly)
 * 2024-02-11 20:10:51 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -111,5 +113,3 @@ Last Updated: **05:53 AM, Monday, 12 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Uva (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-North-Central (cbsl - Annual)

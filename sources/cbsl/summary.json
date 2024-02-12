@@ -8895,18 +8895,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-02-02",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 48,
+      "n": 49,
       "min_t": "2020-01-01",
-      "max_t": "2023-12-01",
+      "max_t": "2024-01-01",
       "min_value": 64.28,
-      "max_value": 77.53
+      "max_value": 78.93
     },
-    "last_updated_time_ut": 1704047847.0,
-    "last_updated_time_str": "2024-01-01 00:07:27"
+    "last_updated_time_ut": 1707699195.0,
+    "last_updated_time_str": "2024-02-12 06:23:15"
   },
   {
     "source_id": "cbsl",
@@ -8921,18 +8921,18 @@
       "Source": "Ceylon Petroleum Corporation, Bloomberg",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-12-29",
+      "Data last updated": "2024-02-02",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 48,
+      "n": 49,
       "min_t": "2020-01-01",
-      "max_t": "2023-12-01",
+      "max_t": "2024-01-01",
       "min_value": 58.28,
-      "max_value": 72.36
+      "max_value": 73.64
     },
-    "last_updated_time_ut": 1704047847.0,
-    "last_updated_time_str": "2024-01-01 00:07:27"
+    "last_updated_time_ut": 1707699195.0,
+    "last_updated_time_str": "2024-02-12 06:23:15"
   },
   {
     "source_id": "cbsl",
