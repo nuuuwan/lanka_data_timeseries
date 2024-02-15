@@ -9,10 +9,24 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:00 AM, Thursday, 15 February, 2024**
+Last Updated: **07:44 AM, Thursday, 15 February, 2024**
 
 ## Latest updates
 
+* 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of Cheques returned (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of US Dollar Cheques cleared (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Value of transactions cleared through SLIP System (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of Cheques returned (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of Real Time Gross Settlement (RTGS) Transactions (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of US Dollar Cheques cleared (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of financial transactions through Common ATM Switch (CAS) (cbsl - Monthly)
+* 2024-02-15 07:26:12 - Total Volume of transactions cleared through SLIP System (cbsl - Monthly)
 * 2024-02-12 06:23:15 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2024-02-12 06:23:15 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2024-02-11 20:10:51 - Beverages - Change (cbsl - Monthly)
@@ -99,17 +113,3 @@ Last Updated: **07:00 AM, Thursday, 15 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Northern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Sabaragamuwa (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central (cbsl - Annual)
