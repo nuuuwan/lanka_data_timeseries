@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:40 AM, Thursday, 15 February, 2024**
+Last Updated: **12:38 PM, Thursday, 15 February, 2024**
 
 ## Latest updates
 
+* 2024-02-15 11:40:24 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Cheques returned (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
@@ -112,4 +113,3 @@ Last Updated: **11:40 AM, Thursday, 15 February, 2024**
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-North-Western (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Northern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Southern (cbsl - Annual)
