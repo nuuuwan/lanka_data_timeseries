@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:39 PM, Thursday, 15 February, 2024**
+Last Updated: **12:38 AM, Friday, 16 February, 2024**
 
 ## Latest updates
 
+* 2024-02-16 00:09:48 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-02-15 11:40:24 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Cheques returned (cbsl - Monthly)
@@ -96,7 +97,6 @@ Last Updated: **11:39 PM, Thursday, 15 February, 2024**
 * 2024-01-23 13:16:01 - Revenue (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Tax Revenue (cbsl - Monthly)
 * 2024-01-19 12:07:12 - CPC Import Prices (cbsl - Monthly)
-* 2024-01-14 07:26:59 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Eastern (cbsl - Annual)
 * 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-North-Central (cbsl - Annual)
