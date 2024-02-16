@@ -9,12 +9,12 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:39 AM, Friday, 16 February, 2024**
+Last Updated: **12:39 PM, Friday, 16 February, 2024**
 
 ## Latest updates
 
+* 2024-02-16 11:39:41 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-16 00:09:48 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2024-02-15 11:40:24 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Cheques returned (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Common Electronic Fund Transfer Switch (CEFTS) Transactions (cbsl - Monthly)
