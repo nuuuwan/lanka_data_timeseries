@@ -9,10 +9,28 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:38 PM, Sunday, 18 February, 2024**
+Last Updated: **08:38 PM, Sunday, 18 February, 2024**
 
 ## Latest updates
 
+* 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Number of Debit Cards issued during the quarter (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Number of Point of Sale (POS) terminals (as at end period) (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of Credit Card transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of Debit Card transactions (carried out at POS terminals) (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of Internet based financial transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of Point of Sale (POS) Terminal transactions during the period (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of Tele-banking financial transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Value of financial transactions through ATM Terminals (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of Credit Card transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of Debit Card transactions (carried out at POS terminals) (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of Internet based financial transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of Point of Sale (POS) Terminal transactions during the period (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of Tele-banking financial transactions (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total Volume of financial transactions through ATM Terminals (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total number of Credit Cards in use (as at end period) (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Total number of Debit Cards in use (as at end period) (cbsl - Quarterly)
+* 2024-02-18 20:22:37 - Value of Payments Made through Money Orders and Postal Orders (cbsl - Quarterly)
 * 2024-02-16 11:39:41 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-16 00:09:48 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
@@ -95,21 +113,3 @@ Last Updated: **07:38 PM, Sunday, 18 February, 2024**
 * 2024-01-23 13:16:01 - Recurrent Expenditure (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Revenue and Grants (cbsl - Monthly)
 * 2024-01-23 13:16:01 - Revenue (cbsl - Monthly)
-* 2024-01-23 13:16:01 - Tax Revenue (cbsl - Monthly)
-* 2024-01-19 12:07:12 - CPC Import Prices (cbsl - Monthly)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Southern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Total (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Uva (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Eastern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-North-Central (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-North-Western (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Northern (cbsl - Annual)
-* 2024-01-11 06:28:41 - Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Sabaragamuwa (cbsl - Annual)

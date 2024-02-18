@@ -33982,18 +33982,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 13960,
-      "max_value": 43583
+      "max_value": 56140
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -34008,18 +34008,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 307065,
-      "max_value": 976168
+      "max_value": 1024459
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -34034,18 +34034,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 25804,
-      "max_value": 104528
+      "max_value": 111205
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46009,18 +46009,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 16373115428,
-      "max_value": 130556279651
+      "max_value": 142369046068
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46061,18 +46061,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 2870397722,
-      "max_value": 145895921184
+      "max_value": 178696659844
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46087,18 +46087,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 61623134986,
-      "max_value": 3111252357083
+      "max_value": 3280780870115
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46113,18 +46113,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 24723798,
-      "max_value": 313533742
+      "max_value": 338923286
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46165,18 +46165,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 379241786,
-      "max_value": 231947290
+      "max_value": 309781706
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46217,18 +46217,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 135664181,
-      "max_value": 1527946287
+      "max_value": 1607919802
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46373,18 +46373,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 4237848,
-      "max_value": 18911137
+      "max_value": 20644428
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46425,18 +46425,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 1023357,
-      "max_value": 39524840
+      "max_value": 48827914
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46451,18 +46451,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 996791,
-      "max_value": 54261114
+      "max_value": 65030348
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46477,18 +46477,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 4877723,
-      "max_value": 60757995
+      "max_value": 68541147
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46529,18 +46529,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 11884,
-      "max_value": 1271
+      "max_value": 1212
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46581,18 +46581,18 @@
       "Source": "LCBs, LSBs, FCs",
       "GeoArea": "National",
       "Note": "Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 22839178,
-      "max_value": 95063435
+      "max_value": 100104527
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46659,18 +46659,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 829270,
-      "max_value": 2012497
+      "max_value": 1989403
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -46685,18 +46685,18 @@
       "Source": "Licensed Service Providers of Payment Cards",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 5962484,
-      "max_value": 19270021
+      "max_value": 18359467
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
@@ -47094,18 +47094,18 @@
       "Source": "Postal Department",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2023-07-21",
+      "Data last updated": "2024-02-16",
       "Update frequency": "15 th day of second immediate quarter"
     },
     "summary_statistics": {
-      "n": 53,
+      "n": 55,
       "min_t": "2010-03-01",
-      "max_t": "2023-03-01",
+      "max_t": "2023-09-01",
       "min_value": 3113388000,
-      "max_value": 3001985000
+      "max_value": 3388669000
     },
-    "last_updated_time_ut": 1704789585.0,
-    "last_updated_time_str": "2024-01-09 14:09:45"
+    "last_updated_time_ut": 1708267957.0,
+    "last_updated_time_str": "2024-02-18 20:22:37"
   },
   {
     "source_id": "cbsl",
