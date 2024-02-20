@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:40 AM, Tuesday, 20 February, 2024**
+Last Updated: **12:39 PM, Tuesday, 20 February, 2024**
 
 ## Latest updates
 
+* 2024-02-20 11:40:22 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Number of Debit Cards issued during the quarter (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Number of Point of Sale (POS) terminals (as at end period) (cbsl - Quarterly)
@@ -31,7 +32,6 @@ Last Updated: **11:40 AM, Tuesday, 20 February, 2024**
 * 2024-02-18 20:22:37 - Total number of Credit Cards in use (as at end period) (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Total number of Debit Cards in use (as at end period) (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Value of Payments Made through Money Orders and Postal Orders (cbsl - Quarterly)
-* 2024-02-16 11:39:41 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-16 00:09:48 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-02-15 07:26:12 - Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS) (cbsl - Monthly)
 * 2024-02-15 07:26:12 - Total Value of Cheques returned (cbsl - Monthly)
