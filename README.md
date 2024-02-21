@@ -9,11 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:40 AM, Wednesday, 21 February, 2024**
+Last Updated: **12:39 PM, Wednesday, 21 February, 2024**
 
 ## Latest updates
 
-* 2024-02-20 11:40:22 - Real GDP growth rate percent (imf - Annual)
+* 2024-02-21 11:40:14 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Number of Debit Cards issued during the quarter (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Number of Point of Sale (POS) terminals (as at end period) (cbsl - Quarterly)
