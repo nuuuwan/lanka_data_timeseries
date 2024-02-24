@@ -9,10 +9,14 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:42 AM, Saturday, 24 February, 2024**
+Last Updated: **08:39 AM, Saturday, 24 February, 2024**
 
 ## Latest updates
 
+* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
+* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
+* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
+* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
 * 2024-02-23 11:40:32 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-23 11:40:32 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-02-23 11:40:32 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -109,7 +113,3 @@ Last Updated: **07:42 AM, Saturday, 24 February, 2024**
 * 2024-02-23 11:40:32 - Wage and salaried workers total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
 * 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)
 * 2024-02-18 20:22:37 - Number of Debit Cards issued during the quarter (cbsl - Quarterly)
-* 2024-02-18 20:22:37 - Number of Point of Sale (POS) terminals (as at end period) (cbsl - Quarterly)
-* 2024-02-18 20:22:37 - Total Value of Credit Card transactions (cbsl - Quarterly)
-* 2024-02-18 20:22:37 - Total Value of Debit Card transactions (carried out at POS terminals) (cbsl - Quarterly)
-* 2024-02-18 20:22:37 - Total Value of Internet based financial transactions (cbsl - Quarterly)
