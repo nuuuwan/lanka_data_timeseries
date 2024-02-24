@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **01:39 PM, Saturday, 24 February, 2024**
+Last Updated: **02:39 PM, Saturday, 24 February, 2024**
 
 ## Latest updates
 
+* 2024-02-24 14:08:04 - CPC Import Prices (cbsl - Monthly)
 * 2024-02-24 11:39:28 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-24 11:39:28 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-02-24 11:39:28 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -112,4 +113,3 @@ Last Updated: **01:39 PM, Saturday, 24 February, 2024**
 * 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
 * 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
 * 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)
-* 2024-02-18 20:22:37 - Number of Debit Cards issued during the quarter (cbsl - Quarterly)
