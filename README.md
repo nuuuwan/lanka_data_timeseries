@@ -9,10 +9,23 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **04:39 PM, Friday, 01 March, 2024**
+Last Updated: **05:41 PM, Friday, 01 March, 2024**
 
 ## Latest updates
 
+* 2024-03-01 17:14:12 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Public Sector Wage Rate Index (2016=100)(Nominal) (cbsl - Monthly)
+* 2024-03-01 17:14:12 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2024-03-01 11:40:26 - Real GDP growth rate percent (imf - Annual)
 * 2024-03-01 11:40:26 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -100,16 +113,3 @@ Last Updated: **04:39 PM, Friday, 01 March, 2024**
 * 2024-03-01 11:40:26 - Unemployment total (Pct. of total labor force) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment youth total (Pct. of total labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Vulnerable employment female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Vulnerable employment male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Vulnerable employment total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Wage and salaried workers female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Wage and salaried workers male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Wage and salaried workers total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 05:12:31 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
-* 2024-02-24 14:08:04 - CPC Import Prices (cbsl - Monthly)
-* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Commercial (cbsl - Half Yearly)
-* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
-* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
-* 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
