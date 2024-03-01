@@ -9,10 +9,11 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **04:39 AM, Friday, 01 March, 2024**
+Last Updated: **05:56 AM, Friday, 01 March, 2024**
 
 ## Latest updates
 
+* 2024-03-01 05:12:31 - Public Sector Wage Rate Index (2016=100)(Real) (cbsl - Monthly)
 * 2024-02-29 11:40:27 - Real GDP growth rate percent (imf - Annual)
 * 2024-02-29 11:40:27 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-02-29 11:40:27 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -112,4 +113,3 @@ Last Updated: **04:39 AM, Friday, 01 March, 2024**
 * 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial (cbsl - Half Yearly)
 * 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Overall (cbsl - Half Yearly)
 * 2024-02-24 08:08:22 - Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential (cbsl - Half Yearly)
-* 2024-02-18 20:22:37 - Number of Credit Cards issued during the quarter (cbsl - Quarterly)

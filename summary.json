@@ -36348,14 +36348,14 @@
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 72,
+      "n": 71,
       "min_t": "2018-01-01",
-      "max_t": "2023-12-01",
+      "max_t": "2023-11-01",
       "min_value": 90.6,
-      "max_value": 57.4
+      "max_value": 57.5
     },
-    "last_updated_time_ut": 1706783928.0,
-    "last_updated_time_str": "2024-02-01 16:08:48"
+    "last_updated_time_ut": 1709250151.0,
+    "last_updated_time_str": "2024-03-01 05:12:31"
   },
   {
     "source_id": "cbsl",
