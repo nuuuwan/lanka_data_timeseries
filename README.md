@@ -9,10 +9,14 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **05:52 AM, Saturday, 02 March, 2024**
+Last Updated: **06:58 AM, Saturday, 02 March, 2024**
 
 ## Latest updates
 
+* 2024-03-02 06:26:22 - Month End a Exchange Rates (cbsl - Monthly)
+* 2024-03-02 06:26:22 - Monthly Average Exchange Rates (cbsl - Monthly)
+* 2024-03-02 06:26:22 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
+* 2024-03-02 06:26:22 - Real Effective Exchange Rate Index (cbsl - Monthly)
 * 2024-03-01 17:14:12 - Formal Private Sector Wage Rate Index(December 1978=100)(Nominal) (cbsl - Monthly)
 * 2024-03-01 17:14:12 - Formal Private Sector Wage Rate Index(December 1978=100)(Real) (cbsl - Monthly)
 * 2024-03-01 17:14:12 - Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Agriculture - Y-o-Y Change (cbsl - Monthly)
@@ -109,7 +113,3 @@ Last Updated: **05:52 AM, Saturday, 02 March, 2024**
 * 2024-03-01 11:40:26 - Stocks traded turnover ratio of domestic shares (Pct.) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Technical cooperation grants (BoP current US$) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Unemployment female (Pct. of female labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment male (Pct. of male labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment total (Pct. of total labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
