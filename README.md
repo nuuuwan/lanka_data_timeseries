@@ -9,10 +9,22 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **05:55 AM, Sunday, 03 March, 2024**
+Last Updated: **07:01 AM, Sunday, 03 March, 2024**
 
 ## Latest updates
 
+* 2024-03-03 06:24:05 - Labour Statistics-Employed Population (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Unemployed Population (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Unemployment Rate-Female (cbsl - Quarterly)
+* 2024-03-03 06:24:05 - Labour Statistics-Unemployment Rate-Male (cbsl - Quarterly)
 * 2024-03-02 06:26:22 - Month End a Exchange Rates (cbsl - Monthly)
 * 2024-03-02 06:26:22 - Monthly Average Exchange Rates (cbsl - Monthly)
 * 2024-03-02 06:26:22 - Nominal Effective Exchange Rate Index (cbsl - Monthly)
@@ -101,15 +113,3 @@ Last Updated: **05:55 AM, Sunday, 03 March, 2024**
 * 2024-03-01 11:40:26 - Ratio of female to male labor force participation rate (Pct.) (national estimate) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Self-employed female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-01 11:40:26 - Self-employed male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Self-employed total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Overall score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Pillar 1 data use score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Pillar 2 data services score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Pillar 3 data products score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Pillar 4 data sources score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Statistical performance indicators (SPI)_ Pillar 5 data infrastructure score (scale 0-100) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Stocks traded total value (Pct. of GDP) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Stocks traded total value (current US$) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Stocks traded turnover ratio of domestic shares (Pct.) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Technical cooperation grants (BoP current US$) (world_bank - Annual)
-* 2024-03-01 11:40:26 - Unemployment female (Pct. of female labor force) (modeled ILO estimate) (world_bank - Annual)
