@@ -9,10 +9,12 @@
 * adb: 609 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **01:40 PM, Sunday, 03 March, 2024**
+Last Updated: **02:39 PM, Sunday, 03 March, 2024**
 
 ## Latest updates
 
+* 2024-03-03 14:10:33 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
+* 2024-03-03 14:10:33 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2024-03-03 11:40:55 - Real GDP growth rate percent (imf - Annual)
 * 2024-03-03 11:40:55 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-03 11:40:55 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -111,5 +113,3 @@ Last Updated: **01:40 PM, Sunday, 03 March, 2024**
 * 2024-03-03 06:24:05 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2024-03-03 06:24:05 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2024-03-03 06:24:05 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
-* 2024-03-03 06:24:05 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Quarterly)
-* 2024-03-03 06:24:05 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Quarterly)
