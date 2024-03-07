@@ -9,10 +9,19 @@
 * world_bank: 1,507 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **01:39 AM, Friday, 08 March, 2024**
+Last Updated: **02:39 AM, Friday, 08 March, 2024**
 
 ## Latest updates
 
+* 2024-03-08 02:22:59 - Labour Statistics-Employed Population (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Services (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Labour Force Participation Rate-Female (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Labour Force Participation Rate-Male (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Unemployed Population (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Unemployment Rate-Female (cbsl - Annual)
+* 2024-03-08 02:22:59 - Labour Statistics-Unemployment Rate-Male (cbsl - Annual)
 * 2024-03-08 00:08:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-03-07 21:19:59 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-03-07 20:35:54 - Total Tourist Arrivals (cbsl - Annual)
@@ -104,12 +113,3 @@ Last Updated: **01:39 AM, Friday, 08 March, 2024**
 * 2024-03-04 11:50:10 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth total (Pct. of total labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Vulnerable employment female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Vulnerable employment male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Vulnerable employment total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Wage and salaried workers female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Wage and salaried workers male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Wage and salaried workers total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-03 14:10:33 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
-* 2024-03-03 14:10:33 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
-* 2024-03-03 06:24:05 - Labour Statistics-Employed Population (cbsl - Quarterly)

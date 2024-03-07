@@ -24964,7 +24964,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "fourteen weeks after the relevant quarter/fourteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -24974,8 +24974,8 @@
       "min_value": 5047,
       "max_value": 8148
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25092,7 +25092,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "14 weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25102,8 +25102,8 @@
       "min_value": 2270,
       "max_value": 2159
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25163,7 +25163,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "14 weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25173,8 +25173,8 @@
       "min_value": 1888,
       "max_value": 2158
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25234,7 +25234,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "14 weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25244,8 +25244,8 @@
       "min_value": 2927,
       "max_value": 3831
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25338,7 +25338,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "forteen weeks after the relevant quarter/forteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25348,8 +25348,8 @@
       "min_value": 36.2,
       "max_value": 32.1
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25390,7 +25390,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "forteen weeks after the relevant quarter/forteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25400,8 +25400,8 @@
       "min_value": 67.7,
       "max_value": 70.5
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25546,7 +25546,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "fourteen weeks after the relevant quarter/fourteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25556,8 +25556,8 @@
       "min_value": 954,
       "max_value": 399
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25598,7 +25598,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "forteen weeks after the relevant quarter/forteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25608,8 +25608,8 @@
       "min_value": 23.4,
       "max_value": 6.5
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
@@ -25650,7 +25650,7 @@
       "Source": "Department of Census and Statistics",
       "GeoArea": "National",
       "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-      "Data last updated": "2024-01-01",
+      "Data last updated": "2024-03-01",
       "Update frequency": "forteen weeks after the relevant quarter/forteen weeks after the relevant year"
     },
     "summary_statistics": {
@@ -25660,8 +25660,8 @@
       "min_value": 11.8,
       "max_value": 3.7
     },
-    "last_updated_time_ut": 1704152247.0,
-    "last_updated_time_str": "2024-01-02 05:07:27"
+    "last_updated_time_ut": 1709844779.0,
+    "last_updated_time_str": "2024-03-08 02:22:59"
   },
   {
     "source_id": "cbsl",
