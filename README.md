@@ -9,10 +9,11 @@
 * world_bank: 1,507 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:40 PM, Thursday, 07 March, 2024**
+Last Updated: **08:39 PM, Thursday, 07 March, 2024**
 
 ## Latest updates
 
+* 2024-03-07 20:35:54 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-03-04 11:50:10 - Real GDP growth rate percent (imf - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -112,4 +113,3 @@ Last Updated: **07:40 PM, Thursday, 07 March, 2024**
 * 2024-03-03 06:24:05 - Labour Statistics-Employed Population (cbsl - Quarterly)
 * 2024-03-03 06:24:05 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
 * 2024-03-03 06:24:05 - Labour Statistics-Employment Industry (as a Pct. of Total Employment) (cbsl - Quarterly)
-* 2024-03-03 06:24:05 - Labour Statistics-Employment Services (as a Pct. of Total Employment) (cbsl - Quarterly)
