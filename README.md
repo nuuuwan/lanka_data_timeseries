@@ -9,10 +9,11 @@
 * world_bank: 1,507 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:39 PM, Thursday, 07 March, 2024**
+Last Updated: **12:39 AM, Friday, 08 March, 2024**
 
 ## Latest updates
 
+* 2024-03-08 00:08:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-03-07 21:19:59 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-03-07 20:35:54 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-03-04 11:50:10 - Real GDP growth rate percent (imf - Annual)
@@ -112,4 +113,3 @@ Last Updated: **11:39 PM, Thursday, 07 March, 2024**
 * 2024-03-03 14:10:33 - Crude Oil Futures Prices - Brent (Benchmark price) (cbsl - Monthly)
 * 2024-03-03 14:10:33 - Crude Oil Futures Prices - WTI (Benchmark price) (cbsl - Monthly)
 * 2024-03-03 06:24:05 - Labour Statistics-Employed Population (cbsl - Quarterly)
-* 2024-03-03 06:24:05 - Labour Statistics-Employment Agriculture (as a Pct. of Total Employment) (cbsl - Quarterly)
