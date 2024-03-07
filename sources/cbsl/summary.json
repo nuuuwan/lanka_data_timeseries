@@ -31460,18 +31460,18 @@
       "Source": "CBSL",
       "GeoArea": "National",
       "Note": "",
-      "Data last updated": "2024-02-02",
+      "Data last updated": "2024-03-07",
       "Update frequency": ""
     },
     "summary_statistics": {
-      "n": 25,
+      "n": 26,
       "min_t": "2022-01-01",
-      "max_t": "2024-01-01",
+      "max_t": "2024-02-01",
       "min_value": 269.84,
-      "max_value": 402.32
+      "max_value": 392.82
     },
-    "last_updated_time_ut": 1706880982.0,
-    "last_updated_time_str": "2024-02-02 19:06:22"
+    "last_updated_time_ut": 1709826599.0,
+    "last_updated_time_str": "2024-03-07 21:19:59"
   },
   {
     "source_id": "cbsl",
