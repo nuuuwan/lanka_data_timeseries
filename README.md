@@ -9,10 +9,11 @@
 * world_bank: 1,507 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **12:40 AM, Saturday, 09 March, 2024**
+Last Updated: **01:39 AM, Saturday, 09 March, 2024**
 
 ## Latest updates
 
+* 2024-03-09 01:11:32 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-03-08 02:22:59 - Labour Statistics-Employed Population (cbsl - Annual)
 * 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
 * 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Industry (cbsl - Annual)
@@ -112,4 +113,3 @@ Last Updated: **12:40 AM, Saturday, 09 March, 2024**
 * 2024-03-04 11:50:10 - Unemployment total (Pct. of total labor force) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment youth total (Pct. of total labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
