@@ -1,15 +1,15 @@
 # Lanka Data Timeseries
 *Public Timeseries Data about Sri Lanka*
 
+* world_bank: 1,507 datasets
+* sltda: 1 datasets
+* adb: 609 datasets
 * dmtlk: 32 datasets
 * cbsl: 1,891 datasets
-* sltda: 1 datasets
 * imf: 88 datasets
-* adb: 609 datasets
-* world_bank: 1,507 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **09:39 AM, Wednesday, 13 March, 2024**
+Last Updated: **10:40 AM, Wednesday, 13 March, 2024**
 
 ## Latest updates
 
@@ -26,7 +26,6 @@ Last Updated: **09:39 AM, Wednesday, 13 March, 2024**
 * 2024-03-08 00:08:14 - Total Tourist Arrivals (cbsl - Quarterly)
 * 2024-03-07 21:19:59 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-03-07 20:35:54 - Total Tourist Arrivals (cbsl - Annual)
-* 2024-03-04 11:50:10 - Real GDP growth rate percent (imf - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social safety net programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -113,3 +112,4 @@ Last Updated: **09:39 AM, Wednesday, 13 March, 2024**
 * 2024-03-04 11:50:10 - Unemployment total (Pct. of total labor force) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
+* 2024-03-04 11:50:10 - Unemployment youth total (Pct. of total labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
