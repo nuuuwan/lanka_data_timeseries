@@ -9,10 +9,25 @@
 * imf: 88 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **11:42 AM, Saturday, 23 March, 2024**
+Last Updated: **12:40 PM, Saturday, 23 March, 2024**
 
 ## Latest updates
 
+* 2024-03-23 12:11:31 - Beverages - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Beverages (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Chemicals and chemical products - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Chemicals and chemical products (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Coke and refined petroleum products Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Coke and refined petroleum products (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Food products - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Food products (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Index of Industrial Production - change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Other non-metallic mineral products - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Other non-metallic mineral products (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Rubber and plastic products - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Rubber and plastic products (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Wearing apparel - Change (cbsl - Monthly)
+* 2024-03-23 12:11:31 - Wearing apparel (cbsl - Monthly)
 * 2024-03-09 01:11:32 - Secondary income - Workers' Remittances (cbsl - Monthly)
 * 2024-03-08 02:22:59 - Labour Statistics-Employed Population (cbsl - Annual)
 * 2024-03-08 02:22:59 - Labour Statistics-Employment-Industrial Category-Agriculture (cbsl - Annual)
@@ -98,18 +113,3 @@ Last Updated: **11:42 AM, Saturday, 23 March, 2024**
 * 2024-03-04 11:50:10 - Self-employed male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Self-employed total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Overall score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Pillar 1 data use score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Pillar 2 data services score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Pillar 3 data products score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Pillar 4 data sources score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Pillar 5 data infrastructure score (scale 0-100) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Stocks traded total value (Pct. of GDP) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Stocks traded total value (current US$) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Stocks traded turnover ratio of domestic shares (Pct.) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Technical cooperation grants (BoP current US$) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment female (Pct. of female labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment male (Pct. of male labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment total (Pct. of total labor force) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment youth female (Pct. of female labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment youth male (Pct. of male labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Unemployment youth total (Pct. of total labor force ages 15-24) (modeled ILO estimate) (world_bank - Annual)
