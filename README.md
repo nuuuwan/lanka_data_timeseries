@@ -9,10 +9,18 @@
 * imf: 88 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **09:41 PM, Tuesday, 26 March, 2024**
+Last Updated: **10:40 PM, Tuesday, 26 March, 2024**
 
 ## Latest updates
 
+* 2024-03-26 22:23:14 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Total Tourist Arrivals (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Tourist Arrivals - Y-o-Y Change (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Tourist Earnings (In LKR) (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Tourist Earnings (cbsl - Monthly)
+* 2024-03-26 22:23:14 - Tourists Arrivals-cumulative (cbsl - Monthly)
 * 2024-03-23 12:11:31 - Beverages - Change (cbsl - Monthly)
 * 2024-03-23 12:11:31 - Beverages (cbsl - Monthly)
 * 2024-03-23 12:11:31 - Chemicals and chemical products - Change (cbsl - Monthly)
@@ -105,11 +113,3 @@ Last Updated: **09:41 PM, Tuesday, 26 March, 2024**
 * 2024-03-04 11:50:10 - Land under cereal production (hectares) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Listed domestic companies total (world_bank - Annual)
 * 2024-03-04 11:50:10 - Market capitalization of listed domestic companies (Pct. of GDP) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Market capitalization of listed domestic companies (current US$) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Net migration (world_bank - Annual)
-* 2024-03-04 11:50:10 - Ratio of female to male labor force participation rate (Pct.) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Ratio of female to male labor force participation rate (Pct.) (national estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Self-employed female (Pct. of female employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Self-employed male (Pct. of male employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Self-employed total (Pct. of total employment) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Statistical performance indicators (SPI)_ Overall score (scale 0-100) (world_bank - Annual)
