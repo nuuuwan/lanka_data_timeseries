@@ -9,10 +9,12 @@
 * imf: 88 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **09:40 PM, Thursday, 28 March, 2024**
+Last Updated: **10:40 PM, Thursday, 28 March, 2024**
 
 ## Latest updates
 
+* 2024-03-28 22:16:08 - Month End Exchange Rates (GBP) (cbsl - Monthly)
+* 2024-03-28 22:16:08 - Month End a Exchange Rates (cbsl - Monthly)
 * 2024-03-28 20:13:21 - Outstanding Rupee Loans (cbsl - Monthly)
 * 2024-03-28 20:13:21 - Outstanding Total Foreign Debt (cbsl - Monthly)
 * 2024-03-28 20:13:21 - Outstanding Treasury Bills (cbsl - Monthly)
@@ -53,7 +55,6 @@ Last Updated: **09:40 PM, Thursday, 28 March, 2024**
 * 2024-03-08 02:22:59 - Labour Statistics-Unemployment Rate-Female (cbsl - Annual)
 * 2024-03-08 02:22:59 - Labour Statistics-Unemployment Rate-Male (cbsl - Annual)
 * 2024-03-08 00:08:14 - Total Tourist Arrivals (cbsl - Quarterly)
-* 2024-03-07 21:19:59 - Month End Exchange Rates (GBP) (cbsl - Monthly)
 * 2024-03-07 20:35:54 - Total Tourist Arrivals (cbsl - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social insurance programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Adequacy of social protection and labor programs (Pct. of total welfare of beneficiary households) (world_bank - Annual)
@@ -112,4 +113,3 @@ Last Updated: **09:40 PM, Thursday, 28 March, 2024**
 * 2024-03-04 11:50:10 - Labor force participation rate for ages 15-24 male (Pct.) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Labor force participation rate for ages 15-24 total (Pct.) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Labor force participation rate male (Pct. of male population ages 15-64) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Labor force participation rate male (Pct. of male population ages 15_) (modeled ILO estimate) (world_bank - Annual)
