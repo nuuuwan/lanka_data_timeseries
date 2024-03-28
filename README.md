@@ -9,10 +9,16 @@
 * imf: 88 datasets
 * TOTAL: **4,128** datasets
 
-Last Updated: **07:40 PM, Thursday, 28 March, 2024**
+Last Updated: **08:41 PM, Thursday, 28 March, 2024**
 
 ## Latest updates
 
+* 2024-03-28 20:13:21 - Outstanding Rupee Loans (cbsl - Monthly)
+* 2024-03-28 20:13:21 - Outstanding Total Foreign Debt (cbsl - Monthly)
+* 2024-03-28 20:13:21 - Outstanding Treasury Bills (cbsl - Monthly)
+* 2024-03-28 20:13:21 - Outstanding Treasury Bonds (cbsl - Monthly)
+* 2024-03-28 20:13:21 - Total Outstanding Domestic Debt (cbsl - Monthly)
+* 2024-03-28 20:13:21 - Total outstanding central Government Debt (cbsl - Monthly)
 * 2024-03-26 22:23:14 - Earnings from Tourism Y-o-Y Change (cbsl - Monthly)
 * 2024-03-26 22:23:14 - Earnings from Tourism-cumulative-Rs. bn. (cbsl - Monthly)
 * 2024-03-26 22:23:14 - Earnings from Tourism-cumulative-USD mn. (cbsl - Monthly)
@@ -107,9 +113,3 @@ Last Updated: **07:40 PM, Thursday, 28 March, 2024**
 * 2024-03-04 11:50:10 - Labor force participation rate for ages 15-24 total (Pct.) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Labor force participation rate male (Pct. of male population ages 15-64) (modeled ILO estimate) (world_bank - Annual)
 * 2024-03-04 11:50:10 - Labor force participation rate male (Pct. of male population ages 15_) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Labor force participation rate total (Pct. of total population ages 15-64) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Labor force participation rate total (Pct. of total population ages 15_) (modeled ILO estimate) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Labor force total (world_bank - Annual)
-* 2024-03-04 11:50:10 - Land under cereal production (hectares) (world_bank - Annual)
-* 2024-03-04 11:50:10 - Listed domestic companies total (world_bank - Annual)
-* 2024-03-04 11:50:10 - Market capitalization of listed domestic companies (Pct. of GDP) (world_bank - Annual)
