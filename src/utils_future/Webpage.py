@@ -8,7 +8,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from utils import Log, hashx
+from utils import Log, Hash
 
 from utils_future.FileFuture import FileFuture
 from utils_future.Image import Image
@@ -30,7 +30,7 @@ class Webpage:
 
     @cached_property
     def screenshot_image_path(self):
-        h = hashx.md5(self.url)
+        h = Hash.md5(self.url)
         return os.path.join(
             tempfile.gettempdir(), f'webpage.screenshot.{h}.png'
         )

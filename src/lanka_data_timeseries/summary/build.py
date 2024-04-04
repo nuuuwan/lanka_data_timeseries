@@ -1,6 +1,6 @@
 import os
 
-from utils import TIME_FORMAT_TIME, Git, JSONFile, Log
+from utils import TimeFormat, Git, JSONFile, Log
 
 from src.lanka_data_timeseries.constants import DIR_TMP_DATA
 from src.lanka_data_timeseries.summary.content_builders import (
@@ -14,7 +14,7 @@ BRANCH_DATA = 'data'
 
 def init():
     git = Git(URL_GIT_REPO)
-    git.clone(DIR_TMP_DATA, force=False)
+    git.clone(DIR_TMP_DATA, BRANCH_DATA)
     git.checkout(BRANCH_DATA)
 
 
@@ -45,7 +45,7 @@ def get_data_list(source_id):
 
         last_updated_time = git_future.get_last_update_ut(file_path)
         d['last_updated_time_ut'] = last_updated_time.ut
-        d['last_updated_time_str'] = TIME_FORMAT_TIME.stringify(
+        d['last_updated_time_str'] = TimeFormat.TIME.format(
             last_updated_time
         )
         d_list.append(d)
