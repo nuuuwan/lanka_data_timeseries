@@ -112433,13 +112433,14 @@ Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 2023-10	70.08
 2023-11	69.47
 2023-12	69.83
-2024-01	73.05
+2024-01	73.03
+2024-02	75.11
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kegalle-Class B
@@ -124855,12 +124856,13 @@ Exchange Rates-Exchange Rate Indices Nominal Effective Exchange Rate Index
 2023-11	53.8
 2023-12	53.65
 2024-01	54.65
+2024-02	56.48
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Eastern
@@ -127709,12 +127711,13 @@ Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 2023-12	326.74
 2024-01	321.17
 2024-02	312.58
+2024-03	305.66
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries - Electricity gas steam and air conditionin
@@ -134687,7 +134690,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Expressways

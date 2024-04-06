@@ -98807,7 +98807,8 @@
 * 2023-10: 70.08
 * 2023-11: 69.47
 * 2023-12: 69.83
-* 2024-01: 73.05
+* 2024-01: 73.03
+* 2024-02: 75.11
 
 # Transport-Road Network Road Kilometerage-Kegalle-Class B
 
@@ -109189,6 +109190,7 @@
 * 2023-11: 53.8
 * 2023-12: 53.65
 * 2024-01: 54.65
+* 2024-02: 56.48
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Eastern
 
@@ -111631,6 +111633,7 @@
 * 2023-12: 326.74
 * 2024-01: 321.17
 * 2024-02: 312.58
+* 2024-03: 305.66
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries - Electricity gas steam and air conditionin
 
