@@ -9,7 +9,7 @@
   "footnotes": {
     "indicator_key": "GGXWDG_NGDP",
     "description": "Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).",
-    "source": "World Economic Outlook (October 2023)",
+    "source": "World Economic Outlook (April 2024)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/LKA"
   },
