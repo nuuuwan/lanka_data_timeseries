@@ -57990,12 +57990,13 @@ Central Government Finance-Central Government Revenue Primary Balance
 2023-09	123.76
 2023-10	225.37
 2023-11	331.42
+2023-12	173.33
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Current Account Balance of Payments (BOP) -Trade Deficit
@@ -70051,12 +70052,13 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2023-09	3327.68
 2023-10	3532.25
 2023-11	4292.75
+2023-12	4699.68
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Western
@@ -72114,12 +72116,13 @@ Central Government Finance-Central Government Revenue Grants
 2023-09	8.27
 2023-10	9.2
 2023-11	13.38
+2023-12	25.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Batticaloa-Total
@@ -77050,12 +77053,13 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2023-09	0
 2023-10	0
 2023-11	0
+2023-12	0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Food products
@@ -80965,12 +80969,13 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2023-09	28020010
 2023-10	28094693
 2023-11	28188909
+2023-12	28695949
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Uva
@@ -82335,12 +82340,13 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2023-09	16617629
 2023-10	16630774
 2023-11	16681675
+2023-12	17051854
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Eastern
@@ -83179,12 +83185,13 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2023-09	2118.76
 2023-10	2434.03
 2023-11	2771.36
+2023-12	3074.32
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - Sabaragamuwa
@@ -85508,12 +85515,13 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2023-09	3631739
 2023-10	3762873
 2023-11	3918853
+2023-12	4017035
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Other Banking Outlets
@@ -89271,12 +89279,13 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2023-09	176.51
 2023-10	212.32
 2023-11	246.01
+2023-12	328.26
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Uva-Class B
@@ -92820,12 +92829,13 @@ Central Government Finance-Central Government Revenue Revenue
 2023-09	2110.49
 2023-10	2424.83
 2023-11	2757.98
+2023-12	3048.82
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Communication Media-Telecommunication Services Telecommunication - Cellular phones
@@ -98556,12 +98566,13 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2023-09	1933.98
 2023-10	2212.51
 2023-11	2511.98
+2023-12	2720.56
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KILINOCHCHI
@@ -103797,12 +103808,13 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2023-09	404.65
 2023-10	448.8
 2023-11	498.91
+2023-12	656.91
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Northern-Class A
@@ -118804,12 +118816,13 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2023-09	3732.33
 2023-10	3981.05
 2023-11	4791.66
+2023-12	5356.59
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Western-Class A
@@ -119908,12 +119921,13 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2023-09	11402381
 2023-10	11463920
 2023-11	11507235
+2023-12	11644094
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases Abroad by Residents
@@ -122358,12 +122372,13 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2023-09	11876371
 2023-10	11951184
 2023-11	11880382
+2023-12	12002337
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-20', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Education-General Education General education - Government -Schools
@@ -123524,12 +123539,13 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2023-09	-1613.58
 2023-10	-1547.02
 2023-11	-2020.3
+2023-12	-2282.27
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-01-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-30', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Northern

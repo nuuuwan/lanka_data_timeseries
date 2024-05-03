@@ -52733,6 +52733,7 @@
 * 2023-09: 123.76
 * 2023-10: 225.37
 * 2023-11: 331.42
+* 2023-12: 173.33
 
 # Balance of Payments-Current Account Balance of Payments (BOP) -Trade Deficit
 
@@ -62697,6 +62698,7 @@
 * 2023-09: 3327.68
 * 2023-10: 3532.25
 * 2023-11: 4292.75
+* 2023-12: 4699.68
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Western
 
@@ -64352,6 +64354,7 @@
 * 2023-09: 8.27
 * 2023-10: 9.2
 * 2023-11: 13.38
+* 2023-12: 25.5
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Total
 
@@ -68506,6 +68509,7 @@
 * 2023-09: 0
 * 2023-10: 0
 * 2023-11: 0
+* 2023-12: 0
 
 # Industry and Housing-Index of Industrial Production Food products
 
@@ -71714,6 +71718,7 @@
 * 2023-09: 28020010
 * 2023-10: 28094693
 * 2023-11: 28188909
+* 2023-12: 28695949
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Uva
 
@@ -72863,6 +72868,7 @@
 * 2023-09: 16617629
 * 2023-10: 16630774
 * 2023-11: 16681675
+* 2023-12: 17051854
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Eastern
 
@@ -73521,6 +73527,7 @@
 * 2023-09: 2118.76
 * 2023-10: 2434.03
 * 2023-11: 2771.36
+* 2023-12: 3074.32
 
 # Agriculture-Tea No. of Tea Factories - Sabaragamuwa
 
@@ -75487,6 +75494,7 @@
 * 2023-09: 3631739
 * 2023-10: 3762873
 * 2023-11: 3918853
+* 2023-12: 4017035
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Other Banking Outlets
 
@@ -78667,6 +78675,7 @@
 * 2023-09: 176.51
 * 2023-10: 212.32
 * 2023-11: 246.01
+* 2023-12: 328.26
 
 # Transport-Road Network Road Kilometerage-Uva-Class B
 
@@ -81694,6 +81703,7 @@
 * 2023-09: 2110.49
 * 2023-10: 2424.83
 * 2023-11: 2757.98
+* 2023-12: 3048.82
 
 # Communication Media-Telecommunication Services Telecommunication - Cellular phones
 
@@ -86529,6 +86539,7 @@
 * 2023-09: 1933.98
 * 2023-10: 2212.51
 * 2023-11: 2511.98
+* 2023-12: 2720.56
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KILINOCHCHI
 
@@ -90872,6 +90883,7 @@
 * 2023-09: 404.65
 * 2023-10: 448.8
 * 2023-11: 498.91
+* 2023-12: 656.91
 
 # Transport-Road Network Road Kilometerage-Northern-Class A
 
@@ -103676,6 +103688,7 @@
 * 2023-09: 3732.33
 * 2023-10: 3981.05
 * 2023-11: 4791.66
+* 2023-12: 5356.59
 
 # Transport-Road Network Road Kilometerage-Western-Class A
 
@@ -104583,6 +104596,7 @@
 * 2023-09: 11402381
 * 2023-10: 11463920
 * 2023-11: 11507235
+* 2023-12: 11644094
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases Abroad by Residents
 
@@ -106549,6 +106563,7 @@
 * 2023-09: 11876371
 * 2023-10: 11951184
 * 2023-11: 11880382
+* 2023-12: 12002337
 
 # Education-General Education General education - Government -Schools
 
@@ -107525,6 +107540,7 @@
 * 2023-09: -1613.58
 * 2023-10: -1547.02
 * 2023-11: -2020.3
+* 2023-12: -2282.27
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Northern
 
