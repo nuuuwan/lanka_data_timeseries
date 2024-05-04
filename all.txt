@@ -65828,12 +65828,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-01	402.32
 2024-02	392.82
 2024-03	380.52
+2024-04	372.44
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of fabricated metal products - Change
@@ -74037,12 +74038,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-01	317.41
 2024-02	310.15
 2024-03	301.18
+2024-04	296.86
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products
@@ -90175,12 +90177,13 @@ Exchange Rates-Exchange Rate Indices Nominal Effective Exchange Rate Index
 2023-12	53.65
 2024-01	54.65
 2024-02	56.48
+2024-03	57.75
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Interest Income
@@ -95243,12 +95246,13 @@ Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 2023-12	69.83
 2024-01	73.03
 2024-02	75.11
+2024-03	75.18
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Other manufacturing, and Repair and installation of mach
@@ -112100,12 +112104,13 @@ Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 2024-01	321.17
 2024-02	312.58
 2024-03	305.66
+2024-04	299.42
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing

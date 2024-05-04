@@ -59261,6 +59261,7 @@
 * 2024-01: 402.32
 * 2024-02: 392.82
 * 2024-03: 380.52
+* 2024-04: 372.44
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of fabricated metal products - Change
 
@@ -65925,6 +65926,7 @@
 * 2024-01: 317.41
 * 2024-02: 310.15
 * 2024-03: 301.18
+* 2024-04: 296.86
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products
 
@@ -79471,6 +79473,7 @@
 * 2023-12: 53.65
 * 2024-01: 54.65
 * 2024-02: 56.48
+* 2024-03: 57.75
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Interest Income
 
@@ -83808,6 +83811,7 @@
 * 2023-12: 69.83
 * 2024-01: 73.03
 * 2024-02: 75.11
+* 2024-03: 75.18
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Other manufacturing, and Repair and installation of mach
 
@@ -97948,6 +97952,7 @@
 * 2024-01: 321.17
 * 2024-02: 312.58
 * 2024-03: 305.66
+* 2024-04: 299.42
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing
 
