@@ -52734,6 +52734,7 @@
 * 2023-10: 225.37
 * 2023-11: 331.42
 * 2023-12: 173.33
+* 2024-01: 70.68
 
 # Balance of Payments-Current Account Balance of Payments (BOP) -Trade Deficit
 
@@ -56795,6 +56796,7 @@
 * 2024-01: 208253
 * 2024-02: 218350
 * 2024-03: 209181
+* 2024-04: 148867
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class D
 
@@ -57981,6 +57983,7 @@
 * 2024-01: 97.3
 * 2024-02: 90.9
 * 2024-03: 82.2
+* 2024-04: 73.6
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Western-Total
 
@@ -58367,6 +58370,7 @@
 * 2022-12: 1136.3
 * 2023-02: 315.1
 * 2023-03: 503.9
+* 2023-04: 652.2
 * 2023-05: 827.8
 * 2023-06: 875.0
 * 2023-07: 1094.0
@@ -58377,6 +58381,7 @@
 * 2023-12: 2068.0
 * 2024-02: 687.5
 * 2024-03: 1025.9
+* 2024-04: 1251.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Gross Domestic Product
 
@@ -59790,6 +59795,7 @@
 * 2022-12: 338.1
 * 2023-02: 114.1
 * 2023-03: 176.3
+* 2023-04: 224.0
 * 2023-05: 279.7
 * 2023-06: 292.0
 * 2023-07: 361.9
@@ -59800,6 +59806,7 @@
 * 2023-12: 678.5
 * 2024-02: 217.8
 * 2024-03: 321.3
+* 2024-04: 388.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Coconut
 
@@ -62700,6 +62707,7 @@
 * 2023-10: 3532.25
 * 2023-11: 4292.75
 * 2023-12: 4699.68
+* 2024-01: 395.09
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-North-Western
 
@@ -63969,7 +63977,7 @@
 * 2023-01: 55.6
 * 2023-02: 58.5
 * 2023-03: 62.2
-* 2023-04: 53.5
+* 2023-04: 47.6
 * 2023-05: 40.8
 * 2023-06: 37.0
 * 2023-07: 69.9
@@ -63981,6 +63989,7 @@
 * 2024-01: 109.8
 * 2024-02: 108.1
 * 2024-03: 103.4
+* 2024-04: 67.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Time Deposits
 
@@ -64356,6 +64365,7 @@
 * 2023-10: 9.2
 * 2023-11: 13.38
 * 2023-12: 25.5
+* 2024-01: 0.06
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Total
 
@@ -73530,6 +73540,7 @@
 * 2023-10: 2434.03
 * 2023-11: 2771.36
 * 2023-12: 3074.32
+* 2024-01: 283.19
 
 # Agriculture-Tea No. of Tea Factories - Sabaragamuwa
 
@@ -74986,7 +74997,7 @@
 * 2023-01: 153.5
 * 2023-02: 161.6
 * 2023-03: 188.8
-* 2023-04: 166.5
+* 2023-04: 148.2
 * 2023-05: 131.5
 * 2023-06: 122.9
 * 2023-07: 219.0
@@ -74998,6 +75009,7 @@
 * 2024-01: 341.8
 * 2024-02: 345.7
 * 2024-03: 338.4
+* 2024-04: 225.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork ex
 
@@ -78678,6 +78690,7 @@
 * 2023-10: 212.32
 * 2023-11: 246.01
 * 2023-12: 328.26
+* 2024-01: 25.55
 
 # Transport-Road Network Road Kilometerage-Uva-Class B
 
@@ -81707,6 +81720,7 @@
 * 2023-10: 2424.83
 * 2023-11: 2757.98
 * 2023-12: 3048.82
+* 2024-01: 283.13
 
 # Communication Media-Telecommunication Services Telecommunication - Cellular phones
 
@@ -86544,6 +86558,7 @@
 * 2023-10: 2212.51
 * 2023-11: 2511.98
 * 2023-12: 2720.56
+* 2024-01: 257.57
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KILINOCHCHI
 
@@ -90888,6 +90903,7 @@
 * 2023-10: 448.8
 * 2023-11: 498.91
 * 2023-12: 656.91
+* 2024-01: 54.97
 
 # Transport-Road Network Road Kilometerage-Northern-Class A
 
@@ -98047,6 +98063,7 @@
 * 2024-01: 103.1
 * 2024-02: 103.0
 * 2024-03: 89.4
+* 2024-04: 77.9
 
 # Banking Sector-All Banks Banking Sector- Borrowings
 
@@ -103383,6 +103400,7 @@
 * 2022-12: 719978
 * 2023-02: 210184
 * 2023-03: 335679
+* 2023-04: 441177
 * 2023-05: 524486
 * 2023-06: 624874
 * 2023-07: 767913
@@ -103393,6 +103411,7 @@
 * 2023-12: 1487303
 * 2024-02: 426603
 * 2024-03: 635784
+* 2024-04: 784651
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit or Surplus
 
@@ -103694,6 +103713,7 @@
 * 2023-10: 3981.05
 * 2023-11: 4791.66
 * 2023-12: 5356.59
+* 2024-01: 450.06
 
 # Transport-Road Network Road Kilometerage-Western-Class A
 
@@ -107546,6 +107566,7 @@
 * 2023-10: -1547.02
 * 2023-11: -2020.3
 * 2023-12: -2282.27
+* 2024-01: -166.87
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Northern
 

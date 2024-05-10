@@ -54397,6 +54397,7 @@ Central Government Finance-Central Government Revenue Primary Balance
 2023-10	225.37
 2023-11	331.42
 2023-12	173.33
+2024-01	70.68
 
 --------------------------------
 
@@ -58597,6 +58598,7 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-01	208253
 2024-02	218350
 2024-03	209181
+2024-04	148867
 
 --------------------------------
 
@@ -59829,6 +59831,7 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-01	97.3
 2024-02	90.9
 2024-03	82.2
+2024-04	73.6
 
 --------------------------------
 
@@ -60226,6 +60229,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2022-12	1136.3
 2023-02	315.1
 2023-03	503.9
+2023-04	652.2
 2023-05	827.8
 2023-06	875.0
 2023-07	1094.0
@@ -60236,6 +60240,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2023-12	2068.0
 2024-02	687.5
 2024-03	1025.9
+2024-04	1251.6
 
 --------------------------------
 
@@ -61696,6 +61701,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2022-12	338.1
 2023-02	114.1
 2023-03	176.3
+2023-04	224.0
 2023-05	279.7
 2023-06	292.0
 2023-07	361.9
@@ -61706,6 +61712,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2023-12	678.5
 2024-02	217.8
 2024-03	321.3
+2024-04	388.8
 
 --------------------------------
 
@@ -64715,6 +64722,7 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2023-10	3532.25
 2023-11	4292.75
 2023-12	4699.68
+2024-01	395.09
 
 --------------------------------
 
@@ -66035,7 +66043,7 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2023-01	55.6
 2023-02	58.5
 2023-03	62.2
-2023-04	53.5
+2023-04	47.6
 2023-05	40.8
 2023-06	37.0
 2023-07	69.9
@@ -66047,6 +66055,7 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-01	109.8
 2024-02	108.1
 2024-03	103.4
+2024-04	67.6
 
 --------------------------------
 
@@ -66441,6 +66450,7 @@ Central Government Finance-Central Government Revenue Grants
 2023-10	9.2
 2023-11	13.38
 2023-12	25.5
+2024-01	0.06
 
 --------------------------------
 
@@ -75934,6 +75944,7 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2023-10	2434.03
 2023-11	2771.36
 2023-12	3074.32
+2024-01	283.19
 
 --------------------------------
 
@@ -77437,7 +77448,7 @@ Tourism-Tourist Earnings Tourist Earnings
 2023-01	153.5
 2023-02	161.6
 2023-03	188.8
-2023-04	166.5
+2023-04	148.2
 2023-05	131.5
 2023-06	122.9
 2023-07	219.0
@@ -77449,6 +77460,7 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-01	341.8
 2024-02	345.7
 2024-03	338.4
+2024-04	225.7
 
 --------------------------------
 
@@ -81241,6 +81253,7 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2023-10	212.32
 2023-11	246.01
 2023-12	328.26
+2024-01	25.55
 
 --------------------------------
 
@@ -84358,6 +84371,7 @@ Central Government Finance-Central Government Revenue Revenue
 2023-10	2424.83
 2023-11	2757.98
 2023-12	3048.82
+2024-01	283.13
 
 --------------------------------
 
@@ -89347,6 +89361,7 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2023-10	2212.51
 2023-11	2511.98
 2023-12	2720.56
+2024-01	257.57
 
 --------------------------------
 
@@ -93842,6 +93857,7 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2023-10	448.8
 2023-11	498.91
 2023-12	656.91
+2024-01	54.97
 
 --------------------------------
 
@@ -101211,6 +101227,7 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-01	103.1
 2024-02	103.0
 2024-03	89.4
+2024-04	77.9
 
 --------------------------------
 
@@ -106694,6 +106711,7 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2022-12	719978
 2023-02	210184
 2023-03	335679
+2023-04	441177
 2023-05	524486
 2023-06	624874
 2023-07	767913
@@ -106704,6 +106722,7 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2023-12	1487303
 2024-02	426603
 2024-03	635784
+2024-04	784651
 
 --------------------------------
 
@@ -107018,6 +107037,7 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2023-10	3981.05
 2023-11	4791.66
 2023-12	5356.59
+2024-01	450.06
 
 --------------------------------
 
@@ -111016,6 +111036,7 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2023-10	-1547.02
 2023-11	-2020.3
 2023-12	-2282.27
+2024-01	-166.87
 
 --------------------------------
 
