@@ -98870,7 +98870,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-10', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Taxes less Subsidies on products
@@ -110903,12 +110903,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-01	487.6
 2024-02	476.2
 2024-03	572.4
+2024-04	543.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-10', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Western-Class D
