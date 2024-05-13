@@ -5275,6 +5275,16 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies SDGFUND (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2021": -149399.995803833,
+      "2022": 249999.0016222
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Personal remittances paid (current US$)",
     "scale": "",
     "cleaned_data": {
@@ -5307,6 +5317,13 @@
       "2021": 343600000,
       "2022": 364930002.331941
     }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies UNCTAD (current US$)",
+    "scale": "",
+    "cleaned_data": {}
   },
   {
     "source_id": "world_bank",
@@ -9484,6 +9501,16 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies WTO-ITC (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2021": 21091.9994860888,
+      "2022": 55523.0006575584
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Coverage of social protection and labor programs (Pct. of population)",
     "scale": "",
     "cleaned_data": {
@@ -9802,6 +9829,17 @@
       "2010": 1.01440842097948,
       "2011": 2.02455250518929,
       "2012": 3.03469658939908
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Multidimensional poverty headcount ratio (World Bank) (Pct. of population)",
+    "scale": "",
+    "cleaned_data": {
+      "2012": 3.5,
+      "2016": 1.7,
+      "2019": 1.1
     }
   },
   {
@@ -13964,6 +14002,15 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies UNCOVID (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2022": -71215.6668305397
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Trained teachers in upper secondary education male (Pct. of male teachers)",
     "scale": "",
     "cleaned_data": {
@@ -14246,6 +14293,15 @@
       "2012": 4.4,
       "2016": 2.7,
       "2019": 2.1
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies UNIDO (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2020": 38952.5406062603
     }
   },
   {
@@ -30310,6 +30366,16 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies SPRP (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2021": 312999.993562698,
+      "2022": 17248.6007213593
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Employment to population ratio ages 15-24 male (Pct.) (national estimate)",
     "scale": "",
     "cleaned_data": {
@@ -31246,6 +31312,13 @@
       "2020": 103.9935241915,
       "2021": 118.2973877085
     }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies UNCDF (current US$)",
+    "scale": "",
+    "cleaned_data": {}
   },
   {
     "source_id": "world_bank",
@@ -36207,6 +36280,16 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies CERF (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2017": 7196272.85003662,
+      "2022": 5000000
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Secondary education teachers female",
     "scale": "",
     "cleaned_data": {
@@ -40284,6 +40367,23 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Poverty headcount ratio at societal poverty line (Pct. of population)",
+    "scale": "",
+    "cleaned_data": {
+      "1985": 35.6,
+      "1990": 33.1,
+      "1995": 33.3,
+      "2002": 33.6,
+      "2006": 28.9,
+      "2009": 25.9,
+      "2012": 25.1,
+      "2016": 23.9,
+      "2019": 23
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Demand for family planning satisfied by modern methods (Pct. of married women with demand for family planning)",
     "scale": "",
     "cleaned_data": {}
@@ -43960,6 +44060,15 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Multidimensional poverty headcount ratio (UNDP) (Pct. of population)",
+    "scale": "",
+    "cleaned_data": {
+      "2016": 2.9
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Persistence to last grade of primary male (Pct. of cohort)",
     "scale": "",
     "cleaned_data": {
@@ -47008,6 +47117,23 @@
   {
     "source_id": "world_bank",
     "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net bilateral aid flows from DAC donors Lithuania (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2009": 29999.9993294477,
+      "2010": 29999.9993294477,
+      "2011": 39999.9991059303,
+      "2015": 0,
+      "2016": 9999.99977648258,
+      "2017": 9999.99977648258,
+      "2018": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
     "sub_category": "Travel services (Pct. of commercial service imports)",
     "scale": "",
     "cleaned_data": {
@@ -48396,6 +48522,16 @@
     "scale": "",
     "cleaned_data": {
       "2007": 97
+    }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net official flows from UN agencies UNWOMEN (current US$)",
+    "scale": "",
+    "cleaned_data": {
+      "2021": 39657.00045228,
+      "2022": 3020.78993991017
     }
   },
   {
@@ -58148,6 +58284,13 @@
       "2021": 0.220166966319084,
       "2022": 0.213799729943275
     }
+  },
+  {
+    "source_id": "world_bank",
+    "category": "World Bank - Sri Lanka Data",
+    "sub_category": "Net bilateral aid flows from DAC donors Estonia (current US$)",
+    "scale": "",
+    "cleaned_data": {}
   },
   {
     "source_id": "world_bank",

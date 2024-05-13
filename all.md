@@ -4597,6 +4597,11 @@
 * 2020: 17.3540822597698
 * 2021: 19.5403956859421
 
+# World Bank - Sri Lanka Data Net official flows from UN agencies SDGFUND (current US$)
+
+* 2021: -149399.995803833
+* 2022: 249999.0016222
+
 # World Bank - Sri Lanka Data Personal remittances paid (current US$)
 
 * 1995: 12638366.8558
@@ -4627,6 +4632,9 @@
 * 2020: 1042200001.07553
 * 2021: 343600000
 * 2022: 364930002.331941
+
+# World Bank - Sri Lanka Data Net official flows from UN agencies UNCTAD (current US$)
+
 
 # World Bank - Sri Lanka Data Bank liquid reserves to bank assets ratio (Pct.)
 
@@ -8194,6 +8202,11 @@
 * 2006: 94.87525
 * 2017: 97.77453
 
+# World Bank - Sri Lanka Data Net official flows from UN agencies WTO-ITC (current US$)
+
+* 2021: 21091.9994860888
+* 2022: 55523.0006575584
+
 # World Bank - Sri Lanka Data Coverage of social protection and labor programs (Pct. of population)
 
 * 2006: 35.6110513078798
@@ -8476,6 +8489,12 @@
 * 2010: 1.01440842097948
 * 2011: 2.02455250518929
 * 2012: 3.03469658939908
+
+# World Bank - Sri Lanka Data Multidimensional poverty headcount ratio (World Bank) (Pct. of population)
+
+* 2012: 3.5
+* 2016: 1.7
+* 2019: 1.1
 
 # World Bank - Sri Lanka Data Chemicals (Pct. of value added in manufacturing)
 
@@ -12086,6 +12105,10 @@
 * 2020: 31.5
 * 2021: 32.6
 
+# World Bank - Sri Lanka Data Net official flows from UN agencies UNCOVID (current US$)
+
+* 2022: -71215.6668305397
+
 # World Bank - Sri Lanka Data Trained teachers in upper secondary education male (Pct. of male teachers)
 
 * 2017: 77.8013763427734
@@ -12332,6 +12355,10 @@
 * 2012: 4.4
 * 2016: 2.7
 * 2019: 2.1
+
+# World Bank - Sri Lanka Data Net official flows from UN agencies UNIDO (current US$)
+
+* 2020: 38952.5406062603
 
 # World Bank - Sri Lanka Data Surface area (sq. km)
 
@@ -26212,6 +26239,11 @@
 
 * 2009: 95.86
 
+# World Bank - Sri Lanka Data Net official flows from UN agencies SPRP (current US$)
+
+* 2021: 312999.993562698
+* 2022: 17248.6007213593
+
 # World Bank - Sri Lanka Data Employment to population ratio ages 15-24 male (Pct.) (national estimate)
 
 * 2010: 38.381
@@ -27017,6 +27049,9 @@
 * 2019: 114.8175185163
 * 2020: 103.9935241915
 * 2021: 118.2973877085
+
+# World Bank - Sri Lanka Data Net official flows from UN agencies UNCDF (current US$)
+
 
 # World Bank - Sri Lanka Data Population ages 15-64 total
 
@@ -31337,6 +31372,11 @@
 * 2018: 9.6
 * 2019: 9.4
 
+# World Bank - Sri Lanka Data Net official flows from UN agencies CERF (current US$)
+
+* 2017: 7196272.85003662
+* 2022: 5000000
+
 # World Bank - Sri Lanka Data Secondary education teachers female
 
 * 1992: 63687
@@ -34866,6 +34906,18 @@
 * 2016: 16
 * 2019: 14.3
 
+# World Bank - Sri Lanka Data Poverty headcount ratio at societal poverty line (Pct. of population)
+
+* 1985: 35.6
+* 1990: 33.1
+* 1995: 33.3
+* 2002: 33.6
+* 2006: 28.9
+* 2009: 25.9
+* 2012: 25.1
+* 2016: 23.9
+* 2019: 23
+
 # World Bank - Sri Lanka Data Demand for family planning satisfied by modern methods (Pct. of married women with demand for family planning)
 
 
@@ -38016,6 +38068,10 @@
 * 2019: 35.32
 * 2020: 44
 
+# World Bank - Sri Lanka Data Multidimensional poverty headcount ratio (UNDP) (Pct. of population)
+
+* 2016: 2.9
+
 # World Bank - Sri Lanka Data Persistence to last grade of primary male (Pct. of cohort)
 
 * 1982: 91.1325302124023
@@ -40672,6 +40728,18 @@
 * 2021: 93836635198.364
 * 2022: 86263150646.5489
 
+# World Bank - Sri Lanka Data Net bilateral aid flows from DAC donors Lithuania (current US$)
+
+* 2009: 29999.9993294477
+* 2010: 29999.9993294477
+* 2011: 39999.9991059303
+* 2015: 0
+* 2016: 9999.99977648258
+* 2017: 9999.99977648258
+* 2018: 0
+* 2021: 0
+* 2022: 0
+
 # World Bank - Sri Lanka Data Travel services (Pct. of commercial service imports)
 
 * 1975: 1.63111668757478
@@ -41883,6 +41951,11 @@
 # World Bank - Sri Lanka Data Completeness of birth registration female (Pct.)
 
 * 2007: 97
+
+# World Bank - Sri Lanka Data Net official flows from UN agencies UNWOMEN (current US$)
+
+* 2021: 39657.00045228
+* 2022: 3020.78993991017
 
 # World Bank - Sri Lanka Data International tourism receipts (current US$)
 
@@ -50342,6 +50415,9 @@
 * 2020: 0.213804572820663
 * 2021: 0.220166966319084
 * 2022: 0.213799729943275
+
+# World Bank - Sri Lanka Data Net bilateral aid flows from DAC donors Estonia (current US$)
+
 
 # World Bank - Sri Lanka Data HFC gas emissions (thousand metric tons of CO2 equivalent)
 

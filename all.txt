@@ -5176,6 +5176,14 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net official flows from UN agencies SDGFUND (current US$)
+2021	-149399.995803833
+2022	249999.0016222
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Personal remittances paid (current US$)
 1995	12638366.8558
 1996	12364707.5787
@@ -5205,6 +5213,12 @@ World Bank - Sri Lanka Data Personal remittances paid (current US$)
 2020	1042200001.07553
 2021	343600000
 2022	364930002.331941
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Net official flows from UN agencies UNCTAD (current US$)
 
 Source: world_bank
 Frequency: Annual
@@ -9145,6 +9159,14 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net official flows from UN agencies WTO-ITC (current US$)
+2021	21091.9994860888
+2022	55523.0006575584
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Coverage of social protection and labor programs (Pct. of population)
 2006	35.6110513078798
 2009	29.8317368717497
@@ -9447,6 +9469,15 @@ World Bank - Sri Lanka Data Methane emissions (Pct. change from 1990)
 2010	1.01440842097948
 2011	2.02455250518929
 2012	3.03469658939908
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Multidimensional poverty headcount ratio (World Bank) (Pct. of population)
+2012	3.5
+2016	1.7
+2019	1.1
 
 Source: world_bank
 Frequency: Annual
@@ -13394,6 +13425,13 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net official flows from UN agencies UNCOVID (current US$)
+2022	-71215.6668305397
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Trained teachers in upper secondary education male (Pct. of male teachers)
 2017	77.8013763427734
 2018	74.796272277832
@@ -13660,6 +13698,13 @@ World Bank - Sri Lanka Data Poverty gap at $3.65 a day (2017 PPP) (Pct.)
 2012	4.4
 2016	2.7
 2019	2.1
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Net official flows from UN agencies UNIDO (current US$)
+2020	38952.5406062603
 
 Source: world_bank
 Frequency: Annual
@@ -28867,6 +28912,14 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net official flows from UN agencies SPRP (current US$)
+2021	312999.993562698
+2022	17248.6007213593
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Employment to population ratio ages 15-24 male (Pct.) (national estimate)
 2010	38.381
 2011	39.314
@@ -29749,6 +29802,12 @@ World Bank - Sri Lanka Data Export volume index (2015 = 100)
 2019	114.8175185163
 2020	103.9935241915
 2021	118.2973877085
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Net official flows from UN agencies UNCDF (current US$)
 
 Source: world_bank
 Frequency: Annual
@@ -34460,6 +34519,14 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net official flows from UN agencies CERF (current US$)
+2017	7196272.85003662
+2022	5000000
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Secondary education teachers female
 1992	63687
 1993	67864
@@ -38322,6 +38389,21 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Poverty headcount ratio at societal poverty line (Pct. of population)
+1985	35.6
+1990	33.1
+1995	33.3
+2002	33.6
+2006	28.9
+2009	25.9
+2012	25.1
+2016	23.9
+2019	23
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Demand for family planning satisfied by modern methods (Pct. of married women with demand for family planning)
 
 Source: world_bank
@@ -41793,6 +41875,13 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Multidimensional poverty headcount ratio (UNDP) (Pct. of population)
+2016	2.9
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Persistence to last grade of primary male (Pct. of cohort)
 1982	91.1325302124023
 1985	92.2343368530273
@@ -44686,6 +44775,21 @@ Source: world_bank
 Frequency: Annual
 --------------------------------
 
+World Bank - Sri Lanka Data Net bilateral aid flows from DAC donors Lithuania (current US$)
+2009	29999.9993294477
+2010	29999.9993294477
+2011	39999.9991059303
+2015	0
+2016	9999.99977648258
+2017	9999.99977648258
+2018	0
+2021	0
+2022	0
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
 World Bank - Sri Lanka Data Travel services (Pct. of commercial service imports)
 1975	1.63111668757478
 1976	2.87769784173678
@@ -46004,6 +46108,14 @@ Frequency: Annual
 
 World Bank - Sri Lanka Data Completeness of birth registration female (Pct.)
 2007	97
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Net official flows from UN agencies UNWOMEN (current US$)
+2021	39657.00045228
+2022	3020.78993991017
 
 Source: world_bank
 Frequency: Annual
@@ -55249,6 +55361,12 @@ World Bank - Sri Lanka Data Regulatory Quality_ Standard Error
 2020	0.213804572820663
 2021	0.220166966319084
 2022	0.213799729943275
+
+Source: world_bank
+Frequency: Annual
+--------------------------------
+
+World Bank - Sri Lanka Data Net bilateral aid flows from DAC donors Estonia (current US$)
 
 Source: world_bank
 Frequency: Annual
@@ -110429,7 +110547,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-10', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Public administration and defense_ compulsory social secur
