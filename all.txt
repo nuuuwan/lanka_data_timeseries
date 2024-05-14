@@ -69102,12 +69102,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-01	78.93
 2024-02	81.48
 2024-03	84.57
+2024-04	88.99
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Batticaloa-Class C
@@ -69602,8 +69603,9 @@ Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoAr
 --------------------------------
 
 Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
-2023	-6.4
-2024	-4.38
+2023-12	-6.4
+2024-01	-4.38
+2024-02	0.6
 
 Source: cbsl
 Frequency: Monthly
@@ -79750,13 +79752,14 @@ Agriculture-Fish Production Marine Fish Production
 2023-10	26985
 2023-11	27980
 2023-12	25910
-2024-01	24.42
+2024-01	25.4
+2024-02	27.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-15', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water
@@ -81473,8 +81476,9 @@ Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statist
 --------------------------------
 
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
-2023	-48.9
-2024	-13.95
+2023-12	-48.9
+2024-01	18.6
+2024-02	-20.8
 
 Source: cbsl
 Frequency: Monthly
@@ -92919,12 +92923,13 @@ Agriculture-Coconut Coconut Production
 2023-11	264.81
 2023-12	254.08
 2024-01	245.59
+2024-02	260.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-15', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Revenue
@@ -104132,12 +104137,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-01	73.64
 2024-02	76.53
 2024-03	80.23
+2024-04	84.47
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Return on Assets (ROA) – After tax
@@ -106849,8 +106855,9 @@ Footnotes: {'Sector': 'Financial', 'Source': 'CBSL Website', 'GeoArea': 'Distric
 --------------------------------
 
 Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
-2023	0.5
-2024	1.64
+2023-12	0.5
+2024-01	1.64
+2024-02	6.6
 
 Source: cbsl
 Frequency: Monthly
@@ -112866,12 +112873,13 @@ Agriculture-Tea Tea Production
 2023-11	19.59
 2023-12	19.81
 2024-01	18.73
+2024-02	20.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-15', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - External Demand - Exports of Goods and Services
@@ -116168,13 +116176,14 @@ Agriculture-Rubber Rubber Production
 2023-10	3.74
 2023-11	3.5
 2023-12	3.4
-2024-01	5.59
+2024-01	7.7
+2024-02	4.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-15', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Payment Data-Switch(CAS) or Common ATM Total Volume of financial transactions through Common ATM Switch (CAS)
@@ -121665,12 +121674,13 @@ Agriculture-Fish Production Inland Fish Production
 2023-11	10540
 2023-12	10000
 2024-01	10.9
+2024-02	6.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-15', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change

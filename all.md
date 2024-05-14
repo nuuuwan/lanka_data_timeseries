@@ -61920,6 +61920,7 @@
 * 2024-01: 78.93
 * 2024-02: 81.48
 * 2024-03: 84.57
+* 2024-04: 88.99
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Class C
 
@@ -62307,8 +62308,9 @@
 
 # Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 
-* 2023: -6.4
-* 2024: -4.38
+* 2023-12: -6.4
+* 2024-01: -4.38
+* 2024-02: 0.6
 
 # Health-Personel No.of Medical Offices - Total
 
@@ -70741,7 +70743,8 @@
 * 2023-10: 26985
 * 2023-11: 27980
 * 2023-12: 25910
-* 2024-01: 24.42
+* 2024-01: 25.4
+* 2024-02: 27.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water
 
@@ -72114,8 +72117,9 @@
 
 # Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 
-* 2023: -48.9
-* 2024: -13.95
+* 2023-12: -48.9
+* 2024-01: 18.6
+* 2024-02: -20.8
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Tobacco products - Change
 
@@ -81757,6 +81761,7 @@
 * 2023-11: 264.81
 * 2023-12: 254.08
 * 2024-01: 245.59
+* 2024-02: 260.7
 
 # Central Government Finance-Central Government Revenue Revenue
 
@@ -91135,6 +91140,7 @@
 * 2024-01: 73.64
 * 2024-02: 76.53
 * 2024-03: 80.23
+* 2024-04: 84.47
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Return on Assets (ROA) – After tax
 
@@ -93500,8 +93506,9 @@
 
 # Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 
-* 2023: 0.5
-* 2024: 1.64
+* 2023-12: 0.5
+* 2024-01: 1.64
+* 2024-02: 6.6
 
 # Transport-Road Network Road Kilometerage-Kegalle-Total
 
@@ -98597,6 +98604,7 @@
 * 2023-11: 19.59
 * 2023-12: 19.81
 * 2024-01: 18.73
+* 2024-02: 20.0
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - External Demand - Exports of Goods and Services
 
@@ -101438,7 +101446,8 @@
 * 2023-10: 3.74
 * 2023-11: 3.5
 * 2023-12: 3.4
-* 2024-01: 5.59
+* 2024-01: 7.7
+* 2024-02: 4.5
 
 # Payment Data-Switch(CAS) or Common ATM Total Volume of financial transactions through Common ATM Switch (CAS)
 
@@ -105993,6 +106002,7 @@
 * 2023-11: 10540
 * 2023-12: 10000
 * 2024-01: 10.9
+* 2024-02: 6.7
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change
 
