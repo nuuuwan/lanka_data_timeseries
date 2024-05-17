@@ -11668,12 +11668,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2023-12	8239.5
 2024-01	8240.1
 2024-02	8240.9
+2024-03	8240.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-07', 'Update frequency': 'Two months'}
 --------------------------------
 
 Payment Data-Cheques Total Value of Cheques returned
@@ -15486,12 +15487,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	176.2
 2024-01	179.1
 2024-02	179.3
+2024-03	180.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Credit Cards Credit Card - Total Number of Active Cards
@@ -20165,12 +20167,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	6.5
 2024-01	7.2
 2024-02	7.0
+2024-03	6.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Sabaragamuwa
@@ -24488,12 +24491,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2023-12	91.6
 2024-01	89.0
 2024-02	89.1
+2024-03	90.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2024-03-28', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2024-05-07', 'Update frequency': 'Two months'}
 --------------------------------
 
 Central Government Finance-Central Government Expenditure Recurrent Expenditure
@@ -25644,12 +25648,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2023-12	0.0
 2024-01	10.6
 2024-02	10.6
+2024-03	10.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ratnapura-Class B
@@ -28134,12 +28139,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	173.7
 2024-01	176.7
 2024-02	179.0
+2024-03	178.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Expressways
@@ -29189,12 +29195,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2023-12	133.1
 2024-01	147.2
 2024-02	147.2
+2024-03	147.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Printing and reproduction of recorded media
@@ -29401,12 +29408,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	175.3
 2024-01	177.9
 2024-02	179.2
+2024-03	179.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops GREEN GRAM Production
@@ -42428,12 +42436,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	7.0
 2024-01	8.5
 2024-02	8.7
+2024-03	8.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets KILINOCHCHI
@@ -42591,12 +42600,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	175.8
 2024-01	178.0
 2024-02	179.3
+2024-03	178.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks KANDY
@@ -45897,12 +45907,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	3.6
 2024-01	5.3
 2024-02	6.1
+2024-03	5.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Electricity
@@ -63115,12 +63126,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2023-12	5.9
 2024-01	7.0
 2024-02	7.1
+2024-03	6.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - General public services
@@ -67711,12 +67723,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2023-12	56.7
 2024-01	60.9
 2024-02	61.1
+2024-03	62.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-03-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Debt Statistics External Debt Statistics (EDS) - Outstanding Total External Debt

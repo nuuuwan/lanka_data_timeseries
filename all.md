@@ -9595,6 +9595,7 @@
 * 2023-12: 8239.5
 * 2024-01: 8240.1
 * 2024-02: 8240.9
+* 2024-03: 8240.8
 
 # Payment Data-Cheques Total Value of Cheques returned
 
@@ -12701,6 +12702,7 @@
 * 2023-12: 176.2
 * 2024-01: 179.1
 * 2024-02: 179.3
+* 2024-03: 180.6
 
 # Banking Sector-Credit Cards Credit Card - Total Number of Active Cards
 
@@ -16737,6 +16739,7 @@
 * 2023-12: 6.5
 * 2024-01: 7.2
 * 2024-02: 7.0
+* 2024-03: 6.0
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Sabaragamuwa
 
@@ -20491,6 +20494,7 @@
 * 2023-12: 91.6
 * 2024-01: 89.0
 * 2024-02: 89.1
+* 2024-03: 90.8
 
 # Central Government Finance-Central Government Expenditure Recurrent Expenditure
 
@@ -21509,6 +21513,7 @@
 * 2023-12: 0.0
 * 2024-01: 10.6
 * 2024-02: 10.6
+* 2024-03: 10.6
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Class B
 
@@ -23613,6 +23618,7 @@
 * 2023-12: 173.7
 * 2024-01: 176.7
 * 2024-02: 179.0
+* 2024-03: 178.5
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Expressways
 
@@ -24509,6 +24515,7 @@
 * 2023-12: 133.1
 * 2024-01: 147.2
 * 2024-02: 147.2
+* 2024-03: 147.2
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Printing and reproduction of recorded media
 
@@ -24680,6 +24687,7 @@
 * 2023-12: 175.3
 * 2024-01: 177.9
 * 2024-02: 179.2
+* 2024-03: 179.0
 
 # Agriculture-Subsidiary Food Crops GREEN GRAM Production
 
@@ -35674,6 +35682,7 @@
 * 2023-12: 7.0
 * 2024-01: 8.5
 * 2024-02: 8.7
+* 2024-03: 8.7
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets KILINOCHCHI
 
@@ -35807,6 +35816,7 @@
 * 2023-12: 175.8
 * 2024-01: 178.0
 * 2024-02: 179.3
+* 2024-03: 178.6
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -38538,6 +38548,7 @@
 * 2023-12: 3.6
 * 2024-01: 5.3
 * 2024-02: 6.1
+* 2024-03: 5.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Electricity
 
@@ -52856,6 +52867,7 @@
 * 2023-12: 5.9
 * 2024-01: 7.0
 * 2024-02: 7.1
+* 2024-03: 6.5
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - General public services
 
@@ -56613,6 +56625,7 @@
 * 2023-12: 56.7
 * 2024-01: 60.9
 * 2024-02: 61.1
+* 2024-03: 62.4
 
 # Central Government Finance-Debt Statistics External Debt Statistics (EDS) - Outstanding Total External Debt
 
