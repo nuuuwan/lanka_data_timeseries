@@ -11,15 +11,15 @@
     "Source": "Sri Lanka Tea Board",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2024-04-26",
+    "Data last updated": "2024-05-17",
     "Update frequency": "Two months after the end of the month"
   },
   "summary_statistics": {
-    "n": 302,
+    "n": 303,
     "min_t": "1990-01-01",
-    "max_t": "2024-02-01",
+    "max_t": "2024-03-01",
     "min_value": 18,
-    "max_value": 20.0
+    "max_value": 19.6
   },
   "cleaned_data": {
     "1990-01-01": 18,
@@ -323,7 +323,8 @@
     "2023-11-01": 19.59,
     "2023-12-01": 19.81,
     "2024-01-01": 18.73,
-    "2024-02-01": 20.0
+    "2024-02-01": 20.0,
+    "2024-03-01": 19.6
   },
   "raw_data": {
     "1965-Jan": " ",
@@ -1036,7 +1037,7 @@
     "2023-Dec": "19.81",
     "2024-Jan": "18.73",
     "2024-Feb": "20.00",
-    "2024-Mar": " ",
+    "2024-Mar": "19.60",
     "2024-Apr": " ",
     "2024-May": " ",
     "2024-Jun": " ",
