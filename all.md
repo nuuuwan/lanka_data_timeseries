@@ -5626,6 +5626,7 @@
 * 2023-12: -6.4
 * 2024-01: -4.38
 * 2024-02: 0.6
+* 2024-03: 2.8
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Staff Cost to Operating Expenses
 
@@ -6913,7 +6914,8 @@
 
 * 2023-12: -48.9
 * 2024-01: 18.6
-* 2024-02: -20.8
+* 2024-02: -17.2
+* 2024-03: -29.7
 
 # Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 
@@ -19922,6 +19924,7 @@
 * 2023-12: 0.5
 * 2024-01: 1.64
 * 2024-02: 6.6
+* 2024-03: -12.1
 
 # Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
 
@@ -22484,6 +22487,7 @@
 * 2023-12: 254.08
 * 2024-01: 245.59
 * 2024-02: 260.7
+* 2024-03: 282.0
 
 # Transport-Road Network Road Kilometerage-Puttalam-Class B
 
@@ -27158,8 +27162,9 @@
 * 2023-10: 11290
 * 2023-11: 10540
 * 2023-12: 10000
-* 2024-01: 10.9
+* 2024-01: 13.7
 * 2024-02: 6.7
+* 2024-03: 7.4
 
 # Banking Sector-All Banks Banking Sector- Other Deposits
 
@@ -43446,6 +43451,7 @@
 * 2023-12: 25910
 * 2024-01: 25.4
 * 2024-02: 27.4
+* 2024-03: 26.3
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class E
 
@@ -48283,7 +48289,8 @@
 * 2023-11: 3.5
 * 2023-12: 3.4
 * 2024-01: 7.7
-* 2024-02: 4.5
+* 2024-02: 4.7
+* 2024-03: 4.6
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets AMPARA
 
@@ -51220,6 +51227,7 @@
 * 2023-12: 19.81
 * 2024-01: 18.73
 * 2024-02: 20.0
+* 2024-03: 19.6
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-North Central
 

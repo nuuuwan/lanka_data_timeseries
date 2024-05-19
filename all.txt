@@ -6866,6 +6866,7 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2023-12	-6.4
 2024-01	-4.38
 2024-02	0.6
+2024-03	2.8
 
 Source: cbsl
 Frequency: Monthly
@@ -8516,7 +8517,8 @@ Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'D
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2023-12	-48.9
 2024-01	18.6
-2024-02	-20.8
+2024-02	-17.2
+2024-03	-29.7
 
 Source: cbsl
 Frequency: Monthly
@@ -23854,6 +23856,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2023-12	0.5
 2024-01	1.64
 2024-02	6.6
+2024-03	-12.1
 
 Source: cbsl
 Frequency: Monthly
@@ -26773,12 +26776,13 @@ Agriculture-Coconut Coconut Production
 2023-12	254.08
 2024-01	245.59
 2024-02	260.7
+2024-03	282.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Puttalam-Class B
@@ -32291,14 +32295,15 @@ Agriculture-Fish Production Inland Fish Production
 2023-10	11290
 2023-11	10540
 2023-12	10000
-2024-01	10.9
+2024-01	13.7
 2024-02	6.7
+2024-03	7.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Other Deposits
@@ -51776,12 +51781,13 @@ Agriculture-Fish Production Marine Fish Production
 2023-12	25910
 2024-01	25.4
 2024-02	27.4
+2024-03	26.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Vavuniya-Class E
@@ -57529,13 +57535,14 @@ Agriculture-Rubber Rubber Production
 2023-11	3.5
 2023-12	3.4
 2024-01	7.7
-2024-02	4.5
+2024-02	4.7
+2024-03	4.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets AMPARA
@@ -61104,12 +61111,13 @@ Agriculture-Tea Tea Production
 2023-12	19.81
 2024-01	18.73
 2024-02	20.0
+2024-03	19.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-17', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-North Central
