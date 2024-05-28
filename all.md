@@ -9769,6 +9769,10 @@
 * 2023-10: 26755467880
 * 2023-11: 21765737291
 * 2023-12: 20303942638
+* 2024-01: 23705650480
+* 2024-02: 19623835549
+* 2024-03: 20018083512
+* 2024-04: 25038897457
 
 # Agriculture-Subsidiary Food Crops LONG BEAN Production
 
@@ -12041,6 +12045,10 @@
 * 2023-10: 8678192
 * 2023-11: 8671094
 * 2023-12: 9781594
+* 2024-01: 9128285
+* 2024-02: 9070386
+* 2024-03: 9812110
+* 2024-04: 9593528
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Sabaragamuwa
 
@@ -12950,6 +12958,10 @@
 * 2023-10: 14108973
 * 2023-11: 14237904
 * 2023-12: 15570186
+* 2024-01: 14777147
+* 2024-02: 14457977
+* 2024-03: 16123726
+* 2024-04: 15272523
 
 # Industry and Housing-Index of Industrial Production Other non-metallic mineral products - Change
 
@@ -13209,6 +13221,10 @@
 * 2023-10: 4860431
 * 2023-11: 4739356
 * 2023-12: 7006530
+* 2024-01: 5075059
+* 2024-02: 4654135
+* 2024-03: 4851151
+* 2024-04: 5724205
 
 # Industry and Housing-Electricity Sales Electricity Sales-Units-Sabaragamuwa-Total
 
@@ -17770,6 +17786,10 @@
 * 2023-10: 105714853300
 * 2023-11: 106588379600
 * 2023-12: 126648242300
+* 2024-01: 115434576200
+* 2024-02: 114127170100
+* 2024-03: 126441900600
+* 2024-04: 129148072800
 
 # Agriculture-Subsidiary Food Crops SORGHUM Production
 
@@ -18268,6 +18288,10 @@
 * 2023-10: 6288
 * 2023-11: 6068
 * 2023-12: 5257
+* 2024-01: 5956
+* 2024-02: 5946
+* 2024-03: 5916
+* 2024-04: 5670
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water - Water
 
@@ -21777,6 +21801,10 @@
 * 2023-10: 1147704600999
 * 2023-11: 1184160488614
 * 2023-12: 1280293860161
+* 2024-01: 1211668109327
+* 2024-02: 1228241711890
+* 2024-03: 1334397428549
+* 2024-04: 1659947950324
 
 # Banking Sector-All Banks Banking Sector- Number of Banks NUWARA ELIYA
 
@@ -24380,6 +24408,10 @@
 * 2023-10: 33785816
 * 2023-11: 33692785
 * 2023-12: 36165513
+* 2024-01: 33135566
+* 2024-02: 37581717
+* 2024-03: 37299560
+* 2024-04: 39470253
 
 # Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water
 
@@ -40622,6 +40654,10 @@
 * 2023-10: 3310941
 * 2023-11: 3089584
 * 2023-12: 2971869
+* 2024-01: 3326074
+* 2024-02: 3016148
+* 2024-03: 3017201
+* 2024-04: 3262350
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Northern
 
@@ -42679,6 +42715,10 @@
 * 2023-10: 104005
 * 2023-11: 87482
 * 2023-12: 85324
+* 2024-01: 89864
+* 2024-02: 79027
+* 2024-03: 82652
+* 2024-04: 98956
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - Central
 
@@ -45326,6 +45366,10 @@
 * 2023-10: 296851534538
 * 2023-11: 294639882685
 * 2023-12: 326421860304
+* 2024-01: 308066261236
+* 2024-02: 294545738373
+* 2024-03: 305039967932
+* 2024-04: 349088099883
 
 # Transport-Private Bus Services Private Bus Services-Seating Capacity-All Island
 
@@ -46104,6 +46148,10 @@
 * 2023-10: 929193090488
 * 2023-11: 914967809315
 * 2023-12: 917005743061
+* 2024-01: 1008469107911
+* 2024-02: 967108023327
+* 2024-03: 918297849307
+* 2024-04: 1014390746391
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Interest Expenses
 
@@ -47421,6 +47469,10 @@
 * 2023-10: 28358159816023
 * 2023-11: 27598326761875
 * 2023-12: 26415653959367
+* 2024-01: 28301783026156
+* 2024-02: 27951396168857
+* 2024-03: 30092023035659
+* 2024-04: 36154937582809
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Textiles
 
@@ -54483,6 +54535,10 @@
 * 2023-10: 57186
 * 2023-11: 57038
 * 2023-12: 54927
+* 2024-01: 56362
+* 2024-02: 51575
+* 2024-03: 46952
+* 2024-04: 45422
 
 # Transport-Road Network Road Kilometerage-Ampara-Total
 
