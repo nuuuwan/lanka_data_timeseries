@@ -492,6 +492,7 @@
 * 2023-11: 2511.98
 * 2023-12: 2720.56
 * 2024-01: 257.57
+* 2024-02: 597.78
 
 # Education-General Education General education - Primary net enrolment ratio
 
@@ -567,6 +568,7 @@
 * 2023-10: 11463920
 * 2023-11: 11507235
 * 2023-12: 11644094
+* 2024-01: 11335786.28
 
 # International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Assets
 
@@ -9138,6 +9140,7 @@
 * 2023-10: 3762873
 * 2023-11: 3918853
 * 2023-12: 4017035
+* 2024-01: 4036676.68
 
 # Transport-Road Network Road Kilometerage-Hambantota-Total
 
@@ -12559,6 +12562,7 @@
 * 2023-11: 2771.36
 * 2023-12: 3074.32
 * 2024-01: 283.19
+* 2024-02: 647.35
 
 # Industry and Housing-Index of Industrial Production Chemicals and chemical products - Change
 
@@ -17143,6 +17147,7 @@
 * 2023-10: 16630774
 * 2023-11: 16681675
 * 2023-12: 17051854
+* 2024-01: 17256556.64
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets MONARAGALA
 
@@ -17222,6 +17227,7 @@
 * 2024-02: 392.82
 * 2024-03: 380.52
 * 2024-04: 372.44
+* 2024-05: 384.08
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Provision for Bad and Doubtful Debts and Loan Write-offs (net)
 
@@ -18349,6 +18355,7 @@
 * 2023-11: 498.91
 * 2023-12: 656.91
 * 2024-01: 54.97
+* 2024-02: 85.55
 
 # Central Government Finance-Central Government Expenditure Central Governmnet Expenditure - Total Expenditure and Net Lending
 
@@ -20562,6 +20569,7 @@
 * 2023-11: 4292.75
 * 2023-12: 4699.68
 * 2024-01: 395.09
+* 2024-02: 691.09
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva
 
@@ -23221,6 +23229,7 @@
 * 2023-11: 4791.66
 * 2023-12: 5356.59
 * 2024-01: 450.06
+* 2024-02: 776.64
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Services - Banking Insurance and Real Estate etc.
 
@@ -29673,6 +29682,7 @@
 * 2023-10: 0
 * 2023-11: 0
 * 2023-12: 0
+* 2024-01: 0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches HAMBANTOTA
 
@@ -29793,6 +29803,7 @@
 * 2023-10: 11951184
 * 2023-11: 11880382
 * 2023-12: 12002337
+* 2024-01: 12204884
 
 # Agriculture-Coconut Estimated Coconut Production - Northern
 
@@ -33048,6 +33059,7 @@
 * 2023-11: 2757.98
 * 2023-12: 3048.82
 * 2024-01: 283.13
+* 2024-02: 647.1
 
 # Transport-Road Network Road Kilometerage-Uva-Class A
 
@@ -33508,6 +33520,7 @@
 * 2024-02: 310.15
 * 2024-03: 301.18
 * 2024-04: 296.86
+* 2024-05: 301.89
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks PUTTALAM
 
@@ -40935,6 +40948,7 @@
 * 2023-11: -2020.3
 * 2023-12: -2282.27
 * 2024-01: -166.87
+* 2024-02: -129.29
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Investments
 
@@ -41939,6 +41953,7 @@
 * 2023-10: 28094693
 * 2023-11: 28188909
 * 2023-12: 28695949
+* 2024-01: 28592342.92
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Gross Value Added (GVA) at Basic Price
 
@@ -42407,6 +42422,7 @@
 * 2023-11: 331.42
 * 2023-12: 173.33
 * 2024-01: 70.68
+* 2024-02: 268.94
 
 # Agriculture-Subsidiary Food Crops ASH PLANTAIN Production
 
@@ -50689,6 +50705,7 @@
 * 2023-11: 13.38
 * 2023-12: 25.5
 * 2024-01: 0.06
+* 2024-02: 0.25
 
 # International Investment Position-Overall International Investment Position (IIP) - Assets
 
@@ -52985,6 +53002,7 @@
 * 2023-11: 246.01
 * 2023-12: 328.26
 * 2024-01: 25.55
+* 2024-02: 49.32
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches PUTTALAM
 
