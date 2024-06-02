@@ -57161,12 +57161,13 @@ Petroleum-Average Crude Oil Prices CPC Import Prices
 2024-01	91.48
 2024-02	81.33
 2024-03	82.76
+2024-04	86.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-04-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - Uva
@@ -58154,12 +58155,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-02	76.53
 2024-03	80.23
 2024-04	84.47
+2024-05	78.97
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing Water Electricity Gas and ot
@@ -59713,12 +59715,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-02	81.48
 2024-03	84.57
 2024-04	88.99
+2024-05	83.28
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - Savings Deposits Rates_Max

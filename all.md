@@ -47951,6 +47951,7 @@
 * 2024-01: 91.48
 * 2024-02: 81.33
 * 2024-03: 82.76
+* 2024-04: 86.0
 
 # Agriculture-Tea No. of Tea Factories - Uva
 
@@ -48825,6 +48826,7 @@
 * 2024-02: 76.53
 * 2024-03: 80.23
 * 2024-04: 84.47
+* 2024-05: 78.97
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing Water Electricity Gas and ot
 
@@ -50057,6 +50059,7 @@
 * 2024-02: 81.48
 * 2024-03: 84.57
 * 2024-04: 88.99
+* 2024-05: 83.28
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - Savings Deposits Rates_Max
 
