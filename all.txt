@@ -14061,12 +14061,13 @@ Payment Data-Automated Teller Machines(ATMs) Total Volume of financial transacti
 2023-03	95063435
 2023-06	97350134
 2023-09	100104527
+2023-12	103491636
 
 Source: cbsl
 Frequency: Quarterly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCBs, LSBs, FCs', 'GeoArea': 'National', 'Note': 'Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers', 'Data last updated': '2024-02-16', 'Update frequency': '15 th day of second immediate quarter'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCBs, LSBs, FCs', 'GeoArea': 'National', 'Note': 'Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers', 'Data last updated': '2024-05-20', 'Update frequency': '15 th day of second immediate quarter'}
 --------------------------------
 
 Tourism-Tourism Tourist Arrivals - Y-o-Y Change
@@ -15864,7 +15865,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2022-12	-39.9
 2023-01	-27.6
 2023-02	-38.6
-2023-03	-22.8
 2023-04	-27.8
 2023-05	-9.3
 2023-06	-14.9
@@ -19772,7 +19772,6 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2022-12	-34.0
 2023-01	-14.0
 2023-02	-7.4
-2023-03	-25.9
 2023-04	-40.0
 2023-05	-32.9
 2023-06	-27.7
@@ -20110,12 +20109,13 @@ Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactio
 2023-03	1527946287
 2023-06	1579733372
 2023-09	1607919802
+2023-12	1716929790
 
 Source: cbsl
 Frequency: Quarterly
 Unit: LKR
 Scale: Thousands
-Footnotes: {'Sector': 'Financial', 'Source': 'LCBs, LSBs, FCs', 'GeoArea': 'National', 'Note': 'Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers', 'Data last updated': '2024-02-16', 'Update frequency': '15 th day of second immediate quarter'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCBs, LSBs, FCs', 'GeoArea': 'National', 'Note': 'Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers', 'Data last updated': '2024-05-20', 'Update frequency': '15 th day of second immediate quarter'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Alcoholic beverages, tobacco and narcotics
@@ -27099,7 +27099,6 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2022-12	70.2
 2023-01	91.8
 2023-02	87.7
-2023-03	83.1
 2023-04	51.7
 2023-05	71.9
 2023-06	78.6
@@ -34193,7 +34192,6 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2022-11	-23.9
 2022-12	-25.3
 2023-01	-13.7
-2023-03	-15.8
 2023-04	-8.2
 2023-05	-3.1
 2023-06	-6.7
@@ -36060,12 +36058,15 @@ Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount
 2022-09	20887241812
 2022-12	21221180129
 2023-03	18228977619
+2023-06	19524139580
+2023-09	19977581003
+2023-12	20606337269
 
 Source: cbsl
 Frequency: Quarterly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CRIB', 'GeoArea': 'National', 'Note': 'Where the payment is in arrears for 90 days or more days', 'Data last updated': '2023-07-21', 'Update frequency': '15 th day of second immediate quarter'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CRIB', 'GeoArea': 'National', 'Note': 'Where the payment is in arrears for 90 days or more days', 'Data last updated': '2024-05-20', 'Update frequency': '15 th day of second immediate quarter'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - GDCF - Changes in Stocks
@@ -40844,7 +40845,6 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2019	6.5
 2020	7.2
 2021	7.1
-2022	6.1
 
 Source: cbsl
 Frequency: Annual
@@ -46449,7 +46449,6 @@ Industry and Housing-Index of Industrial Production Food products
 2022-12	90.1
 2023-01	84.4
 2023-02	87.3
-2023-03	101.4
 2023-04	89.8
 2023-05	91.1
 2023-06	87.3
@@ -57788,7 +57787,6 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2022-12	-21.5
 2023-01	-19.4
 2023-02	-7.1
-2023-03	-1.5
 2023-04	-0.7
 2023-05	1.5
 2023-06	-10.9
@@ -60755,7 +60753,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2022-12	85.8
 2023-01	98.3
 2023-02	89.8
-2023-03	101.3
 2023-04	89.6
 2023-05	90.1
 2023-06	92.7
@@ -64121,12 +64118,15 @@ Payment Data-Credit or Debit Cards Number of defaulted Credit Cards
 2022-09	201454
 2022-12	200739
 2023-03	169004
+2023-06	172705
+2023-09	173169
+2023-12	169527
 
 Source: cbsl
 Frequency: Quarterly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CRIB', 'GeoArea': 'National', 'Note': 'Where the payment is in arrears for 90 days or more days', 'Data last updated': '2023-07-21', 'Update frequency': '15 th day of second immediate quarter'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CRIB', 'GeoArea': 'National', 'Note': 'Where the payment is in arrears for 90 days or more days', 'Data last updated': '2024-05-20', 'Update frequency': '15 th day of second immediate quarter'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Tea (Gre
