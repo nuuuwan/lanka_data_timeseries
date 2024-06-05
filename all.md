@@ -18568,8 +18568,6 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
 
-* 2022-03: 47.1
-* 2022-06: 46.3
 * 2022-09: 47.2
 * 2022-12: 47.5
 * 2023-03: 47.8
@@ -37152,8 +37150,6 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Agriculture (as a Pct. of Total Employment)
 
-* 2022-03: 25.0
-* 2022-06: 26.0
 * 2022-09: 26.9
 * 2022-12: 28.2
 * 2023-03: 26.7
@@ -39436,7 +39432,6 @@
 * 2022-06: 7.8
 * 2022-09: 8.7
 * 2022-12: 7.2
-* 2023-03: 2.1
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Export Unit Value Index (1997=100)
 
@@ -43669,7 +43664,6 @@
 * 2022-06: 6.6
 * 2022-09: 6.8
 * 2022-12: 6.2
-* 2023-03: 2.6
 
 # Agriculture-Paddy Paddy Net Extent Harvested - North Central
 
@@ -51538,8 +51532,6 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Industry (as a Pct. of Total Employment)
 
-* 2022-03: 27.9
-* 2022-06: 27.7
 * 2022-09: 25.9
 * 2022-12: 24.3
 * 2023-03: 25.5
