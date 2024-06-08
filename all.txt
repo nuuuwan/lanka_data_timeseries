@@ -2979,12 +2979,13 @@ Exchange Rates-Exchange Rate Indices Nominal Effective Exchange Rate Index
 2024-01	54.65
 2024-02	56.48
 2024-03	57.75
+2024-04	59.38
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
 --------------------------------
 
 Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Small Industries
@@ -9207,12 +9208,13 @@ Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 2024-01	73.03
 2024-02	75.11
 2024-03	75.18
+2024-04	76.71
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks KILINOCHCHI
@@ -12712,12 +12714,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-02	476.2
 2024-03	572.4
 2024-04	543.8
+2024-05	544.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-10', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks GALLE
@@ -34108,12 +34111,13 @@ Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 2024-02	312.58
 2024-03	305.66
 2024-04	299.42
+2024-05	299.69
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-03', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Index of Industrial Production - change
@@ -63674,7 +63678,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-10', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Net Non-performing Advances
@@ -86960,28 +86964,28 @@ Footnotes: {'indicator_key': 'OtherGov', 'description': None, 'source': 'Capital
 --------------------------------
 
 IMF - Sri Lanka Data Reserve or (Import or 12)
-2000	1.229091759
-2001	1.575164956
-2002	1.84341446
-2003	2.130933667
-2004	1.818306691
-2005	1.961101861
-2006	1.851419494
-2007	1.862873523
-2008	1.70974577
-2009	2.93358504
-2010	2.694859386
-2011	2.588675656
-2012	2.753322845
-2013	2.699128973
-2014	2.973157318
-2015	2.59635048
-2016	1.974649529
-2017	2.470928962
-2018	2.34755351
-2019	3.485780735
-2020	2.192787891
-2021	1.359413862
+2000	1.769892133
+2001	2.268237536
+2002	2.654516823
+2003	3.06854448
+2004	2.618361634
+2005	2.82398668
+2006	2.666044071
+2007	2.682537873
+2008	2.462033908
+2009	4.224362458
+2010	3.880597516
+2011	3.727692945
+2012	3.964784896
+2013	3.88674572
+2014	4.281346538
+2015	3.738744692
+2016	2.843495322
+2017	3.558137706
+2018	3.380477054
+2019	5.019524258
+2020	3.157614563
+2021	1.957555961
 
 Source: imf
 Frequency: Annual
