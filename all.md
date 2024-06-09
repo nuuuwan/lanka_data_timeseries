@@ -6932,7 +6932,7 @@
 * 2023-02: 315.1
 * 2023-03: 503.9
 * 2023-04: 652.2
-* 2023-05: 827.8
+* 2023-05: 752.1
 * 2023-06: 875.0
 * 2023-07: 1094.0
 * 2023-08: 1304.5
@@ -6943,6 +6943,7 @@
 * 2024-02: 687.5
 * 2024-03: 1025.9
 * 2024-04: 1251.6
+* 2024-05: 1405.6
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin
 
@@ -11584,6 +11585,7 @@
 * 2024-02: 103.0
 * 2024-03: 89.4
 * 2024-04: 77.9
+* 2024-05: 71.0
 
 # Education-University Education No. of University Students Graduated - Architecture and Quantity Surveying (B.Sc.)
 
@@ -16100,7 +16102,7 @@
 * 2023-02: 161.6
 * 2023-03: 188.8
 * 2023-04: 148.2
-* 2023-05: 131.5
+* 2023-05: 100.0
 * 2023-06: 122.9
 * 2023-07: 219.0
 * 2023-08: 210.5
@@ -16112,6 +16114,7 @@
 * 2024-02: 345.7
 * 2024-03: 338.4
 * 2024-04: 225.7
+* 2024-05: 154.0
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MATALE
 
@@ -19529,6 +19532,7 @@
 * 2024-02: 218350
 * 2024-03: 209181
 * 2024-04: 148867
+* 2024-05: 112128
 
 # Agriculture-Subsidiary Food Crops LUFFA Production
 
@@ -28960,7 +28964,7 @@
 * 2023-02: 58.5
 * 2023-03: 62.2
 * 2023-04: 47.6
-* 2023-05: 40.8
+* 2023-05: 31.0
 * 2023-06: 37.0
 * 2023-07: 69.9
 * 2023-08: 67.7
@@ -28972,6 +28976,7 @@
 * 2024-02: 108.1
 * 2024-03: 103.4
 * 2024-04: 67.6
+* 2024-05: 46.1
 
 # Imports and Exports-CBSL Trade Indices (In USD terms) Merchandise Export Volume Index (2010=100)
 
@@ -30776,6 +30781,7 @@
 * 2024-02: 426603
 * 2024-03: 635784
 * 2024-04: 784651
+* 2024-05: 896779
 
 # Transport-Road Network Road Kilometerage-Matale-Class B
 
@@ -34352,7 +34358,7 @@
 * 2023-02: 114.1
 * 2023-03: 176.3
 * 2023-04: 224.0
-* 2023-05: 279.7
+* 2023-05: 255.0
 * 2023-06: 292.0
 * 2023-07: 361.9
 * 2023-08: 429.6
@@ -34363,6 +34369,7 @@
 * 2024-02: 217.8
 * 2024-03: 321.3
 * 2024-04: 388.8
+* 2024-05: 435.0
 
 # Population Statistics-Mid Year Population Crude Death Rate-All Island
 
@@ -38295,6 +38302,7 @@
 * 2024-02: 90.9
 * 2024-03: 82.2
 * 2024-04: 73.6
+* 2024-05: 70.6
 
 # Agriculture-Tea Estimated Tea Production - Central
 
