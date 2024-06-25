@@ -11,7 +11,7 @@
     "Source": "Ministry of Finance, Central Bank of Sri Lanka",
     "GeoArea": "National",
     "Note": "The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka\u2019s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.",
-    "Data last updated": "2024-05-30",
+    "Data last updated": "2024-06-24",
     "Update frequency": ""
   },
   "summary_statistics": {
@@ -19,7 +19,7 @@
     "min_t": "2021-01-01",
     "max_t": "2024-01-01",
     "min_value": 9346901.65,
-    "max_value": 17256556.64
+    "max_value": 17246603.0
   },
   "cleaned_data": {
     "2021-01-01": 9346901.65,
@@ -58,7 +58,7 @@
     "2023-10-01": 16630774,
     "2023-11-01": 16681675,
     "2023-12-01": 17051854,
-    "2024-01-01": 17256556.64
+    "2024-01-01": 17246603.0
   },
   "raw_data": {
     "1965-Jan": " ",
@@ -769,7 +769,7 @@
     "2023-Oct": "16,630,774",
     "2023-Nov": "16,681,675",
     "2023-Dec": "17,051,854",
-    "2024-Jan": "17,256,556.64",
+    "2024-Jan": "17,246,603.00",
     "2024-Feb": " ",
     "2024-Mar": " ",
     "2024-Apr": " ",
