@@ -63220,7 +63220,7 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2023-10	16630774
 2023-11	16681675
 2023-12	17051854
-2024-01	17256556.64
+2024-01	17246603.0
 
 --------------------------------
 
