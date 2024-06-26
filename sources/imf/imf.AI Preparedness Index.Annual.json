@@ -1,0 +1,29 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "AI Preparedness Index",
+  "scale": "",
+  "unit": "Index",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "AI_PI",
+    "description": "AI Preparedness Index",
+    "source": "AI Preparedness Index - April 2024",
+    "dataset": "AIPI",
+    "url": "https://www.imf.org/external/datamapper/api/v1/AI_PI/LKA"
+  },
+  "summary_statistics": {
+    "n": 1,
+    "min_t": "2023",
+    "max_t": "2023",
+    "min_value": 0.4360671415925,
+    "max_value": 0.4360671415925
+  },
+  "cleaned_data": {
+    "2023": 0.4360671415925
+  },
+  "raw_data": {
+    "2023": 0.4360671415925
+  }
+}

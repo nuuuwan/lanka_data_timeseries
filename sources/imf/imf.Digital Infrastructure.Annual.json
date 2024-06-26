@@ -1,0 +1,29 @@
+{
+  "source_id": "imf",
+  "category": "IMF - Sri Lanka Data",
+  "sub_category": "Digital Infrastructure",
+  "scale": "",
+  "unit": "Index",
+  "frequency_name": "Annual",
+  "i_subject": -1,
+  "footnotes": {
+    "indicator_key": "DI",
+    "description": "Digital Infrastructure",
+    "source": "AI Preparedness Index - April 2024",
+    "dataset": "AIPI",
+    "url": "https://www.imf.org/external/datamapper/api/v1/DI/LKA"
+  },
+  "summary_statistics": {
+    "n": 1,
+    "min_t": "2023",
+    "max_t": "2023",
+    "min_value": 0.113659709692,
+    "max_value": 0.113659709692
+  },
+  "cleaned_data": {
+    "2023": 0.113659709692
+  },
+  "raw_data": {
+    "2023": 0.113659709692
+  }
+}
