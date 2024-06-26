@@ -102940,8 +102940,7 @@
       "2023-09": 28020010,
       "2023-10": 28094693,
       "2023-11": 28188909,
-      "2023-12": 28695949,
-      "2024-01": 28592342.92
+      "2023-12": 28695949
     }
   },
   {
@@ -125217,6 +125216,15 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
+    "sub_category": "AI Preparedness Index",
+    "scale": "",
+    "cleaned_data": {
+      "2023": 0.4360671415925
+    }
+  },
+  {
+    "source_id": "imf",
+    "category": "IMF - Sri Lanka Data",
     "sub_category": "Primary net lending or borrowing (also referred as primary balance)",
     "scale": "",
     "cleaned_data": {
@@ -125733,6 +125741,15 @@
       "2012": 1186.09,
       "2013": 247.1,
       "2014": 78.65
+    }
+  },
+  {
+    "source_id": "imf",
+    "category": "IMF - Sri Lanka Data",
+    "sub_category": "Innovation and Economic Integration",
+    "scale": "",
+    "cleaned_data": {
+      "2023": 0.088010668754578
     }
   },
   {
@@ -127051,6 +127068,15 @@
   {
     "source_id": "imf",
     "category": "IMF - Sri Lanka Data",
+    "sub_category": "Human Capital and Labor Market Policies",
+    "scale": "",
+    "cleaned_data": {
+      "2023": 0.12667578458786
+    }
+  },
+  {
+    "source_id": "imf",
+    "category": "IMF - Sri Lanka Data",
     "sub_category": "Ratio of reserve or ARA metric",
     "scale": "",
     "cleaned_data": {
@@ -127184,6 +127210,24 @@
       "2020": 4.2,
       "2021": 12.1,
       "2022": 54.5
+    }
+  },
+  {
+    "source_id": "imf",
+    "category": "IMF - Sri Lanka Data",
+    "sub_category": "Digital Infrastructure",
+    "scale": "",
+    "cleaned_data": {
+      "2023": 0.113659709692
+    }
+  },
+  {
+    "source_id": "imf",
+    "category": "IMF - Sri Lanka Data",
+    "sub_category": "Regulation and Ethics",
+    "scale": "",
+    "cleaned_data": {
+      "2023": 0.10772097855806
     }
   },
   {

@@ -101097,7 +101097,6 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2023-10	28094693
 2023-11	28188909
 2023-12	28695949
-2024-01	28592342.92
 
 Source: cbsl
 Frequency: Monthly
@@ -124009,6 +124008,15 @@ Unit: Purchasing power parity; international dollars per capita
 Footnotes: {'indicator_key': 'PPPPC', 'description': 'Gross domestic product (GDP) is the most commonly used single measure of a country\'s overall economic activity. Per capita GDP represents the total value in PPP terms of final goods and services produced within a country during a specified time period divided by the average population for the same one year.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d" target="new">click here</a>', 'source': 'World Economic Outlook (April 2024)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPPC/LKA'}
 --------------------------------
 
+IMF - Sri Lanka Data AI Preparedness Index
+2023	0.4360671415925
+
+Source: imf
+Frequency: Annual
+Unit: Index
+Footnotes: {'indicator_key': 'AI_PI', 'description': 'AI Preparedness Index', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/AI_PI/LKA'}
+--------------------------------
+
 IMF - Sri Lanka Data Primary net lending or borrowing (also referred as primary balance)
 1990	-1.1389310053022
 1991	-3.1273332044105
@@ -124528,6 +124536,15 @@ Source: imf
 Frequency: Annual
 Unit: Millions of US Dollars
 Footnotes: {'indicator_key': 'OtherGov', 'description': None, 'source': 'Capital Flows in Developing Economies', 'dataset': 'CF', 'url': 'https://www.imf.org/external/datamapper/api/v1/OtherGov/LKA'}
+--------------------------------
+
+IMF - Sri Lanka Data Innovation and Economic Integration
+2023	0.088010668754578
+
+Source: imf
+Frequency: Annual
+Unit: Index
+Footnotes: {'indicator_key': 'IEI', 'description': 'Innovation and Economic Integration', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/IEI/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Overall Openness Index (all asset categories)
@@ -125842,6 +125859,15 @@ Unit: Units
 Footnotes: {'indicator_key': 'ka_ldi', 'description': 'Direct investment liquidation openness index captures the ability to transfer principal, including the initial capital and capital gains of a foreign direct investment. The index does not have sub- components. (1=fully liberalized).', 'source': 'Wang-Jahan Index', 'dataset': 'CL', 'url': 'https://www.imf.org/external/datamapper/api/v1/ka_ldi/LKA'}
 --------------------------------
 
+IMF - Sri Lanka Data Human Capital and Labor Market Policies
+2023	0.12667578458786
+
+Source: imf
+Frequency: Annual
+Unit: Index
+Footnotes: {'indicator_key': 'HCLMP', 'description': 'Human Capital and Labor Market Policies', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/HCLMP/LKA'}
+--------------------------------
+
 IMF - Sri Lanka Data Ratio of reserve or ARA metric
 2011	1.007090138
 2012	0.9528622351
@@ -125978,6 +126004,24 @@ Source: imf
 Frequency: Annual
 Unit: Annual percent change
 Footnotes: {'indicator_key': 'PCPIEPCH', 'description': "The end of period consumer price index (CPI) is a measure of a country's general level of prices based on the cost of a typical basket of consumer goods and services at the end of a given period. The rate of inflation is the percent change in the end of period CPI.\n \n", 'source': 'World Economic Outlook (April 2024)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PCPIEPCH/LKA'}
+--------------------------------
+
+IMF - Sri Lanka Data Digital Infrastructure
+2023	0.113659709692
+
+Source: imf
+Frequency: Annual
+Unit: Index
+Footnotes: {'indicator_key': 'DI', 'description': 'Digital Infrastructure', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/DI/LKA'}
+--------------------------------
+
+IMF - Sri Lanka Data Regulation and Ethics
+2023	0.10772097855806
+
+Source: imf
+Frequency: Annual
+Unit: Index
+Footnotes: {'indicator_key': 'RE', 'description': 'Regulation and Ethics', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/RE/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Reserve or (Import or 12)

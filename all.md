@@ -88976,7 +88976,6 @@
 * 2023-10: 28094693
 * 2023-11: 28188909
 * 2023-12: 28695949
-* 2024-01: 28592342.92
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Western
 
@@ -107939,6 +107938,10 @@
 * 2021: 14603.921
 * 2022: 14254.96
 
+# IMF - Sri Lanka Data AI Preparedness Index
+
+* 2023: 0.4360671415925
+
 # IMF - Sri Lanka Data Primary net lending or borrowing (also referred as primary balance)
 
 * 1990: -1.1389310053022
@@ -108394,6 +108397,10 @@
 * 2012: 1186.09
 * 2013: 247.1
 * 2014: 78.65
+
+# IMF - Sri Lanka Data Innovation and Economic Integration
+
+* 2023: 0.088010668754578
 
 # IMF - Sri Lanka Data Overall Openness Index (all asset categories)
 
@@ -109543,6 +109550,10 @@
 * 2012: 0
 * 2013: 0
 
+# IMF - Sri Lanka Data Human Capital and Labor Market Policies
+
+* 2023: 0.12667578458786
+
 # IMF - Sri Lanka Data Ratio of reserve or ARA metric
 
 * 2011: 1.007090138
@@ -109655,6 +109666,14 @@
 * 2020: 4.2
 * 2021: 12.1
 * 2022: 54.5
+
+# IMF - Sri Lanka Data Digital Infrastructure
+
+* 2023: 0.113659709692
+
+# IMF - Sri Lanka Data Regulation and Ethics
+
+* 2023: 0.10772097855806
 
 # IMF - Sri Lanka Data Reserve or (Import or 12)
 
