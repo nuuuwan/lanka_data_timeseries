@@ -56406,12 +56406,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-02	8240.9
 2024-03	8240.8
 2024-04	8239.9
+2024-05	8239.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': 'Two months'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva
@@ -85939,12 +85940,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-03	80.23
 2024-04	84.47
 2024-05	78.97
+2024-06	78.42
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Health-Personel No.of Medical Laboratory Technologists
@@ -86307,12 +86309,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	179.0
 2024-03	178.5
 2024-04	179.6
+2024-05	179.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks MONARAGALA
@@ -88762,12 +88765,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	179.2
 2024-03	179.0
 2024-04	180.5
+2024-05	180.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches HAMBANTOTA
@@ -89026,12 +89030,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-03	84.57
 2024-04	88.99
 2024-05	83.28
+2024-06	82.58
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matara-Total
@@ -96194,12 +96199,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-02	89.1
 2024-03	90.8
 2024-04	91.5
+2024-05	92.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2024-06-06', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2024-06-28', 'Update frequency': 'Two months'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Western
@@ -99762,12 +99768,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-02	61.1
 2024-03	62.4
 2024-04	69.0
+2024-05	69.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matale-Class E
@@ -100266,12 +100273,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	7.1
 2024-03	6.5
 2024-04	6.8
+2024-05	6.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Central Government Revenue - Non-Tax Revenue
@@ -106163,12 +106171,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	179.3
 2024-03	180.6
 2024-04	182.7
+2024-05	182.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings, household equipment and routine h
@@ -106308,12 +106317,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-02	10.6
 2024-03	10.6
 2024-04	21.2
+2024-05	21.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries
@@ -106997,12 +107007,13 @@ Petroleum-Average Crude Oil Prices CPC Import Prices
 2024-02	81.33
 2024-03	82.76
 2024-04	86.0
+2024-05	88.49
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-05-31', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-Units-Eastern-Total
@@ -107090,12 +107101,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	6.1
 2024-03	5.8
 2024-04	5.5
+2024-05	5.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork, ex
@@ -114149,12 +114161,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	7.0
 2024-03	6.0
 2024-04	6.3
+2024-05	5.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - General public services
@@ -114883,12 +114896,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	8.7
 2024-03	8.7
 2024-04	9.6
+2024-05	8.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture; manufacture of articles of Straw and plaiting materials
@@ -117093,12 +117107,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-02	179.3
 2024-03	178.6
 2024-04	180.0
+2024-05	180.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Specific Provision Coverage Ratio
@@ -123278,12 +123293,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-02	147.2
 2024-03	147.2
 2024-04	161.3
+2024-05	161.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Rice

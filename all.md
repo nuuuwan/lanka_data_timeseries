@@ -51566,6 +51566,7 @@
 * 2024-02: 8240.9
 * 2024-03: 8240.8
 * 2024-04: 8239.9
+* 2024-05: 8239.6
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Uva
 
@@ -76390,6 +76391,7 @@
 * 2024-03: 80.23
 * 2024-04: 84.47
 * 2024-05: 78.97
+* 2024-06: 78.42
 
 # Health-Personel No.of Medical Laboratory Technologists
 
@@ -76704,6 +76706,7 @@
 * 2024-02: 179.0
 * 2024-03: 178.5
 * 2024-04: 179.6
+* 2024-05: 179.1
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks MONARAGALA
 
@@ -78684,6 +78687,7 @@
 * 2024-02: 179.2
 * 2024-03: 179.0
 * 2024-04: 180.5
+* 2024-05: 180.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches HAMBANTOTA
 
@@ -78901,6 +78905,7 @@
 * 2024-03: 84.57
 * 2024-04: 88.99
 * 2024-05: 83.28
+* 2024-06: 82.58
 
 # Transport-Road Network Road Kilometerage-Matara-Total
 
@@ -84916,6 +84921,7 @@
 * 2024-02: 89.1
 * 2024-03: 90.8
 * 2024-04: 91.5
+* 2024-05: 92.0
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Western
 
@@ -87885,6 +87891,7 @@
 * 2024-02: 61.1
 * 2024-03: 62.4
 * 2024-04: 69.0
+* 2024-05: 69.6
 
 # Transport-Road Network Road Kilometerage-Matale-Class E
 
@@ -88347,6 +88354,7 @@
 * 2024-02: 7.1
 * 2024-03: 6.5
 * 2024-04: 6.8
+* 2024-05: 6.2
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Non-Tax Revenue
 
@@ -93309,6 +93317,7 @@
 * 2024-02: 179.3
 * 2024-03: 180.6
 * 2024-04: 182.7
+* 2024-05: 182.4
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings, household equipment and routine h
 
@@ -93430,6 +93439,7 @@
 * 2024-02: 10.6
 * 2024-03: 10.6
 * 2024-04: 21.2
+* 2024-05: 21.2
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries
 
@@ -94001,6 +94011,7 @@
 * 2024-02: 81.33
 * 2024-03: 82.76
 * 2024-04: 86.0
+* 2024-05: 88.49
 
 # Industry and Housing-Electricity Sales Electricity Sales-Units-Eastern-Total
 
@@ -94082,6 +94093,7 @@
 * 2024-02: 6.1
 * 2024-03: 5.8
 * 2024-04: 5.5
+* 2024-05: 5.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of wood and of products of wood and cork, ex
 
@@ -100011,6 +100023,7 @@
 * 2024-02: 7.0
 * 2024-03: 6.0
 * 2024-04: 6.3
+* 2024-05: 5.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - General public services
 
@@ -100584,6 +100597,7 @@
 * 2024-02: 8.7
 * 2024-03: 8.7
 * 2024-04: 9.6
+* 2024-05: 8.3
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture; manufacture of articles of Straw and plaiting materials
 
@@ -102379,6 +102393,7 @@
 * 2024-02: 179.3
 * 2024-03: 178.6
 * 2024-04: 180.0
+* 2024-05: 180.7
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Specific Provision Coverage Ratio
 
@@ -107357,6 +107372,7 @@
 * 2024-02: 147.2
 * 2024-03: 147.2
 * 2024-04: 161.3
+* 2024-05: 161.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Rice
 
