@@ -54054,6 +54054,7 @@
 * 2023-12: 3074.32
 * 2024-01: 283.19
 * 2024-02: 647.35
+* 2024-03: 916.24
 
 # Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions through Common ATM Switch (CAS)
 
@@ -57849,6 +57850,7 @@
 * 2023-12: 3048.82
 * 2024-01: 283.13
 * 2024-02: 647.1
+* 2024-03: 915.22
 
 # Electricity-Electricity Electricity - Per capita electricity consumption
 
@@ -61252,6 +61254,8 @@
 * 2023-11: 11507235
 * 2023-12: 11644094
 * 2024-01: 11335786.28
+* 2024-02: 11056930
+* 2024-03: 10720768
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Water
 
@@ -61630,6 +61634,7 @@
 * 2023-12: 5356.59
 * 2024-01: 450.06
 * 2024-02: 776.64
+* 2024-03: 1197.55
 
 # Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 
@@ -61669,7 +61674,9 @@
 * 2023-10: 16630774
 * 2023-11: 16681675
 * 2023-12: 17051854
-* 2024-01: 17246603.0
+* 2024-01: 17246603
+* 2024-02: 17206852
+* 2024-03: 17292788
 
 # Industry and Housing-Index of Industrial Production Index of Industrial Production - change
 
@@ -62310,6 +62317,7 @@
 * 2023-12: 656.91
 * 2024-01: 54.97
 * 2024-02: 85.55
+* 2024-03: 113.07
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Uva
 
@@ -62729,6 +62737,7 @@
 * 2023-12: 328.26
 * 2024-01: 25.55
 * 2024-02: 49.32
+* 2024-03: 77.83
 
 # Payment Data-Point of Sale (POS) Terminals Number of Point of Sale (POS) terminals (as at end period)
 
@@ -64586,6 +64595,7 @@
 * 2023-12: 4699.68
 * 2024-01: 395.09
 * 2024-02: 691.09
+* 2024-03: 1084.48
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Passenger Kilometers-All Island
 
@@ -75148,6 +75158,7 @@
 * 2023-12: 25.5
 * 2024-01: 0.06
 * 2024-02: 0.25
+* 2024-03: 1.02
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO
 
@@ -80474,6 +80485,8 @@
 * 2023-11: 3918853
 * 2023-12: 4017035
 * 2024-01: 4036676.68
+* 2024-02: 3976063
+* 2024-03: 3861671
 
 # Central Government Finance-Debt Statistics EDS - Other Sectors - long term
 
@@ -89203,6 +89216,7 @@
 * 2023-12: 2720.56
 * 2024-01: 257.57
 * 2024-02: 597.78
+* 2024-03: 837.4
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Total
 
@@ -89361,6 +89375,9 @@
 * 2023-10: 28094693
 * 2023-11: 28188909
 * 2023-12: 28695949
+* 2024-01: 28582389
+* 2024-02: 28263782
+* 2024-03: 28013555
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Western
 
@@ -97559,6 +97576,7 @@
 * 2023-12: -2282.27
 * 2024-01: -166.87
 * 2024-02: -129.29
+* 2024-03: -281.31
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of other nonmetallic mineral products - Change
 
@@ -104444,6 +104462,8 @@
 * 2023-11: 11880382
 * 2023-12: 12002337
 * 2024-01: 12204884
+* 2024-02: 12317486
+* 2024-03: 12447298
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Profit Before Tax
 
@@ -105162,6 +105182,8 @@
 * 2023-11: 0
 * 2023-12: 0
 * 2024-01: 0
+* 2024-02: 0
+* 2024-03: 0
 
 # Balance of Payments-Secondary Income BOP- Secondary Income (net)
 
@@ -105431,6 +105453,7 @@
 * 2023-12: 173.33
 * 2024-01: 70.68
 * 2024-02: 268.94
+* 2024-03: 315.89
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Central-Total
 
