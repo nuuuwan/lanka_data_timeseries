@@ -86914,6 +86914,7 @@
 * 2024-03: 301.18
 * 2024-04: 296.86
 * 2024-05: 301.89
+* 2024-06: 305.71
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Specific Provision for Bad and Doubtful Advances
 
@@ -96401,6 +96402,7 @@
 * 2024-03: 572.4
 * 2024-04: 543.8
 * 2024-05: 544.4
+* 2024-06: 519.6
 
 # Banking Sector-All Banks Banking Sector- Number of Branches PUTTALAM
 
@@ -100208,6 +100210,7 @@
 * 2024-03: 380.52
 * 2024-04: 372.44
 * 2024-05: 384.08
+* 2024-06: 386.23
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services (as a Pct. of Employment)
 

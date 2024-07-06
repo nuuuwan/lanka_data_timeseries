@@ -89662,6 +89662,7 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-03	301.18
 2024-04	296.86
 2024-05	301.89
+2024-06	305.71
 
 --------------------------------
 
@@ -99427,6 +99428,7 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-03	572.4
 2024-04	543.8
 2024-05	544.4
+2024-06	519.6
 
 --------------------------------
 
@@ -103370,6 +103372,7 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-03	380.52
 2024-04	372.44
 2024-05	384.08
+2024-06	386.23
 
 --------------------------------
 
