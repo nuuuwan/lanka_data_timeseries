@@ -51822,6 +51822,7 @@
 * 2024-03: 338.4
 * 2024-04: 225.7
 * 2024-05: 154.0
+* 2024-06: 151.1
 
 # Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Male
 
@@ -57751,6 +57752,7 @@
 * 2024-03: 82.2
 * 2024-04: 73.6
 * 2024-05: 70.6
+* 2024-06: 64.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Education
 
@@ -63288,6 +63290,7 @@
 * 2024-03: 321.3
 * 2024-04: 388.8
 * 2024-05: 435.0
+* 2024-06: 480.9
 
 # Transport-Port Services Port Services - Container handled
 
@@ -71567,6 +71570,7 @@
 * 2024-03: 89.4
 * 2024-04: 77.9
 * 2024-05: 71.0
+* 2024-06: 61.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Public administration and defense_ compulsory social secur
 
@@ -72698,6 +72702,7 @@
 * 2024-03: 1025.9
 * 2024-04: 1251.6
 * 2024-05: 1405.6
+* 2024-06: 1556.6
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Uva
 
@@ -79715,6 +79720,7 @@
 * 2024-03: 209181
 * 2024-04: 148867
 * 2024-05: 112128
+* 2024-06: 113470
 
 # Balance of Payments-Financial Account BOP - Other Investments- Currency and Deposits -Assets
 
@@ -90946,6 +90952,7 @@
 * 2024-03: 635784
 * 2024-04: 784651
 * 2024-05: 896779
+* 2024-06: 1010249
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - General public services
 
@@ -97488,6 +97495,7 @@
 * 2024-03: 103.4
 * 2024-04: 67.6
 * 2024-05: 46.1
+* 2024-06: 45.9
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Grants
 

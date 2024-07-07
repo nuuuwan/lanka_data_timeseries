@@ -56685,12 +56685,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-03	338.4
 2024-04	225.7
 2024-05	154.0
+2024-06	151.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Male
@@ -63758,12 +63759,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-03	82.2
 2024-04	73.6
 2024-05	70.6
+2024-06	64.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'NULL'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Education
@@ -70485,12 +70487,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-03	321.3
 2024-04	388.8
 2024-05	435.0
+2024-06	480.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
 --------------------------------
 
 Transport-Port Services Port Services - Container handled
@@ -80103,12 +80106,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-03	89.4
 2024-04	77.9
 2024-05	71.0
+2024-06	61.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'NULL'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Public administration and defense_ compulsory social secur
@@ -81494,12 +81498,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-03	1025.9
 2024-04	1251.6
 2024-05	1405.6
+2024-06	1556.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Uva
@@ -89888,12 +89893,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-03	209181
 2024-04	148867
 2024-05	112128
+2024-06	113470
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Currency and Deposits -Assets
@@ -103417,12 +103423,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2024-03	635784
 2024-04	784651
 2024-05	896779
+2024-06	1010249
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - General public services
@@ -111092,12 +111099,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-03	103.4
 2024-04	67.6
 2024-05	46.1
+2024-06	45.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Central Government Revenue - Grants
