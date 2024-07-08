@@ -55726,6 +55726,7 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2024-01	283.19
 2024-02	647.35
 2024-03	916.24
+2024-04	1218.07
 
 --------------------------------
 
@@ -59643,6 +59644,7 @@ Central Government Finance-Central Government Revenue Revenue
 2024-01	283.13
 2024-02	647.1
 2024-03	915.22
+2024-04	1216.03
 
 --------------------------------
 
@@ -63565,6 +63567,7 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2024-01	450.06
 2024-02	776.64
 2024-03	1197.55
+2024-04	1579.17
 
 --------------------------------
 
@@ -64268,6 +64271,7 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2024-01	54.97
 2024-02	85.55
 2024-03	113.07
+2024-04	159.9
 
 --------------------------------
 
@@ -64706,6 +64710,7 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2024-01	25.55
 2024-02	49.32
 2024-03	77.83
+2024-04	98.27
 
 --------------------------------
 
@@ -66613,6 +66618,7 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2024-01	395.09
 2024-02	691.09
 2024-03	1084.48
+2024-04	1419.26
 
 --------------------------------
 
@@ -77493,6 +77499,7 @@ Central Government Finance-Central Government Revenue Grants
 2024-01	0.06
 2024-02	0.25
 2024-03	1.02
+2024-04	2.04
 
 --------------------------------
 
@@ -92031,6 +92038,7 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2024-01	257.57
 2024-02	597.78
 2024-03	837.4
+2024-04	1117.76
 
 --------------------------------
 
@@ -100654,6 +100662,7 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2024-01	-166.87
 2024-02	-129.29
 2024-03	-281.31
+2024-04	-361.1
 
 --------------------------------
 
@@ -108838,6 +108847,7 @@ Central Government Finance-Central Government Revenue Primary Balance
 2024-01	70.68
 2024-02	268.94
 2024-03	315.89
+2024-04	365.02
 
 --------------------------------
 

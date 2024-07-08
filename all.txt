@@ -59373,12 +59373,13 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2024-01	283.19
 2024-02	647.35
 2024-03	916.24
+2024-04	1218.07
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions through Common ATM Switch (CAS)
@@ -63884,12 +63885,13 @@ Central Government Finance-Central Government Revenue Revenue
 2024-01	283.13
 2024-02	647.1
 2024-03	915.22
+2024-04	1216.03
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Electricity-Electricity Electricity - Per capita electricity consumption
@@ -68489,12 +68491,13 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2024-01	450.06
 2024-02	776.64
 2024-03	1197.55
+2024-04	1579.17
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
@@ -69291,12 +69294,13 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2024-01	54.97
 2024-02	85.55
 2024-03	113.07
+2024-04	159.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Uva
@@ -69818,12 +69822,13 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2024-01	25.55
 2024-02	49.32
 2024-03	77.83
+2024-04	98.27
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Point of Sale (POS) Terminals Number of Point of Sale (POS) terminals (as at end period)
@@ -71962,12 +71967,13 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2024-01	395.09
 2024-02	691.09
 2024-03	1084.48
+2024-04	1419.26
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Passenger Kilometers-All Island
@@ -84401,12 +84407,13 @@ Central Government Finance-Central Government Revenue Grants
 2024-01	0.06
 2024-02	0.25
 2024-03	1.02
+2024-04	2.04
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO
@@ -101297,12 +101304,13 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2024-01	257.57
 2024-02	597.78
 2024-03	837.4
+2024-04	1117.76
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Mullaitivu-Total
@@ -111209,12 +111217,13 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2024-01	-166.87
 2024-02	-129.29
 2024-03	-281.31
+2024-04	-361.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of other nonmetallic mineral products - Change
@@ -120347,7 +120356,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Social protection
@@ -120904,12 +120913,13 @@ Central Government Finance-Central Government Revenue Primary Balance
 2024-01	70.68
 2024-02	268.94
 2024-03	315.89
+2024-04	365.02
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-04', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Central-Total

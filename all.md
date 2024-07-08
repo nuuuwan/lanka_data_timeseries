@@ -54056,6 +54056,7 @@
 * 2024-01: 283.19
 * 2024-02: 647.35
 * 2024-03: 916.24
+* 2024-04: 1218.07
 
 # Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions through Common ATM Switch (CAS)
 
@@ -57853,6 +57854,7 @@
 * 2024-01: 283.13
 * 2024-02: 647.1
 * 2024-03: 915.22
+* 2024-04: 1216.03
 
 # Electricity-Electricity Electricity - Per capita electricity consumption
 
@@ -61637,6 +61639,7 @@
 * 2024-01: 450.06
 * 2024-02: 776.64
 * 2024-03: 1197.55
+* 2024-04: 1579.17
 
 # Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 
@@ -62320,6 +62323,7 @@
 * 2024-01: 54.97
 * 2024-02: 85.55
 * 2024-03: 113.07
+* 2024-04: 159.9
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Uva
 
@@ -62740,6 +62744,7 @@
 * 2024-01: 25.55
 * 2024-02: 49.32
 * 2024-03: 77.83
+* 2024-04: 98.27
 
 # Payment Data-Point of Sale (POS) Terminals Number of Point of Sale (POS) terminals (as at end period)
 
@@ -64599,6 +64604,7 @@
 * 2024-01: 395.09
 * 2024-02: 691.09
 * 2024-03: 1084.48
+* 2024-04: 1419.26
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Passenger Kilometers-All Island
 
@@ -75164,6 +75170,7 @@
 * 2024-01: 0.06
 * 2024-02: 0.25
 * 2024-03: 1.02
+* 2024-04: 2.04
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO
 
@@ -89224,6 +89231,7 @@
 * 2024-01: 257.57
 * 2024-02: 597.78
 * 2024-03: 837.4
+* 2024-04: 1117.76
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Total
 
@@ -97587,6 +97595,7 @@
 * 2024-01: -166.87
 * 2024-02: -129.29
 * 2024-03: -281.31
+* 2024-04: -361.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of other nonmetallic mineral products - Change
 
@@ -105465,6 +105474,7 @@
 * 2024-01: 70.68
 * 2024-02: 268.94
 * 2024-03: 315.89
+* 2024-04: 365.02
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Central-Total
 
