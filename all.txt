@@ -5818,8 +5818,9 @@ Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2023-12	-48.9
 2024-01	20.6
 2024-02	-17.2
-2024-03	-18.7
-2024-04	-19.1
+2024-03	-14.4
+2024-04	-19.0
+2024-05	-27.0
 
 Source: cbsl
 Frequency: Monthly
@@ -14624,6 +14625,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-02	6.6
 2024-03	-12.1
 2024-04	-14.5
+2024-05	-7.4
 
 Source: cbsl
 Frequency: Monthly
@@ -29695,14 +29697,15 @@ Agriculture-Fish Production Marine Fish Production
 2023-12	25910
 2024-01	25.4
 2024-02	27.4
-2024-03	26.8
-2024-04	24.3
+2024-03	26.9
+2024-04	24.8
+2024-05	20.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Public order and safety
@@ -32436,12 +32439,13 @@ Agriculture-Tea Tea Production
 2024-02	20.0
 2024-03	19.6
 2024-04	21.5
+2024-05	24.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops COCOYAM Production
@@ -34938,14 +34942,15 @@ Agriculture-Rubber Rubber Production
 2023-12	3.4
 2024-01	7.8
 2024-02	4.7
-2024-03	5.3
+2024-03	5.6
 2024-04	5.1
+2024-05	4.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other beverage crops
@@ -41870,14 +41875,15 @@ Agriculture-Fish Production Inland Fish Production
 2023-12	10000
 2024-01	13.7
 2024-02	7.3
-2024-03	7.4
-2024-04	7.6
+2024-03	7.9
+2024-04	8.1
+2024-05	8.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks PUTTALAM
@@ -48661,10 +48667,11 @@ Footnotes: {'Sector': 'Financial', 'Source': 'CBSL Website', 'GeoArea': 'Nationa
 
 Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2023-12	-6.4
-2024-01	-4.38
-2024-02	0.6
-2024-03	2.8
+2024-01	-3.5
+2024-02	0.5
+2024-03	2.9
 2024-04	-0.7
+2024-05	-0.5
 
 Source: cbsl
 Frequency: Monthly
@@ -66997,16 +67004,17 @@ Agriculture-Coconut Coconut Production
 2023-10	268.08
 2023-11	264.81
 2023-12	254.08
-2024-01	245.59
-2024-02	260.7
-2024-03	282.0
+2024-01	248.0
+2024-02	260.5
+2024-03	282.4
 2024-04	253.5
+2024-05	268.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-06-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
