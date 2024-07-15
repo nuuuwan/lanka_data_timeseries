@@ -14160,6 +14160,7 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2024-01	12204884
 2024-02	12317486
 2024-03	12447298
+2024-04	12531970
 
 --------------------------------
 
@@ -35964,6 +35965,7 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2024-01	28582389
 2024-02	28263782
 2024-03	28013555
+2024-04	27844800
 
 --------------------------------
 
@@ -38075,6 +38077,7 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2024-01	0
 2024-02	0
 2024-03	0
+2024-04	0
 
 --------------------------------
 
@@ -52928,6 +52931,7 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2024-01	4036676.68
 2024-02	3976063
 2024-03	3861671
+2024-04	3854246
 
 --------------------------------
 
@@ -59433,6 +59437,7 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2024-01	11335786.28
 2024-02	11056930
 2024-03	10720768
+2024-04	10531977
 
 --------------------------------
 
@@ -61186,6 +61191,7 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2024-01	17246603
 2024-02	17206852
 2024-03	17292788
+2024-04	17312823
 
 --------------------------------
 

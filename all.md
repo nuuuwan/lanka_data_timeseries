@@ -13701,6 +13701,7 @@
 * 2024-01: 12204884
 * 2024-02: 12317486
 * 2024-03: 12447298
+* 2024-04: 12531970
 
 # Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons
 
@@ -34837,6 +34838,7 @@
 * 2024-01: 28582389
 * 2024-02: 28263782
 * 2024-03: 28013555
+* 2024-04: 27844800
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Minor Export Crops
 
@@ -36879,6 +36881,7 @@
 * 2024-01: 0
 * 2024-02: 0
 * 2024-03: 0
+* 2024-04: 0
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products
 
@@ -51228,6 +51231,7 @@
 * 2024-01: 4036676.68
 * 2024-02: 3976063
 * 2024-03: 3861671
+* 2024-04: 3854246
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe
 
@@ -57559,6 +57563,7 @@
 * 2024-01: 11335786.28
 * 2024-02: 11056930
 * 2024-03: 10720768
+* 2024-04: 10531977
 
 # Education-General Education General education - Private - Teachers
 
@@ -59245,6 +59250,7 @@
 * 2024-01: 17246603
 * 2024-02: 17206852
 * 2024-03: 17292788
+* 2024-04: 17312823
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BADULLA
 
