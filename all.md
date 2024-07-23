@@ -5266,6 +5266,7 @@
 * 2023-06: 59581847
 * 2023-09: 65030348
 * 2023-12: 68940404
+* 2024-03: 71244105
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Advances
 
@@ -5587,6 +5588,7 @@
 * 2023-06: 168135776751
 * 2023-09: 178696659844
 * 2023-12: 201694975767
+* 2024-03: 200101659472
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -11292,6 +11294,7 @@
 * 2023-06: 172705
 * 2023-09: 173169
 * 2023-12: 169527
+* 2024-03: 164752
 
 # Transport-Road Network Road Kilometerage-Eastern-Class C
 
@@ -18307,6 +18310,7 @@
 * 2023-06: 2858372817230
 * 2023-09: 3280780870115
 * 2023-12: 3409234160491
+* 2024-03: 3532704175222
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Industry (as a Pct. of Employment)
 
@@ -18468,6 +18472,7 @@
 * 2023-06: 18597972
 * 2023-09: 18359467
 * 2023-12: 20401187
+* 2024-03: 19059434
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Southern
 
@@ -20198,6 +20203,7 @@
 * 2023-06: 265741066
 * 2023-09: 309781706
 * 2023-12: 356277114
+* 2024-03: 403403445
 
 # Transport-Road Network Road Kilometerage-Anuradhapura-Class B
 
@@ -22966,6 +22972,7 @@
 * 2023-06: 1294
 * 2023-09: 1212
 * 2023-12: 1049
+* 2024-03: 747
 
 # International Investment Position-Portfolio Investment IIP- Portfolio Investment - Assets
 
@@ -23189,6 +23196,7 @@
 * 2023-06: 1144131
 * 2023-09: 1024459
 * 2023-12: 1189667
+* 2024-03: 1276281
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Housing, water, electricity, gas and other fuels
 
@@ -23944,6 +23952,7 @@
 * 2023-06: 20416737
 * 2023-09: 20644428
 * 2023-12: 22303280
+* 2024-03: 21440689
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central
 
@@ -37632,6 +37641,7 @@
 * 2023-06: 311828022
 * 2023-09: 338923286
 * 2023-12: 392927249
+* 2024-03: 394467640
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Tax Revenue
 
@@ -41433,6 +41443,7 @@
 * 2023-06: 3218471000
 * 2023-09: 3388669000
 * 2023-12: 3587432000
+* 2024-03: 3689363000
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Central
 
@@ -45568,6 +45579,7 @@
 * 2023-06: 3897
 * 2023-09: 3856
 * 2023-12: 3813
+* 2024-03: 3766
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Operated Kilometers-All Island
 
@@ -47791,6 +47803,7 @@
 * 2023-06: 19524139580
 * 2023-09: 19977581003
 * 2023-12: 20606337269
+* 2024-03: 19965997350
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MANNER
 
@@ -48515,6 +48528,7 @@
 * 2023-06: 97350134
 * 2023-09: 100104527
 * 2023-12: 103491636
+* 2024-03: 104498535
 
 # Education-Performance in Examinations Performance of Candidates-School candidates sat for GCE (O-L)
 
@@ -48597,6 +48611,7 @@
 * 2023-06: 44844576
 * 2023-09: 48827914
 * 2023-12: 54068519
+* 2024-03: 55525901
 
 # Transport-Road Network Road Kilometerage-Jaffna-Class C
 
@@ -50220,6 +50235,7 @@
 * 2023-06: 109271
 * 2023-09: 111205
 * 2023-12: 114011
+* 2024-03: 116386
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Individual consumption expenditure of general go
 
@@ -53119,6 +53135,7 @@
 * 2023-06: 2010143
 * 2023-09: 1989403
 * 2023-12: 1987857
+* 2024-03: 1889579
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern
 
@@ -54993,6 +55010,7 @@
 * 2023-06: 65840177
 * 2023-09: 68541147
 * 2023-12: 77446897
+* 2024-03: 77818785
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Export Volume Index (1997=100)
 
@@ -55153,6 +55171,7 @@
 * 2023-06: 137824403067
 * 2023-09: 142369046068
 * 2023-12: 162647476683
+* 2024-03: 154307659813
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Machinery and equipment and weapons systems
 
@@ -56720,6 +56739,7 @@
 * 2023-06: 1579733372
 * 2023-09: 1607919802
 * 2023-12: 1716929790
+* 2024-03: 1879059385
 
 # Transport-Road Network Road Kilometerage-Puttalam-Class E
 
@@ -57315,6 +57335,7 @@
 * 2023-06: 43726
 * 2023-09: 56140
 * 2023-12: 55675
+* 2024-03: 51052
 
 # Payment Data-Real Time Gross Settlement (RTGS) Total Value of Real Time Gross Settlement (RTGS) Transactions
 
