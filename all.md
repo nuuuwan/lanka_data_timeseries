@@ -63664,6 +63664,8 @@
 * 2024-02: 79027
 * 2024-03: 82652
 * 2024-04: 98956
+* 2024-05: 95361
+* 2024-06: 83588
 
 # Education-General Education Government schools - School density
 
@@ -65629,6 +65631,8 @@
 * 2024-02: 114127170100
 * 2024-03: 126441900600
 * 2024-04: 129148072800
+* 2024-05: 120484073300
+* 2024-06: 122037180800
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Other Banking Outlets
 
@@ -67219,6 +67223,8 @@
 * 2024-02: 9070386
 * 2024-03: 9812110
 * 2024-04: 9593528
+* 2024-05: 9481862
+* 2024-06: 9564610
 
 # Transport-Road Network Road Kilometerage-Northern-Class E
 
@@ -71450,6 +71456,8 @@
 * 2024-02: 37581717
 * 2024-03: 37299560
 * 2024-04: 39470253
+* 2024-05: 41128146
+* 2024-06: 35137995
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Construction
 
@@ -72201,6 +72209,8 @@
 * 2024-02: 294545738373
 * 2024-03: 305039967932
 * 2024-04: 349088099883
+* 2024-05: 313842149853
+* 2024-06: 315571751715
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Small Industries
 
@@ -74551,6 +74561,8 @@
 * 2024-02: 1228241711890
 * 2024-03: 1334397428549
 * 2024-04: 1659947950324
+* 2024-05: 1382413403251
+* 2024-06: 1323046258388
 
 # Payment Data-SWIFT Domestic SWIFT Traffic (in Transactions)
 
@@ -81330,6 +81342,8 @@
 * 2024-02: 14457977
 * 2024-03: 16123726
 * 2024-04: 15272523
+* 2024-05: 16131144
+* 2024-06: 16222655
 
 # Transport-Road Network Road Kilometerage-North Western-Class C
 
@@ -84352,6 +84366,8 @@
 * 2024-02: 51575
 * 2024-03: 46952
 * 2024-04: 45422
+* 2024-05: 47127
+* 2024-06: 44164
 
 # Education-University Education Eligible for university admission as a percentage of number sat for GCE (A or L)
 
@@ -86159,6 +86175,8 @@
 * 2024-02: 4654135
 * 2024-03: 4851151
 * 2024-04: 5724205
+* 2024-05: 4429837
+* 2024-06: 5201005
 
 # Agriculture-Subsidiary Food Crops COCOYAM Production
 
@@ -89687,6 +89705,8 @@
 * 2024-02: 3016148
 * 2024-03: 3017201
 * 2024-04: 3262350
+* 2024-05: 3061250
+* 2024-06: 2736884
 
 # Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
 
@@ -109143,6 +109163,8 @@
 * 2024-02: 19623835549
 * 2024-03: 20018083512
 * 2024-04: 25038897457
+* 2024-05: 24848530263
+* 2024-06: 19622929310
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Capital Base
 
@@ -113194,6 +113216,8 @@
 * 2024-02: 967108023327
 * 2024-03: 918297849307
 * 2024-04: 1014390746391
+* 2024-05: 983178411489
+* 2024-06: 825158544166
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Total
 
@@ -116200,6 +116224,8 @@
 * 2024-02: 5946
 * 2024-03: 5916
 * 2024-04: 5670
+* 2024-05: 6103
+* 2024-06: 5240
 
 # Central Government Finance-Central Government Expenditure Central Governmnet Expenditure - Recurrent Expenditure
 
@@ -117417,6 +117443,8 @@
 * 2024-02: 27951396168857
 * 2024-03: 30092023035659
 * 2024-04: 36154937582809
+* 2024-05: 35574790754691
+* 2024-06: 33478395284133
 
 # Banking Sector-All Banks Banking Sector- Return on Assets (ROA)– Before tax
 
