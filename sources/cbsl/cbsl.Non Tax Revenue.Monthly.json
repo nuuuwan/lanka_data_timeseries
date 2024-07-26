@@ -11,15 +11,15 @@
     "Source": "Ministry of Finance, Central Bank of Sri Lanka",
     "GeoArea": "National",
     "Note": "Figures are reported on a cumulative basis for the financial year",
-    "Data last updated": "2024-07-04",
+    "Data last updated": "2024-07-25",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 40,
+    "n": 41,
     "min_t": "2021-01-01",
-    "max_t": "2024-04-01",
+    "max_t": "2024-05-01",
     "min_value": 8.08,
-    "max_value": 98.27
+    "max_value": 125.53
   },
   "cleaned_data": {
     "2021-01-01": 8.08,
@@ -61,7 +61,8 @@
     "2024-01-01": 25.55,
     "2024-02-01": 49.32,
     "2024-03-01": 77.83,
-    "2024-04-01": 98.27
+    "2024-04-01": 98.27,
+    "2024-05-01": 125.53
   },
   "raw_data": {
     "1965-Jan": " ",
@@ -776,7 +777,7 @@
     "2024-Feb": "49.32",
     "2024-Mar": "77.83",
     "2024-Apr": "98.27",
-    "2024-May": " ",
+    "2024-May": "125.53",
     "2024-Jun": " ",
     "2024-Jul": " ",
     "2024-Aug": " ",
