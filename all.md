@@ -63907,6 +63907,7 @@
 * 2024-02: 49.32
 * 2024-03: 77.83
 * 2024-04: 98.27
+* 2024-05: 125.53
 
 # International Investment Position-Direct Investment IIP - Direct Investment - Liabilities
 
@@ -66284,6 +66285,7 @@
 * 2024-02: 12317486
 * 2024-03: 12447298
 * 2024-04: 12531970
+* 2024-05: 12651218
 
 # Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Terminal transactions during the period
 
@@ -67549,6 +67551,7 @@
 * 2024-02: 268.94
 * 2024-03: 315.89
 * 2024-04: 365.02
+* 2024-05: 554.24
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Total
 
@@ -74397,6 +74400,7 @@
 * 2024-02: 11056930
 * 2024-03: 10720768
 * 2024-04: 10531977
+* 2024-05: 10713316
 
 # Central Government Finance-Debt Statistics EDS - Other Sectors - long term
 
@@ -79390,6 +79394,7 @@
 * 2024-02: 28263782
 * 2024-03: 28013555
 * 2024-04: 27844800
+* 2024-05: 28062823
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Total
 
@@ -82591,6 +82596,7 @@
 * 2024-02: 17206852
 * 2024-03: 17292788
 * 2024-04: 17312823
+* 2024-05: 17349507
 
 # Transport-Road Network Road Kilometerage-Matale-Class E
 
@@ -96805,6 +96811,7 @@
 * 2024-02: 776.64
 * 2024-03: 1197.55
 * 2024-04: 1579.17
+* 2024-05: 1986.04
 
 # Agriculture-Fish Production Inland Fish Production - All Island
 
@@ -99882,6 +99889,7 @@
 * 2024-02: 85.55
 * 2024-03: 113.07
 * 2024-04: 159.9
+* 2024-05: 193.22
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Machinery & equipment
 
@@ -107603,6 +107611,7 @@
 * 2024-02: 0.25
 * 2024-03: 1.02
 * 2024-04: 2.04
+* 2024-05: 2.45
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Vegetabl
 
@@ -108182,6 +108191,7 @@
 * 2024-02: 3976063
 * 2024-03: 3861671
 * 2024-04: 3854246
+* 2024-05: 3828576
 
 # Industry and Housing-Index of Industrial Production Beverages - Change
 
@@ -113451,6 +113461,7 @@
 * 2024-02: 647.1
 * 2024-03: 915.22
 * 2024-04: 1216.03
+* 2024-05: 1616.78
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Eastern
 
@@ -113519,6 +113530,7 @@
 * 2024-02: 0
 * 2024-03: 0
 * 2024-04: 0
+* 2024-05: 0
 
 # Central Government Finance-Central Government Revenue General Government Revenue - Tax Revenue
 
@@ -116838,6 +116850,7 @@
 * 2024-02: -129.29
 * 2024-03: -281.31
 * 2024-04: -361.1
+* 2024-05: -366.8
 
 # Population Statistics-Mid-Year Population by Province Mid Year Population-North Central
 
@@ -117664,6 +117677,7 @@
 * 2024-02: 597.78
 * 2024-03: 837.4
 * 2024-04: 1117.76
+* 2024-05: 1491.25
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Other manufacturing, and Repair and installation of mach
 
@@ -117760,6 +117774,7 @@
 * 2024-02: 647.35
 * 2024-03: 916.24
 * 2024-04: 1218.07
+* 2024-05: 1619.23
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets ANURADHAPURA
 
@@ -117840,6 +117855,7 @@
 * 2024-02: 691.09
 * 2024-03: 1084.48
 * 2024-04: 1419.26
+* 2024-05: 1792.82
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Rubber
 
