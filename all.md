@@ -65188,6 +65188,7 @@
 * 2024-03: 179.0
 * 2024-04: 180.5
 * 2024-05: 180.7
+* 2024-06: 180.6
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Non-interest Income
 
@@ -69848,6 +69849,7 @@
 * 2024-03: 178.6
 * 2024-04: 180.0
 * 2024-05: 180.7
+* 2024-06: 179.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Capital Funds
 
@@ -72544,6 +72546,7 @@
 * 2024-03: 6.0
 * 2024-04: 6.3
 * 2024-05: 5.9
+* 2024-06: 5.4
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Expressways
 
@@ -82870,6 +82873,7 @@
 * 2024-03: 5.8
 * 2024-04: 5.5
 * 2024-05: 5.3
+* 2024-06: 6.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity, Gas and Water - Water
 
@@ -91239,6 +91243,7 @@
 * 2024-03: 8240.8
 * 2024-04: 8239.9
 * 2024-05: 8239.6
+* 2024-06: 8239.3
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Savings Deposits
 
@@ -94396,6 +94401,7 @@
 * 2024-03: 8.7
 * 2024-04: 9.6
 * 2024-05: 8.3
+* 2024-06: 6.8
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Uva
 
@@ -104505,6 +104511,7 @@
 * 2024-03: 90.8
 * 2024-04: 91.5
 * 2024-05: 92.0
+* 2024-06: 91.3
 
 # Imports and Exports-CBSL Trade Indices (In USD terms) Merchandise Import Unit Value Index (2010=100)
 
@@ -105077,6 +105084,7 @@
 * 2024-03: 10.6
 * 2024-04: 21.2
 * 2024-05: 21.2
+* 2024-06: 21.2
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Western
 
@@ -107452,6 +107460,7 @@
 * 2024-03: 180.6
 * 2024-04: 182.7
 * 2024-05: 182.4
+* 2024-06: 182.5
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks RATNAPURA
 
@@ -109366,6 +109375,7 @@
 * 2024-03: 147.2
 * 2024-04: 161.3
 * 2024-05: 161.3
+* 2024-06: 161.3
 
 # Agriculture-Minor Export Crops COCOA Production
 
@@ -110979,6 +110989,7 @@
 * 2024-03: 178.5
 * 2024-04: 179.6
 * 2024-05: 179.1
+* 2024-06: 181.0
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -112359,6 +112370,7 @@
 * 2024-03: 6.5
 * 2024-04: 6.8
 * 2024-05: 6.2
+* 2024-06: 5.9
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
@@ -118057,6 +118069,7 @@
 * 2024-03: 62.4
 * 2024-04: 69.0
 * 2024-05: 69.6
+* 2024-06: 69.0
 
 # Banking Sector-All Banks Banking Sector- Deposits
 
