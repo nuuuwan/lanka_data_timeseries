@@ -9768,6 +9768,7 @@
 * 2024-03: 82.76
 * 2024-04: 86.0
 * 2024-05: 88.49
+* 2024-06: 92.88
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Uva
 
@@ -10654,6 +10655,7 @@
 * 2022-12: -39.9
 * 2023-01: -27.6
 * 2023-02: -38.6
+* 2023-03: -23.2
 * 2023-04: -27.8
 * 2023-05: -9.3
 * 2023-06: -14.9
@@ -10664,6 +10666,10 @@
 * 2023-11: -2.3
 * 2023-12: 6.9
 * 2024-01: -14.2
+* 2024-02: 0.2
+* 2024-03: 6.0
+* 2024-04: -9.1
+* 2024-05: 4.2
 
 # International Investment Position-Direct Investment IIP - Direct Investment - Liabilities
 
@@ -12513,6 +12519,7 @@
 * 2022-11: -9.0
 * 2022-12: -12.1
 * 2023-01: -6.4
+* 2023-02: -19.2
 * 2023-03: -33.2
 * 2023-04: -30.5
 * 2023-05: -19.0
@@ -12524,6 +12531,10 @@
 * 2023-11: -11.0
 * 2023-12: -7.2
 * 2024-01: -3.9
+* 2024-02: 6.9
+* 2024-03: 8.2
+* 2024-04: 9.1
+* 2024-05: -9.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)
 
@@ -14433,6 +14444,10 @@
 * 2023-11: 106.2
 * 2023-12: 114.2
 * 2024-01: 92.1
+* 2024-02: 178.9
+* 2024-03: 108.7
+* 2024-04: 106.2
+* 2024-05: 86.6
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Credit to Total Deposits
 
@@ -14516,6 +14531,7 @@
 * 2024-04: 88.99
 * 2024-05: 83.28
 * 2024-06: 82.58
+* 2024-07: 84.14
 
 # Health-Health Statistics Government sector western medicine - Hospitals
 
@@ -19892,6 +19908,10 @@
 * 2023-11: -2.7
 * 2023-12: 9.1
 * 2024-01: 18.7
+* 2024-02: 2.2
+* 2024-03: -4.1
+* 2024-04: -7.7
+* 2024-05: 5.9
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Class C
 
@@ -22358,6 +22378,9 @@
 * 2022-11: -23.9
 * 2022-12: -25.3
 * 2023-01: -13.7
+* 2023-02: -16.8
+* 2023-03: -16.1
+* 2023-04: -8.4
 * 2023-05: -3.1
 * 2023-06: -6.7
 * 2023-07: 7.2
@@ -22367,6 +22390,10 @@
 * 2023-11: 10.8
 * 2023-12: 8.8
 * 2024-01: 2.9
+* 2024-02: 11.2
+* 2024-03: 8.7
+* 2024-04: 10.3
+* 2024-05: 6.8
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class B
 
@@ -23542,6 +23569,7 @@
 * 2024-04: 84.47
 * 2024-05: 78.97
 * 2024-06: 78.42
+* 2024-07: 80.85
 
 # Transport-Road Network Road Kilometerage-Nuwara Eliya-Expressways
 
@@ -32784,6 +32812,8 @@
 * 2022-12: 90.1
 * 2023-01: 84.4
 * 2023-02: 87.3
+* 2023-03: 100.5
+* 2023-04: 89.5
 * 2023-05: 91.1
 * 2023-06: 87.3
 * 2023-07: 95.1
@@ -32793,6 +32823,10 @@
 * 2023-11: 91.9
 * 2023-12: 85.4
 * 2024-01: 96.4
+* 2024-02: 87.9
+* 2024-03: 105.8
+* 2024-04: 98.7
+* 2024-05: 105.7
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Other
 
@@ -37061,6 +37095,7 @@
 * 2022-12: -34.0
 * 2023-01: -14.0
 * 2023-02: -7.4
+* 2023-03: -26.0
 * 2023-04: -40.0
 * 2023-05: -32.9
 * 2023-06: -27.7
@@ -37071,6 +37106,10 @@
 * 2023-11: -2.6
 * 2023-12: 9.1
 * 2024-01: -1.6
+* 2024-02: 5.3
+* 2024-03: 15.0
+* 2024-04: 39.0
+* 2024-05: 19.6
 
 # Education-University Education Eligible for university admission as a percentage of number sat for GCE (A or L)
 
@@ -37298,6 +37337,10 @@
 * 2023-11: 6871.8
 * 2023-12: 210.1
 * 2024-01: -8.7
+* 2024-02: 119.8
+* 2024-03: 42.6
+* 2024-04: -0.1
+* 2024-05: -15.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of paper and paper products - Change
 
@@ -43492,6 +43535,7 @@
 * 2022-12: 85.8
 * 2023-01: 98.3
 * 2023-02: 89.8
+* 2023-03: 100.7
 * 2023-04: 89.6
 * 2023-05: 90.1
 * 2023-06: 92.7
@@ -43502,6 +43546,10 @@
 * 2023-11: 100.1
 * 2023-12: 91.7
 * 2024-01: 84.3
+* 2024-02: 90.0
+* 2024-03: 106.7
+* 2024-04: 81.4
+* 2024-05: 93.9
 
 # Agriculture-Fish Production Inland Fish Production - All Island
 
@@ -47246,6 +47294,10 @@
 * 2023-11: 131.1
 * 2023-12: 130.4
 * 2024-01: 119.6
+* 2024-02: 111.2
+* 2024-03: 135.9
+* 2024-04: 109.0
+* 2024-05: 121.9
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Demand Deposits
 
@@ -50389,6 +50441,10 @@
 * 2023-11: 66.0
 * 2023-12: 64.8
 * 2024-01: 66.5
+* 2024-02: 85.8
+* 2024-03: 85.3
+* 2024-04: 79.2
+* 2024-05: 83.5
 
 # Agriculture-Subsidiary Food Crops GINGELLY Production
 
@@ -53053,6 +53109,7 @@
 * 2022-12: 70.2
 * 2023-01: 91.8
 * 2023-02: 87.7
+* 2023-03: 83.0
 * 2023-04: 51.7
 * 2023-05: 71.9
 * 2023-06: 78.6
@@ -53063,6 +53120,10 @@
 * 2023-11: 80.9
 * 2023-12: 76.5
 * 2024-01: 90.3
+* 2024-02: 92.4
+* 2024-03: 95.5
+* 2024-04: 71.8
+* 2024-05: 86.0
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MATALE
 
@@ -57209,6 +57270,10 @@
 * 2023-11: -1.0
 * 2023-12: 1.6
 * 2024-01: 1.9
+* 2024-02: 15.4
+* 2024-03: 14.1
+* 2024-04: 7.0
+* 2024-05: 17.8
 
 # International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
 
@@ -58231,6 +58296,8 @@
 * 2022-12: -21.5
 * 2023-01: -19.4
 * 2023-02: -7.1
+* 2023-03: -2.3
+* 2023-04: -1.1
 * 2023-05: 1.5
 * 2023-06: -10.9
 * 2023-07: 7.7
@@ -58240,6 +58307,10 @@
 * 2023-11: 10.3
 * 2023-12: -5.2
 * 2024-01: 14.1
+* 2024-02: 0.7
+* 2024-03: 5.3
+* 2024-04: 10.2
+* 2024-05: 16.0
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Transport and Communication - Transport
 
@@ -59405,6 +59476,7 @@
 * 2022-11: 96.5
 * 2022-12: 90.2
 * 2023-01: 95.5
+* 2023-02: 79.6
 * 2023-03: 74.0
 * 2023-04: 67.4
 * 2023-05: 88.8
@@ -59416,6 +59488,10 @@
 * 2023-11: 85.9
 * 2023-12: 83.7
 * 2024-01: 91.8
+* 2024-02: 85.1
+* 2024-03: 80.1
+* 2024-04: 73.5
+* 2024-05: 80.0
 
 # Banking Sector-All Banks Banking Sector- Number of Banks GALLE
 
