@@ -4926,6 +4926,8 @@
 * 2023-03: 2090
 * 2023-06: 2104
 * 2023-09: 2001
+* 2023-12: 1977
+* 2024-03: 1950
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - GDCF - Gross Domestic Fixed Capital Formation - Private
 
@@ -6844,6 +6846,10 @@
 * 2022-06: 6.6
 * 2022-09: 6.8
 * 2022-12: 6.2
+* 2023-03: 5.0
+* 2023-06: 6.8
+* 2023-09: 6.0
+* 2023-12: 6.1
 
 # Transport-Road Network Road Kilometerage-Gampaha-Class A
 
@@ -7405,6 +7411,9 @@
 * 2022-12: 17230
 * 2023-03: 17233
 * 2023-06: 17412
+* 2023-09: 17227
+* 2023-12: 17354
+* 2024-03: 17575
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit  or  Surplus
 
@@ -18276,6 +18285,8 @@
 * 2023-03: 3.4
 * 2023-06: 4.1
 * 2023-09: 3.7
+* 2023-12: 3.1
+* 2024-03: 3.1
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Class D
 
@@ -29665,6 +29676,8 @@
 * 2023-03: 32.7
 * 2023-06: 31.1
 * 2023-09: 32.0
+* 2023-12: 29.4
+* 2024-03: 29.6
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates National Savings Bank - One Year Fixed Deposit Rates
 
@@ -32108,6 +32121,8 @@
 * 2023-03: 4.7
 * 2023-06: 5.2
 * 2023-09: 4.7
+* 2023-12: 4.3
+* 2024-03: 4.5
 
 # Transport-Road Network Road Kilometerage-Trincomalee-Class D
 
@@ -32200,6 +32215,8 @@
 * 2023-03: 3922
 * 2023-06: 3852
 * 2023-09: 3973
+* 2023-12: 3767
+* 2024-03: 3912
 
 # Transport-Private Bus Services Private Bus Services-Seating Capacity-All Island
 
@@ -34609,11 +34626,15 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Industry (as a Pct. of Total Employment)
 
+* 2022-03: 27.9
+* 2022-06: 27.7
 * 2022-09: 25.9
 * 2022-12: 24.3
 * 2023-03: 25.5
 * 2023-06: 26.3
 * 2023-09: 25.0
+* 2023-12: 25.3
+* 2024-03: 24.7
 
 # Agriculture-Paddy Paddy Net Extent Harvested - Southern
 
@@ -40150,6 +40171,8 @@
 * 2023-03: 2188
 * 2023-06: 2058
 * 2023-09: 2032
+* 2023-12: 2075
+* 2024-03: 2040
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Branches GAMPAHA
 
@@ -42270,6 +42293,8 @@
 * 2023-03: 8600
 * 2023-06: 8458
 * 2023-09: 8405
+* 2023-12: 8170
+* 2024-03: 8275
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Food products - Change
 
@@ -42496,6 +42521,8 @@
 * 2023-03: 8200
 * 2023-06: 8014
 * 2023-09: 8006
+* 2023-12: 7819
+* 2024-03: 7902
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing - Cottage Industry
 
@@ -48379,6 +48406,8 @@
 * 2023-03: 7.0
 * 2023-06: 7.4
 * 2023-09: 6.7
+* 2023-12: 6.8
+* 2024-03: 7.4
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Economic affairs
 
@@ -48594,6 +48623,8 @@
 * 2023-03: 49.9
 * 2023-06: 48.6
 * 2023-09: 48.8
+* 2023-12: 47.1
+* 2024-03: 47.1
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - GCF - GFCF - Transport equipment
 
@@ -51070,11 +51101,15 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Agriculture (as a Pct. of Total Employment)
 
+* 2022-03: 25.0
+* 2022-06: 26.0
 * 2022-09: 26.9
 * 2022-12: 28.2
 * 2023-03: 26.7
 * 2023-06: 25.7
 * 2023-09: 25.4
+* 2023-12: 26.5
+* 2024-03: 25.8
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Central
 
@@ -51528,6 +51563,8 @@
 * 2023-03: 400
 * 2023-06: 444
 * 2023-09: 399
+* 2023-12: 351
+* 2024-03: 373
 
 # Agriculture-Minor Export Crops CARDAMOMS Production
 
@@ -52822,11 +52859,15 @@
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
 
+* 2022-03: 47.1
+* 2022-06: 46.3
 * 2022-09: 47.2
 * 2022-12: 47.5
 * 2023-03: 47.8
 * 2023-06: 48.1
 * 2023-09: 49.6
+* 2023-12: 48.2
+* 2024-03: 49.5
 
 # Payment Data-Automated Teller Machines(ATMs) Total Volume of financial transactions through ATM Terminals
 
@@ -54998,6 +55039,8 @@
 * 2023-03: 69.6
 * 2023-06: 68.8
 * 2023-09: 68.4
+* 2023-12: 67.4
+* 2024-03: 67.2
 
 # Central Government Finance-Debt Statistics EDS - Central Bank - long term
 
@@ -55665,6 +55708,10 @@
 * 2022-06: 7.8
 * 2022-09: 8.7
 * 2022-12: 7.2
+* 2023-03: 8.3
+* 2023-06: 8.0
+* 2023-09: 8.4
+* 2023-12: 7.1
 
 # National Accounts-GDP at Current Prices - Base Year 2002 Private Savings-at Current Prices (2002 Series)
 

@@ -7842,7 +7842,9 @@
     "2022-12": 4.8,
     "2023-03": 4.7,
     "2023-06": 5.2,
-    "2023-09": 4.7
+    "2023-09": 4.7,
+    "2023-12": 4.3,
+    "2024-03": 4.5
   },
   "Transport-Road Network Road Kilometerage-Mannar-Expressways": {
     "2008": 0,
@@ -16588,7 +16590,9 @@
     "2022-12": 6.5,
     "2023-03": 7.0,
     "2023-06": 7.4,
-    "2023-09": 6.7
+    "2023-09": 6.7,
+    "2023-12": 6.8,
+    "2024-03": 7.4
   },
   "National Accounts-GDP at Current Prices - Base Year 2002 National Savings-at Current Prices (2002 Series)": {
     "2002": 342863.0,
@@ -23435,7 +23439,9 @@
     "2022-12": 48.9,
     "2023-03": 49.9,
     "2023-06": 48.6,
-    "2023-09": 48.8
+    "2023-09": 48.8,
+    "2023-12": 47.1,
+    "2024-03": 47.1
   },
   "Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-North-Western": {
     "1999": 34,
@@ -24978,7 +24984,11 @@
     "2022-03": 7.5,
     "2022-06": 7.8,
     "2022-09": 8.7,
-    "2022-12": 7.2
+    "2022-12": 7.2,
+    "2023-03": 8.3,
+    "2023-06": 8.0,
+    "2023-09": 8.4,
+    "2023-12": 7.1
   },
   "National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Sugar ca": {
     "2010": 2441.73,
@@ -30641,7 +30651,9 @@
     "2022-12": 2258,
     "2023-03": 2188,
     "2023-06": 2058,
-    "2023-09": 2032
+    "2023-09": 2032,
+    "2023-12": 2075,
+    "2024-03": 2040
   },
   "Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Western": {
     "1999": 0,
@@ -32377,11 +32389,15 @@
     "2015": 170599
   },
   "Labour Force and Employment-Employment Labour Statistics-Employment Industry (as a Pct. of Total Employment)": {
+    "2022-03": 27.9,
+    "2022-06": 27.7,
     "2022-09": 25.9,
     "2022-12": 24.3,
     "2023-03": 25.5,
     "2023-06": 26.3,
-    "2023-09": 25.0
+    "2023-09": 25.0,
+    "2023-12": 25.3,
+    "2024-03": 24.7
   },
   "Agriculture-Paddy Paddy Net Extent Harvested - Southern": {
     "2005": 71.7,
@@ -46445,11 +46461,15 @@
     "2021": 197
   },
   "Labour Force and Employment-Employment Labour Statistics-Employment Agriculture (as a Pct. of Total Employment)": {
+    "2022-03": 25.0,
+    "2022-06": 26.0,
     "2022-09": 26.9,
     "2022-12": 28.2,
     "2023-03": 26.7,
     "2023-06": 25.7,
-    "2023-09": 25.4
+    "2023-09": 25.4,
+    "2023-12": 26.5,
+    "2024-03": 25.8
   },
   "Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Central": {
     "1999": 2682,
@@ -48012,11 +48032,15 @@
     "2021": 141
   },
   "Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)": {
+    "2022-03": 47.1,
+    "2022-06": 46.3,
     "2022-09": 47.2,
     "2022-12": 47.5,
     "2023-03": 47.8,
     "2023-06": 48.1,
-    "2023-09": 49.6
+    "2023-09": 49.6,
+    "2023-12": 48.2,
+    "2024-03": 49.5
   },
   "Payment Data-Automated Teller Machines(ATMs) Total Volume of financial transactions through ATM Terminals": {
     "2010-03": 22839178,
