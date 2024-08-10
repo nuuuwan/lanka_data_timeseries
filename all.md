@@ -94287,6 +94287,8 @@
 * 2023-03: 182.3
 * 2023-06: 184.5
 * 2023-09: 200.1
+* 2023-12: 205.9
+* 2024-03: 210.8
 
 # Population Statistics-Mid Year Population Mid Year Population-Growth Rate
 
