@@ -62851,6 +62851,7 @@
 * 2024-04: 543.8
 * 2024-05: 544.4
 * 2024-06: 519.6
+* 2024-07: 566.8
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Beverages - Change
 

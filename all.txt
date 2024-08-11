@@ -70018,12 +70018,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-04	543.8
 2024-05	544.4
 2024-06	519.6
+2024-07	566.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-09', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Beverages - Change
