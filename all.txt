@@ -57455,12 +57455,13 @@ Agriculture-Tea Tea Production
 2024-03	19.6
 2024-04	21.5
 2024-05	24.5
+2024-06	23.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-16', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Trade Credits -Liabilities
@@ -79138,13 +79139,14 @@ Agriculture-Fish Production Marine Fish Production
 2024-02	27.4
 2024-03	26.9
 2024-04	24.8
-2024-05	20.4
+2024-05	21.2
+2024-06	23.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-16', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Mining and Quarrying
@@ -85587,6 +85589,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-03	-12.1
 2024-04	-14.5
 2024-05	-7.4
+2024-06	0.1
 
 Source: cbsl
 Frequency: Monthly
@@ -108133,12 +108136,13 @@ Agriculture-Fish Production Inland Fish Production
 2024-03	7.9
 2024-04	8.1
 2024-05	8.0
+2024-06	8.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-16', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks PUTTALAM
@@ -114687,12 +114691,13 @@ Agriculture-Rubber Rubber Production
 2024-03	5.6
 2024-04	5.1
 2024-05	4.4
+2024-06	4.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-16', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Southern
@@ -115461,6 +115466,7 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-03	2.9
 2024-04	-0.7
 2024-05	-0.5
+2024-06	6.9
 
 Source: cbsl
 Frequency: Monthly
@@ -121668,6 +121674,7 @@ Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2024-03	-14.4
 2024-04	-19.0
 2024-05	-27.0
+2024-06	-23.6
 
 Source: cbsl
 Frequency: Monthly
@@ -123044,7 +123051,7 @@ Agriculture-Coconut Coconut Production
 2023-03	274.38
 2023-04	255.17
 2023-05	269.41
-2023-06	257.15
+2023-06	257.1
 2023-07	265.0
 2023-08	275.93
 2023-09	268.21
@@ -123056,12 +123063,13 @@ Agriculture-Coconut Coconut Production
 2024-03	282.4
 2024-04	253.5
 2024-05	268.0
+2024-06	274.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-12', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-16', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Machinery and equipment and weapons systems

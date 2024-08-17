@@ -52351,6 +52351,7 @@
 * 2024-03: 19.6
 * 2024-04: 21.5
 * 2024-05: 24.5
+* 2024-06: 23.0
 
 # Balance of Payments-Financial Account BOP - Other Investments- Trade Credits -Liabilities
 
@@ -70586,7 +70587,8 @@
 * 2024-02: 27.4
 * 2024-03: 26.9
 * 2024-04: 24.8
-* 2024-05: 20.4
+* 2024-05: 21.2
+* 2024-06: 23.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Mining and Quarrying
 
@@ -75966,6 +75968,7 @@
 * 2024-03: -12.1
 * 2024-04: -14.5
 * 2024-05: -7.4
+* 2024-06: 0.1
 
 # Balance of Payments-Financial Account BOP - Other Investments- Trade Credits -Liabilities
 
@@ -94752,6 +94755,7 @@
 * 2024-03: 7.9
 * 2024-04: 8.1
 * 2024-05: 8.0
+* 2024-06: 8.4
 
 # Banking Sector-All Banks Banking Sector- Number of Banks PUTTALAM
 
@@ -100306,6 +100310,7 @@
 * 2024-03: 5.6
 * 2024-04: 5.1
 * 2024-05: 4.4
+* 2024-06: 4.7
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Southern
 
@@ -100924,6 +100929,7 @@
 * 2024-03: 2.9
 * 2024-04: -0.7
 * 2024-05: -0.5
+* 2024-06: 6.9
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Fresh water fishing
 
@@ -106077,6 +106083,7 @@
 * 2024-03: -14.4
 * 2024-04: -19.0
 * 2024-05: -27.0
+* 2024-06: -23.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - GDCF - Changes in Stocks
 
@@ -107246,7 +107253,7 @@
 * 2023-03: 274.38
 * 2023-04: 255.17
 * 2023-05: 269.41
-* 2023-06: 257.15
+* 2023-06: 257.1
 * 2023-07: 265.0
 * 2023-08: 275.93
 * 2023-09: 268.21
@@ -107258,6 +107265,7 @@
 * 2024-03: 282.4
 * 2024-04: 253.5
 * 2024-05: 268.0
+* 2024-06: 274.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Machinery and equipment and weapons systems
 
