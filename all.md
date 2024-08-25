@@ -55771,6 +55771,7 @@
 * 2024-04: 784651
 * 2024-05: 896779
 * 2024-06: 1010249
+* 2024-07: 1198059
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products - Change
 
@@ -67376,6 +67377,7 @@
 * 2024-04: 1251.6
 * 2024-05: 1405.6
 * 2024-06: 1556.6
+* 2024-07: 1884.9
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-North-Central
 
@@ -69589,6 +69591,7 @@
 * 2024-04: 148867
 * 2024-05: 112128
 * 2024-06: 113470
+* 2024-07: 187810
 
 # Agriculture-Tea Estimated Tea Production - North Western
 
@@ -75648,6 +75651,7 @@
 * 2024-03: 1.02
 * 2024-04: 2.04
 * 2024-05: 2.45
+* 2024-06: 3.98
 
 # International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Assets
 
@@ -84231,6 +84235,7 @@
 * 2024-03: 915.22
 * 2024-04: 1216.03
 * 2024-05: 1616.78
+* 2024-06: 1860.63
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Paddy
 
@@ -88124,6 +88129,7 @@
 * 2024-03: -281.31
 * 2024-04: -361.1
 * 2024-05: -366.8
+* 2024-06: -598.7
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture
 
@@ -88344,6 +88350,7 @@
 * 2024-03: 77.83
 * 2024-04: 98.27
 * 2024-05: 125.53
+* 2024-06: 151.33
 
 # Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water
 
@@ -91547,6 +91554,7 @@
 * 2024-03: 315.89
 * 2024-04: 365.02
 * 2024-05: 554.24
+* 2024-06: 543.41
 
 # Transport-Railways Sri Lanka Railways-Main Stations-Broad Gauge
 
@@ -92385,6 +92393,7 @@
 * 2024-03: 1197.55
 * 2024-04: 1579.17
 * 2024-05: 1986.04
+* 2024-06: 2463.31
 
 # Banking Sector-All Banks Banking Sector- Time Deposits
 
@@ -99468,6 +99477,7 @@
 * 2024-04: 225.7
 * 2024-05: 154.0
 * 2024-06: 151.1
+* 2024-07: 328.3
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Central
 
@@ -100380,6 +100390,7 @@
 * 2024-03: 1084.48
 * 2024-04: 1419.26
 * 2024-05: 1792.82
+* 2024-06: 2218.44
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Eastern-Total
 
@@ -102592,6 +102603,7 @@
 * 2024-03: 113.07
 * 2024-04: 159.9
 * 2024-05: 193.22
+* 2024-06: 244.86
 
 # International Investment Position-Overall IIP - net
 
@@ -105284,6 +105296,7 @@
 * 2024-03: 837.4
 * 2024-04: 1117.76
 * 2024-05: 1491.25
+* 2024-06: 1709.31
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - One Year Fixed Deposit Rates_Max
 
@@ -105585,6 +105598,7 @@
 * 2024-04: 73.6
 * 2024-05: 70.6
 * 2024-06: 64.7
+* 2024-07: 60.4
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Class C
 
@@ -106231,6 +106245,7 @@
 * 2024-04: 67.6
 * 2024-05: 46.1
 * 2024-06: 45.9
+* 2024-07: 99.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches MANNER
 
@@ -106507,6 +106522,7 @@
 * 2024-04: 77.9
 * 2024-05: 71.0
 * 2024-06: 61.7
+* 2024-07: 56.0
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - Eastern
 
@@ -107469,6 +107485,7 @@
 * 2024-03: 916.24
 * 2024-04: 1218.07
 * 2024-05: 1619.23
+* 2024-06: 1864.61
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings household equipment and routine h
 
@@ -107587,6 +107604,7 @@
 * 2024-04: 388.8
 * 2024-05: 435.0
 * 2024-06: 480.9
+* 2024-07: 580.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - GDCF - Gross Domestic Fixed Capital Formation - Private
 

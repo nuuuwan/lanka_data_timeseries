@@ -61677,12 +61677,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2024-04	784651
 2024-05	896779
 2024-06	1010249
+2024-07	1198059
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products - Change
@@ -75414,12 +75415,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-04	1251.6
 2024-05	1405.6
 2024-06	1556.6
+2024-07	1884.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-North-Central
@@ -78003,12 +78005,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-04	148867
 2024-05	112128
 2024-06	113470
+2024-07	187810
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Agriculture-Tea Estimated Tea Production - North Western
@@ -85203,12 +85206,13 @@ Central Government Finance-Central Government Revenue Grants
 2024-03	1.02
 2024-04	2.04
 2024-05	2.45
+2024-06	3.98
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Assets
@@ -95382,12 +95386,13 @@ Central Government Finance-Central Government Revenue Revenue
 2024-03	915.22
 2024-04	1216.03
 2024-05	1616.78
+2024-06	1860.63
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Paddy
@@ -100097,12 +100102,13 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2024-03	-281.31
 2024-04	-361.1
 2024-05	-366.8
+2024-06	-598.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture
@@ -100352,12 +100358,13 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2024-03	77.83
 2024-04	98.27
 2024-05	125.53
+2024-06	151.33
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Housing Electrification & Water
@@ -104353,12 +104360,13 @@ Central Government Finance-Central Government Revenue Primary Balance
 2024-03	315.89
 2024-04	365.02
 2024-05	554.24
+2024-06	543.41
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'MOF', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Transport-Railways Sri Lanka Railways-Main Stations-Broad Gauge
@@ -105364,12 +105372,13 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2024-03	1197.55
 2024-04	1579.17
 2024-05	1986.04
+2024-06	2463.31
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Time Deposits
@@ -113759,12 +113768,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-04	225.7
 2024-05	154.0
 2024-06	151.1
+2024-07	328.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Central
@@ -114773,12 +114783,13 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2024-03	1084.48
 2024-04	1419.26
 2024-05	1792.82
+2024-06	2218.44
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Eastern-Total
@@ -117531,12 +117542,13 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2024-03	113.07
 2024-04	159.9
 2024-05	193.22
+2024-06	244.86
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Overall IIP - net
@@ -120715,12 +120727,13 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2024-03	837.4
 2024-04	1117.76
 2024-05	1491.25
+2024-06	1709.31
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - One Year Fixed Deposit Rates_Max
@@ -121082,12 +121095,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-04	73.6
 2024-05	70.6
 2024-06	64.7
+2024-07	60.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Sabaragamuwa-Class C
@@ -121869,12 +121883,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-04	67.6
 2024-05	46.1
 2024-06	45.9
+2024-07	99.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches MANNER
@@ -122228,12 +122243,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-04	77.9
 2024-05	71.0
 2024-06	61.7
+2024-07	56.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': 'NULL'}
 --------------------------------
 
 Agriculture-Paddy Paddy Yield - Bushels per Acre - Eastern
@@ -123321,12 +123337,13 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2024-03	916.24
 2024-04	1218.07
 2024-05	1619.23
+2024-06	1864.61
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-07-25', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings household equipment and routine h
@@ -123480,12 +123497,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-04	388.8
 2024-05	435.0
 2024-06	480.9
+2024-07	580.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-05', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - GDCF - Gross Domestic Fixed Capital Formation - Private
