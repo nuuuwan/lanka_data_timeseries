@@ -67623,6 +67623,7 @@
 * 2024-04: 86.0
 * 2024-05: 88.49
 * 2024-06: 92.88
+* 2024-07: 87.57
 
 # Transport-Road Network Road Kilometerage-Colombo-Class A
 

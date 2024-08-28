@@ -69761,6 +69761,7 @@ Petroleum-Average Crude Oil Prices CPC Import Prices
 2024-04	86.0
 2024-05	88.49
 2024-06	92.88
+2024-07	87.57
 
 --------------------------------
 
