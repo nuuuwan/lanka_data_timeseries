@@ -61590,6 +61590,7 @@
 * 2022-12: 205.2
 * 2023-06: 215.3
 * 2023-12: 219.8
+* 2024-06: 230.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels - Change
 
@@ -68052,6 +68053,7 @@
 * 2022-12: 203.1
 * 2023-06: 215.0
 * 2023-12: 221.0
+* 2024-06: 233.3
 
 # Health-Health Statistics Government sector western medicine - Hospital beds per 1 000 persons
 
@@ -74945,6 +74947,7 @@
 * 2022-12: 200.5
 * 2023-06: 210.3
 * 2023-12: 214.0
+* 2024-06: 228.1
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets MONARAGALA
 
@@ -96881,6 +96884,7 @@
 * 2022-12: 212.0
 * 2023-06: 220.7
 * 2023-12: 224.5
+* 2024-06: 228.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 

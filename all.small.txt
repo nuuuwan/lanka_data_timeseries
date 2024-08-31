@@ -63550,6 +63550,7 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	205.2
 2023-06	215.3
 2023-12	219.8
+2024-06	230.1
 
 --------------------------------
 
@@ -70211,6 +70212,7 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	203.1
 2023-06	215.0
 2023-12	221.0
+2024-06	233.3
 
 --------------------------------
 
@@ -77311,6 +77313,7 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	200.5
 2023-06	210.3
 2023-12	214.0
+2024-06	228.1
 
 --------------------------------
 
@@ -99991,6 +99994,7 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	212.0
 2023-06	220.7
 2023-12	224.5
+2024-06	228.9
 
 --------------------------------
 

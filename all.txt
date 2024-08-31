@@ -68625,12 +68625,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	205.2
 2023-06	215.3
 2023-12	219.8
+2024-06	230.1
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-02-22', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-08-30', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels - Change
@@ -76276,12 +76277,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	203.1
 2023-06	215.0
 2023-12	221.0
+2024-06	233.3
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-02-22', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-08-30', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Hospital beds per 1 000 persons
@@ -84399,12 +84401,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	200.5
 2023-06	210.3
 2023-12	214.0
+2024-06	228.1
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-02-22', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-08-30', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets MONARAGALA
@@ -110760,12 +110763,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2022-12	212.0
 2023-06	220.7
 2023-12	224.5
+2024-06	228.9
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-02-22', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2024-08-30', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
