@@ -51886,6 +51886,7 @@
 * 2024-04: 161.3
 * 2024-05: 161.3
 * 2024-06: 161.3
+* 2024-07: 161.3
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Housing, water, electricity, gas and other fue
 
@@ -55945,6 +55946,7 @@
 * 2024-04: 9.6
 * 2024-05: 8.3
 * 2024-06: 6.8
+* 2024-07: 6.5
 
 # Balance of Payments-Financial Account BOP - Reserve Assets
 
@@ -60176,6 +60178,7 @@
 * 2024-04: 179.6
 * 2024-05: 179.1
 * 2024-06: 181.0
+* 2024-07: 182.1
 
 # Agriculture-Subsidiary Food Crops MUSTERD Production
 
@@ -62915,6 +62918,7 @@
 * 2024-04: 6.3
 * 2024-05: 5.9
 * 2024-06: 5.4
+* 2024-07: 4.9
 
 # Industry and Housing-Index of Industrial Production Other non-metallic mineral products
 
@@ -73668,6 +73672,7 @@
 * 2024-04: 180.0
 * 2024-05: 180.7
 * 2024-06: 179.6
+* 2024-07: 179.1
 
 # Transport-Road Network Road Kilometerage-Jaffna-Class D
 
@@ -79618,6 +79623,7 @@
 * 2024-04: 182.7
 * 2024-05: 182.4
 * 2024-06: 182.5
+* 2024-07: 183.2
 
 # Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 
@@ -81877,6 +81883,7 @@
 * 2024-04: 8239.9
 * 2024-05: 8239.6
 * 2024-06: 8239.3
+* 2024-07: 8239.7
 
 # Transport-Road Network Road Kilometerage-Nuwara Eliya-Class B
 
@@ -83099,6 +83106,7 @@
 * 2024-04: 69.0
 * 2024-05: 69.6
 * 2024-06: 69.0
+* 2024-07: 69.4
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Export Value Index (1997=100)
 
@@ -90347,6 +90355,7 @@
 * 2024-04: 21.2
 * 2024-05: 21.2
 * 2024-06: 21.2
+* 2024-07: 21.2
 
 # Agriculture-Tea No. of Tea Factories - Western
 
@@ -92071,6 +92080,7 @@
 * 2024-04: 5.5
 * 2024-05: 5.3
 * 2024-06: 6.1
+* 2024-07: 6.8
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets MULATIVU
 
@@ -96109,6 +96119,7 @@
 * 2024-04: 180.5
 * 2024-05: 180.7
 * 2024-06: 180.6
+* 2024-07: 180.8
 
 # Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
 
@@ -104069,6 +104080,7 @@
 * 2024-04: 91.5
 * 2024-05: 92.0
 * 2024-06: 91.3
+* 2024-07: 91.7
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin
 
@@ -105387,6 +105399,7 @@
 * 2024-04: 6.8
 * 2024-05: 6.2
 * 2024-06: 5.9
+* 2024-07: 5.7
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Northern
 
