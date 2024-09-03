@@ -59946,6 +59946,7 @@
 * 2024-05: 384.08
 * 2024-06: 386.23
 * 2024-07: 388.43
+* 2024-08: 395.34
 
 # Agriculture-National Livestock Statistics Poultry Production
 
@@ -93124,6 +93125,7 @@
 * 2024-05: 301.89
 * 2024-06: 305.71
 * 2024-07: 302.37
+* 2024-08: 300.33
 
 # Agriculture-Minor Export Crops COFFEE Production
 
