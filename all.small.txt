@@ -19349,6 +19349,7 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-05	112128
 2024-06	113470
 2024-07	187810
+2024-08	164609
 
 --------------------------------
 
@@ -22310,6 +22311,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-05	1405.6
 2024-06	1556.6
 2024-07	1884.9
+2024-08	2167.0
 
 --------------------------------
 
@@ -23690,6 +23692,7 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-05	70.6
 2024-06	64.7
 2024-07	60.4
+2024-08	54.9
 
 --------------------------------
 
@@ -26168,6 +26171,7 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-05	71.0
 2024-06	61.7
 2024-07	56.0
+2024-08	50.7
 
 --------------------------------
 
@@ -29053,6 +29057,7 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2024-05	896779
 2024-06	1010249
 2024-07	1198059
+2024-08	1362668
 
 --------------------------------
 
@@ -40425,6 +40430,7 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-05	46.1
 2024-06	45.9
 2024-07	99.7
+2024-08	84.8
 
 --------------------------------
 
@@ -42265,6 +42271,7 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-05	83.28
 2024-06	82.58
 2024-07	84.14
+2024-08	79.03
 
 --------------------------------
 
@@ -44877,6 +44884,7 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-05	154.0
 2024-06	151.1
 2024-07	328.3
+2024-08	282.1
 
 --------------------------------
 
@@ -45193,6 +45201,7 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-05	544.4
 2024-06	519.6
 2024-07	566.8
+2024-08	577.5
 
 --------------------------------
 
@@ -61847,6 +61856,7 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-05	435.0
 2024-06	480.9
 2024-07	580.6
+2024-08	665.4
 
 --------------------------------
 
@@ -74964,6 +74974,7 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-05	78.97
 2024-06	78.42
 2024-07	80.85
+2024-08	75.71
 
 --------------------------------
 

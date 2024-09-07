@@ -18620,6 +18620,7 @@
 * 2024-05: 112128
 * 2024-06: 113470
 * 2024-07: 187810
+* 2024-08: 164609
 
 # Transport-Road Network Road Network-Class C Roads
 
@@ -21491,6 +21492,7 @@
 * 2024-05: 1405.6
 * 2024-06: 1556.6
 * 2024-07: 1884.9
+* 2024-08: 2167.0
 
 # Central Government Finance-Debt Statistics EDS - Central Bank - short term
 
@@ -22814,6 +22816,7 @@
 * 2024-05: 70.6
 * 2024-06: 64.7
 * 2024-07: 60.4
+* 2024-08: 54.9
 
 # Wages and Indices-Informal Private Sector Wage Rate Index Wage Rate Index-Informal Private Sector (2012=100)-Agricuture-Nominal
 
@@ -25212,6 +25215,7 @@
 * 2024-05: 71.0
 * 2024-06: 61.7
 * 2024-07: 56.0
+* 2024-08: 50.7
 
 # Central Government Finance-Debt Statistics Central Government - Debt - Domestic
 
@@ -27981,6 +27985,7 @@
 * 2024-05: 896779
 * 2024-06: 1010249
 * 2024-07: 1198059
+* 2024-08: 1362668
 
 # Banking Sector-All Banks Banking Sector- Staff Cost
 
@@ -38988,6 +38993,7 @@
 * 2024-05: 46.1
 * 2024-06: 45.9
 * 2024-07: 99.7
+* 2024-08: 84.8
 
 # Other Socio-Economic Data-Access to Facilities Water supply - Access to pipe borne water
 
@@ -40765,6 +40771,7 @@
 * 2024-05: 83.28
 * 2024-06: 82.58
 * 2024-07: 84.14
+* 2024-08: 79.03
 
 # Education-University Education No. of University Students Graduated - Architecture and Quantity Surveying (B.Sc.)
 
@@ -43302,6 +43309,7 @@
 * 2024-05: 154.0
 * 2024-06: 151.1
 * 2024-07: 328.3
+* 2024-08: 282.1
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin
 
@@ -43612,6 +43620,7 @@
 * 2024-05: 544.4
 * 2024-06: 519.6
 * 2024-07: 566.8
+* 2024-08: 577.5
 
 # Agriculture-Subsidiary Food Crops SNAKE GOURD Production
 
@@ -59750,6 +59759,7 @@
 * 2024-05: 435.0
 * 2024-06: 480.9
 * 2024-07: 580.6
+* 2024-08: 665.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Telecommunication
 
@@ -72448,6 +72458,7 @@
 * 2024-05: 78.97
 * 2024-06: 78.42
 * 2024-07: 80.85
+* 2024-08: 75.71
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Furnishings, household equipment and routine h
 
