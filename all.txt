@@ -29009,7 +29009,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-23', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-09-06', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Property Indices-Real Estate Price Indices Asking Price Index (API) for Lands (2019=100) - Colombo
