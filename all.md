@@ -25847,6 +25847,7 @@
 * 2024-04: -14.5
 * 2024-05: -7.4
 * 2024-06: 0.1
+* 2024-07: 7.1
 
 # Imports and Exports-Exports (in USD terms) Merchandise Exports - Total
 
@@ -29459,6 +29460,7 @@
 * 2024-04: 253.5
 * 2024-05: 268.0
 * 2024-06: 274.9
+* 2024-07: 272.7
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Expressways
 
@@ -38815,8 +38817,9 @@
 * 2024-02: 27.4
 * 2024-03: 26.9
 * 2024-04: 24.8
-* 2024-05: 21.2
-* 2024-06: 23.9
+* 2024-05: 21.4
+* 2024-06: 24.9
+* 2024-07: 24.5
 
 # Central Government Finance-Debt Statistics Outstanding Rupee Loans
 
@@ -40956,6 +40959,7 @@
 * 2024-04: -0.7
 * 2024-05: -0.5
 * 2024-06: 6.9
+* 2024-07: 2.9
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Efficiency (Operating Cost) Ratio
 
@@ -49445,6 +49449,7 @@
 * 2024-04: 21.5
 * 2024-05: 24.5
 * 2024-06: 23.0
+* 2024-07: 22.9
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Domestic - Bank
 
@@ -50745,6 +50750,7 @@
 * 2024-04: 8.1
 * 2024-05: 8.0
 * 2024-06: 8.4
+* 2024-07: 9.7
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Return on Equity (ROE) – After tax
 
@@ -56452,11 +56458,12 @@
 
 * 2023-12: -48.9
 * 2024-01: 20.6
-* 2024-02: -17.2
+* 2024-02: -13.7
 * 2024-03: -14.4
-* 2024-04: -19.0
-* 2024-05: -27.0
-* 2024-06: -23.6
+* 2024-04: -17.5
+* 2024-05: -25.6
+* 2024-06: -20.4
+* 2024-07: -10.5
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig
 
@@ -71601,11 +71608,12 @@
 * 2023-11: 3.5
 * 2023-12: 3.4
 * 2024-01: 7.8
-* 2024-02: 4.7
+* 2024-02: 4.9
 * 2024-03: 5.6
-* 2024-04: 5.1
-* 2024-05: 4.4
-* 2024-06: 4.7
+* 2024-04: 5.2
+* 2024-05: 4.5
+* 2024-06: 4.9
+* 2024-07: 5.5
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
