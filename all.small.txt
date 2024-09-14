@@ -26521,7 +26521,6 @@ Industry and Housing-Index of Industrial Production Beverages
 2023-04	118.1
 2023-05	115.0
 2023-06	121.3
-2023-07	99.7
 2023-08	129.7
 2023-09	130.3
 2023-10	98.4
@@ -27321,7 +27320,6 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2023-04	-1.1
 2023-05	1.5
 2023-06	-10.9
-2023-07	7.7
 2023-08	0.8
 2023-09	10.7
 2023-10	1.5
@@ -34909,7 +34907,6 @@ Industry and Housing-Index of Industrial Production Food products
 2023-04	89.5
 2023-05	91.1
 2023-06	87.3
-2023-07	95.1
 2023-08	94.5
 2023-09	98.6
 2023-10	93.9
@@ -65710,7 +65707,6 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2023-04	-6.6
 2023-05	-9.9
 2023-06	-1.4
-2023-07	-23.3
 2023-08	0.1
 2023-09	13.2
 2023-10	0.5
@@ -72599,7 +72595,6 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2023-04	-8.4
 2023-05	-3.1
 2023-06	-6.7
-2023-07	7.2
 2023-08	-0.6
 2023-09	-0.6
 2023-10	2.9
