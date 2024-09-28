@@ -6069,11 +6069,7 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2023-10	28094693
 2023-11	28188909
 2023-12	28695949
-2024-01	28582389
-2024-02	28263782
-2024-03	28013555
-2024-04	27844800
-2024-05	28062823
+2024-06	28563445
 
 --------------------------------
 
@@ -13014,6 +13010,7 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2024-03	17292788
 2024-04	17312823
 2024-05	17349507
+2024-06	17555212
 
 --------------------------------
 
@@ -14242,6 +14239,7 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2024-03	12447298
 2024-04	12531970
 2024-05	12651218
+2024-06	12767059
 
 --------------------------------
 
@@ -15274,6 +15272,7 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2024-04	1218.07
 2024-05	1619.23
 2024-06	1864.61
+2024-07	2161.8
 
 --------------------------------
 
@@ -15456,11 +15455,7 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2023-10	11463920
 2023-11	11507235
 2023-12	11644094
-2024-01	11335786.28
-2024-02	11056930
-2024-03	10720768
-2024-04	10531977
-2024-05	10713316
+2024-06	11008233
 
 --------------------------------
 
@@ -15507,6 +15502,7 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2024-04	159.9
 2024-05	193.22
 2024-06	244.86
+2024-07	361.48
 
 --------------------------------
 
@@ -17801,6 +17797,7 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2024-04	1579.17
 2024-05	1986.04
 2024-06	2463.31
+2024-07	3034.44
 
 --------------------------------
 
@@ -22847,6 +22844,7 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2024-04	98.27
 2024-05	125.53
 2024-06	151.33
+2024-07	179.26
 
 --------------------------------
 
@@ -26423,6 +26421,7 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2024-04	1117.76
 2024-05	1491.25
 2024-06	1709.31
+2024-07	1976.68
 
 --------------------------------
 
@@ -35842,6 +35841,7 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2024-04	-361.1
 2024-05	-366.8
 2024-06	-598.7
+2024-07	-872.64
 
 --------------------------------
 
@@ -40040,6 +40040,7 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2024-03	0
 2024-04	0
 2024-05	0
+2024-06	0
 
 --------------------------------
 
@@ -42785,6 +42786,7 @@ Central Government Finance-Central Government Revenue Revenue
 2024-04	1216.03
 2024-05	1616.78
 2024-06	1860.63
+2024-07	2155.95
 
 --------------------------------
 
@@ -49875,6 +49877,7 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2024-03	3861671
 2024-04	3854246
 2024-05	3828576
+2024-06	3883090
 
 --------------------------------
 
@@ -52472,6 +52475,7 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2024-04	1419.26
 2024-05	1792.82
 2024-06	2218.44
+2024-07	2672.96
 
 --------------------------------
 
@@ -56039,6 +56043,7 @@ Central Government Finance-Central Government Revenue Primary Balance
 2024-04	365.02
 2024-05	554.24
 2024-06	543.41
+2024-07	519.37
 
 --------------------------------
 
@@ -59220,6 +59225,7 @@ Central Government Finance-Central Government Revenue Grants
 2024-04	2.04
 2024-05	2.45
 2024-06	3.98
+2024-07	5.86
 
 --------------------------------
 

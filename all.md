@@ -5851,11 +5851,7 @@
 * 2023-10: 28094693
 * 2023-11: 28188909
 * 2023-12: 28695949
-* 2024-01: 28582389
-* 2024-02: 28263782
-* 2024-03: 28013555
-* 2024-04: 27844800
-* 2024-05: 28062823
+* 2024-06: 28563445
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Health
 
@@ -12568,6 +12564,7 @@
 * 2024-03: 17292788
 * 2024-04: 17312823
 * 2024-05: 17349507
+* 2024-06: 17555212
 
 # Prices and Indices-Producer’s Price Index(PPI) Producer Price Index (Base_ Fourth Quarter 2018 = 100)
 
@@ -13762,6 +13759,7 @@
 * 2024-03: 12447298
 * 2024-04: 12531970
 * 2024-05: 12651218
+* 2024-06: 12767059
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
 
@@ -14774,6 +14772,7 @@
 * 2024-04: 1218.07
 * 2024-05: 1619.23
 * 2024-06: 1864.61
+* 2024-07: 2161.8
 
 # Transport-Road Network Road Kilometerage-Kegalle-Class C
 
@@ -14948,11 +14947,7 @@
 * 2023-10: 11463920
 * 2023-11: 11507235
 * 2023-12: 11644094
-* 2024-01: 11335786.28
-* 2024-02: 11056930
-* 2024-03: 10720768
-* 2024-04: 10531977
-* 2024-05: 10713316
+* 2024-06: 11008233
 
 # Central Government Finance-Central Government Expenditure Capital and Net Lending
 
@@ -14998,6 +14993,7 @@
 * 2024-04: 159.9
 * 2024-05: 193.22
 * 2024-06: 244.86
+* 2024-07: 361.48
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-North Central
 
@@ -17211,6 +17207,7 @@
 * 2024-04: 1579.17
 * 2024-05: 1986.04
 * 2024-06: 2463.31
+* 2024-07: 3034.44
 
 # Transport-Road Network Road Kilometerage-Trincomalee-Class D
 
@@ -22080,6 +22077,7 @@
 * 2024-04: 98.27
 * 2024-05: 125.53
 * 2024-06: 151.33
+* 2024-07: 179.26
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Direct Purchases Abroad by Residents
 
@@ -25542,6 +25540,7 @@
 * 2024-04: 1117.76
 * 2024-05: 1491.25
 * 2024-06: 1709.31
+* 2024-07: 1976.68
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of textiles, wearing apparel and leather rel
 
@@ -34684,6 +34683,7 @@
 * 2024-04: -361.1
 * 2024-05: -366.8
 * 2024-06: -598.7
+* 2024-07: -872.64
 
 # Central Government Finance-Central Government Expenditure General Governmnet Expenditure - Capital Expenditure
 
@@ -38777,6 +38777,7 @@
 * 2024-03: 0
 * 2024-04: 0
 * 2024-05: 0
+* 2024-06: 0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Rice
 
@@ -41452,6 +41453,7 @@
 * 2024-04: 1216.03
 * 2024-05: 1616.78
 * 2024-06: 1860.63
+* 2024-07: 2155.95
 
 # Payment Data-SLIP System Total Volume of transactions cleared through SLIP System
 
@@ -48311,6 +48313,7 @@
 * 2024-03: 3861671
 * 2024-04: 3854246
 * 2024-05: 3828576
+* 2024-06: 3883090
 
 # Central Government Finance-Central Government Revenue General Government Revenue - Total Tax and Non Tax Revenue
 
@@ -50825,6 +50828,7 @@
 * 2024-04: 1419.26
 * 2024-05: 1792.82
 * 2024-06: 2218.44
+* 2024-07: 2672.96
 
 # Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 
@@ -54270,6 +54274,7 @@
 * 2024-04: 365.02
 * 2024-05: 554.24
 * 2024-06: 543.41
+* 2024-07: 519.37
 
 # Education-University Education No. of University Students Graduated - Arts & Oriental Studies (B.A.-B.A. Special)
 
@@ -57334,6 +57339,7 @@
 * 2024-04: 2.04
 * 2024-05: 2.45
 * 2024-06: 3.98
+* 2024-07: 5.86
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Real estate activities, Including Ownership of dwelling
 
