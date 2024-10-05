@@ -5511,6 +5511,7 @@
 * 2024-05: 179.1
 * 2024-06: 181.0
 * 2024-07: 182.1
+* 2024-08: 182.7
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic metals - Change
 
@@ -14694,6 +14695,7 @@
 * 2024-05: 6.2
 * 2024-06: 5.9
 * 2024-07: 5.7
+* 2024-08: 5.7
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Banking, Insurance and Real Estate etc.
 
@@ -20052,6 +20054,7 @@
 * 2024-05: 8.3
 * 2024-06: 6.8
 * 2024-07: 6.5
+* 2024-08: 6.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Income at Constant (2010) Prices - FC - Other Taxes less Subsidies on Production
 
@@ -25046,6 +25049,7 @@
 * 2024-05: 8239.6
 * 2024-06: 8239.3
 * 2024-07: 8239.7
+* 2024-08: 8239.6
 
 # Agriculture-Agriculture Indices Agriculture Volume Index
 
@@ -30401,6 +30405,7 @@
 * 2024-05: 161.3
 * 2024-06: 161.3
 * 2024-07: 161.3
+* 2024-08: 161.3
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MATARA
 
@@ -31746,6 +31751,7 @@
 * 2024-05: 92.0
 * 2024-06: 91.3
 * 2024-07: 91.7
+* 2024-08: 93.5
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Southern
 
@@ -43846,6 +43852,7 @@
 * 2024-05: 21.2
 * 2024-06: 21.2
 * 2024-07: 21.2
+* 2024-08: 21.2
 
 # Education-University Education Admitted for University Education - Male
 
@@ -44164,6 +44171,7 @@
 * 2024-05: 69.6
 * 2024-06: 69.0
 * 2024-07: 69.4
+* 2024-08: 70.3
 
 # Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry - Y-o-Y Change
 
@@ -44222,6 +44230,7 @@
 * 2024-05: 5.9
 * 2024-06: 5.4
 * 2024-07: 4.9
+* 2024-08: 4.5
 
 # Transport-Road Network Road Kilometerage-Kegalle-Class E
 
@@ -46259,6 +46268,7 @@
 * 2024-05: 5.3
 * 2024-06: 6.1
 * 2024-07: 6.8
+* 2024-08: 7.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing
 
@@ -52477,6 +52487,7 @@
 * 2024-05: 182.4
 * 2024-06: 182.5
 * 2024-07: 183.2
+* 2024-08: 184.1
 
 # Balance of Payments-Financial Account BOP - Other Investments- Trade Credits -Liabilities
 
@@ -54427,6 +54438,7 @@
 * 2024-05: 180.7
 * 2024-06: 180.6
 * 2024-07: 180.8
+* 2024-08: 181.3
 
 # Transport-Private Bus Services Private Bus Services-Operated Kilometers-All Island
 
@@ -57107,6 +57119,7 @@
 * 2024-05: 180.7
 * 2024-06: 179.6
 * 2024-07: 179.1
+* 2024-08: 179.6
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-Western-Total
 
