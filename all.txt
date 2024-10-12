@@ -3797,7 +3797,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-09-06', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Total Assets
@@ -19629,12 +19629,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-06	386.23
 2024-07	388.43
 2024-08	395.34
+2024-09	400.46
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-30', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
@@ -53770,12 +53771,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-06	305.71
 2024-07	302.37
 2024-08	300.33
+2024-09	299.36
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-08-30', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Beverages
