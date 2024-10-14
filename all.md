@@ -16416,6 +16416,7 @@
 * 2024-06: 113470
 * 2024-07: 187810
 * 2024-08: 164609
+* 2024-09: 122140
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -22419,6 +22420,7 @@
 * 2024-06: 480.9
 * 2024-07: 580.6
 * 2024-08: 665.4
+* 2024-09: 719.9
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Total Tax and Non Tax Revenue and Grants
 
@@ -27436,6 +27438,7 @@
 * 2024-06: 1010249
 * 2024-07: 1198059
 * 2024-08: 1362668
+* 2024-09: 1484808
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Gross Loans and Advances - Market Share
 
@@ -28954,6 +28957,7 @@
 * 2024-06: 64.7
 * 2024-07: 60.4
 * 2024-08: 54.9
+* 2024-09: 50.4
 
 # Transport-Road Network Road Kilometerage-Central-Expressways
 
@@ -37548,6 +37552,7 @@
 * 2024-06: 45.9
 * 2024-07: 99.7
 * 2024-08: 84.8
+* 2024-09: 54.5
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -39357,6 +39362,7 @@
 * 2024-06: 151.1
 * 2024-07: 328.3
 * 2024-08: 282.1
+* 2024-09: 181.0
 
 # Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 
@@ -47191,6 +47197,7 @@
 * 2024-06: 61.7
 * 2024-07: 56.0
 * 2024-08: 50.7
+* 2024-09: 46.1
 
 # Transport-Port Services Port Services - Vessels arrived
 
@@ -56224,6 +56231,7 @@
 * 2024-06: 1556.6
 * 2024-07: 1884.9
 * 2024-08: 2167.0
+* 2024-09: 2348.0
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class B
 
