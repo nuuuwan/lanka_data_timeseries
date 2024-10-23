@@ -9,7 +9,7 @@
   "footnotes": {
     "indicator_key": "PCPIPCH",
     "description": "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.\n \n",
-    "source": "World Economic Outlook (April 2024)",
+    "source": "World Economic Outlook (October 2024)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/LKA"
   },
