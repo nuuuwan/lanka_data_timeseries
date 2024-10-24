@@ -8,8 +8,8 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "GGXCNL_G01_GDP_PT",
-    "description": "Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF\u2019s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.",
-    "source": "Fiscal Monitor (April 2024)",
+    "description": "Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF\u0092s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.",
+    "source": "Fiscal Monitor (October 2024)",
     "dataset": "FM",
     "url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/LKA"
   },
@@ -18,7 +18,7 @@
     "min_t": "1990",
     "max_t": "2029",
     "min_value": -6.3885799833544,
-    "max_value": -3.8486446044466
+    "max_value": -3.8254538352099
   },
   "cleaned_data": {
     "1990": -6.3885799833544,
@@ -51,16 +51,16 @@
     "2017": -5.0981979338889,
     "2018": -4.9555254732075,
     "2019": -7.5192279056021,
-    "2020": -12.190221813612,
-    "2021": -11.692628596036,
-    "2022": -10.187116146481,
-    "2023": -8.5844152523054,
-    "2024": -7.3250588127728,
-    "2025": -5.3291673174737,
-    "2026": -4.7364069889605,
-    "2027": -4.2118718963175,
-    "2028": -3.9127124799723,
-    "2029": -3.8486446044466
+    "2020": -12.209920164272,
+    "2021": -11.684543112727,
+    "2022": -10.222660912817,
+    "2023": -8.2602053075856,
+    "2024": -7.3281121762978,
+    "2025": -5.2453187830156,
+    "2026": -4.599109894028,
+    "2027": -4.0903174402848,
+    "2028": -3.828139176648,
+    "2029": -3.8254538352099
   },
   "raw_data": {
     "1990": -6.3885799833544,
@@ -93,15 +93,15 @@
     "2017": -5.0981979338889,
     "2018": -4.9555254732075,
     "2019": -7.5192279056021,
-    "2020": -12.190221813612,
-    "2021": -11.692628596036,
-    "2022": -10.187116146481,
-    "2023": -8.5844152523054,
-    "2024": -7.3250588127728,
-    "2025": -5.3291673174737,
-    "2026": -4.7364069889605,
-    "2027": -4.2118718963175,
-    "2028": -3.9127124799723,
-    "2029": -3.8486446044466
+    "2020": -12.209920164272,
+    "2021": -11.684543112727,
+    "2022": -10.222660912817,
+    "2023": -8.2602053075856,
+    "2024": -7.3281121762978,
+    "2025": -5.2453187830156,
+    "2026": -4.599109894028,
+    "2027": -4.0903174402848,
+    "2028": -3.828139176648,
+    "2029": -3.8254538352099
   }
 }
