@@ -70367,21 +70367,21 @@ IMF - Sri Lanka Data Net lending or borrowing (also referred as overall balance)
 2017	-5.0981979338889
 2018	-4.9555254732075
 2019	-7.5192279056021
-2020	-12.190221813612
-2021	-11.692628596036
-2022	-10.187116146481
-2023	-8.5844152523054
-2024	-7.3250588127728
-2025	-5.3291673174737
-2026	-4.7364069889605
-2027	-4.2118718963175
-2028	-3.9127124799723
-2029	-3.8486446044466
+2020	-12.209920164272
+2021	-11.684543112727
+2022	-10.222660912817
+2023	-8.2602053075856
+2024	-7.3281121762978
+2025	-5.2453187830156
+2026	-4.599109894028
+2027	-4.0903174402848
+2028	-3.828139176648
+2029	-3.8254538352099
 
 Source: imf
 Frequency: Annual
 Unit: % of GDP
-Footnotes: {'indicator_key': 'GGXCNL_G01_GDP_PT', 'description': 'Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF’s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.', 'source': 'Fiscal Monitor (April 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/LKA'}
+Footnotes: {'indicator_key': 'GGXCNL_G01_GDP_PT', 'description': 'Defined as the difference between revenue and total expenditure, using the 2014 edition of the IMF\x92s Government Finance Statistics Manual (GFSM 2014). Does not include policy lending. For some countries, the overall balance continues to be based on GFSM 1986, which is defined as total revenue and grants minus total expenditure and net lending.', 'source': 'Fiscal Monitor (October 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXCNL_G01_GDP_PT/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Gender Development Index (GDI) Time Consistent
@@ -71737,21 +71737,21 @@ IMF - Sri Lanka Data Expenditure
 2017	17.884193712533
 2018	17.543248948308
 2019	19.45318081053
-2020	20.953287539907
-2021	20.009645684452
-2022	18.521604724371
-2023	19.629565245972
-2024	20.996157872686
-2025	20.475367231085
-2026	19.861992859145
-2027	19.528987381543
-2028	19.244877650034
-2029	19.184597360094
+2020	20.987146251566
+2021	19.995808962035
+2022	18.586230090632
+2023	19.387101073535
+2024	20.89319442482
+2025	20.313664574509
+2026	19.893085559874
+2027	19.473558311668
+2028	19.215547548129
+2029	19.187988076809
 
 Source: imf
 Frequency: Annual
 Unit: % of GDP
-Footnotes: {'indicator_key': 'G_X_G01_GDP_PT', 'description': 'Expenditure', 'source': 'Fiscal Monitor (April 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/LKA'}
+Footnotes: {'indicator_key': 'G_X_G01_GDP_PT', 'description': 'Expenditure', 'source': 'Fiscal Monitor (October 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/G_X_G01_GDP_PT/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data DEBT
@@ -72392,21 +72392,21 @@ IMF - Sri Lanka Data Gross debt position
 2017	72.2602787092
 2018	83.584943130292
 2019	82.594027710914
-2020	96.724767782813
-2021	102.73967323737
-2022	115.53644062651
-2023	104.85736062584
-2024	107.27903981991
-2025	107.93098374614
-2026	108.00116952949
-2027	107.39617451816
-2028	104.03499988897
-2029	100.84582707577
+2020	96.881066693732
+2021	102.66862848414
+2022	115.93956902186
+2023	109.79009825823
+2024	108.78149822554
+2025	108.39742366361
+2026	108.29026366057
+2027	106.57524188558
+2028	103.2364384424
+2029	100.13064041194
 
 Source: imf
 Frequency: Annual
 Unit: % of GDP
-Footnotes: {'indicator_key': 'G_XWDG_G01_GDP_PT', 'description': 'All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF’s Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term “public debt” is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term “public debt” refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)', 'source': 'Fiscal Monitor (April 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/LKA'}
+Footnotes: {'indicator_key': 'G_XWDG_G01_GDP_PT', 'description': 'All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF\x92s Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term \x93public debt\x94 is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term \x93public debt\x94 refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)', 'source': 'Fiscal Monitor (October 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Overall Openness Index (all asset categories)
@@ -72462,21 +72462,21 @@ IMF - Sri Lanka Data Primary net lending or borrowing (also referred as primary 
 2017	0.014401571272591
 2018	0.5955015179195
 2019	-1.8542561276294
-2020	-5.9349192063879
-2021	-5.735971648393
-2022	-3.705387804856
-2023	0.59433430599243
-2024	0.79999999999999
-2025	2.299568267376
-2026	2.297390508832
-2027	2.2969536975194
-2028	2.2967351306778
-2029	2.296516440686
+2020	-5.9445095256992
+2021	-5.7320052089697
+2022	-3.7183166005833
+2023	0.62734197176071
+2024	1.04
+2025	2.3
+2026	2.3
+2027	2.34
+2028	2.34
+2029	2.34
 
 Source: imf
 Frequency: Annual
 Unit: % of GDP
-Footnotes: {'indicator_key': 'GGXONLB_G01_GDP_PT', 'description': 'Overall balance excluding net interest payment (interest expenditure minus interest revenue).', 'source': 'Fiscal Monitor (April 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/LKA'}
+Footnotes: {'indicator_key': 'GGXONLB_G01_GDP_PT', 'description': 'Overall balance excluding net interest payment (interest expenditure minus interest revenue).', 'source': 'Fiscal Monitor (October 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXONLB_G01_GDP_PT/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Debt Securities Liabilities
@@ -73485,21 +73485,21 @@ IMF - Sri Lanka Data Revenue
 2017	12.785995778644
 2018	12.587723475101
 2019	11.933952904928
-2020	8.7630657262951
-2021	8.3170170884159
-2022	8.3344885778903
-2023	11.045149993667
-2024	13.671099059913
-2025	15.146199913611
-2026	15.125585870184
-2027	15.317115485226
-2028	15.332165170062
-2029	15.335952755647
+2020	8.7772260872939
+2021	8.3112658493084
+2022	8.3635691778141
+2023	11.126895765949
+2024	13.565082248522
+2025	15.068345791493
+2026	15.293975665846
+2027	15.383240871383
+2028	15.387408371481
+2029	15.362534241599
 
 Source: imf
 Frequency: Annual
 Unit: % of GDP
-Footnotes: {'indicator_key': 'GGR_G01_GDP_PT', 'description': 'Revenue', 'source': 'Fiscal Monitor (April 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGR_G01_GDP_PT/LKA'}
+Footnotes: {'indicator_key': 'GGR_G01_GDP_PT', 'description': 'Revenue', 'source': 'Fiscal Monitor (October 2024)', 'dataset': 'FM', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGR_G01_GDP_PT/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Direct investment openness index (1=fully liberalized)
