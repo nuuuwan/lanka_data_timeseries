@@ -2495,6 +2495,7 @@
 * 2024-04: 0
 * 2024-05: 0
 * 2024-06: 0
+* 2024-07: 0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and
 
@@ -4216,6 +4217,7 @@
 * 2024-05: 2.45
 * 2024-06: 3.98
 * 2024-07: 5.86
+* 2024-08: 8.13
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern
 
@@ -5211,6 +5213,7 @@
 * 2024-05: 1986.04
 * 2024-06: 2463.31
 * 2024-07: 3034.44
+* 2024-08: 3476.89
 
 # Transport-Road Network Road Kilometerage-North Central-Class A
 
@@ -5891,6 +5894,7 @@
 * 2024-05: 1792.82
 * 2024-06: 2218.44
 * 2024-07: 2672.96
+* 2024-08: 3041.57
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -9540,6 +9544,7 @@
 * 2024-04: 27904290
 * 2024-05: 28121719
 * 2024-06: 28563445
+* 2024-07: 28703235
 
 # Health-Personel No.of Public Health Inspectors
 
@@ -24947,6 +24952,7 @@
 * 2024-05: 1491.25
 * 2024-06: 1709.31
 * 2024-07: 1976.68
+* 2024-08: 2348.53
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Postal and courier activities
 
@@ -30013,6 +30019,7 @@
 * 2024-05: 1619.23
 * 2024-06: 1864.61
 * 2024-07: 2161.8
+* 2024-08: 2565.92
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa
 
@@ -34739,6 +34746,7 @@
 * 2024-04: 17312823
 * 2024-05: 17349507
 * 2024-06: 17555212
+* 2024-07: 17761807
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
 
@@ -37271,6 +37279,7 @@
 * 2024-05: 125.53
 * 2024-06: 151.33
 * 2024-07: 179.26
+* 2024-08: 209.26
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -37455,6 +37464,7 @@
 * 2024-05: 193.22
 * 2024-06: 244.86
 * 2024-07: 361.48
+* 2024-08: 435.32
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas
 
@@ -42323,6 +42333,7 @@
 * 2024-04: 12531970
 * 2024-05: 12651218
 * 2024-06: 12767059
+* 2024-07: 13064316
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - Total Demand
 
@@ -48024,6 +48035,7 @@
 * 2024-05: 554.24
 * 2024-06: 543.41
 * 2024-07: 519.37
+* 2024-08: 648.76
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BADULLA
 
@@ -50289,6 +50301,7 @@
 * 2024-05: -366.8
 * 2024-06: -598.7
 * 2024-07: -872.64
+* 2024-08: -910.96
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Professional services
 
@@ -50511,6 +50524,7 @@
 * 2024-04: 10591467
 * 2024-05: 10772212
 * 2024-06: 11008233
+* 2024-07: 10941428
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BATTICOLOA
 
@@ -52290,6 +52304,7 @@
 * 2024-05: 1616.78
 * 2024-06: 1860.63
 * 2024-07: 2155.95
+* 2024-08: 2557.79
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
@@ -56638,6 +56653,7 @@
 * 2024-04: 3854246
 * 2024-05: 3828576
 * 2024-06: 3883090
+* 2024-07: 3913152
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 
