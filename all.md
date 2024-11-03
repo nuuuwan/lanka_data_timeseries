@@ -8915,6 +8915,7 @@
 * 2024-06: 161.3
 * 2024-07: 161.3
 * 2024-08: 161.3
+* 2024-09: 161.3
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food, Beverages and Tobacco
 
@@ -9245,6 +9246,7 @@
 * 2024-06: 180.6
 * 2024-07: 180.8
 * 2024-08: 181.3
+* 2024-09: 181.9
 
 # Central Government Finance-Central Government Revenue General Government Revenue - Tax Revenue
 
@@ -16832,6 +16834,7 @@
 * 2024-06: 179.6
 * 2024-07: 179.1
 * 2024-08: 179.6
+* 2024-09: 180.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of furniture
 
@@ -17414,6 +17417,7 @@
 * 2024-06: 181.0
 * 2024-07: 182.1
 * 2024-08: 182.7
+* 2024-09: 183.4
 
 # Health-Personel No.of ECG Recordists
 
@@ -19626,6 +19630,7 @@
 * 2024-06: 6.1
 * 2024-07: 6.8
 * 2024-08: 7.1
+* 2024-09: 7.0
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Other manufacturing - Change
 
@@ -21951,6 +21956,7 @@
 * 2024-06: 21.2
 * 2024-07: 21.2
 * 2024-08: 21.2
+* 2024-09: 21.2
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Central
 
@@ -33055,6 +33061,7 @@
 * 2024-06: 5.4
 * 2024-07: 4.9
 * 2024-08: 4.5
+* 2024-09: 4.7
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Southern
 
@@ -36169,6 +36176,7 @@
 * 2024-06: 91.3
 * 2024-07: 91.7
 * 2024-08: 93.5
+* 2024-09: 93.6
 
 # Central Government Finance-Central Government Expenditure General Governmnet Expenditure - Capital Expenditure
 
@@ -36553,6 +36561,7 @@
 * 2024-06: 6.8
 * 2024-07: 6.5
 * 2024-08: 6.8
+* 2024-09: 6.6
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets KEGALLE
 
@@ -47018,6 +47027,7 @@
 * 2024-06: 182.5
 * 2024-07: 183.2
 * 2024-08: 184.1
+* 2024-09: 184.3
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Uva
 
@@ -48001,6 +48011,7 @@
 * 2024-06: 8239.3
 * 2024-07: 8239.7
 * 2024-08: 8239.6
+* 2024-09: 8239.1
 
 # Central Government Finance-Debt Statistics EDS - Central Bank - short term
 
@@ -51707,6 +51718,7 @@
 * 2024-06: 69.0
 * 2024-07: 69.4
 * 2024-08: 70.3
+* 2024-09: 70.7
 
 # International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
 
@@ -55193,6 +55205,7 @@
 * 2024-06: 5.9
 * 2024-07: 5.7
 * 2024-08: 5.7
+* 2024-09: 5.7
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-Grand Total Sri Lanka
 
