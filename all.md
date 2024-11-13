@@ -8490,14 +8490,6 @@
 * 2023-10: 3.74
 * 2023-11: 3.5
 * 2023-12: 3.4
-* 2024-01: 7.8
-* 2024-02: 4.9
-* 2024-03: 5.6
-* 2024-04: 5.2
-* 2024-05: 4.5
-* 2024-06: 4.9
-* 2024-07: 5.5
-* 2024-08: 5
 
 # International Investment Position-Other Investments IIP - Other Investments- Other accounts receivable -Assets
 
@@ -16428,6 +16420,7 @@
 * 2024-07: 187810
 * 2024-08: 164609
 * 2024-09: 122140
+* 2024-10: 135907
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -20263,9 +20256,6 @@
 * 2024-03: 2.9
 * 2024-04: -0.7
 * 2024-05: -0.5
-* 2024-06: 6.9
-* 2024-07: 2.9
-* 2024-08: 7.3
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -20826,15 +20816,7 @@
 
 # Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 
-* 2023-12: -48.9
-* 2024-01: 20.6
-* 2024-02: -13.7
-* 2024-03: -14.4
-* 2024-04: -17.5
-* 2024-05: -25.6
-* 2024-06: -20.4
-* 2024-07: -10.5
-* 2024-08: -16.3
+* 2023: -48.9
 
 # Banking Sector-All Banks Banking Sector- Number of Branches ANURADHAPURA
 
@@ -22442,6 +22424,7 @@
 * 2024-07: 580.6
 * 2024-08: 665.4
 * 2024-09: 719.9
+* 2024-10: 774.5
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Total Tax and Non Tax Revenue and Grants
 
@@ -27466,6 +27449,7 @@
 * 2024-07: 1198059
 * 2024-08: 1362668
 * 2024-09: 1484808
+* 2024-10: 1620715
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Gross Loans and Advances - Market Share
 
@@ -28987,6 +28971,7 @@
 * 2024-07: 60.4
 * 2024-08: 54.9
 * 2024-09: 50.4
+* 2024-10: 48.0
 
 # Transport-Road Network Road Kilometerage-Central-Expressways
 
@@ -31187,9 +31172,6 @@
 * 2024-03: 282.4
 * 2024-04: 253.5
 * 2024-05: 268.0
-* 2024-06: 274.9
-* 2024-07: 272.7
-* 2024-08: 296.1
 
 # Payment Data-SWIFT Domestic SWIFT Traffic (in Transactions)
 
@@ -37595,6 +37577,7 @@
 * 2024-07: 99.7
 * 2024-08: 84.8
 * 2024-09: 54.5
+* 2024-10: 54.5
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -39409,6 +39392,7 @@
 * 2024-07: 328.3
 * 2024-08: 282.1
 * 2024-09: 181.0
+* 2024-10: 185.6
 
 # Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 
@@ -47254,6 +47238,7 @@
 * 2024-07: 56.0
 * 2024-08: 50.7
 * 2024-09: 46.1
+* 2024-10: 44.0
 
 # Transport-Port Services Port Services - Vessels arrived
 
@@ -49410,9 +49395,7 @@
 * 2024-02: 27.4
 * 2024-03: 26.9
 * 2024-04: 24.8
-* 2024-05: 21.4
 * 2024-06: 24.9
-* 2024-07: 24.5
 * 2024-08: 25.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities
@@ -56303,6 +56286,7 @@
 * 2024-07: 1884.9
 * 2024-08: 2167.0
 * 2024-09: 2348.0
+* 2024-10: 2533.7
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class B
 

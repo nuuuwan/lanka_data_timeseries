@@ -10242,14 +10242,6 @@ Agriculture-Rubber Rubber Production
 2023-10	3.74
 2023-11	3.5
 2023-12	3.4
-2024-01	7.8
-2024-02	4.9
-2024-03	5.6
-2024-04	5.2
-2024-05	4.5
-2024-06	4.9
-2024-07	5.5
-2024-08	5
 
 Source: cbsl
 Frequency: Monthly
@@ -19528,12 +19520,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-07	187810
 2024-08	164609
 2024-09	122140
+2024-10	135907
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks KANDY
@@ -24150,9 +24143,6 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-03	2.9
 2024-04	-0.7
 2024-05	-0.5
-2024-06	6.9
-2024-07	2.9
-2024-08	7.3
 
 Source: cbsl
 Frequency: Monthly
@@ -24856,15 +24846,7 @@ Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statist
 --------------------------------
 
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
-2023-12	-48.9
-2024-01	20.6
-2024-02	-13.7
-2024-03	-14.4
-2024-04	-17.5
-2024-05	-25.6
-2024-06	-20.4
-2024-07	-10.5
-2024-08	-16.3
+2023	-48.9
 
 Source: cbsl
 Frequency: Monthly
@@ -26791,12 +26773,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-07	580.6
 2024-08	665.4
 2024-09	719.9
+2024-10	774.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Central Government Revenue - Total Tax and Non Tax Revenue and Grants
@@ -32711,12 +32694,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2024-07	1198059
 2024-08	1362668
 2024-09	1484808
+2024-10	1620715
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Gross Loans and Advances - Market Share
@@ -34559,12 +34543,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-07	60.4
 2024-08	54.9
 2024-09	50.4
+2024-10	48.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Central-Expressways
@@ -37193,9 +37178,6 @@ Agriculture-Coconut Coconut Production
 2024-03	282.4
 2024-04	253.5
 2024-05	268.0
-2024-06	274.9
-2024-07	272.7
-2024-08	296.1
 
 Source: cbsl
 Frequency: Monthly
@@ -44886,12 +44868,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-07	99.7
 2024-08	84.8
 2024-09	54.5
+2024-10	54.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
@@ -47037,12 +47020,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-07	328.3
 2024-08	282.1
 2024-09	181.0
+2024-10	185.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
@@ -56225,12 +56209,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-07	56.0
 2024-08	50.7
 2024-09	46.1
+2024-10	44.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Port Services Port Services - Vessels arrived
@@ -58765,9 +58750,7 @@ Agriculture-Fish Production Marine Fish Production
 2024-02	27.4
 2024-03	26.9
 2024-04	24.8
-2024-05	21.4
 2024-06	24.9
-2024-07	24.5
 2024-08	25.4
 
 Source: cbsl
@@ -67277,12 +67260,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-07	1884.9
 2024-08	2167.0
 2024-09	2348.0
+2024-10	2533.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-10-11', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Monaragala-Class B
