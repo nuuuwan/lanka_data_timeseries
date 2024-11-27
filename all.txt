@@ -37200,15 +37200,15 @@ Agriculture-Coconut Coconut Production
 2024-04	253.5
 2024-05	268.0
 2024-06	259.8
-2024-07	272.7
-2024-08	296.1
+2024-07	242.3
+2024-08	251
 2024-09	220.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-27', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Payment Data-SWIFT Domestic SWIFT Traffic (in Transactions)
