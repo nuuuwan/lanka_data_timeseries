@@ -11,7 +11,7 @@
     "Source": "Ministry of Coconut Development & Janatha Estate Development",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2024-11-14",
+    "Data last updated": "2024-11-27",
     "Update frequency": "Two months after the end of the month"
   },
   "summary_statistics": {
@@ -316,8 +316,8 @@
     "2024-04-01": 253.5,
     "2024-05-01": 268.0,
     "2024-06-01": 259.8,
-    "2024-07-01": 272.7,
-    "2024-08-01": 296.1,
+    "2024-07-01": 242.3,
+    "2024-08-01": 251,
     "2024-09-01": 220.5
   },
   "raw_data": {
@@ -1035,8 +1035,8 @@
     "2024-Apr": "253.50",
     "2024-May": "268.00",
     "2024-Jun": "259.80",
-    "2024-Jul": "272.70",
-    "2024-Aug": "296.10",
+    "2024-Jul": "242.30",
+    "2024-Aug": "251",
     "2024-Sep": "220.50",
     "2024-Oct": " ",
     "2024-Nov": " ",
