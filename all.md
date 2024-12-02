@@ -663,6 +663,9 @@
 * 2024-05: 88.49
 * 2024-06: 92.88
 * 2024-07: 87.57
+* 2024-08: 0
+* 2024-09: 87.38
+* 2024-10: 81.75
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Southern-Total
 
@@ -18167,6 +18170,9 @@
 * 2024-06: 78.42
 * 2024-07: 80.85
 * 2024-08: 75.71
+* 2024-09: 69.93
+* 2024-10: 71.55
+* 2024-11: 69.73
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Oleagino
 
@@ -23982,6 +23988,9 @@
 * 2024-06: 82.58
 * 2024-07: 84.14
 * 2024-08: 79.03
+* 2024-09: 73.27
+* 2024-10: 75.29
+* 2024-11: 73.51
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets MANNER
 
