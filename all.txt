@@ -71802,7 +71802,7 @@ IMF - Sri Lanka Data Private debt loans and debt securities
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'PVD_LS', 'description': 'Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.', 'source': 'Global Debt Database (Sept 2023)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/PVD_LS/LKA'}
+Footnotes: {'indicator_key': 'PVD_LS', 'description': 'Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.', 'source': 'Global Debt Database (Dec 2024)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/PVD_LS/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Expenditure
@@ -72676,14 +72676,14 @@ IMF - Sri Lanka Data Central Government Debt
 2017	72.2602787092
 2018	83.584943130292
 2019	82.594027710914
-2020	95.695080940771
-2021	102.24204453204
-2022	117.66132512264
+2020	96.881066693732
+2021	102.66862848414
+2022	115.93956902186
 
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'CG_DEBT_GDP', 'description': 'Total stock of debt liabilities issued by the central government as a share of GDP.', 'source': 'Global Debt Database (Sept 2023)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/CG_DEBT_GDP/LKA'}
+Footnotes: {'indicator_key': 'CG_DEBT_GDP', 'description': 'Total stock of debt liabilities issued by the central government as a share of GDP.', 'source': 'Global Debt Database (Dec 2024)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/CG_DEBT_GDP/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Innovation and Economic Integration
@@ -73044,7 +73044,7 @@ IMF - Sri Lanka Data Household debt loans and debt securities
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'HH_LS', 'description': 'Total stock of loans and debt securities issued by households as a share of GDP.', 'source': 'Global Debt Database (Sept 2023)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/HH_LS/LKA'}
+Footnotes: {'indicator_key': 'HH_LS', 'description': 'Total stock of loans and debt securities issued by households as a share of GDP.', 'source': 'Global Debt Database (Dec 2024)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/HH_LS/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Export Diversification Index
@@ -73287,7 +73287,7 @@ IMF - Sri Lanka Data Nonfinancial corporate debt loans and debt securities
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'NFC_LS', 'description': 'Total stock of loans and debt securities issued by nonfinancial corporations as a share of GDP.', 'source': 'Global Debt Database (Sept 2023)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/NFC_LS/LKA'}
+Footnotes: {'indicator_key': 'NFC_LS', 'description': 'Total stock of loans and debt securities issued by nonfinancial corporations as a share of GDP.', 'source': 'Global Debt Database (Dec 2024)', 'dataset': 'GDD', 'url': 'https://www.imf.org/external/datamapper/api/v1/NFC_LS/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Population
