@@ -71218,7 +71218,7 @@ IMF - Sri Lanka Data Ratio of reserve or ARA metric
 Source: imf
 Frequency: Annual
 Unit: Unit
-Footnotes: {'indicator_key': 'Reserves_ARA', 'description': '\uf0d8 Ratio of reserves/ARA metric – a ratio between 1 and 1.5 is consider adequate', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/LKA'}
+Footnotes: {'indicator_key': 'Reserves_ARA', 'description': '? Ratio of reserves/ARA metric \x96 a ratio between 1 and 1.5 is consider adequate', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Unemployment rate
@@ -72959,7 +72959,7 @@ IMF - Sri Lanka Data Reserve or (Import or 12)
 Source: imf
 Frequency: Annual
 Unit: Unit
-Footnotes: {'indicator_key': 'Reserves_M', 'description': 'Import cover – A measure of the number of months imports can be sustained should all inflows cease', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_M/LKA'}
+Footnotes: {'indicator_key': 'Reserves_M', 'description': 'Import cover \x96 A measure of the number of months imports can be sustained should all inflows cease', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_M/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Private Outflows excluding Direct Investment
@@ -73018,7 +73018,7 @@ IMF - Sri Lanka Data Reserves or Broad Money
 Source: imf
 Frequency: Annual
 Unit: Unit
-Footnotes: {'indicator_key': 'Reserves_M2', 'description': 'Reserves/Broad money – typically M2', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_M2/LKA'}
+Footnotes: {'indicator_key': 'Reserves_M2', 'description': 'Reserves/Broad money \x96 typically M2', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_M2/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Household debt loans and debt securities
