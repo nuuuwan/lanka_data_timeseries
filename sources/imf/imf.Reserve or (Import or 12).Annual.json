@@ -8,7 +8,7 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "Reserves_M",
-    "description": "Import cover \u2013 A measure of the number of months imports can be sustained should all inflows cease",
+    "description": "Import cover \u0096 A measure of the number of months imports can be sustained should all inflows cease",
     "source": "Assessing Reserve Adequacy - ARA",
     "dataset": "ARA",
     "url": "https://www.imf.org/external/datamapper/api/v1/Reserves_M/LKA"

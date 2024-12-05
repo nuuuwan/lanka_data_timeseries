@@ -8,7 +8,7 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "Reserves_ARA",
-    "description": "\uf0d8 Ratio of reserves/ARA metric \u2013 a ratio between 1 and 1.5 is consider adequate",
+    "description": "? Ratio of reserves/ARA metric \u0096 a ratio between 1 and 1.5 is consider adequate",
     "source": "Assessing Reserve Adequacy - ARA",
     "dataset": "ARA",
     "url": "https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/LKA"
