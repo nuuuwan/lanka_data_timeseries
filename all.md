@@ -2500,6 +2500,7 @@
 * 2024-05: 0
 * 2024-06: 0
 * 2024-07: 0
+* 2024-08: 0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and
 
@@ -4222,6 +4223,7 @@
 * 2024-06: 3.98
 * 2024-07: 5.86
 * 2024-08: 8.13
+* 2024-09: 9.48
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern
 
@@ -5218,6 +5220,7 @@
 * 2024-06: 2463.31
 * 2024-07: 3034.44
 * 2024-08: 3476.89
+* 2024-09: 3897.77
 
 # Transport-Road Network Road Kilometerage-North Central-Class A
 
@@ -5899,6 +5902,7 @@
 * 2024-06: 2218.44
 * 2024-07: 2672.96
 * 2024-08: 3041.57
+* 2024-09: 3434.58
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -9554,6 +9558,7 @@
 * 2024-05: 28121719
 * 2024-06: 28563445
 * 2024-07: 28703235
+* 2024-08: 28706756
 
 # Health-Personel No.of Public Health Inspectors
 
@@ -16434,6 +16439,7 @@
 * 2024-08: 164609
 * 2024-09: 122140
 * 2024-10: 135907
+* 2024-11: 184158
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -22458,6 +22464,7 @@
 * 2024-08: 665.4
 * 2024-09: 719.9
 * 2024-10: 774.5
+* 2024-11: 854.2
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Total Tax and Non Tax Revenue and Grants
 
@@ -24985,6 +24992,7 @@
 * 2024-06: 1709.31
 * 2024-07: 1976.68
 * 2024-08: 2348.53
+* 2024-09: 2688.57
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Postal and courier activities
 
@@ -27486,6 +27494,7 @@
 * 2024-08: 1362668
 * 2024-09: 1484808
 * 2024-10: 1620715
+* 2024-11: 1804873
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Gross Loans and Advances - Market Share
 
@@ -29008,6 +29017,7 @@
 * 2024-08: 54.9
 * 2024-09: 50.4
 * 2024-10: 48.0
+* 2024-11: 44.6
 
 # Transport-Road Network Road Kilometerage-Central-Expressways
 
@@ -30060,6 +30070,7 @@
 * 2024-06: 1864.61
 * 2024-07: 2161.8
 * 2024-08: 2565.92
+* 2024-09: 2927.79
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa
 
@@ -34793,6 +34804,7 @@
 * 2024-05: 17349507
 * 2024-06: 17555212
 * 2024-07: 17761807
+* 2024-08: 17725905
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
 
@@ -37331,6 +37343,7 @@
 * 2024-06: 151.33
 * 2024-07: 179.26
 * 2024-08: 209.26
+* 2024-09: 229.73
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -37516,6 +37529,7 @@
 * 2024-06: 244.86
 * 2024-07: 361.48
 * 2024-08: 435.32
+* 2024-09: 463.19
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas
 
@@ -37620,6 +37634,7 @@
 * 2024-08: 84.8
 * 2024-09: 54.5
 * 2024-10: 54.5
+* 2024-11: 79.7
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -39434,6 +39449,7 @@
 * 2024-08: 282.1
 * 2024-09: 181.0
 * 2024-10: 185.6
+* 2024-11: 272.9
 
 # Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 
@@ -42391,6 +42407,7 @@
 * 2024-05: 12651218
 * 2024-06: 12767059
 * 2024-07: 13064316
+* 2024-08: 13122369
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - Total Demand
 
@@ -47282,6 +47299,7 @@
 * 2024-08: 50.7
 * 2024-09: 46.1
 * 2024-10: 44.0
+* 2024-11: 41.3
 
 # Transport-Port Services Port Services - Vessels arrived
 
@@ -48104,6 +48122,7 @@
 * 2024-06: 543.41
 * 2024-07: 519.37
 * 2024-08: 648.76
+* 2024-09: 784.89
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BADULLA
 
@@ -50372,6 +50391,7 @@
 * 2024-06: -598.7
 * 2024-07: -872.64
 * 2024-08: -910.96
+* 2024-09: -969.99
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Professional services
 
@@ -50595,6 +50615,7 @@
 * 2024-05: 10772212
 * 2024-06: 11008233
 * 2024-07: 10941428
+* 2024-08: 10980851
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BATTICOLOA
 
@@ -52377,6 +52398,7 @@
 * 2024-06: 1860.63
 * 2024-07: 2155.95
 * 2024-08: 2557.79
+* 2024-09: 2918.31
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
@@ -56334,6 +56356,7 @@
 * 2024-08: 2167.0
 * 2024-09: 2348.0
 * 2024-10: 2533.7
+* 2024-11: 2806.5
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class B
 
@@ -56734,6 +56757,7 @@
 * 2024-05: 3828576
 * 2024-06: 3883090
 * 2024-07: 3913152
+* 2024-08: 3916604
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 
