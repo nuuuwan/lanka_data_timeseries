@@ -2206,6 +2206,7 @@
 * 2024-08: 577.5
 * 2024-09: 555.6
 * 2024-10: 587.7
+* 2024-11: 530.1
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central
 
@@ -16532,6 +16533,7 @@
 * 2024-08: 395.34
 * 2024-09: 400.46
 * 2024-10: 382.08
+* 2024-11: 369.65
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
 
@@ -45297,6 +45299,7 @@
 * 2024-08: 300.33
 * 2024-09: 299.36
 * 2024-10: 293.72
+* 2024-11: 290.92
 
 # Industry and Housing-Index of Industrial Production Beverages
 

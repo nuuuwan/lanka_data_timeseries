@@ -2676,12 +2676,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-08	577.5
 2024-09	555.6
 2024-10	587.7
+2024-11	530.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-08', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-06', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central
@@ -19656,12 +19657,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-08	395.34
 2024-09	400.46
 2024-10	382.08
+2024-11	369.65
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-06', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
@@ -53874,12 +53876,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-08	300.33
 2024-09	299.36
 2024-10	293.72
+2024-11	290.92
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-01', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-06', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Beverages
