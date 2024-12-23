@@ -8507,6 +8507,7 @@
 * 2024-07: 5.5
 * 2024-08: 5
 * 2024-09: 4.6
+* 2024-10: 5.2
 
 # International Investment Position-Other Investments IIP - Other Investments- Other accounts receivable -Assets
 
@@ -20298,10 +20299,11 @@
 * 2024-03: 2.9
 * 2024-04: -0.7
 * 2024-05: -0.5
-* 2024-06: 1
-* 2024-07: -8.6
-* 2024-08: -9
-* 2024-09: -17.8
+* 2024-06: -1.9
+* 2024-07: -11.5
+* 2024-08: -11.7
+* 2024-09: -23.5
+* 2024-10: -24.0
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -20872,6 +20874,7 @@
 * 2024-07: -10.5
 * 2024-08: -16.3
 * 2024-09: 3.2
+* 2024-10: 38.0
 
 # Banking Sector-All Banks Banking Sector- Number of Branches ANURADHAPURA
 
@@ -25596,6 +25599,7 @@
 * 2024-07: 9.7
 * 2024-08: 10.2
 * 2024-09: 9.4
+* 2024-10: 6.8
 
 # Central Government Finance-Debt Statistics EDS - Deposit Taking Corporations - short term
 
@@ -31291,10 +31295,11 @@
 * 2024-03: 282.4
 * 2024-04: 253.5
 * 2024-05: 268.0
-* 2024-06: 259.8
-* 2024-07: 242.3
-* 2024-08: 251
-* 2024-09: 220.5
+* 2024-06: 252.2
+* 2024-07: 234.6
+* 2024-08: 243.5
+* 2024-09: 205.3
+* 2024-10: 203.8
 
 # Payment Data-SWIFT Domestic SWIFT Traffic (in Transactions)
 
@@ -40748,6 +40753,7 @@
 * 2024-07: 7.1
 * 2024-08: 16.6
 * 2024-09: 28.9
+* 2024-10: -7.5
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Construction
 
@@ -49579,7 +49585,8 @@
 * 2024-06: 24.9
 * 2024-07: 25.4
 * 2024-08: 25.4
-* 2024-09: 23.3
+* 2024-09: 24.1
+* 2024-10: 26.5
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities
 
