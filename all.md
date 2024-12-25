@@ -4225,6 +4225,7 @@
 * 2024-07: 5.86
 * 2024-08: 8.13
 * 2024-09: 9.48
+* 2024-10: 11.23
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern
 
@@ -5222,6 +5223,7 @@
 * 2024-07: 3034.44
 * 2024-08: 3476.89
 * 2024-09: 3897.77
+* 2024-10: 4327.69
 
 # Transport-Road Network Road Kilometerage-North Central-Class A
 
@@ -5904,6 +5906,7 @@
 * 2024-07: 2672.96
 * 2024-08: 3041.57
 * 2024-09: 3434.58
+* 2024-10: 3796.05
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -25028,6 +25031,7 @@
 * 2024-07: 1976.68
 * 2024-08: 2348.53
 * 2024-09: 2688.57
+* 2024-10: 3000.25
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Postal and courier activities
 
@@ -30147,6 +30151,7 @@
 * 2024-07: 2161.8
 * 2024-08: 2565.92
 * 2024-09: 2927.79
+* 2024-10: 3266.94
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa
 
@@ -37435,6 +37440,7 @@
 * 2024-07: 179.26
 * 2024-08: 209.26
 * 2024-09: 229.73
+* 2024-10: 255.47
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -37621,6 +37627,7 @@
 * 2024-07: 361.48
 * 2024-08: 435.32
 * 2024-09: 463.19
+* 2024-10: 531.65
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas
 
@@ -48247,6 +48254,7 @@
 * 2024-07: 519.37
 * 2024-08: 648.76
 * 2024-09: 784.89
+* 2024-10: 830.7
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BADULLA
 
@@ -50517,6 +50525,7 @@
 * 2024-07: -872.64
 * 2024-08: -910.96
 * 2024-09: -969.99
+* 2024-10: -1060.75
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Professional services
 
@@ -52524,6 +52533,7 @@
 * 2024-07: 2155.95
 * 2024-08: 2557.79
 * 2024-09: 2918.31
+* 2024-10: 3255.71
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
