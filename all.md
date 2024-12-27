@@ -2502,6 +2502,7 @@
 * 2024-06: 0
 * 2024-07: 0
 * 2024-08: 0
+* 2024-09: 0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and
 
@@ -8931,6 +8932,7 @@
 * 2024-08: 161.3
 * 2024-09: 161.3
 * 2024-10: 161.3
+* 2024-11: 161.3
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food, Beverages and Tobacco
 
@@ -9263,6 +9265,7 @@
 * 2024-08: 181.3
 * 2024-09: 181.9
 * 2024-10: 182.8
+* 2024-11: 184.0
 
 # Central Government Finance-Central Government Revenue General Government Revenue - Tax Revenue
 
@@ -9564,6 +9567,7 @@
 * 2024-06: 28563445
 * 2024-07: 28703235
 * 2024-08: 28706756
+* 2024-09: 28574653
 
 # Health-Personel No.of Public Health Inspectors
 
@@ -16871,6 +16875,7 @@
 * 2024-08: 179.6
 * 2024-09: 180.1
 * 2024-10: 181.1
+* 2024-11: 183.4
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of furniture
 
@@ -17455,6 +17460,7 @@
 * 2024-08: 182.7
 * 2024-09: 183.4
 * 2024-10: 184.1
+* 2024-11: 184.9
 
 # Health-Personel No.of ECG Recordists
 
@@ -19672,6 +19678,7 @@
 * 2024-08: 7.1
 * 2024-09: 7.0
 * 2024-10: 6.9
+* 2024-11: 6.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Other manufacturing - Change
 
@@ -22003,6 +22010,7 @@
 * 2024-08: 21.2
 * 2024-09: 21.2
 * 2024-10: 21.2
+* 2024-11: 21.2
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Central
 
@@ -33195,6 +33203,7 @@
 * 2024-08: 4.5
 * 2024-09: 4.7
 * 2024-10: 4.6
+* 2024-11: 4.7
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Southern
 
@@ -34902,6 +34911,7 @@
 * 2024-06: 17555212
 * 2024-07: 17761807
 * 2024-08: 17725905
+* 2024-09: 17595054
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
 
@@ -36696,6 +36706,7 @@
 * 2024-08: 6.8
 * 2024-09: 6.6
 * 2024-10: 6.6
+* 2024-11: 5.0
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets KEGALLE
 
@@ -42522,6 +42533,7 @@
 * 2024-06: 12767059
 * 2024-07: 13064316
 * 2024-08: 13122369
+* 2024-09: 13198506
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - Total Demand
 
@@ -47190,6 +47202,7 @@
 * 2024-08: 184.1
 * 2024-09: 184.3
 * 2024-10: 185.5
+* 2024-11: 184.6
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Uva
 
@@ -50750,6 +50763,7 @@
 * 2024-06: 11008233
 * 2024-07: 10941428
 * 2024-08: 10980851
+* 2024-09: 10979599
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BATTICOLOA
 
@@ -51906,6 +51920,7 @@
 * 2024-08: 70.3
 * 2024-09: 70.7
 * 2024-10: 71.0
+* 2024-11: 70.9
 
 # International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
 
@@ -55396,6 +55411,7 @@
 * 2024-08: 5.7
 * 2024-09: 5.7
 * 2024-10: 5.6
+* 2024-11: 5.2
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-Grand Total Sri Lanka
 
@@ -56908,6 +56924,7 @@
 * 2024-06: 3883090
 * 2024-07: 3913152
 * 2024-08: 3916604
+* 2024-09: 3932089
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 

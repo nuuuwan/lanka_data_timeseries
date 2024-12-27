@@ -3050,12 +3050,13 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2024-06	0
 2024-07	0
 2024-08	0
+2024-09	0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Marine fishing and
@@ -10743,12 +10744,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-08	161.3
 2024-09	161.3
 2024-10	161.3
+2024-11	161.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Food, Beverages and Tobacco
@@ -11159,12 +11161,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	181.3
 2024-09	181.9
 2024-10	182.8
+2024-11	184.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Revenue General Government Revenue - Tax Revenue
@@ -11543,12 +11546,13 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2024-06	28563445
 2024-07	28703235
 2024-08	28706756
+2024-09	28574653
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 Health-Personel No.of Public Health Inspectors
@@ -20066,12 +20070,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	179.6
 2024-09	180.1
 2024-10	181.1
+2024-11	183.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of furniture
@@ -20805,12 +20810,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	182.7
 2024-09	183.4
 2024-10	184.1
+2024-11	184.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Health-Personel No.of ECG Recordists
@@ -23374,12 +23380,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	7.1
 2024-09	7.0
 2024-10	6.9
+2024-11	6.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Other manufacturing - Change
@@ -26275,12 +26282,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-08	21.2
 2024-09	21.2
 2024-10	21.2
+2024-11	21.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Central
@@ -39564,12 +39572,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	4.5
 2024-09	4.7
 2024-10	4.6
+2024-11	4.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Southern
@@ -41668,12 +41677,13 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2024-06	17555212
 2024-07	17761807
 2024-08	17725905
+2024-09	17595054
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
@@ -43773,12 +43783,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	6.8
 2024-09	6.6
 2024-10	6.6
+2024-11	5.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets KEGALLE
@@ -50655,12 +50666,13 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2024-06	12767059
 2024-07	13064316
 2024-08	13122369
+2024-09	13198506
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - Total Demand
@@ -56101,12 +56113,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	184.1
 2024-09	184.3
 2024-10	185.5
+2024-11	184.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Uva
@@ -60340,12 +60353,13 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2024-06	11008233
 2024-07	10941428
 2024-08	10980851
+2024-09	10979599
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance, Economic Stabilization and National Policies. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches BATTICOLOA
@@ -61792,12 +61806,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-08	70.3
 2024-09	70.7
 2024-10	71.0
+2024-11	70.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
@@ -66148,12 +66163,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-08	5.7
 2024-09	5.7
 2024-10	5.6
+2024-11	5.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-24', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-Revenue-Grand Total Sri Lanka
@@ -67977,12 +67993,13 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2024-06	3883090
 2024-07	3913152
 2024-08	3916604
+2024-09	3932089
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-22', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-27', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
