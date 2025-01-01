@@ -741,7 +741,6 @@
 
 # Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons
 
-* 1965: 3.3
 * 1966: 3.1
 * 1967: 3.4
 * 1968: 3.7
@@ -893,7 +892,6 @@
 
 # Central Government Finance-Central Government Expenditure Government expenditure on health as a per cent of GDP
 
-* 1965: 2.06
 * 1966: 2.07
 * 1967: 2.09
 * 1968: 2.06
@@ -4931,7 +4929,6 @@
 
 # Health-Health Statistics Government sector western medicine - Doctors
 
-* 1965: 1494
 * 1966: 1512
 * 1967: 1598
 * 1968: 1613
@@ -14942,7 +14939,6 @@
 
 # Central Government Finance-Central Government Expenditure Government expenditure on education as a per cent of GDP
 
-* 1965: 4.44
 * 1966: 4.2
 * 1967: 4.06
 * 1968: 4.01
@@ -24642,7 +24638,6 @@
 
 # Health-Health Statistics Government sector western medicine - Persons per doctor
 
-* 1965: 7473
 * 1966: 7565
 * 1967: 7324
 * 1968: 7435
@@ -36445,7 +36440,6 @@
 
 # Health-Health Statistics Government sector western medicine - Out-patients
 
-* 1965: 26738
 * 1966: 27235
 * 1967: 31704
 * 1968: 34752
@@ -36502,7 +36496,6 @@
 
 # Health-Health Statistics Government sector western medicine - Beds
 
-* 1965: 33802
 * 1966: 33461
 * 1967: 35684
 * 1968: 36069
@@ -40579,7 +40572,6 @@
 
 # Population Statistics-Mid Year Population Mid Year Population-Sri Lanka
 
-* 1965: 11164
 * 1966: 11439
 * 1967: 11703
 * 1968: 11992
@@ -40990,7 +40982,6 @@
 
 # Health-Health Statistics Government sector western medicine - Hospitals
 
-* 1965: 296
 * 1966: 297
 * 1967: 298
 * 1968: 302
@@ -42594,7 +42585,6 @@
 
 # Health-Health Statistics Government sector western medicine - Hospital beds per 1 000 persons
 
-* 1965: 3.0
 * 1966: 2.9
 * 1967: 3.0
 * 1968: 3.0
@@ -52654,7 +52644,6 @@
 
 # Health-Health Statistics Health Indicators - Infant Mortality per 1 000 live births
 
-* 1965: 53
 * 1966: 54
 * 1967: 48
 * 1968: 50
@@ -55564,7 +55553,6 @@
 
 # Health-Health Statistics Government sector western medicine - In-patients
 
-* 1965: 1642
 * 1966: 1785
 * 1967: 1764
 * 1968: 1945
@@ -57008,7 +56996,6 @@
 
 # Health-Health Statistics Government sector western medicine - Nurses
 
-* 1965: 3642
 * 1966: 3499
 * 1967: 3999
 * 1968: 4382
