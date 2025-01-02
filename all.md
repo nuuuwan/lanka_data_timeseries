@@ -11381,7 +11381,6 @@
 
 # Education-University Education University education - Students
 
-* 1965: 14139
 * 1966: 15046
 * 1967: 14512
 * 1968: 13005
@@ -15767,7 +15766,6 @@
 
 # Education-University Education University education - Students graduated
 
-* 1965: 2143
 * 1966: 3494
 * 1967: 3281
 * 1968: 4614
@@ -20987,7 +20985,6 @@
 
 # Education-General Education General education - Government - Students
 
-* 1965: 2556191
 * 1966: 2565891
 * 1967: 2588502
 * 1968: 2633637
@@ -22193,7 +22190,6 @@
 
 # Education-General Education General education - Government - Teachers
 
-* 1965: 91981
 * 1966: 88664
 * 1967: 87471
 * 1968: 92982
@@ -22973,7 +22969,6 @@
 
 # Education-University Education University education - Lecturers
 
-* 1965: 563
 * 1966: 548
 * 1967: 585
 * 1968: 650
@@ -37102,7 +37097,6 @@
 
 # Education-General Education General education - Government -Schools
 
-* 1965: 5660
 * 1966: 8409
 * 1967: 8433
 * 1968: 9773
@@ -56627,7 +56621,6 @@
 
 # Education-University Education University education - New enrolment
 
-* 1965: 1885
 * 1966: 3990
 * 1969: 3457
 * 1972: 3338
