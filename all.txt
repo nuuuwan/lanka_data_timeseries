@@ -19675,12 +19675,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-09	400.46
 2024-10	382.08
 2024-11	369.65
+2024-12	367.38
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-03', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
@@ -53985,12 +53986,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-09	299.36
 2024-10	293.72
 2024-11	290.92
+2024-12	292.58
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-12-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-03', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Beverages

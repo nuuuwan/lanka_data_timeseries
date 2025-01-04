@@ -16551,6 +16551,7 @@
 * 2024-09: 400.46
 * 2024-10: 382.08
 * 2024-11: 369.65
+* 2024-12: 367.38
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
 
@@ -45408,6 +45409,7 @@
 * 2024-09: 299.36
 * 2024-10: 293.72
 * 2024-11: 290.92
+* 2024-12: 292.58
 
 # Industry and Housing-Index of Industrial Production Beverages
 
