@@ -30650,7 +30650,6 @@
 
 # Communication Media-Postal Services Postal Services - Post offices
 
-* 1965: 2346
 * 1966: 2356
 * 1967: 2361
 * 1968: 2400
@@ -33408,7 +33407,6 @@
 
 # Communication Media-Postal Services Postal Services - Average population served by a post office
 
-* 1965: 4759
 * 1966: 4855
 * 1967: 4957
 * 1968: 4997
