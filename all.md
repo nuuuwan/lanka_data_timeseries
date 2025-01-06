@@ -35708,7 +35708,6 @@
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
-* 1965: 403.6
 * 1966: 423.8
 * 1967: 408.4
 * 1968: 395.8
@@ -44863,7 +44862,6 @@
 
 # Imports and Exports-Exports (in USD terms) Merchandise Exports - Total
 
-* 1965: 400.9
 * 1966: 351.5
 * 1967: 339.4
 * 1968: 332.0
