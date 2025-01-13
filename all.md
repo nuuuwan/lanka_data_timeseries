@@ -4226,6 +4226,7 @@
 * 2024-08: 8.13
 * 2024-09: 9.48
 * 2024-10: 11.23
+* 2024-11: 13.74
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Eastern
 
@@ -5223,6 +5224,7 @@
 * 2024-08: 3476.89
 * 2024-09: 3897.77
 * 2024-10: 4327.69
+* 2024-11: 4881.94
 
 # Transport-Road Network Road Kilometerage-North Central-Class A
 
@@ -5906,6 +5908,7 @@
 * 2024-08: 3041.57
 * 2024-09: 3434.58
 * 2024-10: 3796.05
+* 2024-11: 4276.03
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -9557,14 +9560,6 @@
 * 2023-10: 28094693
 * 2023-11: 28188909
 * 2023-12: 28695949
-* 2024-01: 28651406
-* 2024-02: 28335109
-* 2024-03: 28075849
-* 2024-04: 27904290
-* 2024-05: 28121719
-* 2024-06: 28563445
-* 2024-07: 28703235
-* 2024-08: 28706756
 * 2024-09: 28574653
 
 # Health-Personel No.of Public Health Inspectors
@@ -25034,6 +25029,7 @@
 * 2024-08: 2348.53
 * 2024-09: 2688.57
 * 2024-10: 3000.25
+* 2024-11: 3370.46
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Postal and courier activities
 
@@ -30156,6 +30152,7 @@
 * 2024-08: 2565.92
 * 2024-09: 2927.79
 * 2024-10: 3266.94
+* 2024-11: 3664.64
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa
 
@@ -34897,14 +34894,6 @@
 * 2023-10: 16630774
 * 2023-11: 16681675
 * 2023-12: 17051854
-* 2024-01: 17246603
-* 2024-02: 17206852
-* 2024-03: 17292788
-* 2024-04: 17312823
-* 2024-05: 17349507
-* 2024-06: 17555212
-* 2024-07: 17761807
-* 2024-08: 17725905
 * 2024-09: 17595054
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
@@ -37442,6 +37431,7 @@
 * 2024-08: 209.26
 * 2024-09: 229.73
 * 2024-10: 255.47
+* 2024-11: 280.45
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -37629,6 +37619,7 @@
 * 2024-08: 435.32
 * 2024-09: 463.19
 * 2024-10: 531.65
+* 2024-11: 605.91
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Gas
 
@@ -48258,6 +48249,7 @@
 * 2024-08: 648.76
 * 2024-09: 784.89
 * 2024-10: 830.7
+* 2024-11: 927.85
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BADULLA
 
@@ -50529,6 +50521,7 @@
 * 2024-08: -910.96
 * 2024-09: -969.99
 * 2024-10: -1060.75
+* 2024-11: -1217.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Professional services
 
@@ -52539,6 +52532,7 @@
 * 2024-08: 2557.79
 * 2024-09: 2918.31
 * 2024-10: 3255.71
+* 2024-11: 3650.9
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
