@@ -8510,9 +8510,10 @@
 * 2024-05: 4.7
 * 2024-06: 5.1
 * 2024-07: 5.5
-* 2024-08: 5
+* 2024-08: 5.0
 * 2024-09: 4.6
 * 2024-10: 5.2
+* 2024-11: 5.0
 
 # International Investment Position-Other Investments IIP - Other Investments- Other accounts receivable -Assets
 
@@ -20306,6 +20307,7 @@
 * 2024-08: -11.7
 * 2024-09: -23.5
 * 2024-10: -24.0
+* 2024-11: -27.9
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -20877,6 +20879,7 @@
 * 2024-08: -16.3
 * 2024-09: 3.2
 * 2024-10: 38.0
+* 2024-11: 42.5
 
 # Banking Sector-All Banks Banking Sector- Number of Branches ANURADHAPURA
 
@@ -25602,6 +25605,7 @@
 * 2024-08: 10.2
 * 2024-09: 9.4
 * 2024-10: 6.8
+* 2024-11: 6.9
 
 # Central Government Finance-Debt Statistics EDS - Deposit Taking Corporations - short term
 
@@ -31305,6 +31309,7 @@
 * 2024-08: 243.5
 * 2024-09: 205.3
 * 2024-10: 203.8
+* 2024-11: 191.0
 
 # Payment Data-SWIFT Domestic SWIFT Traffic (in Transactions)
 
@@ -40744,7 +40749,7 @@
 # Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 
 * 2023-12: 0.5
-* 2024-01: 1.64
+* 2024-01: 1.6
 * 2024-02: 6.6
 * 2024-03: -12.1
 * 2024-04: -14.5
@@ -40754,6 +40759,7 @@
 * 2024-08: 16.6
 * 2024-09: 28.9
 * 2024-10: -7.5
+* 2024-11: 13.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Construction
 
@@ -49587,9 +49593,10 @@
 * 2024-05: 21.5
 * 2024-06: 24.9
 * 2024-07: 25.4
-* 2024-08: 25.4
-* 2024-09: 24.1
-* 2024-10: 26.5
+* 2024-08: 26.2
+* 2024-09: 24.3
+* 2024-10: 27.1
+* 2024-11: 25.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities
 
@@ -58079,7 +58086,7 @@
 * 2023-10: 22.85
 * 2023-11: 19.59
 * 2023-12: 19.81
-* 2024-01: 18.73
+* 2024-01: 18.7
 * 2024-02: 20.0
 * 2024-03: 19.6
 * 2024-04: 21.5
@@ -58088,6 +58095,8 @@
 * 2024-07: 22.9
 * 2024-08: 21.3
 * 2024-09: 24.1
+* 2024-10: 21.1
+* 2024-11: 22.3
 
 # Health-Personel No.of Registered-Assistant Medical Offices
 
