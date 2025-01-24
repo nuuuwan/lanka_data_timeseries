@@ -82672,7 +82672,6 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2023-05	70.9
 2023-06	73.7
 2023-07	72.7
-2023-11	66.0
 2023-12	64.8
 2024-01	66.5
 2024-02	85.8
@@ -84591,7 +84590,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2023-06	-14.9
 2023-07	11.2
 2023-10	-4.0
-2023-11	-2.3
 2023-12	6.9
 2024-01	-14.2
 2024-02	0.2
@@ -89065,7 +89063,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2023-06	92.7
 2023-07	104.4
 2023-10	103.3
-2023-11	100.1
 2023-12	91.7
 2024-01	84.3
 2024-02	90.0
@@ -100102,7 +100099,6 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2023-06	-6.7
 2023-07	6.9
 2023-09	-0.6
-2023-11	10.8
 2023-12	8.8
 2024-01	2.9
 2024-02	11.2
@@ -102956,7 +102952,6 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2023-05	-38.9
 2023-06	-29.3
 2023-07	-21.3
-2023-11	-1.0
 2023-12	1.6
 2024-01	1.9
 2024-02	15.4
@@ -111204,7 +111199,6 @@ Industry and Housing-Index of Industrial Production Food products
 2023-07	94.5
 2023-09	98.6
 2023-10	93.9
-2023-11	91.9
 2023-12	85.4
 2024-01	96.4
 2024-02	87.9
@@ -116423,7 +116417,6 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2023-07	6.9
 2023-09	10.7
 2023-10	1.5
-2023-11	10.3
 2023-12	-5.2
 2024-01	14.1
 2024-02	0.7
