@@ -68067,6 +68067,7 @@
 * 2024-09: 6.6
 * 2024-10: 6.6
 * 2024-11: 5.0
+* 2024-12: 4.7
 
 # Transport-Road Network Road Kilometerage-Kalutara-Expressways
 
@@ -77769,6 +77770,7 @@
 * 2024-09: 4.7
 * 2024-10: 4.6
 * 2024-11: 4.7
+* 2024-12: 4.6
 
 # Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Sri Lanka
 
@@ -78106,6 +78108,7 @@
 * 2024-09: 180.1
 * 2024-10: 181.1
 * 2024-11: 183.4
+* 2024-12: 183.8
 
 # Transport-Road Network Road Kilometerage-Colombo-Class A
 
@@ -78237,6 +78240,7 @@
 * 2024-09: 21.2
 * 2024-10: 21.2
 * 2024-11: 21.2
+* 2024-12: 21.2
 
 # Industry and Housing-Index of Industrial Production Rubber and plastic products - Change
 
@@ -78971,6 +78975,7 @@
 * 2024-09: 161.3
 * 2024-10: 161.3
 * 2024-11: 161.3
+* 2024-12: 161.3
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KANDY
 
@@ -80372,6 +80377,7 @@
 * 2024-09: 7.0
 * 2024-10: 6.9
 * 2024-11: 6.1
+* 2024-12: 7.1
 
 # Transport-Road Network Road Kilometerage-Puttalam-Class E
 
@@ -90984,6 +90990,7 @@
 * 2024-09: 181.9
 * 2024-10: 182.8
 * 2024-11: 184.0
+* 2024-12: 184.5
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Southern
 
@@ -92342,6 +92349,7 @@
 * 2024-09: 184.3
 * 2024-10: 185.5
 * 2024-11: 184.6
+* 2024-12: 184.4
 
 # Education-University Education University education - Student or teacher ratio
 
@@ -92849,6 +92857,7 @@
 * 2024-09: 183.4
 * 2024-10: 184.1
 * 2024-11: 184.9
+* 2024-12: 186.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
 
@@ -106697,6 +106706,7 @@
 * 2024-09: 5.7
 * 2024-10: 5.6
 * 2024-11: 5.2
+* 2024-12: 5.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches BADULLA
 
@@ -122517,6 +122527,7 @@
 * 2024-09: 70.7
 * 2024-10: 71.0
 * 2024-11: 70.9
+* 2024-12: 70.2
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western
 

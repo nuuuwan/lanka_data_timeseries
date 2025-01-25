@@ -70356,6 +70356,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	6.6
 2024-10	6.6
 2024-11	5.0
+2024-12	4.7
 
 --------------------------------
 
@@ -80382,6 +80383,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	4.7
 2024-10	4.6
 2024-11	4.7
+2024-12	4.6
 
 --------------------------------
 
@@ -80728,6 +80730,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	180.1
 2024-10	181.1
 2024-11	183.4
+2024-12	183.8
 
 --------------------------------
 
@@ -80862,6 +80865,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-09	21.2
 2024-10	21.2
 2024-11	21.2
+2024-12	21.2
 
 --------------------------------
 
@@ -81622,6 +81626,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-09	161.3
 2024-10	161.3
 2024-11	161.3
+2024-12	161.3
 
 --------------------------------
 
@@ -83082,6 +83087,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	7.0
 2024-10	6.9
 2024-11	6.1
+2024-12	7.1
 
 --------------------------------
 
@@ -94029,6 +94035,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	181.9
 2024-10	182.8
 2024-11	184.0
+2024-12	184.5
 
 --------------------------------
 
@@ -95422,6 +95429,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	184.3
 2024-10	185.5
 2024-11	184.6
+2024-12	184.4
 
 --------------------------------
 
@@ -95949,6 +95957,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	183.4
 2024-10	184.1
 2024-11	184.9
+2024-12	186.0
 
 --------------------------------
 
@@ -110215,6 +110224,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-09	5.7
 2024-10	5.6
 2024-11	5.2
+2024-12	5.2
 
 --------------------------------
 
@@ -126601,6 +126611,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-09	70.7
 2024-10	71.0
 2024-11	70.9
+2024-12	70.2
 
 --------------------------------
 
