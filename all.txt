@@ -88085,12 +88085,14 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-09	69.93
 2024-10	71.55
 2024-11	69.73
+2024-12	69.57
+2025-01	74.77
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-31', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-North-Central
@@ -116710,12 +116712,14 @@ Petroleum-Average Crude Oil Prices CPC Import Prices
 2024-08	0
 2024-09	87.38
 2024-10	81.75
+2024-11	76.72
+2024-12	77.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-31', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions
@@ -125159,12 +125163,14 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-09	73.27
 2024-10	75.29
 2024-11	73.51
+2024-12	73.02
+2025-01	77.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-11-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-31', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carried out at POS terminals)

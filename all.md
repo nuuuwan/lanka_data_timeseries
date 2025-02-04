@@ -78782,6 +78782,8 @@
 * 2024-09: 69.93
 * 2024-10: 71.55
 * 2024-11: 69.73
+* 2024-12: 69.57
+* 2025-01: 74.77
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-North-Central
 
@@ -102834,6 +102836,8 @@
 * 2024-08: 0
 * 2024-09: 87.38
 * 2024-10: 81.75
+* 2024-11: 76.72
+* 2024-12: 77.5
 
 # Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Volume of Common Electronic Fund Transfer Switch (CEFTS) Transactions
 
@@ -109920,6 +109924,8 @@
 * 2024-09: 73.27
 * 2024-10: 75.29
 * 2024-11: 73.51
+* 2024-12: 73.02
+* 2025-01: 77.9
 
 # Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carried out at POS terminals)
 
