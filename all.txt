@@ -69473,12 +69473,13 @@ Agriculture-Coconut Coconut Production
 2024-09	205.3
 2024-10	203.8
 2024-11	191.0
+2024-12	170.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-16', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-14', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Anuradhapura-Class C
@@ -69817,6 +69818,7 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-09	-23.5
 2024-10	-24.0
 2024-11	-27.9
+2024-12	-33.1
 
 Source: cbsl
 Frequency: Monthly
@@ -75352,12 +75354,13 @@ Agriculture-Tea Tea Production
 2024-09	24.1
 2024-10	21.1
 2024-11	22.3
+2024-12	21.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-16', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-14', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Mannar-Expressways
@@ -97249,17 +97252,18 @@ Footnotes: {'Sector': 'Real Sector', 'Source': "Registrar General's Department",
 
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2023-12	-48.9
-2024-01	26.9
-2024-02	-11.1
-2024-03	-8.4
-2024-04	-15.0
-2024-05	-22.4
-2024-06	-15.7
-2024-07	-10.5
-2024-08	-16.3
-2024-09	3.2
-2024-10	38.0
-2024-11	42.5
+2024-01	31.5
+2024-02	-2.6
+2024-03	0.1
+2024-04	-12.7
+2024-05	-12.0
+2024-06	-7.5
+2024-07	0.8
+2024-08	0.0
+2024-09	20.7
+2024-10	50.4
+2024-11	24.3
+2024-12	32.4
 
 Source: cbsl
 Frequency: Monthly
@@ -105145,23 +105149,24 @@ Agriculture-Rubber Rubber Production
 2023-10	3.74
 2023-11	3.5
 2023-12	3.4
-2024-01	8.2
-2024-02	5.1
-2024-03	6.0
-2024-04	5.4
-2024-05	4.7
-2024-06	5.1
-2024-07	5.5
-2024-08	5.0
-2024-09	4.6
-2024-10	5.2
-2024-11	5.0
+2024-01	8.5
+2024-02	5.6
+2024-03	6.5
+2024-04	5.5
+2024-05	5.3
+2024-06	5.6
+2024-07	6.2
+2024-08	6.0
+2024-09	5.4
+2024-10	5.6
+2024-11	4.4
+2024-12	4.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-16', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-14', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Western
@@ -111771,6 +111776,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-09	28.9
 2024-10	-7.5
 2024-11	13.9
+2024-12	9.6
 
 Source: cbsl
 Frequency: Monthly
