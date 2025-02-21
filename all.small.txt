@@ -57306,6 +57306,8 @@ Health-Personel No.of ECG Recordists
 2017	359
 2018	377
 2019	0
+2020	418
+2021	416
 
 --------------------------------
 
@@ -58806,6 +58808,9 @@ Industry and Housing-Electricity Sales Electricity Sales-Units-Transmission Bulk
 2017	1594.95
 2018	1640.21
 2019	1684.39
+2020	1604.76
+2021	1632.61
+2022	1549.93
 
 --------------------------------
 
@@ -62992,6 +62997,9 @@ Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Sri Lank
 2017	24872.6
 2018	26232.1
 2019	7489.6
+2020	28731.7
+2021	28269.9
+2022	38020.8
 
 --------------------------------
 
@@ -64579,6 +64587,8 @@ Health-Personel No.of EEG Recordists
 2017	97
 2018	97
 2019	0
+2020	110
+2021	108
 
 --------------------------------
 
@@ -68903,6 +68913,8 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure 
 2017	37357
 2018	44316
 2019	57231
+2020	55911
+2021	56876
 
 --------------------------------
 
@@ -71717,6 +71729,9 @@ Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Account
 2017	6193130
 2018	6354280
 2019	6500641
+2020	6636266
+2021	6809528
+2022	6936735
 
 --------------------------------
 
@@ -74213,6 +74228,9 @@ Health-Personel No.of Public Health Nursing Sisters
 2017	328
 2018	314
 2019	0
+2020	325
+2021	302
+2022	530
 
 --------------------------------
 
@@ -75995,6 +76013,9 @@ Industry and Housing-Water Consumption Water Consumption-Revenue Collected-Sri L
 2017	25546.1
 2018	27248.7
 2019	28082.8
+2020	25621.5
+2021	29845.5
+2022	37522.6
 
 --------------------------------
 
@@ -76178,6 +76199,9 @@ Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Sri L
 2017	509.5
 2018	534.1
 2019	560.8
+2020	594.0
+2021	604.8
+2022	611.8
 
 --------------------------------
 
@@ -78867,6 +78891,9 @@ Industry and Housing-Water Consumption Water Consumption-No. of Consumers-Sri La
 2017	2219172
 2018	2328654
 2019	2437504
+2020	2560237
+2021	2752324
+2022	2905541
 
 --------------------------------
 
@@ -81725,6 +81752,9 @@ Industry and Housing-Electricity Sales Electricity Sales-Revenue-Grand Total Sri
 2017	218450.46
 2018	204078.38
 2019	242950.33
+2020	238910.55
+2021	249089.29
+2022	308457.23
 
 --------------------------------
 
@@ -82752,6 +82782,8 @@ Health-Personel No.of Radiographers
 2017	610
 2018	632
 2019	0
+2020	728
+2021	718
 
 --------------------------------
 
@@ -84299,6 +84331,8 @@ Health-Personel No.of Public Health Inspectors
 2017	1720
 2018	1971
 2019	0
+2020	2183
+2021	2118
 
 --------------------------------
 
@@ -87554,6 +87588,11 @@ Health-Personel No.of Nurses - Total
 2015	34051
 2016	34069
 2017	36111
+2018	38186
+2019	39204
+2020	39204
+2021	46385
+2022	49773
 
 --------------------------------
 
@@ -87854,6 +87893,11 @@ Health-Personel No.of Medical Offices - Total
 2015	18243
 2016	18968
 2017	19800
+2018	19720
+2019	20381
+2020	20381
+2021	21450
+2022	22472
 
 --------------------------------
 
@@ -91327,6 +91371,9 @@ Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Account
 2017	1
 2018	1
 2019	1
+2020	1
+2021	1
+2022	1
 
 --------------------------------
 
@@ -99642,6 +99689,8 @@ Health-Personel No.of Public Health Midwives
 2017	5746
 2018	6158
 2019	0
+2020	6189
+2021	6637
 
 --------------------------------
 
@@ -100641,6 +100690,9 @@ Health-Personel No.of Registered-Assistant Medical Offices
 2017	818
 2018	789
 2019	0
+2020	738
+2021	661
+2022	674
 
 --------------------------------
 
@@ -100809,6 +100861,8 @@ Central Government Finance-Central Government Expenditure Capital Expenditure on
 2017	14578
 2018	15201
 2019	15377
+2020	12756
+2021	12650
 
 --------------------------------
 
@@ -102914,6 +102968,9 @@ Industry and Housing-Electricity Sales Electricity Sales-Revenue-Transmission Bu
 2017	25182.11
 2018	25478.36
 2019	27719.56
+2020	25717.05
+2021	22917.58
+2022	29651.36
 
 --------------------------------
 
@@ -102988,6 +103045,8 @@ Health-Personel No.of Medical Laboratory Technologists
 2017	1724
 2018	1843
 2019	0
+2020	2099
+2021	2147
 
 --------------------------------
 
@@ -103574,6 +103633,8 @@ Central Government Finance-Central Government Expenditure Total Expenditure on H
 2017	51935
 2018	59517
 2019	72608
+2020	68667
+2021	69526
 
 --------------------------------
 
@@ -105829,6 +105890,8 @@ Health-Personel No.of Pharmacists
 2017	1626
 2018	1744
 2019	0
+2020	1974
+2021	2077
 
 --------------------------------
 
@@ -108538,6 +108601,9 @@ Industry and Housing-Electricity Sales Electricity Sales-Units-Grand Total Sri L
 2017	13431.46
 2018	14091.16
 2019	14611.23
+2020	14286.14
+2021	15213.62
+2022	14519.62
 
 --------------------------------
 
@@ -109203,6 +109269,8 @@ Health-Personel No.of Dispensers
 2017	1688
 2018	1698
 2019	0
+2020	1640
+2021	1639
 
 --------------------------------
 
@@ -109825,6 +109893,9 @@ Health-Personel No.of Dental Surgeons
 2017	1473
 2018	1561
 2019	0
+2020	1561
+2021	1564
+2022	1762
 
 --------------------------------
 
@@ -110309,6 +110380,8 @@ Health-Personel No.of School Dental Therapists
 2017	368
 2018	350
 2019	0
+2020	364
+2021	344
 
 --------------------------------
 
@@ -110331,6 +110404,8 @@ Health-Personel No.of Physiotherapists
 2017	618
 2018	624
 2019	0
+2020	738
+2021	785
 
 --------------------------------
 
@@ -112683,6 +112758,7 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-10	587.7
 2024-11	530.1
 2024-12	613.8
+2025-01	573.0
 
 --------------------------------
 
@@ -115892,6 +115968,8 @@ Health-Personel No.of Hospital Midwives
 2017	2485
 2018	2694
 2019	0
+2020	2610
+2021	2717
 
 --------------------------------
 

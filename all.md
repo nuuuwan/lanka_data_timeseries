@@ -55597,6 +55597,8 @@
 * 2017: 359
 * 2018: 377
 * 2019: 0
+* 2020: 418
+* 2021: 416
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Class D
 
@@ -57056,6 +57058,9 @@
 * 2017: 1594.95
 * 2018: 1640.21
 * 2019: 1684.39
+* 2020: 1604.76
+* 2021: 1632.61
+* 2022: 1549.93
 
 # Banking Sector-All Banks Banking Sector- Number of Branches COLOMBO
 
@@ -61141,6 +61146,9 @@
 * 2017: 24872.6
 * 2018: 26232.1
 * 2019: 7489.6
+* 2020: 28731.7
+* 2021: 28269.9
+* 2022: 38020.8
 
 # Transport-Road Network Road Kilometerage-Matale-Class E
 
@@ -62671,6 +62679,8 @@
 * 2017: 97
 * 2018: 97
 * 2019: 0
+* 2020: 110
+* 2021: 108
 
 # Agriculture-Coconut Coconut Production
 
@@ -66864,6 +66874,8 @@
 * 2017: 37357
 * 2018: 44316
 * 2019: 57231
+* 2020: 55911
+* 2021: 56876
 
 # Transport-Road Network Road Kilometerage-Matara-Class D
 
@@ -69575,6 +69587,9 @@
 * 2017: 6193130
 * 2018: 6354280
 * 2019: 6500641
+* 2020: 6636266
+* 2021: 6809528
+* 2022: 6936735
 
 # Payment Data-Credit or Debit Cards Total number of Debit Cards in use (as at end period)
 
@@ -71978,6 +71993,9 @@
 * 2017: 328
 * 2018: 314
 * 2019: 0
+* 2020: 325
+* 2021: 302
+* 2022: 530
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - General public services
 
@@ -73713,6 +73731,9 @@
 * 2017: 25546.1
 * 2018: 27248.7
 * 2019: 28082.8
+* 2020: 25621.5
+* 2021: 29845.5
+* 2022: 37522.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks COLOMBO
 
@@ -73888,6 +73909,9 @@
 * 2017: 509.5
 * 2018: 534.1
 * 2019: 560.8
+* 2020: 594.0
+* 2021: 604.8
+* 2022: 611.8
 
 # Education-General Education General education - Private - Students
 
@@ -76505,6 +76529,9 @@
 * 2017: 2219172
 * 2018: 2328654
 * 2019: 2437504
+* 2020: 2560237
+* 2021: 2752324
+* 2022: 2905541
 
 # Central Government Finance-Debt Statistics Central Government - Debt - Foreign
 
@@ -79264,6 +79291,9 @@
 * 2017: 218450.46
 * 2018: 204078.38
 * 2019: 242950.33
+* 2020: 238910.55
+* 2021: 249089.29
+* 2022: 308457.23
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class B
 
@@ -80247,6 +80277,8 @@
 * 2017: 610
 * 2018: 632
 * 2019: 0
+* 2020: 728
+* 2021: 718
 
 # Labour Force and Employment-Overall Labour Statistics-Employed Population
 
@@ -81735,6 +81767,8 @@
 * 2017: 1720
 * 2018: 1971
 * 2019: 0
+* 2020: 2183
+* 2021: 2118
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Oleagino
 
@@ -84896,6 +84930,11 @@
 * 2015: 34051
 * 2016: 34069
 * 2017: 36111
+* 2018: 38186
+* 2019: 39204
+* 2020: 39204
+* 2021: 46385
+* 2022: 49773
 
 # Agriculture-Tea Estimated Tea Production - Southern
 
@@ -85186,6 +85225,11 @@
 * 2015: 18243
 * 2016: 18968
 * 2017: 19800
+* 2018: 19720
+* 2019: 20381
+* 2020: 20381
+* 2021: 21450
+* 2022: 22472
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Housing Water Electricity Gas and ot
 
@@ -88531,6 +88575,9 @@
 * 2017: 1
 * 2018: 1
 * 2019: 1
+* 2020: 1
+* 2021: 1
+* 2022: 1
 
 # Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark price)
 
@@ -96579,6 +96626,8 @@
 * 2017: 5746
 * 2018: 6158
 * 2019: 0
+* 2020: 6189
+* 2021: 6637
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches BADULLA
 
@@ -97559,6 +97608,9 @@
 * 2017: 818
 * 2018: 789
 * 2019: 0
+* 2020: 738
+* 2021: 661
+* 2022: 674
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Class C
 
@@ -97722,6 +97774,8 @@
 * 2017: 14578
 * 2018: 15201
 * 2019: 15377
+* 2020: 12756
+* 2021: 12650
 
 # Transport-Road Network Road Kilometerage-Kurunegala-Expressways
 
@@ -99752,6 +99806,9 @@
 * 2017: 25182.11
 * 2018: 25478.36
 * 2019: 27719.56
+* 2020: 25717.05
+* 2021: 22917.58
+* 2022: 29651.36
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Expressways
 
@@ -99823,6 +99880,8 @@
 * 2017: 1724
 * 2018: 1843
 * 2019: 0
+* 2020: 2099
+* 2021: 2147
 
 # Transport-Road Network Road Kilometerage-Northern-Total
 
@@ -100388,6 +100447,8 @@
 * 2017: 51935
 * 2018: 59517
 * 2019: 72608
+* 2020: 68667
+* 2021: 69526
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Transport
 
@@ -102566,6 +102627,8 @@
 * 2017: 1626
 * 2018: 1744
 * 2019: 0
+* 2020: 1974
+* 2021: 2077
 
 # Wages and Indices-Informal Private Sector Wage Rate Index Wage Rate Index-Informal Private Sector (2012=100)-Industry-Nominal
 
@@ -105213,6 +105276,9 @@
 * 2017: 13431.46
 * 2018: 14091.16
 * 2019: 14611.23
+* 2020: 14286.14
+* 2021: 15213.62
+* 2022: 14519.62
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change
 
@@ -105850,6 +105916,8 @@
 * 2017: 1688
 * 2018: 1698
 * 2019: 0
+* 2020: 1640
+* 2021: 1639
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Wholesale and Retail Trade - Domestic Trade
 
@@ -106445,6 +106513,9 @@
 * 2017: 1473
 * 2018: 1561
 * 2019: 0
+* 2020: 1561
+* 2021: 1564
+* 2022: 1762
 
 # Banking Sector-Credit Cards Credit Card - Global Outstanding
 
@@ -106910,6 +106981,8 @@
 * 2017: 368
 * 2018: 350
 * 2019: 0
+* 2020: 364
+* 2021: 344
 
 # Health-Personel No.of Physiotherapists
 
@@ -106931,6 +107004,8 @@
 * 2017: 618
 * 2018: 624
 * 2019: 0
+* 2020: 738
+* 2021: 785
 
 # Education-General Education General education - Private - Schools
 
@@ -109221,6 +109296,7 @@
 * 2024-10: 587.7
 * 2024-11: 530.1
 * 2024-12: 613.8
+* 2025-01: 573.0
 
 # Communication Media-Postal Services No. of Agency Post Offices
 
@@ -112314,6 +112390,8 @@
 * 2017: 2485
 * 2018: 2694
 * 2019: 0
+* 2020: 2610
+* 2021: 2717
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Government Services
 
