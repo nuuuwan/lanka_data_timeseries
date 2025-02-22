@@ -11,15 +11,15 @@
     "Source": "Ministry of Local Government and Provincial Councils",
     "GeoArea": "National",
     "Note": "From 2012 onwards,Licence Fee \u2013 Liquor data including under the Excise Duty on Liquor",
-    "Data last updated": "2023-01-23",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 24,
+    "n": 27,
     "min_t": "1996-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 6,
-    "max_value": 1764
+    "max_value": 1645
   },
   "cleaned_data": {
     "1996-01-01": 6,
@@ -45,7 +45,10 @@
     "2016-01-01": 2028,
     "2017-01-01": 1731,
     "2018-01-01": 1800,
-    "2019-01-01": 1764
+    "2019-01-01": 1764,
+    "2020-01-01": 1569,
+    "2021-01-01": 1055,
+    "2022-01-01": 1645
   },
   "raw_data": {
     "1966": " ",
@@ -102,9 +105,9 @@
     "2017": "1,731",
     "2018": "1,800",
     "2019": "1,764",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "1,569",
+    "2021": "1,055",
+    "2022": "1,645",
     "2023": " ",
     "2024": " ",
     "2025": " ",
