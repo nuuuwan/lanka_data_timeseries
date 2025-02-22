@@ -11,15 +11,15 @@
     "Source": "Registrar General\u2019s Department",
     "GeoArea": "National",
     "Note": "For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.",
-    "Data last updated": "2022-01-18",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 19,
+    "n": 23,
     "min_t": "2000-01-01",
-    "max_t": "2018-01-01",
+    "max_t": "2022-01-01",
     "min_value": 6.1,
-    "max_value": 6.4
+    "max_value": 8.1
   },
   "cleaned_data": {
     "2000-01-01": 6.1,
@@ -40,7 +40,11 @@
     "2015-01-01": 6.3,
     "2016-01-01": 6.2,
     "2017-01-01": 6.5,
-    "2018-01-01": 6.4
+    "2018-01-01": 6.4,
+    "2019-01-01": 6.7,
+    "2020-01-01": 6.0,
+    "2021-01-01": 7.4,
+    "2022-01-01": 8.1
   },
   "raw_data": {
     "1966": " ",
@@ -96,10 +100,10 @@
     "2016": "6.20",
     "2017": "6.50",
     "2018": "6.40",
-    "2019": " ",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2019": "6.70",
+    "2020": "6.00",
+    "2021": "7.40",
+    "2022": "8.10",
     "2023": " ",
     "2024": " ",
     "2025": " ",
