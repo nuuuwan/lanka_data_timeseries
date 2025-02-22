@@ -11,15 +11,15 @@
     "Source": "Road Development Authority",
     "GeoArea": "National",
     "Note": "\u201cB\u201d Class \u2013 Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).",
-    "Data last updated": "2023-01-11",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 23,
+    "n": 26,
     "min_t": "1997-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 6926,
-    "max_value": 8005
+    "max_value": 8007
   },
   "cleaned_data": {
     "1997-01-01": 6926,
@@ -44,7 +44,10 @@
     "2016-01-01": 7995,
     "2017-01-01": 7995,
     "2018-01-01": 8005,
-    "2019-01-01": 8005
+    "2019-01-01": 8005,
+    "2020-01-01": 8007,
+    "2021-01-01": 8007,
+    "2022-01-01": 8007
   },
   "raw_data": {
     "1966": " ",
@@ -101,9 +104,9 @@
     "2017": "7,995",
     "2018": "8,005",
     "2019": "8,005",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "8,007",
+    "2021": "8,007",
+    "2022": "8,007",
     "2023": " ",
     "2024": " ",
     "2025": " ",

@@ -11,15 +11,15 @@
     "Source": "Sri Lanka Transport Board",
     "GeoArea": "National",
     "Note": "(1). Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards. (2).Data from 2009 has been revised due to a change in the data source from National Transport Commission to Sri Lanka Transport Board.",
-    "Data last updated": "2022-01-18",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 19,
+    "n": 23,
     "min_t": "2000-01-01",
-    "max_t": "2018-01-01",
+    "max_t": "2022-01-01",
     "min_value": 19864,
-    "max_value": 15510
+    "max_value": 15000
   },
   "cleaned_data": {
     "2000-01-01": 19864,
@@ -40,7 +40,11 @@
     "2015-01-01": 15210,
     "2016-01-01": 16101,
     "2017-01-01": 15810,
-    "2018-01-01": 15510
+    "2018-01-01": 15510,
+    "2019-01-01": 14346,
+    "2020-01-01": 8623,
+    "2021-01-01": 6240,
+    "2022-01-01": 15000
   },
   "raw_data": {
     "1966": " ",
@@ -96,10 +100,10 @@
     "2016": "16,101",
     "2017": "15,810",
     "2018": "15,510",
-    "2019": " ",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2019": "14,346",
+    "2020": "8,623",
+    "2021": "6,240",
+    "2022": "15,000",
     "2023": " ",
     "2024": " ",
     "2025": " ",

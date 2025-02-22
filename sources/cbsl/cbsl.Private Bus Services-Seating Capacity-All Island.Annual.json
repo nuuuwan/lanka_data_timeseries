@@ -11,15 +11,15 @@
     "Source": "National Transport Commission",
     "GeoArea": "National",
     "Note": "From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.",
-    "Data last updated": "2023-01-11",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 20,
+    "n": 23,
     "min_t": "2000-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 525325,
-    "max_value": 654822
+    "max_value": 429282
   },
   "cleaned_data": {
     "2000-01-01": 525325,
@@ -41,7 +41,10 @@
     "2016-01-01": 758106,
     "2017-01-01": 749136,
     "2018-01-01": 836226,
-    "2019-01-01": 654822
+    "2019-01-01": 654822,
+    "2020-01-01": 465858,
+    "2021-01-01": 398490,
+    "2022-01-01": 429282
   },
   "raw_data": {
     "1966": " ",
@@ -98,9 +101,9 @@
     "2017": "749,136",
     "2018": "836,226",
     "2019": "654,822",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "465,858",
+    "2021": "398,490",
+    "2022": "429,282",
     "2023": " ",
     "2024": " ",
     "2025": " ",

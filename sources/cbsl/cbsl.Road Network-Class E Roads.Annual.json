@@ -11,13 +11,13 @@
     "Source": "Road Development Authority,Provincial Councils",
     "GeoArea": "National",
     "Note": "\u201cE\u201d Class \u2013 Briddle paths, generally unmotorable but some are jeepable.",
-    "Data last updated": "2023-01-12",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 23,
+    "n": 26,
     "min_t": "1997-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 771,
     "max_value": 0
   },
@@ -44,7 +44,10 @@
     "2016-01-01": 0,
     "2017-01-01": 0,
     "2018-01-01": 0,
-    "2019-01-01": 0
+    "2019-01-01": 0,
+    "2020-01-01": 0,
+    "2021-01-01": 0,
+    "2022-01-01": 0
   },
   "raw_data": {
     "1966": " ",
@@ -101,9 +104,9 @@
     "2017": "-",
     "2018": "-",
     "2019": "-",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "-",
+    "2021": "-",
+    "2022": "-",
     "2023": " ",
     "2024": " ",
     "2025": " ",

@@ -11,15 +11,15 @@
     "Source": "Road Development Authority",
     "GeoArea": "National",
     "Note": "\u201cA\u201d Class \u2013 All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).",
-    "Data last updated": "2023-01-11",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 23,
+    "n": 26,
     "min_t": "1997-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 4221,
-    "max_value": 4215
+    "max_value": 4217
   },
   "cleaned_data": {
     "1997-01-01": 4221,
@@ -44,7 +44,10 @@
     "2016-01-01": 4215,
     "2017-01-01": 4215,
     "2018-01-01": 4215,
-    "2019-01-01": 4215
+    "2019-01-01": 4215,
+    "2020-01-01": 4217,
+    "2021-01-01": 4217,
+    "2022-01-01": 4217
   },
   "raw_data": {
     "1966": " ",
@@ -101,9 +104,9 @@
     "2017": "4,215",
     "2018": "4,215",
     "2019": "4,215",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "4,217",
+    "2021": "4,217",
+    "2022": "4,217",
     "2023": " ",
     "2024": " ",
     "2025": " ",

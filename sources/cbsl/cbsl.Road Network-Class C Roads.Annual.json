@@ -11,15 +11,15 @@
     "Source": "Road Development Authority,Provincial Councils",
     "GeoArea": "National",
     "Note": "\u201cC\u201d Class \u2013 Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).",
-    "Data last updated": "2023-01-11",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 23,
+    "n": 26,
     "min_t": "1997-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2022-01-01",
     "min_value": 7900,
-    "max_value": 12619
+    "max_value": 12590
   },
   "cleaned_data": {
     "1997-01-01": 7900,
@@ -44,7 +44,10 @@
     "2016-01-01": 12497,
     "2017-01-01": 12565,
     "2018-01-01": 12578,
-    "2019-01-01": 12619
+    "2019-01-01": 12619,
+    "2020-01-01": 12544,
+    "2021-01-01": 12582,
+    "2022-01-01": 12590
   },
   "raw_data": {
     "1966": " ",
@@ -101,9 +104,9 @@
     "2017": "12,565",
     "2018": "12,578",
     "2019": "12,619",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "12,544",
+    "2021": "12,582",
+    "2022": "12,590",
     "2023": " ",
     "2024": " ",
     "2025": " ",
