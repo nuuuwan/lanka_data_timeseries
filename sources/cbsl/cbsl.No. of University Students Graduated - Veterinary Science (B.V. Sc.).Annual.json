@@ -11,15 +11,15 @@
     "Source": "University Grants Commission",
     "GeoArea": "National",
     "Note": "Includes External & Open University also",
-    "Data last updated": "2023-01-12",
+    "Data last updated": "2025-02-21",
     "Update frequency": "End of August"
   },
   "summary_statistics": {
-    "n": 28,
+    "n": 30,
     "min_t": "1991-01-01",
-    "max_t": "2019-01-01",
+    "max_t": "2021-01-01",
     "min_value": 31,
-    "max_value": 54
+    "max_value": 5
   },
   "cleaned_data": {
     "1991-01-01": 31,
@@ -49,7 +49,9 @@
     "2016-01-01": 73,
     "2017-01-01": 79,
     "2018-01-01": 77,
-    "2019-01-01": 54
+    "2019-01-01": 54,
+    "2020-01-01": 89,
+    "2021-01-01": 5
   },
   "raw_data": {
     "1966": " ",
@@ -106,9 +108,9 @@
     "2017": "79",
     "2018": "77",
     "2019": "54",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
+    "2020": "89",
+    "2021": "5",
+    "2022": "n.a",
     "2023": " ",
     "2024": " ",
     "2025": " ",
