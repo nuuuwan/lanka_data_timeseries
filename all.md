@@ -55731,6 +55731,9 @@
 * 2017: 105193
 * 2018: 108176
 * 2019: 114298
+* 2020: 113865
+* 2021: 115694
+* 2022: 120059
 
 # Other Socio-Economic Data-Access to Facilities Electricity - Electrification level
 
@@ -56823,6 +56826,9 @@
 * 2017: 33742
 * 2018: 31040
 * 2019: 4369
+* 2020: 3527
+* 2021: 8030
+* 2022: 7405
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
@@ -57317,6 +57323,10 @@
 * 2016: 6.2
 * 2017: 6.5
 * 2018: 6.4
+* 2019: 6.7
+* 2020: 6.0
+* 2021: 7.4
+* 2022: 8.1
 
 # Education-University Education University education - Lecturers
 
@@ -57658,6 +57668,9 @@
 * 2017: 275080
 * 2018: 287969
 * 2019: 291254
+* 2020: 315605
+* 2021: 331792
+* 2022: 390197
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Animal Production
 
@@ -61752,6 +61765,11 @@
 * 2015: 16950
 * 2016: 17131
 * 2017: 16972
+* 2018: 19055
+* 2019: 18562
+* 2020: 10787
+* 2021: 9053
+* 2022: 9807
 
 # Agriculture-Subsidiary Food Crops ASH PLANTAIN Production
 
@@ -63359,6 +63377,8 @@
 * 2017: 1461
 * 2018: 1574
 * 2019: 1652
+* 2020: 1648
+* 2021: 1648
 
 # Transport-Road Network Road Kilometerage-Kegalle-Class D
 
@@ -66601,6 +66621,9 @@
 * 2017: 349907
 * 2018: 363575
 * 2019: 401444
+* 2020: 392737
+* 2021: 390802
+* 2022: 386429
 
 # Education-University Education No. of University Students Graduated - Dental Surgery (B.D.S.)
 
@@ -66745,6 +66768,9 @@
 * 2017: 86976
 * 2018: 91621
 * 2019: 91344
+* 2020: 65974
+* 2021: 63942
+* 2022: 73793
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern
 
@@ -69546,6 +69572,9 @@
 * 2017: 448
 * 2018: 446
 * 2019: 431.3
+* 2020: 306
+* 2021: 248
+* 2022: 346
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Other personal service activities
 
@@ -71093,6 +71122,8 @@
 * 2017: 7495.1
 * 2018: 7709.5
 * 2019: 7310
+* 2020: 3905.6
+* 2021: 2158.2
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Unit Value Index (1997=100)
 
@@ -71351,6 +71382,9 @@
 * 2017: 0
 * 2018: 0
 * 2019: 0
+* 2020: 0
+* 2021: 0
+* 2022: 0
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Class D
 
@@ -72213,6 +72247,8 @@
 * 2017: 144.8
 * 2018: 119.8
 * 2019: 115.6
+* 2020: 114.4
+* 2021: 161.6
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Health
 
@@ -76789,6 +76825,10 @@
 * 2016: 16101
 * 2017: 15810
 * 2018: 15510
+* 2019: 14346
+* 2020: 8623
+* 2021: 6240
+* 2022: 15000
 
 # Transport-Road Network Road Kilometerage-Gampaha-Class A
 
@@ -77817,6 +77857,9 @@
 * 2017: 86976
 * 2018: 91621
 * 2019: 65716
+* 2020: 52245
+* 2021: 63942
+* 2022: 73793
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of fruits
 
@@ -78668,6 +78711,9 @@
 * 2017: 1731
 * 2018: 1800
 * 2019: 1764
+* 2020: 1569
+* 2021: 1055
+* 2022: 1645
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -78732,6 +78778,9 @@
 * 2017: 749136
 * 2018: 836226
 * 2019: 654822
+* 2020: 465858
+* 2021: 398490
+* 2022: 429282
 
 # Industry and Housing-Index of Industrial Production Chemicals and chemical products
 
@@ -79617,6 +79666,8 @@
 * 2017: 179
 * 2018: 179
 * 2019: 182
+* 2020: 182
+* 2021: 182
 
 # Transport-Road Network Road Kilometerage-Ampara-Expressways
 
@@ -79657,6 +79708,8 @@
 * 2017: 11.2
 * 2018: 11.6
 * 2019: 11.7
+* 2020: 3.7
+* 2021: 6.3
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets KILINOCHCHI
 
@@ -80656,6 +80709,9 @@
 * 2017: 0
 * 2018: 0
 * 2019: 0
+* 2020: 0
+* 2021: 0
+* 2022: 0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Tea (Gre
 
@@ -80943,6 +80999,9 @@
 * 2017: 12565
 * 2018: 12578
 * 2019: 12619
+* 2020: 12544
+* 2021: 12582
+* 2022: 12590
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Total
 
@@ -81182,6 +81241,9 @@
 * 2017: 214493
 * 2018: 219052
 * 2019: 231935
+* 2020: 223611
+* 2021: 217478
+* 2022: 206224
 
 # Transport-Road Network Road Kilometerage-Nuwara Eliya-Expressways
 
@@ -83769,6 +83831,10 @@
 * 2016: 31262
 * 2017: 31135
 * 2018: 31158
+* 2019: 31249
+* 2020: 31301
+* 2021: 31387
+* 2022: 31394
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-Northern-Total
 
@@ -83883,6 +83949,11 @@
 * 2015: 47552.4
 * 2016: 49544.5
 * 2017: 50542.4
+* 2018: 36836.0
+* 2019: 54442.8
+* 2020: 18548
+* 2021: 16292
+* 2022: 19234
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)
 
@@ -84725,6 +84796,9 @@
 * 2017: 19998
 * 2018: 20030
 * 2019: 16852
+* 2020: 20123
+* 2021: 20021
+* 2022: 19862
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Sabaragamuwa
 
@@ -85449,6 +85523,9 @@
 * 2017: 15
 * 2018: 12
 * 2019: 9
+* 2020: 7
+* 2021: 7
+* 2022: 12
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Sabaragamuwa-Total
 
@@ -86495,6 +86572,9 @@
 * 2017: 42163
 * 2018: 44103
 * 2019: 43490
+* 2020: 31233
+* 2021: 26421
+* 2022: 67712
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks MATARA
 
@@ -87536,6 +87616,9 @@
 * 2017: 1008.8
 * 2018: 1110.4
 * 2019: 773.9
+* 2020: 381
+* 2021: 364
+* 2022: 425
 
 # Agriculture-Subsidiary Food Crops BLACK GRAM Production
 
@@ -92997,6 +93080,9 @@
 * 2017: 29
 * 2018: 21
 * 2019: 20
+* 2020: 14
+* 2021: 3
+* 2022: 3
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Capital Base
 
@@ -93695,6 +93781,9 @@
 * 2017: 2531606
 * 2018: 2729762
 * 2019: 3023304
+* 2020: 2998389
+* 2021: 2968296
+* 2022: 3040999
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets VAVUNIYA
 
@@ -101202,6 +101291,9 @@
 * 2017: 9849
 * 2018: 10554
 * 2019: 10771
+* 2020: 11313
+* 2021: 11044
+* 2022: 11573
 
 # Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry
 
@@ -101554,6 +101646,9 @@
 * 2017: 190117
 * 2018: 196093
 * 2019: 213549
+* 2020: 278349
+* 2021: 299799
+* 2022: 304538
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-North Central
 
@@ -102424,6 +102519,9 @@
 * 2017: 170
 * 2018: 170
 * 2019: 218
+* 2020: 272
+* 2021: 313
+* 2022: 313
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Non-Tax Revenue
 
@@ -105781,6 +105879,9 @@
 * 2017: 7995
 * 2018: 8005
 * 2019: 8005
+* 2020: 8007
+* 2021: 8007
+* 2022: 8007
 
 # Banking Sector-All Banks Banking Sector- Non-performing Loans to Total Loans and Advances (Gross Non-performing Advances (NPLs) Ratio)
 
@@ -106026,6 +106127,9 @@
 * 2017: 31443
 * 2018: 34083
 * 2019: 32430
+* 2020: 34679
+* 2021: 41205
+* 2022: 45110
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-North Western
 
@@ -106571,6 +106675,9 @@
 * 2017: 43909
 * 2018: 45151
 * 2019: 46351
+* 2020: 18391
+* 2021: 10629
+* 2022: 15450
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -108212,6 +108319,8 @@
 * 2017: 161
 * 2018: 163
 * 2019: 165
+* 2020: 165
+* 2021: 163
 
 # Transport-Railways Rail transport - Freight ton kilometres
 
@@ -108661,6 +108770,10 @@
 * 2016: 15.6
 * 2017: 15.2
 * 2018: 15.1
+* 2019: 14.6
+* 2020: 13.8
+* 2021: 12.9
+* 2022: 12.4
 
 # Health-Health Statistics Government sector western medicine - Hospital beds per 1,000 persons
 
@@ -110038,6 +110151,9 @@
 * 2017: 241338
 * 2018: 256930
 * 2019: 286885
+* 2020: 312078
+* 2021: 323762
+* 2022: 382792
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Eastern
 
@@ -110204,6 +110320,9 @@
 * 2017: 277094
 * 2018: 287714
 * 2019: 285588
+* 2020: 330594
+* 2021: 363742
+* 2022: 378331
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Buses Operated-All Island
 
@@ -110227,6 +110346,9 @@
 * 2017: 5274
 * 2018: 5242
 * 2019: 5048
+* 2020: 4045
+* 2021: 3358
+* 2022: 4266
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Non-performing Loans to Total Loans and Advances (Gross Non-performing Advances (NPLs) Ratio)
 
@@ -111756,6 +111878,9 @@
 * 2017: 6190
 * 2018: 6190
 * 2019: 6189
+* 2020: 6260
+* 2021: 6268
+* 2022: 6266
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Deposits
 
@@ -112435,6 +112560,9 @@
 * 2017: 4215
 * 2018: 4215
 * 2019: 4215
+* 2020: 4217
+* 2021: 4217
+* 2022: 4217
 
 # Transport-Road Network Road Kilometerage-Galle-Total
 

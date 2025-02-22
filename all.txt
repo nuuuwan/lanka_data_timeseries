@@ -61091,12 +61091,15 @@ Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-All Island
 2017	105193
 2018	108176
 2019	114298
+2020	113865
+2021	115694
+2022	120059
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Other Socio-Economic Data-Access to Facilities Electricity - Electrification level
@@ -62344,12 +62347,15 @@ Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Council
 2017	33742
 2018	31040
 2019	4369
+2020	3527
+2021	8030
+2022	7405
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
@@ -62950,12 +62956,16 @@ Population Statistics-Mid Year Population Crude Death Rate-All Island
 2016	6.2
 2017	6.5
 2018	6.4
+2019	6.7
+2020	6.0
+2021	7.4
+2022	8.1
 
 Source: cbsl
 Frequency: Annual
 Unit: Per 1000 Persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Registrar General’s Department', 'GeoArea': 'National', 'Note': 'For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Registrar General’s Department', 'GeoArea': 'National', 'Note': 'For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-University Education University education - Lecturers
@@ -63344,12 +63354,15 @@ Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Council
 2017	275080
 2018	287969
 2019	291254
+2020	315605
+2021	331792
+2022	390197
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Animal Production
@@ -68068,12 +68081,17 @@ Transport-Private Bus Services Private Bus Services-Buses Operated-All Island
 2015	16950
 2016	17131
 2017	16972
+2018	19055
+2019	18562
+2020	10787
+2021	9053
+2022	9807
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops ASH PLANTAIN Production
@@ -68651,7 +68669,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-10', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Loans -Liabilities
@@ -69975,12 +69993,14 @@ Transport-Railways Sri Lanka Railways-Route-Broad Gauge
 2017	1461
 2018	1574
 2019	1652
+2020	1648
+2021	1648
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kegalle-Class D
@@ -73800,12 +73820,15 @@ Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-All Is
 2017	349907
 2018	363575
 2019	401444
+2020	392737
+2021	390802
+2022	386429
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-University Education No. of University Students Graduated - Dental Surgery (B.D.S.)
@@ -73980,12 +74003,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	86976
 2018	91621
 2019	91344
+2020	65974
+2021	63942
+2022	73793
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern
@@ -77416,12 +77442,15 @@ Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Operated 
 2017	448
 2018	446
 2019	431.3
+2020	306
+2021	248
+2022	346
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': 'Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards.', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': 'Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Other personal service activities
@@ -79297,12 +79326,14 @@ Transport-Railways Sri Lanka Railways-Passenger Kilometers-All Island
 2017	7495.1
 2018	7709.5
 2019	7310
+2020	3905.6
+2021	2158.2
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Unit Value Index (1997=100)
@@ -79627,12 +79658,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	0
 2018	0
 2019	0
+2020	0
+2021	0
+2022	0
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ratnapura-Class D
@@ -80698,12 +80732,14 @@ Transport-Railways Sri Lanka Railways-Freight Tonne Kilometers-All Island
 2017	144.8
 2018	119.8
 2019	115.6
+2020	114.4
+2021	161.6
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Health
@@ -86056,12 +86092,16 @@ Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Passenger
 2016	16101
 2017	15810
 2018	15510
+2019	14346
+2020	8623
+2021	6240
+2022	15000
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': '(1). Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards. (2).Data from 2009 has been revised due to a change in the data source from National Transport Commission to Sri Lanka Transport Board.', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': '(1). Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards. (2).Data from 2009 has been revised due to a change in the data source from National Transport Commission to Sri Lanka Transport Board.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Gampaha-Class A
@@ -87214,12 +87254,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Re
 2017	86976
 2018	91621
 2019	65716
+2020	52245
+2021	63942
+2022	73793
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-10', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of fruits
@@ -88285,12 +88328,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	1731
 2018	1800
 2019	1764
+2020	1569
+2021	1055
+2022	1645
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'From 2012 onwards,Licence Fee – Liquor data including under the Excise Duty on Liquor', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'From 2012 onwards,Licence Fee – Liquor data including under the Excise Duty on Liquor', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
@@ -88367,12 +88413,15 @@ Transport-Private Bus Services Private Bus Services-Seating Capacity-All Island
 2017	749136
 2018	836226
 2019	654822
+2020	465858
+2021	398490
+2022	429282
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Chemicals and chemical products
@@ -89467,12 +89516,14 @@ Transport-Railways Sri Lanka Railways-Main Stations-Broad Gauge
 2017	179
 2018	179
 2019	182
+2020	182
+2021	182
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Expressways
@@ -89519,12 +89570,14 @@ Transport-Railways Sri Lanka Railways-Operated Kilometers-All Island
 2017	11.2
 2018	11.6
 2019	11.7
+2020	3.7
+2021	6.3
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets KILINOCHCHI
@@ -90755,12 +90808,15 @@ Transport-Road Network Road Network-Class E Roads
 2017	0
 2018	0
 2019	0
+2020	0
+2021	0
+2022	0
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“E” Class – Briddle paths, generally unmotorable but some are jeepable.', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“E” Class – Briddle paths, generally unmotorable but some are jeepable.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Tea (Gre
@@ -91126,12 +91182,15 @@ Transport-Road Network Road Network-Class C Roads
 2017	12565
 2018	12578
 2019	12619
+2020	12544
+2021	12582
+2022	12590
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Total
@@ -91425,12 +91484,15 @@ Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-All
 2017	214493
 2018	219052
 2019	231935
+2020	223611
+2021	217478
+2022	206224
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Nuwara Eliya-Expressways
@@ -94452,12 +94514,16 @@ Transport-Road Network Road Network-Total Roads
 2016	31262
 2017	31135
 2018	31158
+2019	31249
+2020	31301
+2021	31387
+2022	31394
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-Revenue-Northern-Total
@@ -94601,12 +94667,17 @@ Transport-Private Bus Services Private Bus Services-Passenger Kilometers-All Isl
 2015	47552.4
 2016	49544.5
 2017	50542.4
+2018	36836.0
+2019	54442.8
+2020	18548
+2021	16292
+2022	19234
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)
@@ -95633,12 +95704,15 @@ Transport-Private Bus Services Private Bus Services-Total Fleet-All Island
 2017	19998
 2018	20030
 2019	16852
+2020	20123
+2021	20021
+2022	19862
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Sabaragamuwa
@@ -96511,12 +96585,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	15
 2018	12
 2019	9
+2020	7
+2021	7
+2022	12
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Sabaragamuwa-Total
@@ -97801,12 +97878,15 @@ Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Revenue
 2017	42163
 2018	44103
 2019	43490
+2020	31233
+2021	26421
+2022	67712
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks MATARA
@@ -98991,12 +99071,15 @@ Transport-Private Bus Services Private Bus Services-Operated Kilometers-All Isla
 2017	1008.8
 2018	1110.4
 2019	773.9
+2020	381
+2021	364
+2022	425
 
 Source: cbsl
 Frequency: Annual
 Unit: km.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'National Transport Commission', 'GeoArea': 'National', 'Note': 'From 2014 onwards,figures include the data related to the permits issued by the National Transport Commission as well.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops BLACK GRAM Production
@@ -103698,7 +103781,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'From 2012 onwards,Licence Fee – Liquor data including under the Excise Duty on Liquor', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'From 2012 onwards,Licence Fee – Liquor data including under the Excise Duty on Liquor', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry
@@ -105629,12 +105712,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	29
 2018	21
 2019	20
+2020	14
+2021	3
+2022	3
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'Turnover tax calculation is been terminated as per the 2011 budget proposals.2011 onwards, accounts to the arrearses collected for 2010.', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'Turnover tax calculation is been terminated as per the 2011 budget proposals.2011 onwards, accounts to the arrearses collected for 2010.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Capital Base
@@ -106512,12 +106598,15 @@ Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-All Island
 2017	2531606
 2018	2729762
 2019	3023304
+2020	2998389
+2021	2968296
+2022	3040999
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Divisional Secretariats', 'GeoArea': 'National', 'Note': 'Motor Vehicles with valid revenue licenses', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets VAVUNIYA
@@ -115477,12 +115566,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	9849
 2018	10554
 2019	10771
+2020	11313
+2021	11044
+2022	11573
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Industry
@@ -115913,12 +116005,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Re
 2017	190117
 2018	196093
 2019	213549
+2020	278349
+2021	299799
+2022	304538
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-10', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-North Central
@@ -116919,12 +117014,15 @@ Transport-Road Network Road Network-Expressways
 2017	170
 2018	170
 2019	218
+2020	272
+2021	313
+2022	313
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Central Government Revenue - Non-Tax Revenue
@@ -120837,12 +120935,15 @@ Transport-Road Network Road Network-Class B Roads
 2017	7995
 2018	8005
 2019	8005
+2020	8007
+2021	8007
+2022	8007
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Non-performing Loans to Total Loans and Advances (Gross Non-performing Advances (NPLs) Ratio)
@@ -121136,12 +121237,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	31443
 2018	34083
 2019	32430
+2020	34679
+2021	41205
+2022	45110
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-North Western
@@ -121829,12 +121933,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils An
 2017	43909
 2018	45151
 2019	46351
+2020	18391
+2021	10629
+2022	15450
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
@@ -123797,12 +123904,14 @@ Transport-Railways Sri Lanka Railways-Sub Stations-Broad Gauge
 2017	161
 2018	163
 2019	165
+2020	165
+2021	163
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Railways', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Railways Rail transport - Freight ton kilometres
@@ -124288,12 +124397,16 @@ Population Statistics-Mid Year Population Crude Birth Rate-All Island
 2016	15.6
 2017	15.2
 2018	15.1
+2019	14.6
+2020	13.8
+2021	12.9
+2022	12.4
 
 Source: cbsl
 Frequency: Annual
 Unit: Per 1,000 Persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Registrar General’s Department', 'GeoArea': 'National', 'Note': 'For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.', 'Data last updated': '2022-01-18', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Registrar General’s Department', 'GeoArea': 'National', 'Note': 'For 2010 and 2011 figures are based on place of occurrence.From 2012 onwards,figures are based on usual place of residence.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Hospital beds per 1,000 persons
@@ -125950,12 +126063,15 @@ Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Council
 2017	241338
 2018	256930
 2019	286885
+2020	312078
+2021	323762
+2022	382792
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Eastern
@@ -126158,12 +126274,15 @@ Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Re
 2017	277094
 2018	287714
 2019	285588
+2020	330594
+2021	363742
+2022	378331
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2023-01-10', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': 'As at end December.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Buses Operated-All Island
@@ -126187,12 +126306,15 @@ Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Buses Ope
 2017	5274
 2018	5242
 2019	5048
+2020	4045
+2021	3358
+2022	4266
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': 'Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards.', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': 'Buses under SLTTS (Sri Lanka Tourist Transport Service), are included in Western Province from 2014 onwards.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Non-performing Loans to Total Loans and Advances (Gross Non-performing Advances (NPLs) Ratio)
@@ -128037,12 +128159,15 @@ Transport-Road Network Road Network-Class D Roads
 2017	6190
 2018	6190
 2019	6189
+2020	6260
+2021	6268
+2022	6266
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Deposits
@@ -128871,12 +128996,15 @@ Transport-Road Network Road Network-Class A Roads
 2017	4215
 2018	4215
 2019	4215
+2020	4217
+2021	4217
+2022	4217
 
 Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Galle-Total
