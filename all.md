@@ -57409,6 +57409,8 @@
 * 2017: 206630
 * 2018: 218191
 * 2019: 235550
+* 2020: 251168
+* 2021: 236035
 
 # Transport-Road Network Road Kilometerage-Kandy-Total
 
@@ -57469,6 +57471,8 @@
 * 2017: 70.11
 * 2018: 71.66
 * 2019: 70.59
+* 2020: 73.61
+* 2021: 72.55
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP Growth - Constant (2010) Prices - Services
 
@@ -58662,6 +58666,8 @@
 * 2017: 136421
 * 2018: 141172
 * 2019: 154905
+* 2020: 165711
+* 2021: 149946
 
 # Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wage Rate Index(December 1978=100)(Nominal)
 
@@ -62044,6 +62050,8 @@
 * 2017: 64.38
 * 2018: 62.86
 * 2019: 64.28
+* 2020: 64.39
+* 2021: 62.89
 
 # Transport-Road Network Road Kilometerage-Northern-Class A
 
@@ -62432,6 +62440,8 @@
 * 2017: 66.02
 * 2018: 64.7
 * 2019: 65.76
+* 2020: 65.98
+* 2021: 65.33
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Southern
 
@@ -63547,6 +63557,8 @@
 * 2017: 253330
 * 2018: 267111
 * 2019: 281786
+* 2020: 301771
+* 2021: 272682
 
 # Open Market Operations-Standing Deposit Facility Standing Lending Facility - Special Rate Volume
 
@@ -63592,6 +63604,9 @@
 * 2017: 3563
 * 2018: 3177
 * 2019: 2985
+* 2020: 4651
+* 2021: 3382
+* 2022: 5546
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KURUNEGALA
 
@@ -64446,6 +64461,8 @@
 * 2017: 742
 * 2018: 662
 * 2019: 920
+* 2020: 1142
+* 2021: 943
 
 # Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
 
@@ -65177,6 +65194,8 @@
 * 2017: 5648
 * 2018: 6072
 * 2019: 5445
+* 2020: 6176
+* 2021: 3427
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Eastern
 
@@ -66656,6 +66675,7 @@
 * 2017: 148
 * 2018: 12
 * 2019: 87
+* 2020: 87
 
 # Transport-Road Network Road Kilometerage-North Central-Expressways
 
@@ -67054,6 +67074,8 @@
 * 2017: 163104
 * 2018: 167907
 * 2019: 181126
+* 2020: 194297
+* 2021: 171497
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Uva
 
@@ -69067,6 +69089,8 @@
 * 2017: 326424
 * 2018: 328464
 * 2019: 334474
+* 2020: 339450
+* 2021: 333915
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KILINOCHCHI
 
@@ -70497,6 +70521,9 @@
 * 2017: 13362
 * 2018: 19033
 * 2019: 16711
+* 2020: 16960
+* 2021: 19059
+* 2022: 21542
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western
 
@@ -75693,6 +75720,8 @@
 * 2017: 10305
 * 2018: 13851
 * 2019: 9565
+* 2020: 12591
+* 2021: 11424
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - GDCF - Changes in Stocks - Private
 
@@ -77373,6 +77402,8 @@
 * 2017: 1153
 * 2018: 1109
 * 2019: 1210
+* 2020: 1375
+* 2021: 1409
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MANNER
 
@@ -78112,6 +78143,9 @@
 * 2017: 45939
 * 2018: 51955
 * 2019: 67332
+* 2020: 71407
+* 2021: 95659
+* 2022: 80165
 
 # Population Statistics-Mid-Year Population by Province Mid Year Population-sabaragamuwa
 
@@ -79165,6 +79199,9 @@
 * 2017: 2690
 * 2018: 2579
 * 2019: 3089
+* 2020: 2544
+* 2021: 3454
+* 2022: 3307
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks KANDY
 
@@ -80000,6 +80037,8 @@
 * 2017: 312464
 * 2018: 308843
 * 2019: 315278
+* 2020: 320615
+* 2021: 318680
 
 # Agriculture-Minor Export Crops COCOA Production
 
@@ -82079,6 +82118,8 @@
 * 2017: 186
 * 2018: 719
 * 2019: 745
+* 2020: 245
+* 2021: 113
 
 # Communication Media-Telecommunication Services Telecommunication - Cellular phones
 
@@ -82795,6 +82836,9 @@
 * 2017: 56311
 * 2018: 72685
 * 2019: 61447
+* 2020: 77700
+* 2021: 87767
+* 2022: 117083
 
 # Transport-Road Network Road Kilometerage-Eastern-Class D
 
@@ -84705,6 +84749,9 @@
 * 2017: 102249
 * 2018: 124640
 * 2019: 128779
+* 2020: 149107
+* 2021: 183425
+* 2022: 197248
 
 # Banking Sector-All Banks Banking Sector- Total Capital Adequacy Ratio (CAR)
 
@@ -85663,6 +85710,9 @@
 * 2017: 6504
 * 2018: 10782
 * 2019: 8663
+* 2020: 5593
+* 2021: 6987
+* 2022: 8643
 
 # Transport-Road Network Road Kilometerage-Trincomalee-Class A
 
@@ -88024,6 +88074,8 @@
 * 2017: 79
 * 2018: 77
 * 2019: 54
+* 2020: 89
+* 2021: 5
 
 # Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactions through ATM Terminals
 
@@ -90757,6 +90809,8 @@
 * 2017: 355
 * 2018: 421
 * 2019: 242
+* 2020: 115
+* 2021: 310
 
 # Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
 
@@ -92374,6 +92428,8 @@
 * 2017: 1176
 * 2018: 182
 * 2019: 1188
+* 2020: 969
+* 2021: 1258
 
 # International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
 
@@ -93618,6 +93674,8 @@
 * 2017: 1713
 * 2018: 1810
 * 2019: 1026
+* 2020: 1568
+* 2021: 1943
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Branches GAMPAHA
 
@@ -97621,6 +97679,8 @@
 * 2017: 71.03
 * 2018: 73.31
 * 2019: 73.84
+* 2020: 75.15
+* 2021: 73.51
 
 # Banking Sector-All Banks Banking Sector- Number of Banks GAMPAHA
 
@@ -100843,6 +100903,9 @@
 * 2017: 2258
 * 2018: 2284
 * 2019: 2328
+* 2020: 2333
+* 2021: 2342
+* 2022: 2387
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Income at Constant (2010) Prices - HH & NPISH - Other Taxes less Subsidies on Production
 
@@ -101083,6 +101146,9 @@
 * 2017: 29370
 * 2018: 37218
 * 2019: 30883
+* 2020: 33164
+* 2021: 32432
+* 2022: 42794
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig
 
@@ -103617,6 +103683,8 @@
 * 2017: 627
 * 2018: 728
 * 2019: 767
+* 2020: 814
+* 2021: 698
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Eastern
 
@@ -105660,6 +105728,9 @@
 * 2017: 55488
 * 2018: 72788
 * 2019: 62331
+* 2020: 62913
+* 2021: 65315
+* 2022: 81832
 
 # Transport-Road Network Road Kilometerage-Trincomalee-Class C
 
@@ -107470,6 +107541,8 @@
 * 2017: 3142
 * 2018: 3280
 * 2019: 3393
+* 2020: 2356
+* 2021: 2861
 
 # Payment Data-Cheques Total Value of Cheques returned
 
@@ -108003,6 +108076,10 @@
 * 2015: 264
 * 2016: 601
 * 2017: 741
+* 2018: 719
+* 2019: 749
+* 2020: 1006
+* 2021: 903
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GAMPAHA
 

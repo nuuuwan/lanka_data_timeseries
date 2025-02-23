@@ -63054,12 +63054,14 @@ Education-Performance in Examinations Performance of Candidates-School candidate
 2017	206630
 2018	218191
 2019	235550
+2020	251168
+2021	236035
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kandy-Total
@@ -63132,6 +63134,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (O-L)-All ca
 2017	70.11
 2018	71.66
 2019	70.59
+2020	73.61
+2021	72.55
 
 Source: cbsl
 Frequency: Annual
@@ -64491,6 +64495,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (A-L)-School
 2017	136421
 2018	141172
 2019	154905
+2020	165711
+2021	149946
 
 Source: cbsl
 Frequency: Annual
@@ -68402,6 +68408,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All ca
 2017	64.38
 2018	62.86
 2019	64.28
+2020	64.39
+2021	62.89
 
 Source: cbsl
 Frequency: Annual
@@ -68843,6 +68851,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (A-L)-School
 2017	66.02
 2018	64.7
 2019	65.76
+2020	65.98
+2021	65.33
 
 Source: cbsl
 Frequency: Annual
@@ -70222,12 +70232,14 @@ Education-Performance in Examinations Performance of Candidates-All candidates s
 2017	253330
 2018	267111
 2019	281786
+2020	301771
+2021	272682
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-04-28', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Open Market Operations-Standing Deposit Facility Standing Lending Facility - Special Rate Volume
@@ -70285,12 +70297,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Small 
 2017	3563
 2018	3177
 2019	2985
+2020	4651
+2021	3382
+2022	5546
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks KURUNEGALA
@@ -71264,12 +71279,14 @@ Education-University Education No. of University Students Graduated - Agricultur
 2017	742
 2018	662
 2019	920
+2020	1142
+2021	943
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
@@ -72137,12 +72154,14 @@ Education-University Education No. of University Students Graduated - Commerce &
 2017	5648
 2018	6072
 2019	5445
+2020	6176
+2021	3427
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Eastern
@@ -73861,12 +73880,13 @@ Education-University Education No. of University Students Graduated - Dental Sur
 2017	148
 2018	12
 2019	87
+2020	87
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-North Central-Expressways
@@ -74361,6 +74381,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All ca
 2017	163104
 2018	167907
 2019	181126
+2020	194297
+2021	171497
 
 Source: cbsl
 Frequency: Annual
@@ -76782,12 +76804,14 @@ Education-Performance in Examinations Performance of Candidates-All candidates s
 2017	326424
 2018	328464
 2019	334474
+2020	339450
+2021	333915
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks KILINOCHCHI
@@ -78541,12 +78565,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Other
 2017	13362
 2018	19033
 2019	16711
+2020	16960
+2021	19059
+2022	21542
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Western
@@ -84716,12 +84743,14 @@ Education-University Education No. of University Students Graduated - Arts & Ori
 2017	10305
 2018	13851
 2019	9565
+2020	12591
+2021	11424
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - GDCF - Changes in Stocks - Private
@@ -86746,12 +86775,14 @@ Education-University Education No. of University Students Graduated - Computer S
 2017	1153
 2018	1109
 2019	1210
+2020	1375
+2021	1409
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches MANNER
@@ -87569,12 +87600,15 @@ Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Savings Depo
 2017	45939
 2018	51955
 2019	67332
+2020	71407
+2021	95659
+2022	80165
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Population Statistics-Mid-Year Population by Province Mid Year Population-sabaragamuwa
@@ -88884,12 +88918,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Agricu
 2017	2690
 2018	2579
 2019	3089
+2020	2544
+2021	3454
+2022	3307
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks KANDY
@@ -89945,12 +89982,14 @@ Education-Performance in Examinations Performance of Candidates-School candidate
 2017	312464
 2018	308843
 2019	315278
+2020	320615
+2021	318680
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Examinations', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Minor Export Crops COCOA Production
@@ -92512,12 +92551,14 @@ Education-University Education No. of University Students Graduated - Indigenous
 2017	186
 2018	719
 2019	745
+2020	245
+2021	113
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Communication Media-Telecommunication Services Telecommunication - Cellular phones
@@ -93306,12 +93347,15 @@ Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Time Deposit
 2017	56311
 2018	72685
 2019	61447
+2020	77700
+2021	87767
+2022	117083
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Eastern-Class D
@@ -95589,12 +95633,15 @@ Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Total
 2017	102249
 2018	124640
 2019	128779
+2020	149107
+2021	183425
+2022	197248
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Total Capital Adequacy Ratio (CAR)
@@ -96767,12 +96814,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Commer
 2017	6504
 2018	10782
 2019	8663
+2020	5593
+2021	6987
+2022	8643
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Trincomalee-Class A
@@ -99609,12 +99659,14 @@ Education-University Education No. of University Students Graduated - Veterinary
 2017	79
 2018	77
 2019	54
+2020	89
+2021	5
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactions through ATM Terminals
@@ -102888,12 +102940,14 @@ Education-University Education No. of University Students Graduated - Architectu
 2017	355
 2018	421
 2019	242
+2020	115
+2021	310
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
@@ -104900,12 +104954,14 @@ Education-University Education No. of University Students Graduated - Medicine (
 2017	1176
 2018	182
 2019	1188
+2020	969
+2021	1258
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
@@ -106375,12 +106431,14 @@ Education-University Education No. of University Students Graduated - Engineerin
 2017	1713
 2018	1810
 2019	1026
+2020	1568
+2021	1943
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Branches GAMPAHA
@@ -111075,6 +111133,8 @@ Education-Performance in Examinations Performance of Candidates-GCE (O-L)-School
 2017	71.03
 2018	73.31
 2019	73.84
+2020	75.15
+2021	73.51
 
 Source: cbsl
 Frequency: Annual
@@ -114993,12 +115053,15 @@ Co-operative Rural Banks-Overall Co-operative Rural Banks-No. of Banks
 2017	2258
 2018	2284
 2019	2328
+2020	2333
+2021	2342
+2022	2387
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Income at Constant (2010) Prices - HH & NPISH - Other Taxes less Subsidies on Production
@@ -115311,12 +115374,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Housin
 2017	29370
 2018	37218
 2019	30883
+2020	33164
+2021	32432
+2022	42794
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig
@@ -118238,12 +118304,14 @@ Education-University Education No. of University Students Graduated - Law (L.L.B
 2017	627
 2018	728
 2019	767
+2020	814
+2021	698
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Eastern
@@ -120662,12 +120730,15 @@ Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Total
 2017	55488
 2018	72788
 2019	62331
+2020	62913
+2021	65315
+2022	81832
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-05', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Trincomalee-Class C
@@ -122918,12 +122989,14 @@ Education-University Education No. of University Students Graduated - Science (B
 2017	3142
 2018	3280
 2019	3393
+2020	2356
+2021	2861
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also. From 2007 onwards, Food Science graduates are included under B.Sc. Science', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': 'Includes External & Open University also. From 2007 onwards, Food Science graduates are included under B.Sc. Science', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Cheques Total Value of Cheques returned
@@ -123505,12 +123578,16 @@ Education-University Education No. of University Students Graduated - Paramedica
 2015	264
 2016	601
 2017	741
+2018	719
+2019	749
+2020	1006
+2021	903
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2022-01-18', 'Update frequency': 'One Year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'University Grants Commission', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'One Year'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GAMPAHA
