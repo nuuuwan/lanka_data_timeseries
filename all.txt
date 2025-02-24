@@ -67788,12 +67788,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	805
 2018	983
 2019	1065
+2020	1590
+2021	1514
+2022	1666
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops BITTER GOURD Production
@@ -71445,12 +71448,15 @@ Thrift & Credit Co-operative Societies-Deposits Thrift & Credit Co-operative Soc
 2017	5820
 2018	12145
 2019	46042
+2020	27250
+2021	25952
+2022	23897
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Individual Final Cons. by COFOG - Education
@@ -80453,12 +80459,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-10	44.0
 2024-11	41.3
 2024-12	38.1
+2025-01	21.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-10', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'NULL'}
 --------------------------------
 
 Health-Personel No.of Public Health Nursing Sisters
@@ -103320,12 +103327,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	2450
 2018	5109
 2019	5534
+2020	2791
+2021	2658
+2022	2525
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Net Non-performing Advances
@@ -103653,12 +103663,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	2173
 2018	5857
 2019	6344
+2020	0
+2021	0
+2022	0
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
@@ -111932,12 +111945,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	7073
 2018	8277
 2019	8965
+2020	6807
+2021	6482
+2022	5510
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Puttalam-Expressways
@@ -112988,12 +113004,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	3163
 2018	3030
 2019	3282
+2020	5220
+2021	4972
+2022	4474
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Population Statistics-Mid-Year Population by Province Mid Year Population-Eastern
@@ -117996,12 +118015,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-10	135907
 2024-11	184158
 2024-12	248592
+2025-01	252761
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-10', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GALLE
@@ -118609,12 +118629,15 @@ Thrift & Credit Co-operative Societies-Overall Thrift & Credit Co-operative Soci
 2017	8423
 2018	8423
 2019	8423
+2020	8423
+2021	8423
+2022	8423
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Vavuniya-Expressways
@@ -126954,12 +126977,15 @@ Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societ
 2017	15664
 2018	23256
 2019	25189
+2020	16408
+2021	15626
+2022	14175
 
 Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - Central

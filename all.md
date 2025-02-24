@@ -61544,6 +61544,9 @@
 * 2017: 805
 * 2018: 983
 * 2019: 1065
+* 2020: 1590
+* 2021: 1514
+* 2022: 1666
 
 # Agriculture-Subsidiary Food Crops BITTER GOURD Production
 
@@ -64585,6 +64588,9 @@
 * 2017: 5820
 * 2018: 12145
 * 2019: 46042
+* 2020: 27250
+* 2021: 25952
+* 2022: 23897
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Individual Final Cons. by COFOG - Education
 
@@ -72022,6 +72028,7 @@
 * 2024-10: 44.0
 * 2024-11: 41.3
 * 2024-12: 38.1
+* 2025-01: 21.4
 
 # Health-Personel No.of Public Health Nursing Sisters
 
@@ -91117,6 +91124,9 @@
 * 2017: 2450
 * 2018: 5109
 * 2019: 5534
+* 2020: 2791
+* 2021: 2658
+* 2022: 2525
 
 # Banking Sector-All Banks Banking Sector- Net Non-performing Advances
 
@@ -91372,6 +91382,9 @@
 * 2017: 2173
 * 2018: 5857
 * 2019: 6344
+* 2020: 0
+* 2021: 0
+* 2022: 0
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
 
@@ -98342,6 +98355,9 @@
 * 2017: 7073
 * 2018: 8277
 * 2019: 8965
+* 2020: 6807
+* 2021: 6482
+* 2022: 5510
 
 # Transport-Road Network Road Kilometerage-Puttalam-Expressways
 
@@ -99161,6 +99177,9 @@
 * 2017: 3163
 * 2018: 3030
 * 2019: 3282
+* 2020: 5220
+* 2021: 4972
+* 2022: 4474
 
 # Population Statistics-Mid-Year Population by Province Mid Year Population-Eastern
 
@@ -103435,6 +103454,7 @@
 * 2024-10: 135907
 * 2024-11: 184158
 * 2024-12: 248592
+* 2025-01: 252761
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GALLE
 
@@ -103964,6 +103984,9 @@
 * 2017: 8423
 * 2018: 8423
 * 2019: 8423
+* 2020: 8423
+* 2021: 8423
+* 2022: 8423
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Expressways
 
@@ -110880,6 +110903,9 @@
 * 2017: 15664
 * 2018: 23256
 * 2019: 25189
+* 2020: 16408
+* 2021: 15626
+* 2022: 14175
 
 # Agriculture-Tea No. of Tea Factories - Central
 
