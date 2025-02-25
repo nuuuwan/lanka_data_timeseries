@@ -63245,6 +63245,12 @@
 * 2024-01: 162.5
 * 2024-02: 160.9
 * 2024-03: 159.8
+* 2024-04: 160.4
+* 2024-05: 162.4
+* 2024-06: 164.1
+* 2024-07: 164.9
+* 2024-08: 165.6
+* 2024-09: 165.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Furnishings Household Equipment and Rou
 
@@ -65457,6 +65463,12 @@
 * 2024-01: 176.3
 * 2024-02: 178.2
 * 2024-03: 177.7
+* 2024-04: 181.7
+* 2024-05: 180.0
+* 2024-06: 179.7
+* 2024-07: 179.5
+* 2024-08: 181.7
+* 2024-09: 182.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Social protection
 
@@ -71004,6 +71016,12 @@
 * 2024-01: 119.6
 * 2024-02: 122.7
 * 2024-03: 125.0
+* 2024-04: 118.5
+* 2024-05: 121.9
+* 2024-06: 123.0
+* 2024-07: 126.6
+* 2024-08: 126.7
+* 2024-09: 128.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -83659,6 +83677,8 @@
 * 2023-09: 200.1
 * 2023-12: 205.9
 * 2024-03: 210.8
+* 2024-06: 240.9
+* 2024-09: 235.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Wholesale and retail trade
 
