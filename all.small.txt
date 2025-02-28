@@ -70918,6 +70918,7 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-10	382.08
 2024-11	369.65
 2024-12	367.38
+2025-01	369.61
 
 --------------------------------
 
@@ -110584,6 +110585,7 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-10	293.72
 2024-11	290.92
 2024-12	292.58
+2025-01	297.58
 
 --------------------------------
 

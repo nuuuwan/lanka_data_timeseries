@@ -68798,6 +68798,7 @@
 * 2024-10: 382.08
 * 2024-11: 369.65
 * 2024-12: 367.38
+* 2025-01: 369.61
 
 # Transport-Railways Rail transport - Freight ton kilometres
 
@@ -107230,6 +107231,7 @@
 * 2024-10: 293.72
 * 2024-11: 290.92
 * 2024-12: 292.58
+* 2025-01: 297.58
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Total Capital Adequacy Ratio (CAR)
 
