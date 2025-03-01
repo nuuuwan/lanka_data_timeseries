@@ -68799,6 +68799,7 @@
 * 2024-11: 369.65
 * 2024-12: 367.38
 * 2025-01: 369.61
+* 2025-02: 372.08
 
 # Transport-Railways Rail transport - Freight ton kilometres
 
@@ -69172,6 +69173,7 @@
 * 2024-10: 48.0
 * 2024-11: 44.6
 * 2024-12: 41.5
+* 2025-01: 8.1
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class A
 
@@ -73504,6 +73506,7 @@
 * 2024-10: 54.5
 * 2024-11: 79.7
 * 2024-12: 105.6
+* 2025-01: 118.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply
 
@@ -104856,6 +104859,7 @@
 * 2024-10: 185.6
 * 2024-11: 272.9
 * 2024-12: 362.1
+* 2025-01: 400.7
 
 # Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University
 
@@ -107232,6 +107236,7 @@
 * 2024-11: 290.92
 * 2024-12: 292.58
 * 2025-01: 297.58
+* 2025-02: 295.5
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Total Capital Adequacy Ratio (CAR)
 
