@@ -62696,6 +62696,7 @@
 * 2024-10: 81.75
 * 2024-11: 76.72
 * 2024-12: 77.5
+* 2025-01: 76.14
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe
 
@@ -84222,6 +84223,7 @@
 * 2023-06: 215.3
 * 2023-12: 219.8
 * 2024-06: 230.1
+* 2024-12: 236.8
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Central-Total
 
@@ -89898,6 +89900,7 @@
 * 2024-11: 69.73
 * 2024-12: 69.57
 * 2025-01: 74.77
+* 2025-02: 71.37
 
 # Health-Health Statistics Government sector western medicine - Hospitals
 
@@ -93230,6 +93233,7 @@
 * 2023-06: 215.0
 * 2023-12: 221.0
 * 2024-06: 233.3
+* 2024-12: 242.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Alcoholic beverages, tobacco and narcotics
 
@@ -101580,6 +101584,7 @@
 * 2023-06: 210.3
 * 2023-12: 214.0
 * 2024-06: 228.1
+* 2024-12: 234.1
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Western-Total
 
@@ -104317,6 +104322,7 @@
 * 2024-11: 73.51
 * 2024-12: 73.02
 * 2025-01: 77.9
+* 2025-02: 75.12
 
 # Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
 
@@ -104948,6 +104954,7 @@
 * 2023-06: 220.7
 * 2023-12: 224.5
 * 2024-06: 228.9
+* 2024-12: 233.2
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks MATARA
 
