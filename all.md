@@ -66648,6 +66648,9 @@
 * 2017: 531310
 * 2018: 527060
 * 2019: 505830
+* 2020: 428740
+* 2021: 435910
+* 2022: 397230
 
 # Balance of Payments-Current Account Balance of Payments (BOP) -Trade Deficit
 
@@ -70382,6 +70385,9 @@
 * 2017: 81870
 * 2018: 87690
 * 2019: 90340
+* 2020: 101810
+* 2021: 104235
+* 2022: 116620
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class C
 
@@ -75034,6 +75040,9 @@
 * 2017: 449440
 * 2018: 439370
 * 2019: 415490
+* 2020: 326930
+* 2021: 331675
+* 2022: 280610
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Sabaragamuwa
 
@@ -84050,6 +84059,9 @@
 * 2017: 724
 * 2018: 747
 * 2019: 750
+* 2020: 621
+* 2021: 613
+* 2022: 618
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Beverages
 
