@@ -114652,12 +114652,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2024-11	530.1
 2024-12	613.8
 2025-01	573.0
+2025-02	548.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-07', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Health-Personel No.of Registered-Assistant Medical Offices

@@ -100590,6 +100590,7 @@
 * 2024-11: 530.1
 * 2024-12: 613.8
 * 2025-01: 573.0
+* 2025-02: 548.1
 
 # Health-Personel No.of Registered-Assistant Medical Offices
 
