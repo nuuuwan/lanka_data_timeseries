@@ -59389,6 +59389,7 @@
 * 2024-11: 184158
 * 2024-12: 248592
 * 2025-01: 252761
+* 2025-02: 240217
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Loans and Advances
 
@@ -86267,6 +86268,7 @@
 * 2024-10: 1620715
 * 2024-11: 1804873
 * 2024-12: 2053465
+* 2025-02: 492978
 
 # Agriculture-Rubber Estimated Rubber Production - Uva
 
@@ -96238,6 +96240,7 @@
 * 2024-11: 41.3
 * 2024-12: 38.1
 * 2025-01: 21.4
+* 2025-02: 15.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Statutory Liquid Asset Ratio (SLAR) – Domestic Banking Unit (DBU)
 
