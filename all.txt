@@ -68690,12 +68690,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-10	774.5
 2024-11	854.2
 2024-12	959.8
+2025-02	227.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-10', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
 --------------------------------
 
 Health-Health Statistics Health Indicators - Infant Mortality per 1,000 live births
@@ -77153,12 +77154,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-11	44.6
 2024-12	41.5
 2025-01	8.1
+2025-02	4.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Mullaitivu-Class A
@@ -82400,12 +82402,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-11	79.7
 2024-12	105.6
 2025-01	118.7
+2025-02	109.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply
@@ -84211,12 +84214,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-10	2533.7
 2024-11	2806.5
 2024-12	3168.6
+2025-02	768.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-01-10', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Class D
@@ -119804,12 +119808,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-11	272.9
 2024-12	362.1
 2025-01	400.7
+2025-02	367.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University

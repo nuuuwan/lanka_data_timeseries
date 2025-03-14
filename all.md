@@ -61998,6 +61998,7 @@
 * 2024-10: 774.5
 * 2024-11: 854.2
 * 2024-12: 959.8
+* 2025-02: 227.8
 
 # Health-Health Statistics Health Indicators - Infant Mortality per 1,000 live births
 
@@ -69179,6 +69180,7 @@
 * 2024-11: 44.6
 * 2024-12: 41.5
 * 2025-01: 8.1
+* 2025-02: 4.6
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class A
 
@@ -73515,6 +73517,7 @@
 * 2024-11: 79.7
 * 2024-12: 105.6
 * 2025-01: 118.7
+* 2025-02: 109.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply
 
@@ -75001,6 +75004,7 @@
 * 2024-10: 2533.7
 * 2024-11: 2806.5
 * 2024-12: 3168.6
+* 2025-02: 768.2
 
 # Transport-Road Network Road Kilometerage-Ampara-Class D
 
@@ -104882,6 +104886,7 @@
 * 2024-11: 272.9
 * 2024-12: 362.1
 * 2025-01: 400.7
+* 2025-02: 367.6
 
 # Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University
 
