@@ -11,15 +11,15 @@
     "Source": "Ministry of Fisheries & Aquatic Resource Development",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2025-01-16",
+    "Data last updated": "2025-03-14",
     "Update frequency": "Two months after the end of the month"
   },
   "summary_statistics": {
-    "n": 299,
+    "n": 301,
     "min_t": "2000-01-01",
-    "max_t": "2024-11-01",
+    "max_t": "2025-01-01",
     "min_value": 2.8,
-    "max_value": 6.9
+    "max_value": 4.4
   },
   "cleaned_data": {
     "2000-01-01": 2.8,
@@ -320,7 +320,9 @@
     "2024-08-01": 10.2,
     "2024-09-01": 9.4,
     "2024-10-01": 6.8,
-    "2024-11-01": 6.9
+    "2024-11-01": 6.9,
+    "2024-12-01": 5.9,
+    "2025-01-01": 4.4
   },
   "raw_data": {
     "1966-Jan": " ",
@@ -1030,8 +1032,8 @@
     "2024-Sep": "9.40",
     "2024-Oct": "6.80",
     "2024-Nov": "6.90",
-    "2024-Dec": " ",
-    "2025-Jan": " ",
+    "2024-Dec": "5.90",
+    "2025-Jan": "4.40",
     "2025-Feb": " ",
     "2025-Mar": " ",
     "2025-Apr": " ",
