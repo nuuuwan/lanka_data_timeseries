@@ -108427,7 +108427,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Northern
