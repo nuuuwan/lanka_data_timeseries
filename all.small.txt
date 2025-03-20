@@ -55449,6 +55449,32 @@ National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current M
 
 --------------------------------
 
+Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Sabaragamu
+1999	2400
+2000	2680
+2002	3048
+2003	3574
+2004	4024
+2005	5197
+2006	6579
+2007	8442
+2008	8272
+2009	9972
+2010	10347
+2011	11687
+2012	12477
+2013	14027
+2014	15729
+2015	20858
+2016	22116
+2017	22668
+2018	24115.0
+2019	27447
+2020	29975.0
+2021	31250
+
+--------------------------------
+
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Credit to Total Deposits
 1998	64.6
 1999	69.3
@@ -64444,6 +64470,32 @@ Balance of Payments-Financial Account BOP - Other Investments- Loans -Assets
 2018	0
 2019	0
 2020	0
+
+--------------------------------
+
+Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-North-West
+1999	3710
+2000	3704
+2002	4344
+2003	5232
+2004	5997
+2005	7616
+2006	10098
+2007	12478
+2008	12131
+2009	14406
+2010	14981
+2011	16552
+2012	17283
+2013	9797
+2014	21162
+2015	26598
+2016	28017
+2017	28527
+2018	30465.0
+2019	34031
+2020	35338.0
+2021	37093
 
 --------------------------------
 
@@ -74371,6 +74423,32 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2020	507704
 2021	194495
 2022	719978
+
+--------------------------------
+
+Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-North-Cent
+1999	3416
+2000	2233
+2002	2563
+2003	2990
+2004	3468
+2005	4463
+2006	5311
+2007	6118
+2008	6015
+2009	7397
+2010	7934
+2011	8196
+2012	8903
+2013	13072
+2014	11597
+2015	14848
+2016	16732
+2017	17030
+2018	18090.0
+2019	19922
+2020	21342.0
+2021	22160
 
 --------------------------------
 
