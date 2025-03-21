@@ -69577,12 +69577,13 @@ Petroleum-Average Crude Oil Prices CPC Import Prices
 2024-11	76.72
 2024-12	77.5
 2025-01	76.14
+2025-02	76.32
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-21', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe

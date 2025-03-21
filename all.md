@@ -62748,6 +62748,7 @@
 * 2024-11: 76.72
 * 2024-12: 77.5
 * 2025-01: 76.14
+* 2025-02: 76.32
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of other pe
 
