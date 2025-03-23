@@ -57294,7 +57294,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matale-Total
@@ -58753,7 +58753,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Minor Export Crops CASHEW Production
@@ -67674,7 +67674,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of other perennial crops
@@ -75599,7 +75599,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of rubber and plastic products
@@ -79644,7 +79644,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Cheques Total Value of Cheques received for clearing through Cheque Imaging and Truncation System (CITS)
@@ -85580,7 +85580,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Female
@@ -87582,7 +87582,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Staff Cost to Operating Expenses
@@ -91121,7 +91121,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Tea Estimated Tea Production - Eastern
@@ -92653,7 +92653,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Gampaha-Class D
@@ -101380,7 +101380,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Northern
@@ -102174,7 +102174,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches KANDY
@@ -104432,7 +104432,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Economic affairs
@@ -107394,7 +107394,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Electricity-Electricity Electricity - Installed capacity
@@ -108616,7 +108616,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Western
@@ -110822,7 +110822,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Hambantota-Expressways
@@ -121898,7 +121898,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sanasa Federation', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Western
@@ -126135,7 +126135,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Co-operative Development Department', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Greater Colombo Housing Approval Index Greater Colombo Housing Approval Index
