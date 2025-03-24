@@ -57541,7 +57541,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets BADULLA
@@ -58560,7 +58560,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-No. of Consumers-Central-Total
@@ -68205,7 +68205,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In USD terms) Merchandise Import Value Index (2010=100)
@@ -80659,7 +80659,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Transport
@@ -86892,7 +86892,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Health-Personel No.of Medical Laboratory Technologists
@@ -89178,7 +89178,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing - Factory Industry
@@ -91937,7 +91937,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Mannar-Total
@@ -93601,7 +93601,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-University Education No. of University Students Graduated - Science (B.Sc.)
@@ -94801,7 +94801,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Transport Board', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Southern
@@ -98336,7 +98336,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks BATTICOLOA
@@ -99742,7 +99742,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Central
@@ -100404,7 +100404,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Class E
@@ -100814,7 +100814,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Labour Force and Employment-Overall Labour Statistics-Unemployed Population
@@ -101059,7 +101059,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity, Gas and Water - Electricity
@@ -103244,7 +103244,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 International Investment Position-Direct Investment IIP - Direct Investment - Assets
@@ -107696,7 +107696,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“B” Class – Main roads connecting other important towns and also providing important links within the trunk route system (Metalled and bitumen with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo (1998=100) - Industrial
@@ -111760,7 +111760,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Food products - Change
@@ -113986,7 +113986,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Uva
@@ -114328,7 +114328,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Sabaragamuwa
@@ -117782,7 +117782,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“D” Class – Gravelled road with 8ft. – 10ft. width surface generally motorable during dry weather only.', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials
@@ -121215,7 +121215,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kurunegala-Class E
@@ -122002,7 +122002,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '“C” Class – Other roads such as agricultural roads and local roads (Single carriage way of 12ft. width and a platform width of 22ft. mostly metalled but with a small percentage gravelled).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-Performance in Examinations Performance of Candidates-All candidates sat for GCE (O-L)
@@ -124152,7 +124152,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-Revenue Collected-Uva-Total
@@ -124433,7 +124433,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-All Island
@@ -126036,7 +126036,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Kilometres
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Note': '“A” Class – All roads within the network of Trunk Roads connecting the national capital with the provincial capitals and also connecting these capitals with one another. Also included are other major roads (all roads paved and bitumen surfaced with carriage way between 24ft. to 36ft. and platform width 36ft. to 56ft.).', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Profit Before Tax
