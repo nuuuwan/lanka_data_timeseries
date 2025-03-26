@@ -54834,6 +54834,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-10	161.3
 2024-11	161.3
 2024-12	161.3
+2025-01	175.4
 
 --------------------------------
 
@@ -55371,6 +55372,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	6.6
 2024-11	5.0
 2024-12	4.7
+2025-01	3.7
 
 --------------------------------
 
@@ -57078,6 +57080,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	5.6
 2024-11	5.2
 2024-12	5.2
+2025-01	4.2
 
 --------------------------------
 
@@ -58808,6 +58811,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	6.9
 2024-11	6.1
 2024-12	7.1
+2025-01	5.4
 
 --------------------------------
 
@@ -73898,6 +73902,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	182.8
 2024-11	184.0
 2024-12	184.5
+2025-01	185.4
 
 --------------------------------
 
@@ -76688,6 +76693,8 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-09	93.6
 2024-10	94.1
 2024-11	94.3
+2024-12	93.2
+2025-01	92.7
 
 --------------------------------
 
@@ -81458,6 +81465,8 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-09	8239.1
 2024-10	8239.0
 2024-11	8238.9
+2024-12	8239.0
+2025-01	8239.4
 
 --------------------------------
 
@@ -87162,6 +87171,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	181.1
 2024-11	183.4
 2024-12	183.8
+2025-01	184.9
 
 --------------------------------
 
@@ -95089,6 +95099,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	4.6
 2024-11	4.7
 2024-12	4.6
+2025-01	3.9
 
 --------------------------------
 
@@ -96183,6 +96194,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-10	21.2
 2024-11	21.2
 2024-12	21.2
+2025-01	19.2
 
 --------------------------------
 
@@ -99140,6 +99152,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	185.5
 2024-11	184.6
 2024-12	184.4
+2025-01	185.7
 
 --------------------------------
 
@@ -101159,6 +101172,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-10	71.0
 2024-11	70.9
 2024-12	70.2
+2025-01	76.3
 
 --------------------------------
 
@@ -102412,6 +102426,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-10	184.1
 2024-11	184.9
 2024-12	186.0
+2025-01	186.3
 
 --------------------------------
 

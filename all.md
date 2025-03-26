@@ -53205,6 +53205,7 @@
 * 2024-10: 161.3
 * 2024-11: 161.3
 * 2024-12: 161.3
+* 2025-01: 175.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Gross National Income
 
@@ -53720,6 +53721,7 @@
 * 2024-10: 6.6
 * 2024-11: 5.0
 * 2024-12: 4.7
+* 2025-01: 3.7
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Class C
 
@@ -55367,6 +55369,7 @@
 * 2024-10: 5.6
 * 2024-11: 5.2
 * 2024-12: 5.2
+* 2025-01: 4.2
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Deposit Rate
 
@@ -57049,6 +57052,7 @@
 * 2024-10: 6.9
 * 2024-11: 6.1
 * 2024-12: 7.1
+* 2025-01: 5.4
 
 # Payment Data-Asian Clearing Union (ACU) Total Number of Asian Clearing Union (ACU) Transactions
 
@@ -71672,6 +71676,7 @@
 * 2024-10: 182.8
 * 2024-11: 184.0
 * 2024-12: 184.5
+* 2025-01: 185.4
 
 # International Investment Position-Overall International Investment Position (IIP) - Assets
 
@@ -74384,6 +74389,8 @@
 * 2024-09: 93.6
 * 2024-10: 94.1
 * 2024-11: 94.3
+* 2024-12: 93.2
+* 2025-01: 92.7
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Central
 
@@ -79008,6 +79015,8 @@
 * 2024-09: 8239.1
 * 2024-10: 8239.0
 * 2024-11: 8238.9
+* 2024-12: 8239.0
+* 2025-01: 8239.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Tea (Green leaves)
 
@@ -84541,6 +84550,7 @@
 * 2024-10: 181.1
 * 2024-11: 183.4
 * 2024-12: 183.8
+* 2025-01: 184.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Electricity
 
@@ -92208,6 +92218,7 @@
 * 2024-10: 4.6
 * 2024-11: 4.7
 * 2024-12: 4.6
+* 2025-01: 3.9
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of paper and paper products
 
@@ -93259,6 +93270,7 @@
 * 2024-10: 21.2
 * 2024-11: 21.2
 * 2024-12: 21.2
+* 2025-01: 19.2
 
 # Banking Sector-All Banks Banking Sector- Efficiency (Operating Cost) Ratio
 
@@ -96147,6 +96159,7 @@
 * 2024-10: 185.5
 * 2024-11: 184.6
 * 2024-12: 184.4
+* 2025-01: 185.7
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -98094,6 +98107,7 @@
 * 2024-10: 71.0
 * 2024-11: 70.9
 * 2024-12: 70.2
+* 2025-01: 76.3
 
 # Communication Media-Postal Services Area Served by a Post Office
 
@@ -99299,6 +99313,7 @@
 * 2024-10: 184.1
 * 2024-11: 184.9
 * 2024-12: 186.0
+* 2025-01: 186.3
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KEGALLE
 
