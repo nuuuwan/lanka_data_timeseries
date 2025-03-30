@@ -59426,7 +59426,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Central Government Finance-Debt Statistics EDS - Deposit Taking Corporations - short term
@@ -59668,7 +59668,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Wholesale and retail trade
@@ -60745,7 +60745,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Plant propagation a
@@ -61143,7 +61143,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Growing of Oleagino
@@ -61805,7 +61805,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets COLOMBO
@@ -63843,7 +63843,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - GDCF - Changes in Stocks
@@ -63956,7 +63956,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - GDCF - Gross Domestic Fixed Capital Formation
@@ -67529,7 +67529,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-All Island
@@ -67592,7 +67592,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Food products - Change
@@ -68018,7 +68018,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Point of Sale (POS) Terminals Total Volume of Point of Sale (POS) Terminal transactions during the period
@@ -68410,7 +68410,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
@@ -70114,7 +70114,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
@@ -70791,7 +70791,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets KURUNEGALA
@@ -71900,7 +71900,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-General Education General education - Pirivenas - Schools
@@ -72184,7 +72184,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Domestic - Bank
@@ -73823,7 +73823,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-University Education No. of University Students Graduated - Law (L.L.B.)
@@ -77280,7 +77280,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks KANDY
@@ -77833,7 +77833,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-General Education General education - Government -Schools
@@ -78071,7 +78071,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-University Education University education - Students
@@ -78475,7 +78475,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-North-Western
@@ -78504,7 +78504,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - North Western
@@ -78680,7 +78680,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Education-General Education General education - Pirivenas - Students
@@ -79107,7 +79107,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Banks
@@ -79389,7 +79389,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Labour Force and Employment-Foreign Employment Foreign Employment-Departures for Foreign Employment
@@ -80125,7 +80125,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount in arrears)
@@ -83099,7 +83099,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wage Rate Index(December 1978=100)(Real)
@@ -83710,7 +83710,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Construction
@@ -84408,7 +84408,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Services - Hotels and Restaurants
@@ -85252,7 +85252,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Health
@@ -85382,7 +85382,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matara-Expressways
@@ -87307,7 +87307,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches MATALE
@@ -89739,7 +89739,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Electricity Gas and Water - Water
@@ -93776,7 +93776,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Petroleum-Petroleum Petroleum - Diesel sales
@@ -95872,7 +95872,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets MATALE
@@ -97462,7 +97462,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Northern
@@ -97493,7 +97493,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks TRINCOMALEE
@@ -98939,7 +98939,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Coconut
@@ -99163,7 +99163,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Coconut Estimated Coconut Production - Southern
@@ -100296,7 +100296,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Non-performing Loans to Total Loans and Advances (Gross Non-performing Advances (NPLs) Ratio)
@@ -100471,7 +100471,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Agriculture-Paddy Paddy Production - Eastern
@@ -102058,12 +102058,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - WTI (Benchmark pri
 2024-12	69.57
 2025-01	74.77
 2025-02	71.37
+2025-03	67.88
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-28', 'Update frequency': ''}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Hospitals
@@ -102260,7 +102261,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Eastern
@@ -102823,7 +102824,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Hotels Cafes and Restaurants
@@ -103655,7 +103656,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Anuradhapura-Expressways
@@ -105479,7 +105480,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Central
@@ -105510,7 +105511,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Fresh water fishing
@@ -106063,7 +106064,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Residential
@@ -112878,7 +112879,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Loans -Liabilities
@@ -113948,7 +113949,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Net Factor Income from Abroad
@@ -114374,7 +114375,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Health-Personel No.of Hospital Midwives
@@ -116178,7 +116179,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Western
@@ -117253,7 +117254,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Western
@@ -117641,7 +117642,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
 --------------------------------
 
 Labour Force and Employment-Employment Labour Statistics-Employment Agriculture (as a Pct. of Total Employment)
@@ -117886,7 +117887,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Machinery and equipment and weapons systems
@@ -119287,12 +119288,13 @@ Petroleum-Average Crude Oil Prices Crude Oil Futures Prices - Brent (Benchmark p
 2024-12	73.02
 2025-01	77.9
 2025-02	75.12
+2025-03	71.41
 
 Source: cbsl
 Frequency: Monthly
 Unit: US$/bbl
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ceylon Petroleum Corporation, Bloomberg', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-28', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
@@ -120013,7 +120015,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
 --------------------------------
 
 Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo (2017 1st Half = 100) - Industrial
@@ -120944,7 +120946,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-23', 'Update frequency': 'End of August'}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Central-Total
@@ -121944,7 +121946,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Population Statistics-Mid Year Population Mid Year Population-Female
@@ -123912,7 +123914,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'National', 'Data last updated': '2025-02-21', 'Update frequency': 'End of August'}
 --------------------------------
 
 Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
@@ -124097,7 +124099,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Communication Media-Postal Services No. of Agency Post Offices
@@ -124887,7 +124889,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Uva
@@ -124918,7 +124920,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Rs.
 Scale: Mn.
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Note': '', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-02-08', 'Update frequency': 'End of August'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Cereals (except rice)

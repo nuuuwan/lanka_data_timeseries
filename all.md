@@ -90004,6 +90004,7 @@
 * 2024-12: 69.57
 * 2025-01: 74.77
 * 2025-02: 71.37
+* 2025-03: 67.88
 
 # Health-Health Statistics Government sector western medicine - Hospitals
 
@@ -104437,6 +104438,7 @@
 * 2024-12: 73.02
 * 2025-01: 77.9
 * 2025-02: 75.12
+* 2025-03: 71.41
 
 # Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
 
