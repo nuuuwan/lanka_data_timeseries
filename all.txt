@@ -76826,12 +76826,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2024-12	367.38
 2025-01	369.61
 2025-02	372.08
+2025-03	383.78
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-04', 'Update frequency': ''}
 --------------------------------
 
 Transport-Railways Rail transport - Freight ton kilometres
@@ -122672,12 +122673,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2024-12	292.58
 2025-01	297.58
 2025-02	295.5
+2025-03	296.35
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-02-28', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-04', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Total Capital Adequacy Ratio (CAR)
