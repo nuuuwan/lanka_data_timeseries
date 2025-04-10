@@ -57921,7 +57921,6 @@
 * 2024-10: 5.6
 * 2024-11: 4.4
 * 2024-12: 4.5
-* 2025-01: 4.5
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central
 
@@ -109887,7 +109886,6 @@
 * 2024-10: 50.4
 * 2024-11: 24.3
 * 2024-12: 32.4
-* 2025-01: -47.0
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MULATIVU
 
