@@ -59423,6 +59423,7 @@
 * 2024-12: 248592
 * 2025-01: 252761
 * 2025-02: 240217
+* 2025-03: 229298
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Loans and Advances
 
@@ -62030,6 +62031,7 @@
 * 2024-11: 854.2
 * 2024-12: 959.8
 * 2025-02: 227.8
+* 2025-03: 332.5
 
 # Health-Health Statistics Health Indicators - Infant Mortality per 1,000 live births
 
@@ -69238,6 +69240,7 @@
 * 2024-12: 41.5
 * 2025-01: 8.1
 * 2025-02: 4.6
+* 2025-03: 3.5
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class A
 
@@ -73606,6 +73609,7 @@
 * 2024-12: 105.6
 * 2025-01: 118.7
 * 2025-02: 109.1
+* 2025-03: 104.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply
 
@@ -75096,6 +75100,7 @@
 * 2024-11: 2806.5
 * 2024-12: 3168.6
 * 2025-02: 768.2
+* 2025-03: 1122.3
 
 # Transport-Road Network Road Kilometerage-Ampara-Class D
 
@@ -86364,6 +86369,7 @@
 * 2024-11: 1804873
 * 2024-12: 2053465
 * 2025-02: 492978
+* 2025-03: 722276
 
 # Agriculture-Rubber Estimated Rubber Production - Uva
 
@@ -90570,6 +90576,7 @@
 * 2024-11: 25.3
 * 2024-12: 26.1
 * 2025-01: 28.2
+* 2025-02: 31.3
 
 # Agriculture-Subsidiary Food Crops SORGHUM Production
 
@@ -96343,6 +96350,7 @@
 * 2024-12: 38.1
 * 2025-01: 21.4
 * 2025-02: 15.6
+* 2025-03: 13.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Statutory Liquid Asset Ratio (SLAR) – Domestic Banking Unit (DBU)
 
@@ -102370,6 +102378,7 @@
 * 2024-11: 6.9
 * 2024-12: 5.9
 * 2025-01: 4.4
+* 2025-02: 3.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water
 
@@ -104989,6 +104998,7 @@
 * 2024-12: 362.1
 * 2025-01: 400.7
 * 2025-02: 367.6
+* 2025-03: 354.0
 
 # Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University
 
@@ -105856,7 +105866,7 @@
 * 2024-10: 21.1
 * 2024-11: 22.3
 * 2024-12: 21.7
-* 2025-01: 21.46
+* 2025-01: 21.5
 * 2025-02: 15.6
 
 # Transport-Road Network Road Kilometerage-North Central-Class D

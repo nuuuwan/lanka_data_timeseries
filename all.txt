@@ -65527,12 +65527,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2024-12	248592
 2025-01	252761
 2025-02	240217
+2025-03	229298
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Loans and Advances
@@ -68728,12 +68729,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2024-11	854.2
 2024-12	959.8
 2025-02	227.8
+2025-03	332.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': ''}
 --------------------------------
 
 Health-Health Statistics Health Indicators - Infant Mortality per 1,000 live births
@@ -77224,12 +77226,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2024-12	41.5
 2025-01	8.1
 2025-02	4.6
+2025-03	3.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Mullaitivu-Class A
@@ -82509,12 +82512,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2024-12	105.6
 2025-01	118.7
 2025-02	109.1
+2025-03	104.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Electricity gas steam and air conditioning supply
@@ -84324,12 +84328,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2024-11	2806.5
 2024-12	3168.6
 2025-02	768.2
+2025-03	1122.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Class D
@@ -97700,12 +97705,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2024-11	1804873
 2024-12	2053465
 2025-02	492978
+2025-03	722276
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Rubber Estimated Rubber Production - Uva
@@ -102690,12 +102696,13 @@ Agriculture-Fish Production Marine Fish Production
 2024-11	25.3
 2024-12	26.1
 2025-01	28.2
+2025-02	31.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops SORGHUM Production
@@ -109518,12 +109525,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2024-12	38.1
 2025-01	21.4
 2025-02	15.6
+2025-03	13.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-07', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'NULL'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Statutory Liquid Asset Ratio (SLAR) – Domestic Banking Unit (DBU)
@@ -116740,12 +116748,13 @@ Agriculture-Fish Production Inland Fish Production
 2024-11	6.9
 2024-12	5.9
 2025-01	4.4
+2025-02	3.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water
@@ -119929,12 +119938,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2024-12	362.1
 2025-01	400.7
 2025-02	367.6
+2025-03	354.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-14', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Qualifying to enter University
@@ -120891,7 +120901,7 @@ Agriculture-Tea Tea Production
 2024-10	21.1
 2024-11	22.3
 2024-12	21.7
-2025-01	21.46
+2025-01	21.5
 2025-02	15.6
 
 Source: cbsl
