@@ -77547,12 +77547,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-12	70.2
 2025-01	75.6
 2025-02	75.7
+2025-03	75.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Class A
@@ -77653,12 +77654,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	183.8
 2025-01	184.9
 2025-02	186.4
+2025-03	187.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates National Savings Bank - One Year Fixed Deposit Rates
@@ -91001,12 +91003,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-12	93.2
 2025-01	92.7
 2025-02	92.9
+2025-03	93.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-03-27', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-04-25', 'Update frequency': 'Two months'}
 --------------------------------
 
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
@@ -91423,12 +91426,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-12	21.2
 2025-01	19.2
 2025-02	19.2
+2025-03	19.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Point of Sale (POS) Terminals Total Volume of Point of Sale (POS) Terminal transactions during the period
@@ -97557,12 +97561,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2024-12	8239.0
 2025-01	8239.4
 2025-02	8239.7
+2025-03	8239.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': 'Two months'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Net Non-performing Loans to Total Loans and Advances (Net Non-performing Advances (NPLs) Ratio)
@@ -100082,12 +100087,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	184.5
 2025-01	185.4
 2025-02	186.9
+2025-03	188.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Southern-Total
@@ -100184,12 +100190,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	4.7
 2025-01	3.7
 2025-02	4.1
+2025-03	4.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
@@ -104508,12 +104515,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2024-12	161.3
 2025-01	175.4
 2025-02	175.4
+2025-03	175.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Advances
@@ -123165,12 +123173,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	7.1
 2025-01	5.4
 2025-02	5.0
+2025-03	6.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Terminal transactions during the period
@@ -132658,12 +132667,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	184.4
 2025-01	185.7
 2025-02	186.7
+2025-03	187.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Foreign
@@ -139727,12 +139737,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	4.6
 2025-01	3.9
 2025-02	4.0
+2025-03	5.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of other non- metallic mineral products
@@ -143294,12 +143305,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	5.2
 2025-01	4.2
 2025-02	4.3
+2025-03	5.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Cheques Total Volume of US Dollar Cheques cleared
@@ -144518,12 +144530,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2024-12	186.0
 2025-01	186.3
 2025-02	188.0
+2025-03	189.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-03-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-25', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions through Common ATM Switch (CAS)

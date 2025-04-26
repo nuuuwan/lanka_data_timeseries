@@ -70073,6 +70073,7 @@
 * 2024-12: 70.2
 * 2025-01: 75.6
 * 2025-02: 75.7
+* 2025-03: 75.8
 
 # Transport-Road Network Road Kilometerage-Ampara-Class A
 
@@ -70167,6 +70168,7 @@
 * 2024-12: 183.8
 * 2025-01: 184.9
 * 2025-02: 186.4
+* 2025-03: 187.5
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates National Savings Bank - One Year Fixed Deposit Rates
 
@@ -81459,6 +81461,7 @@
 * 2024-12: 93.2
 * 2025-01: 92.7
 * 2025-02: 92.9
+* 2025-03: 93.2
 
 # Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 
@@ -81805,6 +81808,7 @@
 * 2024-12: 21.2
 * 2025-01: 19.2
 * 2025-02: 19.2
+* 2025-03: 19.2
 
 # Payment Data-Point of Sale (POS) Terminals Total Volume of Point of Sale (POS) Terminal transactions during the period
 
@@ -87032,6 +87036,7 @@
 * 2024-12: 8239.0
 * 2025-01: 8239.4
 * 2025-02: 8239.7
+* 2025-03: 8239.7
 
 # Banking Sector-All Banks Banking Sector- Net Non-performing Loans to Total Loans and Advances (Net Non-performing Advances (NPLs) Ratio)
 
@@ -89134,6 +89139,7 @@
 * 2024-12: 184.5
 * 2025-01: 185.4
 * 2025-02: 186.9
+* 2025-03: 188.2
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Southern-Total
 
@@ -89224,6 +89230,7 @@
 * 2024-12: 4.7
 * 2025-01: 3.7
 * 2025-02: 4.1
+* 2025-03: 4.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
 
@@ -92900,6 +92907,7 @@
 * 2024-12: 161.3
 * 2025-01: 175.4
 * 2025-02: 175.4
+* 2025-03: 175.4
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Advances
 
@@ -108541,6 +108549,7 @@
 * 2024-12: 7.1
 * 2025-01: 5.4
 * 2025-02: 5.0
+* 2025-03: 6.3
 
 # Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Terminal transactions during the period
 
@@ -116416,6 +116425,7 @@
 * 2024-12: 184.4
 * 2025-01: 185.7
 * 2025-02: 186.7
+* 2025-03: 187.9
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Foreign
 
@@ -122213,6 +122223,7 @@
 * 2024-12: 4.6
 * 2025-01: 3.9
 * 2025-02: 4.0
+* 2025-03: 5.0
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of other non- metallic mineral products
 
@@ -125137,6 +125148,7 @@
 * 2024-12: 5.2
 * 2025-01: 4.2
 * 2025-02: 4.3
+* 2025-03: 5.1
 
 # Payment Data-Cheques Total Volume of US Dollar Cheques cleared
 
@@ -126211,6 +126223,7 @@
 * 2024-12: 186.0
 * 2025-01: 186.3
 * 2025-02: 188.0
+* 2025-03: 189.8
 
 # Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions through Common ATM Switch (CAS)
 
