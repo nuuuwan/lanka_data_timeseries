@@ -81719,6 +81719,9 @@
 * 2024-09: 784.89
 * 2024-10: 830.7
 * 2024-11: 927.85
+* 2024-12: 649.57
+* 2025-01: 119.33
+* 2025-02: 328.45
 
 # Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2016=100)(Nominal) - Y-o-Y Change
 
@@ -84000,6 +84003,7 @@
 * 2024-09: 28574653
 * 2024-10: 28287101.1
 * 2024-11: 28240217.63
+* 2024-12: 28738703.64
 
 # Payment Data-Credit or Debit Cards Number of defaulted Credit Cards
 
@@ -84678,6 +84682,9 @@
 * 2024-09: 2918.31
 * 2024-10: 3255.71
 * 2024-11: 3650.9
+* 2024-12: 4030.84
+* 2025-01: 346.58
+* 2025-02: 760.67
 
 # Transport-Railways Sri Lanka Railways-Freight Tonne Kilometers-All Island
 
@@ -85204,6 +85211,9 @@
 * 2024-09: 3897.77
 * 2024-10: 4327.69
 * 2024-11: 4881.94
+* 2024-12: 6130.74
+* 2025-01: 465.98
+* 2025-02: 847.49
 
 # Banking Sector-All Banks Banking Sector- Total Number of Banks
 
@@ -97055,6 +97065,9 @@
 * 2024-09: 3434.58
 * 2024-10: 3796.05
 * 2024-11: 4276.03
+* 2024-12: 5339.94
+* 2025-01: 424.51
+* 2025-02: 791.34
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks GAMPAHA
 
@@ -99177,6 +99190,9 @@
 * 2024-09: 463.19
 * 2024-10: 531.65
 * 2024-11: 605.91
+* 2024-12: 790.8
+* 2025-01: 41.47
+* 2025-02: 56.16
 
 # Transport-Road Network Road Kilometerage-Nuwara Eliya-Class C
 
@@ -100692,6 +100708,9 @@
 * 2024-09: 2688.57
 * 2024-10: 3000.25
 * 2024-11: 3370.46
+* 2024-12: 3704.58
+* 2025-01: 321.48
+* 2025-02: 707.0
 
 # Tourism-Tourist Earnings Tourist Earnings
 
@@ -102543,6 +102562,7 @@
 * 2024-09: 17595054
 * 2024-10: 17497733.99
 * 2024-11: 17571962.32
+* 2024-12: 18309660.1
 
 # Education-University Education Eligible for University Education - Male
 
@@ -106983,6 +107003,9 @@
 * 2024-09: 229.73
 * 2024-10: 255.47
 * 2024-11: 280.45
+* 2024-12: 326.26
+* 2025-01: 25.1
+* 2025-02: 53.67
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Economic affairs
 
@@ -107493,6 +107516,9 @@
 * 2024-09: -969.99
 * 2024-10: -1060.75
 * 2024-11: -1217.3
+* 2024-12: -2039.93
+* 2025-01: -119.4
+* 2025-02: -86.62
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl
 
@@ -111211,6 +111237,9 @@
 * 2024-09: 9.48
 * 2024-10: 11.23
 * 2024-11: 13.74
+* 2024-12: 59.97
+* 2025-01: 0
+* 2025-02: 0.2
 
 # Transport-Road Network Road Kilometerage-Central-Class C
 
@@ -112043,6 +112072,7 @@
 * 2024-09: 10979599
 * 2024-10: 10789367.1
 * 2024-11: 10668255.31
+* 2024-12: 10429043.54
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing
 
@@ -117218,6 +117248,7 @@
 * 2024-09: 13198506
 * 2024-10: 13297632.81
 * 2024-11: 13454526.68
+* 2024-12: 14079197.51
 
 # Agriculture-Subsidiary Food Crops SNAKE GOURD Production
 
@@ -121467,6 +121498,7 @@
 * 2024-09: 0
 * 2024-10: 0
 * 2024-11: 0
+* 2024-12: 0
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP Growth - Constant (2010) Prices - Gross Domestic Product
 
@@ -126096,6 +126128,7 @@
 * 2024-09: 3932089
 * 2024-10: 4036926.2
 * 2024-11: 4028339.01
+* 2024-12: 4061553.52
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Health
 
@@ -126720,6 +126753,9 @@
 * 2024-09: 2927.79
 * 2024-10: 3266.94
 * 2024-11: 3664.64
+* 2024-12: 4090.81
+* 2025-01: 346.58
+* 2025-02: 760.88
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-North Western
 
