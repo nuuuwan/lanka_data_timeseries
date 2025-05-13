@@ -72116,6 +72116,7 @@
 * 2025-01: 369.61
 * 2025-02: 372.08
 * 2025-03: 383.78
+* 2025-04: 401.3
 
 # Transport-Road Network Road Kilometerage-Central-Class C
 
@@ -107366,6 +107367,7 @@
 * 2025-01: 297.58
 * 2025-02: 295.5
 * 2025-03: 296.35
+* 2025-04: 299.62
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks KEGALLE
 
