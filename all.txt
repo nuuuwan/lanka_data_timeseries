@@ -76271,8 +76271,6 @@ Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2024-10	50.4
 2024-11	24.3
 2024-12	32.4
-2025-01	-44.8
-2025-02	-5.0
 
 Source: cbsl
 Frequency: Monthly
@@ -106500,7 +106498,6 @@ Agriculture-Fish Production Marine Fish Production
 2024-10	27.6
 2024-11	25.3
 2024-12	26.1
-2025-01	28.2
 2025-02	31.3
 
 Source: cbsl
@@ -136355,8 +136352,6 @@ Agriculture-Rubber Rubber Production
 2024-10	5.6
 2024-11	4.4
 2024-12	4.5
-2025-01	4.7
-2025-02	5.3
 
 Source: cbsl
 Frequency: Monthly

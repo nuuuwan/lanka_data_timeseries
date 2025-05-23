@@ -68923,8 +68923,6 @@
 * 2024-10: 50.4
 * 2024-11: 24.3
 * 2024-12: 32.4
-* 2025-01: -44.8
-* 2025-02: -5.0
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Sabaragamuwa-Total
 
@@ -94054,7 +94052,6 @@
 * 2024-10: 27.6
 * 2024-11: 25.3
 * 2024-12: 26.1
-* 2025-01: 28.2
 * 2025-02: 31.3
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Demand Deposits
@@ -119317,8 +119314,6 @@
 * 2024-10: 5.6
 * 2024-11: 4.4
 * 2024-12: 4.5
-* 2025-01: 4.7
-* 2025-02: 5.3
 
 # Agriculture-Paddy Paddy Production - Eastern
 
