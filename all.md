@@ -67371,6 +67371,7 @@
 * 2025-01: 573.0
 * 2025-02: 548.1
 * 2025-03: 693.3
+* 2025-04: 646.1
 
 # Balance of Payments-Financial Account BOP - Reserve Assets
 
@@ -68923,6 +68924,9 @@
 * 2024-10: 50.4
 * 2024-11: 24.3
 * 2024-12: 32.4
+* 2025-01: -40.9
+* 2025-02: 18.1
+* 2025-03: -36.8
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Sabaragamuwa-Total
 
@@ -71664,6 +71668,7 @@
 * 2024-12: 21.7
 * 2025-01: 21.5
 * 2025-02: 15.6
+* 2025-03: 24.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 Private Savings-at Current Prices (2002 Series)
 
@@ -74885,6 +74890,7 @@
 * 2024-12: 9.6
 * 2025-01: 14.6
 * 2025-02: -22.0
+* 2025-03: 24.8
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Class B
 
@@ -94052,7 +94058,9 @@
 * 2024-10: 27.6
 * 2024-11: 25.3
 * 2024-12: 26.1
+* 2025-01: 28.8
 * 2025-02: 31.3
+* 2025-03: 30.1
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Demand Deposits
 
@@ -105115,6 +105123,7 @@
 * 2024-12: 5.9
 * 2025-01: 4.4
 * 2025-02: 3.8
+* 2025-03: 4.0
 
 # Banking Sector-All Banks Banking Sector- Core Capital Ratio (Tier I Capital)
 
@@ -106730,6 +106739,7 @@
 * 2024-12: 170.1
 * 2025-01: 167.8
 * 2025-02: 178.1
+* 2025-03: 217.1
 
 # Central Government Finance-Central Government Expenditure Capital Expenditure on Higher Education
 
@@ -119314,6 +119324,9 @@
 * 2024-10: 5.6
 * 2024-11: 4.4
 * 2024-12: 4.5
+* 2025-01: 5.1
+* 2025-02: 6.6
+* 2025-03: 4.1
 
 # Agriculture-Paddy Paddy Production - Eastern
 
@@ -123135,6 +123148,7 @@
 * 2024-12: -33.1
 * 2025-01: -32.3
 * 2025-02: -31.6
+* 2025-03: -23.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Human health activities, Residential care and social work
 

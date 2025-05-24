@@ -74446,12 +74446,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2025-01	573.0
 2025-02	548.1
 2025-03	693.3
+2025-04	646.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Reserve Assets
@@ -76271,6 +76272,9 @@ Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2024-10	50.4
 2024-11	24.3
 2024-12	32.4
+2025-01	-40.9
+2025-02	18.1
+2025-03	-36.8
 
 Source: cbsl
 Frequency: Monthly
@@ -79463,12 +79467,13 @@ Agriculture-Tea Tea Production
 2024-12	21.7
 2025-01	21.5
 2025-02	15.6
+2025-03	24.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Tea Board', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 Private Savings-at Current Prices (2002 Series)
@@ -83360,7 +83365,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kalutara-Total
@@ -83467,6 +83472,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-12	9.6
 2025-01	14.6
 2025-02	-22.0
+2025-03	24.8
 
 Source: cbsl
 Frequency: Monthly
@@ -106498,13 +106504,15 @@ Agriculture-Fish Production Marine Fish Production
 2024-10	27.6
 2024-11	25.3
 2024-12	26.1
+2025-01	28.8
 2025-02	31.3
+2025-03	30.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Demand Deposits
@@ -119621,12 +119629,13 @@ Agriculture-Fish Production Inland Fish Production
 2024-12	5.9
 2025-01	4.4
 2025-02	3.8
+2025-03	4.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Fisheries & Aquatic Resource Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Core Capital Ratio (Tier I Capital)
@@ -121529,12 +121538,13 @@ Agriculture-Coconut Coconut Production
 2024-12	170.1
 2025-01	167.8
 2025-02	178.1
+2025-03	217.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Nuts
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Coconut Development & Janatha Estate Development', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Central Government Finance-Central Government Expenditure Capital Expenditure on Higher Education
@@ -136352,12 +136362,15 @@ Agriculture-Rubber Rubber Production
 2024-10	5.6
 2024-11	4.4
 2024-12	4.5
+2025-01	5.1
+2025-02	6.6
+2025-03	4.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Kg
 Scale: Million
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after the end of the month'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Rubber Development Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of the month'}
 --------------------------------
 
 Agriculture-Paddy Paddy Production - Eastern
@@ -140947,6 +140960,7 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-12	-33.1
 2025-01	-32.3
 2025-02	-31.6
+2025-03	-23.1
 
 Source: cbsl
 Frequency: Monthly
