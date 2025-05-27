@@ -79943,7 +79943,7 @@ Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-04-11', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
