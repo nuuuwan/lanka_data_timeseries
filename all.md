@@ -65685,6 +65685,7 @@
 * 2025-01: 185.7
 * 2025-02: 186.7
 * 2025-03: 187.9
+* 2025-04: 189.2
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of rubber & plastic products - Change
 
@@ -78122,6 +78123,7 @@
 * 2025-01: 184.9
 * 2025-02: 186.4
 * 2025-03: 187.5
+* 2025-04: 188.6
 
 # Agriculture-Subsidiary Food Crops COCOYAM Production
 
@@ -78255,6 +78257,7 @@
 * 2025-01: 3.7
 * 2025-02: 4.1
 * 2025-03: 4.0
+* 2025-04: 3.5
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels - Change
 
@@ -79052,6 +79055,7 @@
 * 2025-01: 5.4
 * 2025-02: 5.0
 * 2025-03: 6.3
+* 2025-04: 5.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Net Primary Income from rest of the world
 
@@ -79301,6 +79305,7 @@
 * 2025-01: 19.2
 * 2025-02: 19.2
 * 2025-03: 19.2
+* 2025-04: 13.7
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Southern
 
@@ -84871,6 +84876,7 @@
 * 2025-01: 3.9
 * 2025-02: 4.0
 * 2025-03: 5.0
+* 2025-04: 4.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Other Food Crops
 
@@ -86151,6 +86157,7 @@
 * 2025-01: 175.4
 * 2025-02: 175.4
 * 2025-03: 175.4
+* 2025-04: 183.4
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Sabaragamuwa
 
@@ -88648,6 +88655,7 @@
 * 2025-01: 4.2
 * 2025-02: 4.3
 * 2025-03: 5.1
+* 2025-04: 4.8
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets COLOMBO
 
@@ -103061,6 +103069,7 @@
 * 2025-01: 185.4
 * 2025-02: 186.9
 * 2025-03: 188.2
+* 2025-04: 189.1
 
 # Agriculture-Subsidiary Food Crops POTATOES Production
 
@@ -112165,6 +112174,7 @@
 * 2025-01: 92.7
 * 2025-02: 92.9
 * 2025-03: 93.2
+* 2025-04: 93.4
 
 # Transport-Road Network Road Kilometerage-Jaffna-Total
 
@@ -116959,6 +116969,7 @@
 * 2025-01: 8239.4
 * 2025-02: 8239.7
 * 2025-03: 8239.7
+* 2025-04: 8239.6
 
 # Payment Data-Cheques Total Value of US Dollar Cheques cleared
 
@@ -118261,6 +118272,7 @@
 * 2025-01: 186.3
 * 2025-02: 188.0
 * 2025-03: 189.8
+* 2025-04: 190.1
 
 # Transport-Road Network Road Kilometerage-Batticaloa-Class D
 
@@ -122114,6 +122126,7 @@
 * 2025-01: 75.6
 * 2025-02: 75.7
 * 2025-03: 75.8
+* 2025-04: 79.1
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MONARAGALA
 
