@@ -64286,6 +64286,7 @@
 * 2025-01: 8.1
 * 2025-02: 4.6
 * 2025-03: 3.5
+* 2025-04: 5.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Return on Equity (ROE) – After tax
 
@@ -72343,6 +72344,7 @@
 * 2025-01: 21.4
 * 2025-02: 15.6
 * 2025-03: 13.6
+* 2025-04: 14.3
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Services (as a Pct. of Total Employment)
 
@@ -96876,6 +96878,7 @@
 * 2025-01: 252761
 * 2025-02: 240217
 * 2025-03: 229298
+* 2025-04: 174608
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products
 
@@ -98823,6 +98826,7 @@
 * 2025-01: 118.7
 * 2025-02: 109.1
 * 2025-03: 104.8
+* 2025-04: 76.6
 
 # Industry and Housing-Index of Industrial Production Index of Industrial Production - change
 
@@ -99166,6 +99170,7 @@
 * 2025-01: 400.7
 * 2025-02: 367.6
 * 2025-03: 354.0
+* 2025-04: 256.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Other Banking Outlets
 
@@ -103570,6 +103575,7 @@
 * 2024-12: 2053465
 * 2025-02: 492978
 * 2025-03: 722276
+* 2025-04: 896884
 
 # Banking Sector-All Banks Banking Sector- Number of Branches POLONNARUWA
 
@@ -106234,6 +106240,7 @@
 * 2024-12: 3168.6
 * 2025-02: 768.2
 * 2025-03: 1122.3
+* 2025-04: 1379.0
 
 # Education-Performance in Examinations Performance of Candidates-GCE (A-L)-School candidates _ Percentage of qualifying to enter University
 
@@ -111875,6 +111882,7 @@
 * 2024-12: 959.8
 * 2025-02: 227.8
 * 2025-03: 332.5
+* 2025-04: 409.2
 
 # Balance of Payments-Financial Account BOP - Direct Investments - Liabilities
 
