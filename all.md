@@ -107713,6 +107713,7 @@
 * 2025-02: 548.1
 * 2025-03: 693.3
 * 2025-04: 646.1
+* 2025-05: 641.7
 
 # Central Government Finance-Central Government Expenditure Recurrent Expenditure
 

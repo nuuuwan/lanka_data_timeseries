@@ -122855,12 +122855,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2025-02	548.1
 2025-03	693.3
 2025-04	646.1
+2025-05	641.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-05-23', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Central Government Finance-Central Government Expenditure Recurrent Expenditure
