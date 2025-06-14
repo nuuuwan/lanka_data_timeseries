@@ -71733,7 +71733,6 @@ Industry and Housing-Index of Industrial Production Beverages
 2023-11	131.1
 2023-12	130.4
 2024-01	119.6
-2024-04	109.0
 2024-05	121.9
 2024-06	116.5
 2024-07	116.2
@@ -71951,7 +71950,6 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2023-11	106.2
 2023-12	114.2
 2024-01	92.1
-2024-04	106.2
 2024-05	86.6
 2024-06	80.7
 2024-07	44.5
@@ -73978,7 +73976,6 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2023-07	88.3
 2023-09	87.0
 2023-11	85.9
-2024-04	73.5
 2024-05	80.0
 2024-06	82.0
 2024-07	92.3
@@ -82029,9 +82026,10 @@ Agriculture-Fish Production Marine Fish Production
 2024-10	27.6
 2024-11	25.3
 2024-12	26.1
-2025-01	28.8
-2025-02	31.3
-2025-03	30.1
+2025-01	29.3
+2025-02	31.8
+2025-03	30.3
+2025-04	27.3
 
 --------------------------------
 
@@ -82587,9 +82585,10 @@ Agriculture-Rubber Rubber Production
 2024-10	5.6
 2024-11	4.4
 2024-12	4.5
-2025-01	5.1
-2025-02	6.6
-2025-03	4.1
+2025-01	5.3
+2025-02	6.7
+2025-03	4.7
+2025-04	4.9
 
 --------------------------------
 
@@ -85302,9 +85301,10 @@ Agriculture-Fish Production Inland Fish Production
 2024-10	6.8
 2024-11	6.9
 2024-12	5.9
-2025-01	4.4
+2025-01	4.5
 2025-02	3.8
-2025-03	4.0
+2025-03	4.1
+2025-04	5.6
 
 --------------------------------
 
@@ -88037,7 +88037,6 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2023-11	6871.8
 2023-12	210.1
 2024-01	-8.7
-2024-04	-0.1
 2024-05	-15.1
 2024-06	-31.4
 2024-07	-61.6
@@ -88137,7 +88136,6 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2023-05	70.9
 2023-06	73.7
 2023-07	72.7
-2024-04	79.2
 2024-05	83.5
 2024-06	81.1
 2024-07	84.0
@@ -91962,6 +91960,7 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2025-01	14.6
 2025-02	-22.0
 2025-03	24.8
+2025-04	23.0
 
 --------------------------------
 
@@ -94210,7 +94209,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2023-10	103.3
 2023-12	91.7
 2024-01	84.3
-2024-04	81.4
 2024-05	93.9
 2024-06	99.1
 2024-07	98.7
@@ -95976,7 +95974,6 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2023-11	-2.7
 2023-12	9.1
 2024-01	18.7
-2024-04	-7.7
 2024-05	5.9
 2024-06	-3.9
 2024-07	16.0
@@ -96467,7 +96464,6 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2023-07	-14.4
 2023-09	-10.0
 2023-11	-11.0
-2024-04	9.1
 2024-05	-9.9
 2024-06	-10.6
 2024-07	4.6
@@ -102748,7 +102744,6 @@ Industry and Housing-Index of Industrial Production Food products
 2023-10	93.9
 2023-12	85.4
 2024-01	96.4
-2024-04	98.7
 2024-05	105.7
 2024-06	103.0
 2024-07	106.5
@@ -109485,7 +109480,6 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2023-10	1.5
 2023-12	-5.2
 2024-01	14.1
-2024-04	10.2
 2024-05	16.0
 2024-06	17.9
 2024-07	12.6
@@ -110426,7 +110420,6 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2023-11	-2.6
 2023-12	9.1
 2024-01	-1.6
-2024-04	39.0
 2024-05	19.6
 2024-06	2.3
 2024-07	21.9
@@ -110684,7 +110677,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2023-10	-4.0
 2023-12	6.9
 2024-01	-14.2
-2024-04	-9.1
 2024-05	4.2
 2024-06	7.0
 2024-07	-5.5
@@ -112059,7 +112051,6 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2023-11	80.9
 2023-12	76.5
 2024-01	90.3
-2024-04	71.8
 2024-05	86.0
 2024-06	80.3
 2024-07	94.6
@@ -113191,7 +113182,8 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-12	-33.1
 2025-01	-32.3
 2025-02	-31.6
-2025-03	-23.1
+2025-03	-21.8
+2025-04	-6.2
 
 --------------------------------
 
@@ -116145,7 +116137,8 @@ Agriculture-Coconut Coconut Production
 2024-12	170.1
 2025-01	167.8
 2025-02	178.1
-2025-03	217.1
+2025-03	220.8
+2025-04	237.7
 
 --------------------------------
 
@@ -119474,6 +119467,7 @@ Agriculture-Tea Tea Production
 2025-01	21.5
 2025-02	15.6
 2025-03	24.4
+2025-04	26.4
 
 --------------------------------
 
@@ -120522,7 +120516,6 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2023-05	-38.9
 2023-06	-29.3
 2023-07	-21.3
-2024-04	7.0
 2024-05	17.8
 2024-06	10.0
 2024-07	15.5
@@ -127224,7 +127217,6 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2023-07	6.9
 2023-09	-0.6
 2023-12	8.8
-2024-04	10.3
 2024-05	6.8
 2024-06	3.3
 2024-07	4.1
@@ -129800,9 +129792,10 @@ Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 2024-10	50.4
 2024-11	24.3
 2024-12	32.4
-2025-01	-40.9
-2025-02	18.1
-2025-03	-36.8
+2025-01	-37.9
+2025-02	21.6
+2025-03	-28.2
+2025-04	-10.8
 
 --------------------------------
 
