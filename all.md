@@ -81349,6 +81349,7 @@
 * 2025-02: 227.8
 * 2025-03: 332.5
 * 2025-04: 409.2
+* 2025-05: 458.3
 
 # Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
 
@@ -94340,6 +94341,7 @@
 * 2025-02: 4.6
 * 2025-03: 3.5
 * 2025-04: 5.2
+* 2025-05: 5.4
 
 # Transport-Road Network Road Kilometerage-Anuradhapura-Class E
 
@@ -100691,6 +100693,7 @@
 * 2025-02: 768.2
 * 2025-03: 1122.3
 * 2025-04: 1379.0
+* 2025-05: 1543.1
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Lending Rate
 
@@ -102298,6 +102301,7 @@
 * 2025-02: 367.6
 * 2025-03: 354.0
 * 2025-04: 256.7
+* 2025-05: 164.1
 
 # Banking Sector-All Banks Banking Sector- Net Non-performing Advances (NPLs) to Capital Ratio
 
@@ -103048,6 +103052,7 @@
 * 2025-02: 15.6
 * 2025-03: 13.6
 * 2025-04: 14.3
+* 2025-05: 14.8
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
 
@@ -114738,6 +114743,7 @@
 * 2025-02: 492978
 * 2025-03: 722276
 * 2025-04: 896884
+* 2025-05: 1029803
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Unit Value Index (1997=100)
 
@@ -122043,6 +122049,7 @@
 * 2025-02: 109.1
 * 2025-03: 104.8
 * 2025-04: 76.6
+* 2025-05: 49.1
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl
 
@@ -125638,6 +125645,7 @@
 * 2025-02: 240217
 * 2025-03: 229298
 * 2025-04: 174608
+* 2025-05: 132919
 
 # Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
 
