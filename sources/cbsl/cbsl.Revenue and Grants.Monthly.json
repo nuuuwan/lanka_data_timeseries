@@ -11,15 +11,15 @@
     "Source": "Ministry of Finance",
     "GeoArea": "National",
     "Note": "Figures are reported on a cumulative basis for the financial year",
-    "Data last updated": "2025-05-02",
+    "Data last updated": "2025-06-11",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 50,
+    "n": 52,
     "min_t": "2021-01-01",
-    "max_t": "2025-02-01",
+    "max_t": "2025-04-01",
     "min_value": 96.19,
-    "max_value": 760.88
+    "max_value": 1454.67
   },
   "cleaned_data": {
     "2021-01-01": 96.19,
@@ -71,7 +71,9 @@
     "2024-11-01": 3664.64,
     "2024-12-01": 4090.81,
     "2025-01-01": 346.58,
-    "2025-02-01": 760.88
+    "2025-02-01": 760.88,
+    "2025-03-01": 1067.4,
+    "2025-04-01": 1454.67
   },
   "raw_data": {
     "1966-Jan": " ",
@@ -784,8 +786,8 @@
     "2024-Dec": "4,090.81",
     "2025-Jan": "346.58",
     "2025-Feb": "760.88",
-    "2025-Mar": " ",
-    "2025-Apr": " ",
+    "2025-Mar": "1,067.40",
+    "2025-Apr": "1,454.67",
     "2025-May": " ",
     "2025-Jun": " ",
     "2025-Jul": " ",
