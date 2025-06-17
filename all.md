@@ -73058,6 +73058,8 @@
 * 2024-12: 326.26
 * 2025-01: 25.1
 * 2025-02: 53.67
+* 2025-03: 80.46
+* 2025-04: 104.23
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Capital Funds
 
@@ -77901,6 +77903,8 @@
 * 2024-12: 4030.84
 * 2025-01: 346.58
 * 2025-02: 760.67
+* 2025-03: 1066.34
+* 2025-04: 1453.3
 
 # Banking Sector-All Banks Banking Sector- Other Deposits
 
@@ -79624,6 +79628,8 @@
 * 2024-12: 59.97
 * 2025-01: 0
 * 2025-02: 0.2
+* 2025-03: 1.06
+* 2025-04: 1.37
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Construction
 
@@ -81604,6 +81610,7 @@
 * 2024-10: 13297632.81
 * 2024-11: 13454526.68
 * 2024-12: 14079197.51
+* 2025-01: 14257861.04
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits
 
@@ -83978,6 +83985,7 @@
 * 2024-10: 28287101.1
 * 2024-11: 28240217.63
 * 2024-12: 28738703.64
+* 2025-01: 29134462.04
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Public order and safety
 
@@ -86801,6 +86809,8 @@
 * 2024-12: 4090.81
 * 2025-01: 346.58
 * 2025-02: 760.88
+* 2025-03: 1067.4
+* 2025-04: 1454.67
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Northern
 
@@ -87825,6 +87835,8 @@
 * 2024-12: 6130.74
 * 2025-01: 465.98
 * 2025-02: 847.49
+* 2025-03: 1301.85
+* 2025-04: 1716.28
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of food beverages & Tobacco products
 
@@ -88018,6 +88030,8 @@
 * 2024-12: -2039.93
 * 2025-01: -119.4
 * 2025-02: -86.62
+* 2025-03: -234.46
+* 2025-04: -261.61
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
@@ -95189,6 +95203,8 @@
 * 2024-12: 649.57
 * 2025-01: 119.33
 * 2025-02: 328.45
+* 2025-03: 397.47
+* 2025-04: 532.73
 
 # Banking Sector-All Banks Banking Sector- Number of Branches BATTICOLOA
 
@@ -98458,6 +98474,8 @@
 * 2024-12: 790.8
 * 2025-01: 41.47
 * 2025-02: 56.16
+* 2025-03: 82.06
+* 2025-04: 112.9
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks KILINOCHCHI
 
@@ -102504,6 +102522,8 @@
 * 2024-12: 3704.58
 * 2025-01: 321.48
 * 2025-02: 707.0
+* 2025-03: 985.88
+* 2025-04: 1349.07
 
 # Transport-Road Network Road Kilometerage-Colombo-Class C
 
@@ -106482,6 +106502,7 @@
 * 2024-10: 17497733.99
 * 2024-11: 17571962.32
 * 2024-12: 18309660.1
+* 2025-01: 18512350.89
 
 # Banking Sector-All Banks Banking Sector- Capital Base
 
@@ -112025,6 +112046,7 @@
 * 2024-10: 10789367.1
 * 2024-11: 10668255.31
 * 2024-12: 10429043.54
+* 2025-01: 10622111.16
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Construction
 
@@ -117015,6 +117037,7 @@
 * 2024-10: 4036926.2
 * 2024-11: 4028339.01
 * 2024-12: 4061553.52
+* 2025-01: 4108371.71
 
 # Agriculture-Paddy Paddy Production - Eastern
 
@@ -121782,6 +121805,8 @@
 * 2024-12: 5339.94
 * 2025-01: 424.51
 * 2025-02: 791.34
+* 2025-03: 1219.79
+* 2025-04: 1603.38
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Fresh water fishing and Fresh wa
 
@@ -124739,6 +124764,7 @@
 * 2024-10: 0
 * 2024-11: 0
 * 2024-12: 0
+* 2025-01: 0
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Grand Total Sri Lanka
 
