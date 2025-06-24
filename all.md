@@ -76287,6 +76287,7 @@
 * 2023-09: 1989403
 * 2023-12: 1987857
 * 2024-03: 1889579
+* 2024-06: 1926931
 
 # Health-Personel No.of Dental Surgeons
 
@@ -80137,6 +80138,7 @@
 * 2023-09: 20644428
 * 2023-12: 22303280
 * 2024-03: 21440689
+* 2024-06: 22349777
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Return on Assets (ROA) – After tax
 
@@ -84115,6 +84117,7 @@
 * 2023-09: 19977581003
 * 2023-12: 20606337269
 * 2024-03: 19965997350
+* 2024-06: 20683651200
 
 # Transport-Road Network Road Kilometerage-Galle-Class D
 
@@ -90356,6 +90359,7 @@
 * 2023-09: 111205
 * 2023-12: 114011
 * 2024-03: 116386
+* 2024-06: 119700
 
 # Agriculture-Tea No. of Tea Factories - Uva
 
@@ -90648,6 +90652,7 @@
 * 2023-09: 1212
 * 2023-12: 1049
 * 2024-03: 747
+* 2024-06: 534
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks BADULLA
 
@@ -94424,6 +94429,7 @@
 * 2023-09: 173169
 * 2023-12: 169527
 * 2024-03: 164752
+* 2024-06: 168978
 
 # Banking Sector-All Banks Banking Sector- Number of Branches HAMBANTOTA
 
@@ -97730,6 +97736,7 @@
 * 2023-09: 178696659844
 * 2023-12: 201694975767
 * 2024-03: 200101659472
+* 2024-06: 222002089413
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - North Central
 
@@ -100082,6 +100089,7 @@
 * 2023-09: 3856
 * 2023-12: 3813
 * 2024-03: 3766
+* 2024-06: 3703
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Uva-Total
 
@@ -101735,6 +101743,7 @@
 * 2023-09: 48827914
 * 2023-12: 54068519
 * 2024-03: 55525901
+* 2024-06: 61369343
 
 # Transport-Road Network Road Kilometerage-Kurunegala-Class E
 
@@ -103913,6 +103922,7 @@
 * 2023-09: 68541147
 * 2023-12: 77446897
 * 2024-03: 77818785
+* 2024-06: 82757165
 
 # Transport-Road Network Road Kilometerage-Badulla-Expressways
 
@@ -104397,6 +104407,7 @@
 * 2023-09: 1607919802
 * 2023-12: 1716929790
 * 2024-03: 1879059385
+* 2024-06: 1749477015
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Central
 
@@ -106315,6 +106326,7 @@
 * 2023-09: 100104527
 * 2023-12: 103491636
 * 2024-03: 104498535
+* 2024-06: 103542143
 
 # Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Time Deposits
 
@@ -106405,6 +106417,7 @@
 * 2023-09: 338923286
 * 2023-12: 392927249
 * 2024-03: 394467640
+* 2024-06: 386826437
 
 # Balance of Payments-Financial Account BOP - Other Investments- Trade Credits -Liabilities
 
@@ -110528,6 +110541,7 @@
 * 2023-09: 3280780870115
 * 2023-12: 3409234160491
 * 2024-03: 3532704175222
+* 2024-06: 3817964350549
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Western-Total
 
@@ -112547,6 +112561,7 @@
 * 2023-09: 1024459
 * 2023-12: 1189667
 * 2024-03: 1276281
+* 2024-06: 1293693
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Eastern
 
@@ -113381,6 +113396,7 @@
 * 2023-09: 309781706
 * 2023-12: 356277114
 * 2024-03: 403403445
+* 2024-06: 361937284
 
 # Industry and Housing-Electricity Sales Electricity Sales-Units-Central-Total
 
@@ -114593,6 +114609,7 @@
 * 2023-09: 18359467
 * 2023-12: 20401187
 * 2024-03: 19059434
+* 2024-06: 19633428
 
 # Central Government Finance-Debt Statistics EDS -Direct Investment - Intercompany Lending
 
@@ -117737,6 +117754,7 @@
 * 2023-09: 65030348
 * 2023-12: 68940404
 * 2024-03: 71244105
+* 2024-06: 75247392
 
 # Payment Data-Credit or Debit Cards Number of Credit Cards issued during the quarter
 
@@ -117797,6 +117815,7 @@
 * 2023-09: 56140
 * 2023-12: 55675
 * 2024-03: 51052
+* 2024-06: 62084
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class B
 
@@ -123318,6 +123337,7 @@
 * 2023-09: 3388669000
 * 2023-12: 3587432000
 * 2024-03: 3689363000
+* 2024-06: 3089474000
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Transport and Communication
 
@@ -123629,6 +123649,7 @@
 * 2023-09: 142369046068
 * 2023-12: 162647476683
 * 2024-03: 154307659813
+* 2024-06: 162639314456
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity, Gas and Water - Water
 
