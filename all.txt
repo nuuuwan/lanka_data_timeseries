@@ -79470,12 +79470,23 @@ Payment Data-Switch(CAS) or Common ATM Total Volume of financial transactions th
 2024-04	9593528
 2024-05	9481862
 2024-06	9564610
+2024-07	10152793
+2024-08	10444671
+2024-09	9841154
+2024-10	10525607
+2024-11	10091067
+2024-12	11458536
+2025-01	11120497
+2025-02	10352452
+2025-03	11722961
+2025-04	11395228
+2025-05	11376882
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Payment Data-Cheques Total Value of Cheques returned
@@ -79653,12 +79664,23 @@ Payment Data-Cheques Total Value of Cheques returned
 2024-04	25038897457
 2024-05	24848530263
 2024-06	19622929310
+2024-07	23987015370
+2024-08	20372208681
+2024-09	20156115776
+2024-10	21478543002
+2024-11	22015932554
+2024-12	23785908077
+2025-01	22237954621
+2025-02	20494528259
+2025-03	23842828512
+2025-04	28458061550
+2025-05	24986671774
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - GCF - GFCF - Machinery and equipment and weapons systems
@@ -84098,12 +84120,23 @@ Payment Data-SLIP System Total Volume of transactions cleared through SLIP Syste
 2024-04	5724205
 2024-05	4429837
 2024-06	5201005
+2024-07	5426908
+2024-08	5408741
+2024-09	4885719
+2024-10	5094015
+2024-11	5518260
+2024-12	7050681
+2025-01	6277096
+2025-02	5439576
+2025-03	5574504
+2025-04	6132881
+2025-05	5665596
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks KEGALLE
@@ -84267,12 +84300,23 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Volume of Comm
 2024-04	15272523
 2024-05	16131144
 2024-06	16222655
+2024-07	17393703
+2024-08	18138955
+2024-09	17053449
+2024-10	18623007
+2024-11	18212751
+2024-12	20162923
+2025-01	19720605
+2025-02	18330982
+2025-03	21378271
+2025-04	19823672
+2025-05	20683470
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
@@ -90190,12 +90234,23 @@ Payment Data-Cheques Total Volume of US Dollar Cheques cleared
 2024-04	5670
 2024-05	6103
 2024-06	5240
+2024-07	6446
+2024-08	6248
+2024-09	5592
+2024-10	6269
+2024-11	5889
+2024-12	5729
+2025-01	5796
+2025-02	4763
+2025-03	5485
+2025-04	5058
+2025-05	4131
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern
@@ -104791,12 +104846,23 @@ Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions thr
 2024-04	129148072800
 2024-05	120484073300
 2024-06	122037180800
+2024-07	126157842000
+2024-08	129041582300
+2024-09	120558761400
+2024-10	128691836700
+2024-11	123171973100
+2024-12	145282538300
+2025-01	137769213600
+2025-02	128865323400
+2025-03	151036597900
+2025-04	152294585800
+2025-05	144005324900
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Central Government Finance-Debt Statistics Central Government - Primary Deficit  or  Surplus
@@ -107805,12 +107871,23 @@ Payment Data-SLIP System Total Value of transactions cleared through SLIP System
 2024-04	349088099883
 2024-05	313842149853
 2024-06	315571751715
+2024-07	332318562120
+2024-08	316816269997
+2024-09	303722174906
+2024-10	311979817488
+2024-11	317070870192
+2024-12	379844355765
+2025-01	343183723876
+2025-02	310978865839
+2025-03	332795232367
+2025-04	378485525526
+2025-05	332529319454
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Sabaragamuwa-Expressways
@@ -118685,12 +118762,23 @@ Payment Data-Cheques Total Volume of Cheques returned
 2024-04	98956
 2024-05	95361
 2024-06	83588
+2024-07	94554
+2024-08	79699
+2024-09	83147
+2024-10	89527
+2024-11	88326
+2024-12	94456
+2025-01	85316
+2025-02	78832
+2025-03	86312
+2025-04	95367
+2025-05	92134
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - Western
@@ -121222,12 +121310,23 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Value of Commo
 2024-04	1659947950324
 2024-05	1382413403251
 2024-06	1323046258388
+2024-07	1483782407902
+2024-08	1559367009268
+2024-09	1457686304850
+2024-10	1544260575183
+2024-11	1476340163048
+2024-12	1591279298179
+2025-01	1604511339563
+2025-02	1524224293523
+2025-03	1729126430578
+2025-04	1750968144569
+2025-05	1899736686218
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Out-patients
@@ -122528,12 +122627,23 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Value of Real Time Gross Se
 2024-04	36154937582809
 2024-05	35574790754691
 2024-06	33478395284133
+2024-07	36400460557913
+2024-08	33528088456167
+2024-09	31242364887201
+2024-10	36361325175976
+2024-11	35842680685312
+2024-12	38836107170825
+2025-01	35570775599985
+2025-02	28813513446960
+2025-03	32156505828481
+2025-04	32549186045474
+2025-05	34969608089921
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Badulla-Class B
@@ -124448,12 +124558,23 @@ Payment Data-Cheques Total Value of Cheques received for clearing through Cheque
 2024-04	1014390746391
 2024-05	983178411489
 2024-06	825158544166
+2024-07	995150984960
+2024-08	959762799843
+2024-09	946580243529
+2024-10	923326637571
+2024-11	932636577204
+2024-12	1035445280488
+2025-01	1021661681032
+2025-02	927810268934
+2025-03	939780220424
+2025-04	1044143288185
+2025-05	967647887054
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks NUWARA ELIYA
@@ -126152,12 +126273,23 @@ Payment Data-Cheques Total Volume of Cheques received for clearing through Chequ
 2024-04	3262350
 2024-05	3061250
 2024-06	2736884
+2024-07	3453867
+2024-08	3219288
+2024-09	3184799
+2024-10	3233664
+2024-11	3158022
+2024-12	3495387
+2025-01	3428022
+2025-02	3050614
+2025-03	3172059
+2025-04	3453880
+2025-05	3051745
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Nuwara Eliya-Class D
@@ -139464,12 +139596,23 @@ Payment Data-Cheques Total Value of US Dollar Cheques cleared
 2024-04	39470253
 2024-05	41128146
 2024-06	35137995
+2024-07	45177328
+2024-08	49312330
+2024-09	50624320
+2024-10	53600860
+2024-11	53133370
+2024-12	46213442
+2025-01	44453096
+2025-02	36020987
+2025-03	42967665
+2025-04	37203495
+2025-05	136586938
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Tourism-Tourism Tourist Earnings (In LKR)
@@ -139855,12 +139998,23 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross S
 2024-04	45422
 2024-05	47127
 2024-06	44164
+2024-07	50001
+2024-08	49511
+2024-09	48768
+2024-10	51620
+2024-11	49643
+2024-12	52831
+2025-01	51613
+2025-02	43059
+2025-03	47861
+2025-04	47688
+2025-05	47932
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2024-07-22', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-24', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Uva
