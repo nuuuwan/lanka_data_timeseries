@@ -34,7 +34,12 @@ def download_source() -> str:
 
 
 def parse_excel(excel_path: str):
-    workbook = load_workbook(excel_path)
+    try:
+      workbook = load_workbook(excel_path)
+    except Exception as e:
+      log.error(e)
+      return []
+      
     worksheet = workbook.active
 
     i_col = 3
