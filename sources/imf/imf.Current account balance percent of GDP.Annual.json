@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "BCA_NGDPD",
     "description": "The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.",
-    "source": "World Economic Outlook (October 2024)",
+    "source": "World Economic Outlook (April 2025)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/LKA"
   },
   "summary_statistics": {
-    "n": 43,
+    "n": 45,
     "min_t": "1980",
-    "max_t": "2022",
+    "max_t": "2024",
     "min_value": -16.3,
-    "max_value": -1
+    "max_value": 1.8
   },
   "cleaned_data": {
     "1980": -16.3,
@@ -63,7 +63,9 @@
     "2019": -2.1,
     "2020": -1.4,
     "2021": -3.7,
-    "2022": -1
+    "2022": -1,
+    "2023": 2.9,
+    "2024": 1.8
   },
   "raw_data": {
     "1980": -16.3,
@@ -108,6 +110,8 @@
     "2019": -2.1,
     "2020": -1.4,
     "2021": -3.7,
-    "2022": -1
+    "2022": -1,
+    "2023": 2.9,
+    "2024": 1.8
   }
 }

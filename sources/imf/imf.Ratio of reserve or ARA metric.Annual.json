@@ -8,17 +8,17 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "Reserves_ARA",
-    "description": "? Ratio of reserves/ARA metric \u0096 a ratio between 1 and 1.5 is consider adequate",
+    "description": "The ratio of reserves to the ARA metric: a ratio between 1 and 1.5 suggests that the level of reserves is adequate. Specific characteristics and circumstances, such as capital account openness, may warrant changes to the baseline ARA metric for certain countries. Any adjustments made to the baseline ARA metric are detailed in the published staff reports.",
     "source": "Assessing Reserve Adequacy - ARA",
     "dataset": "ARA",
     "url": "https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/LKA"
   },
   "summary_statistics": {
-    "n": 12,
+    "n": 14,
     "min_t": "2011",
-    "max_t": "2022",
+    "max_t": "2024",
     "min_value": 1.007090138,
-    "max_value": 0.1228836641
+    "max_value": 0.3538261928
   },
   "cleaned_data": {
     "2011": 1.007090138,
@@ -27,12 +27,14 @@
     "2014": 0.6277630048,
     "2015": 0.5367712928,
     "2016": 0.4193969987,
-    "2017": 0.4975280322,
-    "2018": 0.4409855251,
-    "2019": 0.4609927393,
-    "2020": 0.5146358412,
-    "2021": 0.1819990231,
-    "2022": 0.1228836641
+    "2017": 0.4975281566,
+    "2018": 0.4409904155,
+    "2019": 0.460997689,
+    "2020": 0.5146372907,
+    "2021": 0.1819980207,
+    "2022": 0.1228826057,
+    "2023": 0.2703965974,
+    "2024": 0.3538261928
   },
   "raw_data": {
     "2011": 1.007090138,
@@ -41,11 +43,13 @@
     "2014": 0.6277630048,
     "2015": 0.5367712928,
     "2016": 0.4193969987,
-    "2017": 0.4975280322,
-    "2018": 0.4409855251,
-    "2019": 0.4609927393,
-    "2020": 0.5146358412,
-    "2021": 0.1819990231,
-    "2022": 0.1228836641
+    "2017": 0.4975281566,
+    "2018": 0.4409904155,
+    "2019": 0.460997689,
+    "2020": 0.5146372907,
+    "2021": 0.1819980207,
+    "2022": 0.1228826057,
+    "2023": 0.2703965974,
+    "2024": 0.3538261928
   }
 }
