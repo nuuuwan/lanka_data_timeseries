@@ -73368,6 +73368,7 @@
 * 2025-02: 4.1
 * 2025-03: 4.0
 * 2025-04: 3.5
+* 2025-05: 3.6
 
 # Transport-Private Bus Services Private Bus Services-Operated Kilometers-All Island
 
@@ -73847,6 +73848,7 @@
 * 2025-02: 175.4
 * 2025-03: 175.4
 * 2025-04: 183.4
+* 2025-05: 183.4
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Northern
 
@@ -77678,6 +77680,7 @@
 * 2025-02: 186.4
 * 2025-03: 187.5
 * 2025-04: 188.6
+* 2025-05: 189.4
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MATARA
 
@@ -79524,6 +79527,7 @@
 * 2025-02: 92.9
 * 2025-03: 93.2
 * 2025-04: 93.4
+* 2025-05: 92.7
 
 # Transport-Road Network Road Kilometerage-Hambantota-Expressways
 
@@ -87842,6 +87846,7 @@
 * 2025-02: 5.0
 * 2025-03: 6.3
 * 2025-04: 5.9
+* 2025-05: 6.8
 
 # Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2012=100)(Nominal)
 
@@ -89569,6 +89574,7 @@
 * 2025-02: 188.0
 * 2025-03: 189.8
 * 2025-04: 190.1
+* 2025-05: 191.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks MONARAGALA
 
@@ -97866,6 +97872,7 @@
 * 2025-02: 75.7
 * 2025-03: 75.8
 * 2025-04: 79.1
+* 2025-05: 78.7
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-North-Western
 
@@ -102237,6 +102244,7 @@
 * 2025-02: 4.0
 * 2025-03: 5.0
 * 2025-04: 4.8
+* 2025-05: 4.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities
 
@@ -106156,6 +106164,7 @@
 * 2025-02: 8239.7
 * 2025-03: 8239.7
 * 2025-04: 8239.6
+* 2025-05: 8239.8
 
 # Education-Performance in Examinations Performance of Candidates-GCE (A-L)-All candidates _ Percentage of qualifying to enter University
 
@@ -109325,6 +109334,7 @@
 * 2025-02: 4.3
 * 2025-03: 5.1
 * 2025-04: 4.8
+* 2025-05: 5.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Tobacco products - Change
 
@@ -111216,6 +111226,7 @@
 * 2025-02: 186.9
 * 2025-03: 188.2
 * 2025-04: 189.1
+* 2025-05: 189.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing - Factory Industry
 
@@ -118758,6 +118769,7 @@
 * 2025-02: 186.7
 * 2025-03: 187.9
 * 2025-04: 189.2
+* 2025-05: 188.9
 
 # Agriculture-Minor Export Crops CASHEW Production
 
@@ -127879,6 +127891,7 @@
 * 2025-02: 19.2
 * 2025-03: 19.2
 * 2025-04: 13.7
+* 2025-05: 13.7
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture; manufacture of articles of Straw and plaiting materials
 
