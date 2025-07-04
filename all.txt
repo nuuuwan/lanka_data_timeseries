@@ -92163,12 +92163,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2025-03	332.5
 2025-04	409.2
 2025-05	458.3
+2025-06	509.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
@@ -107654,12 +107655,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2025-03	3.5
 2025-04	5.2
 2025-05	5.4
+2025-06	5.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'NULL'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Anuradhapura-Class E
@@ -115396,12 +115398,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2025-03	1122.3
 2025-04	1379.0
 2025-05	1543.1
+2025-06	1712.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Lending Rate
@@ -117302,12 +117305,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2025-03	354.0
 2025-04	256.7
 2025-05	164.1
+2025-06	169.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Net Non-performing Advances (NPLs) to Capital Ratio
@@ -118257,12 +118261,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2025-03	13.6
 2025-04	14.3
 2025-05	14.8
+2025-06	15.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'NULL'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
@@ -132434,12 +132439,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2025-03	722276
 2025-04	896884
 2025-05	1029803
+2025-06	1168044
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Unit Value Index (1997=100)
@@ -141037,12 +141043,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2025-03	104.8
 2025-04	76.6
 2025-05	49.1
+2025-06	50.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Vegetabl
@@ -145333,12 +145340,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2025-03	229298
 2025-04	174608
 2025-05	132919
+2025-06	138241
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Agriculture-Rubber Rubber Production (Y-o-Y growth Pct.)
