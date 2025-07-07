@@ -75384,6 +75384,7 @@
 * 2025-03: 296.35
 * 2025-04: 299.62
 * 2025-05: 299.44
+* 2025-06: 299.44
 
 # Education-University Education Percentage Admitted for University Education - Female
 
@@ -107039,6 +107040,7 @@
 * 2025-03: 383.78
 * 2025-04: 401.3
 * 2025-05: 403.58
+* 2025-06: 403.58
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou
 
@@ -108770,6 +108772,9 @@
 * 2019: 1441
 * 2020: 1372.0
 * 2021: 1532
+
+# Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New SME Rate (AWNSR)
+
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
 
@@ -126234,6 +126239,9 @@
 * 2019: 882
 * 2020: 886
 * 2021: 886
+
+# Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted SME Rate (AWSR)
+
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KEGALLE
 

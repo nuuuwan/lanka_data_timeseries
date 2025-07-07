@@ -83753,12 +83753,13 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2025-03	296.35
 2025-04	299.62
 2025-05	299.44
+2025-06	299.44
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 Education-University Education Percentage Admitted for University Education - Female
@@ -121497,12 +121498,13 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2025-03	383.78
 2025-04	401.3
 2025-05	403.58
+2025-06	403.58
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-06', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou
@@ -123597,6 +123599,15 @@ Frequency: Annual
 Unit: Rs.
 Scale: Mn.
 Footnotes: {'Sector': 'Real Sector', 'Source': 'Ministry of Local Government and Provincial Councils', 'GeoArea': 'Provincial', 'Data last updated': '2023-01-11', 'Update frequency': 'End of August'}
+--------------------------------
+
+Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New SME Rate (AWNSR)
+
+Source: cbsl
+Frequency: Monthly
+Unit: Percentage
+Scale: %
+Footnotes: {'Sector': 'Monetary Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Southern
@@ -144544,6 +144555,15 @@ Frequency: Annual
 Unit: Kilometres
 Scale:  
 Footnotes: {'Sector': 'Real Sector', 'Source': 'Road Development Authority,Provincial Councils', 'GeoArea': 'District', 'Note': '', 'Data last updated': '2023-01-12', 'Update frequency': 'End of August'}
+--------------------------------
+
+Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted SME Rate (AWSR)
+
+Source: cbsl
+Frequency: Monthly
+Unit: Percentage
+Scale: %
+Footnotes: {'Sector': 'Monetary Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches KEGALLE

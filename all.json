@@ -87943,7 +87943,8 @@
       "2025-02": 295.5,
       "2025-03": 296.35,
       "2025-04": 299.62,
-      "2025-05": 299.44
+      "2025-05": 299.44,
+      "2025-06": 299.44
     }
   },
   {
@@ -124688,7 +124689,8 @@
       "2025-02": 372.08,
       "2025-03": 383.78,
       "2025-04": 401.3,
-      "2025-05": 403.58
+      "2025-05": 403.58,
+      "2025-06": 403.58
     }
   },
   {
@@ -126724,6 +126726,13 @@
       "2020": 1372.0,
       "2021": 1532
     }
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Interest Rates-Commercial Bank Lending and Deposit Rates",
+    "sub_category": "Average Weighted New SME Rate (AWNSR)",
+    "scale": "%",
+    "cleaned_data": {}
   },
   {
     "source_id": "cbsl",
@@ -147097,6 +147106,13 @@
       "2020": 886,
       "2021": 886
     }
+  },
+  {
+    "source_id": "cbsl",
+    "category": "Interest Rates-Commercial Bank Lending and Deposit Rates",
+    "sub_category": "Average Weighted SME Rate (AWSR)",
+    "scale": "%",
+    "cleaned_data": {}
   },
   {
     "source_id": "cbsl",
