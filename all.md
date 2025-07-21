@@ -2576,6 +2576,7 @@
 * 2025-02: 328.45
 * 2025-03: 397.47
 * 2025-04: 532.73
+* 2025-05: 742.92
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Total
 
@@ -11021,6 +11022,8 @@
 * 2024-11: 0
 * 2024-12: 0
 * 2025-01: 0
+* 2025-02: 0
+* 2025-03: 0
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products - Change
 
@@ -16347,6 +16350,8 @@
 * 2024-11: 17571962.32
 * 2024-12: 18309660.1
 * 2025-01: 18512350.89
+* 2025-02: 18471561.22
+* 2025-03: 18531579.49
 
 # Banking Sector-All Banks Banking Sector- Number of Branches GAMPAHA
 
@@ -17089,6 +17094,8 @@
 * 2024-11: 10668255.31
 * 2024-12: 10429043.54
 * 2025-01: 10622111.16
+* 2025-02: 10563793.99
+* 2025-03: 10721587.56
 
 # Banking Sector-All Banks Banking Sector- Number of Branches KALUTARA
 
@@ -17288,6 +17295,7 @@
 * 2025-02: 760.67
 * 2025-03: 1066.34
 * 2025-04: 1453.3
+* 2025-05: 1939.87
 
 # Labour Force and Employment-Foreign Employment Foreign Employment-Departures for Foreign Employment
 
@@ -20936,6 +20944,8 @@
 * 2024-11: 28240217.63
 * 2024-12: 28738703.64
 * 2025-01: 29134462.04
+* 2025-02: 29035355.22
+* 2025-03: 29253167.05
 
 # Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wage Rate Index(December 1978=100)(Real)
 
@@ -21693,6 +21703,7 @@
 * 2025-02: 56.16
 * 2025-03: 82.06
 * 2025-04: 112.9
+* 2025-05: 175.37
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 
@@ -23061,6 +23072,7 @@
 * 2025-02: 707.0
 * 2025-03: 985.88
 * 2025-04: 1349.07
+* 2025-05: 1802.48
 
 # Transport-Road Network Road Kilometerage-Nuwara Eliya-Expressways
 
@@ -25419,6 +25431,7 @@
 * 2025-02: 760.88
 * 2025-03: 1067.4
 * 2025-04: 1454.67
+* 2025-05: 1942.36
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Non-performing Advances
 
@@ -26345,6 +26358,7 @@
 * 2025-02: 0.2
 * 2025-03: 1.06
 * 2025-04: 1.37
+* 2025-05: 2.49
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Central
 
@@ -30807,6 +30821,7 @@
 * 2025-02: 53.67
 * 2025-03: 80.46
 * 2025-04: 104.23
+* 2025-05: 137.38
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Export Unit Value Index (1997=100)
 
@@ -35791,6 +35806,7 @@
 * 2025-02: 847.49
 * 2025-03: 1301.85
 * 2025-04: 1716.28
+* 2025-05: 2178.99
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of fabricated metal products - Change
 
@@ -43269,6 +43285,7 @@
 * 2025-02: 791.34
 * 2025-03: 1219.79
 * 2025-04: 1603.38
+* 2025-05: 2003.62
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Eastern-Total
 
@@ -47419,6 +47436,8 @@
 * 2024-11: 4028339.01
 * 2024-12: 4061553.52
 * 2025-01: 4108371.71
+* 2025-02: 4139970.09
+* 2025-03: 4096409.62
 
 # Payment Data-Tele-banking Total Value of Tele-banking financial transactions
 
@@ -48815,6 +48834,7 @@
 * 2025-02: -86.62
 * 2025-03: -234.46
 * 2025-04: -261.61
+* 2025-05: -236.63
 
 # Agriculture-Subsidiary Food Crops KNOLKHOL Production
 
@@ -49591,6 +49611,8 @@
 * 2024-11: 13454526.68
 * 2024-12: 14079197.51
 * 2025-01: 14257861.04
+* 2025-02: 14367310.85
+* 2025-03: 14508331.84
 
 # Banking Sector-All Banks Banking Sector- Investments
 
