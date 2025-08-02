@@ -1080,12 +1080,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	4.0
 2025-04	3.5
 2025-05	3.6
+2025-06	4.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Agriculture & Animal Husbandry
@@ -18540,12 +18541,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-03	8239.7
 2025-04	8239.6
 2025-05	8239.8
+2025-06	8240.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': 'Two months'}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In USD terms) Terms of Trade (2010=100)
@@ -22262,12 +22264,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	5.1
 2025-04	4.8
 2025-05	5.1
+2025-06	5.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Assets
@@ -25033,12 +25036,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	187.5
 2025-04	188.6
 2025-05	189.4
+2025-06	189.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
@@ -25567,12 +25571,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-03	93.2
 2025-04	93.4
 2025-05	92.7
+2025-06	91.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-06-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-08-01', 'Update frequency': 'Two months'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products - Change
@@ -30222,12 +30227,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-03	175.4
 2025-04	183.4
 2025-05	183.4
+2025-06	183.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Western-Total
@@ -31967,12 +31973,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	6.3
 2025-04	5.9
 2025-05	6.8
+2025-06	5.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water
@@ -34057,12 +34064,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-03	75.8
 2025-04	79.1
 2025-05	78.7
+2025-06	78.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Education
@@ -39562,12 +39570,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	187.9
 2025-04	189.2
 2025-05	188.9
+2025-06	190.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP Growth - Constant (2010) Prices - Agriculture Forestry and Fishing
@@ -42067,12 +42076,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	5.0
 2025-04	4.8
 2025-05	4.8
+2025-06	5.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Other accounts payable -Liabilities
@@ -48177,12 +48187,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	189.8
 2025-04	190.1
 2025-05	191.2
+2025-06	191.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Tourism-Tourism Tourists Arrivals-cumulative
@@ -64008,12 +64019,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-03	188.2
 2025-04	189.1
 2025-05	189.8
+2025-06	190.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount in arrears)
@@ -65114,12 +65126,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-03	19.2
 2025-04	13.7
 2025-05	13.7
+2025-06	13.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-06-27', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-01', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Specific Provision Coverage Ratio

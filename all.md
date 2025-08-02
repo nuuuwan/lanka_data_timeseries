@@ -878,6 +878,7 @@
 * 2025-03: 4.0
 * 2025-04: 3.5
 * 2025-05: 3.6
+* 2025-06: 4.1
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Agriculture & Animal Husbandry
 
@@ -15512,6 +15513,7 @@
 * 2025-03: 8239.7
 * 2025-04: 8239.6
 * 2025-05: 8239.8
+* 2025-06: 8240.0
 
 # Imports and Exports-CBSL Trade Indices (In USD terms) Terms of Trade (2010=100)
 
@@ -18552,6 +18554,7 @@
 * 2025-03: 5.1
 * 2025-04: 4.8
 * 2025-05: 5.1
+* 2025-06: 5.3
 
 # International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Assets
 
@@ -20805,6 +20808,7 @@
 * 2025-03: 187.5
 * 2025-04: 188.6
 * 2025-05: 189.4
+* 2025-06: 189.5
 
 # Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
 
@@ -21291,6 +21295,7 @@
 * 2025-03: 93.2
 * 2025-04: 93.4
 * 2025-05: 92.7
+* 2025-06: 91.8
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products - Change
 
@@ -25204,6 +25209,7 @@
 * 2025-03: 175.4
 * 2025-04: 183.4
 * 2025-05: 183.4
+* 2025-06: 183.4
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Western-Total
 
@@ -26676,6 +26682,7 @@
 * 2025-03: 6.3
 * 2025-04: 5.9
 * 2025-05: 6.8
+* 2025-06: 5.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water
 
@@ -28511,6 +28518,7 @@
 * 2025-03: 75.8
 * 2025-04: 79.1
 * 2025-05: 78.7
+* 2025-06: 78.2
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Education
 
@@ -33056,6 +33064,7 @@
 * 2025-03: 187.9
 * 2025-04: 189.2
 * 2025-05: 188.9
+* 2025-06: 190.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP Growth - Constant (2010) Prices - Agriculture Forestry and Fishing
 
@@ -35116,6 +35125,7 @@
 * 2025-03: 5.0
 * 2025-04: 4.8
 * 2025-05: 4.8
+* 2025-06: 5.5
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts payable -Liabilities
 
@@ -40285,6 +40295,7 @@
 * 2025-03: 189.8
 * 2025-04: 190.1
 * 2025-05: 191.2
+* 2025-06: 191.8
 
 # Tourism-Tourism Tourists Arrivals-cumulative
 
@@ -53904,6 +53915,7 @@
 * 2025-03: 188.2
 * 2025-04: 189.1
 * 2025-05: 189.8
+* 2025-06: 190.2
 
 # Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount in arrears)
 
@@ -54819,6 +54831,7 @@
 * 2025-03: 19.2
 * 2025-04: 13.7
 * 2025-05: 13.7
+* 2025-06: 13.7
 
 # Banking Sector-All Banks Banking Sector- Specific Provision Coverage Ratio
 
