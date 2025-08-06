@@ -12964,6 +12964,7 @@
 * 2025-03: 60.28
 * 2025-04: 59.14
 * 2025-05: 58.39
+* 2025-06: 58.04
 
 # Agriculture-Tea Estimated Tea Production - Eastern
 
@@ -39095,6 +39096,7 @@
 * 2025-04: 401.3
 * 2025-05: 403.58
 * 2025-06: 403.58
+* 2025-07: 400.67
 
 # Transport-Road Network Road Kilometerage-North Central-Total
 
@@ -42121,6 +42123,7 @@
 * 2025-04: 299.62
 * 2025-05: 299.44
 * 2025-06: 299.44
+* 2025-07: 302.21
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Gross National Income
 
@@ -45587,7 +45590,8 @@
 * 2025-02: 75.78
 * 2025-03: 74.88
 * 2025-04: 73.1
-* 2025-05: 72.78
+* 2025-05: 72.7
+* 2025-06: 72.89
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Exp. at Constant (2010) Prices - Consumption - Govt. - Individual consumption expenditure
 
@@ -50459,6 +50463,7 @@
 * 2025-04: 298.53
 * 2025-05: 299.41
 * 2025-06: 299.9
+* 2025-07: 301.12
 
 # Health-Personel No.of Hospital Midwives
 

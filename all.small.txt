@@ -13405,6 +13405,7 @@ Exchange Rates-Exchange Rate Indices Nominal Effective Exchange Rate Index
 2025-03	60.28
 2025-04	59.14
 2025-05	58.39
+2025-06	58.04
 
 --------------------------------
 
@@ -40379,6 +40380,7 @@ Exchange Rates-Monthly Exchange Rates Month End Exchange Rates (GBP)
 2025-04	401.3
 2025-05	403.58
 2025-06	403.58
+2025-07	400.67
 
 --------------------------------
 
@@ -43499,6 +43501,7 @@ Exchange Rates-Monthly Exchange Rates Month End a Exchange Rates
 2025-04	299.62
 2025-05	299.44
 2025-06	299.44
+2025-07	302.21
 
 --------------------------------
 
@@ -47049,7 +47052,8 @@ Exchange Rates-Exchange Rate Indices Real Effective Exchange Rate Index
 2025-02	75.78
 2025-03	74.88
 2025-04	73.1
-2025-05	72.78
+2025-05	72.7
+2025-06	72.89
 
 --------------------------------
 
@@ -52051,6 +52055,7 @@ Exchange Rates-Monthly Exchange Rates Monthly Average Exchange Rates
 2025-04	298.53
 2025-05	299.41
 2025-06	299.9
+2025-07	301.12
 
 --------------------------------
 
