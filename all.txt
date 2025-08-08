@@ -13156,12 +13156,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2025-04	76.6
 2025-05	49.1
 2025-06	50.8
+2025-07	95.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Ampara-Total
@@ -14439,12 +14440,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2025-04	5.2
 2025-05	5.4
 2025-06	5.9
+2025-07	4.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'NULL'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Firewood and Forestry
@@ -16346,12 +16348,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2025-04	1379.0
 2025-05	1543.1
 2025-06	1712.6
+2025-07	2031.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Rice
@@ -26457,12 +26460,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2025-04	409.2
 2025-05	458.3
 2025-06	509.1
+2025-07	605.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Coconut Estimated Coconut Production - Western
@@ -33578,12 +33582,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2025-04	14.3
 2025-05	14.8
 2025-06	15.6
+2025-07	14.2
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'NULL'}
 --------------------------------
 
 Industry and Housing-Greater Colombo Housing Approval Index Greater Colombo Housing Approval Index
@@ -48233,12 +48238,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2025-04	896884
 2025-05	1029803
 2025-06	1168044
+2025-07	1368288
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Portfolio Investment - Assets
@@ -55538,12 +55544,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2025-04	174608
 2025-05	132919
 2025-06	138241
+2025-07	200244
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops CUCUMBER Production
@@ -61767,12 +61774,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2025-04	256.7
 2025-05	164.1
 2025-06	169.5
+2025-07	318.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-07-04', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Central Government Finance-Debt Statistics Central Government - Debt - Domestic - Medium and Long Term

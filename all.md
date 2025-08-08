@@ -10838,6 +10838,7 @@
 * 2025-04: 76.6
 * 2025-05: 49.1
 * 2025-06: 50.8
+* 2025-07: 95.9
 
 # Transport-Road Network Road Kilometerage-Ampara-Total
 
@@ -11900,6 +11901,7 @@
 * 2025-04: 5.2
 * 2025-05: 5.4
 * 2025-06: 5.9
+* 2025-07: 4.2
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Firewood and Forestry
 
@@ -13577,6 +13579,7 @@
 * 2025-04: 1379.0
 * 2025-05: 1543.1
 * 2025-06: 1712.6
+* 2025-07: 2031.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Rice
 
@@ -22044,6 +22047,7 @@
 * 2025-04: 409.2
 * 2025-05: 458.3
 * 2025-06: 509.1
+* 2025-07: 605.0
 
 # Agriculture-Coconut Estimated Coconut Production - Western
 
@@ -28092,6 +28096,7 @@
 * 2025-04: 14.3
 * 2025-05: 14.8
 * 2025-06: 15.6
+* 2025-07: 14.2
 
 # Industry and Housing-Greater Colombo Housing Approval Index Greater Colombo Housing Approval Index
 
@@ -40335,6 +40340,7 @@
 * 2025-04: 896884
 * 2025-05: 1029803
 * 2025-06: 1168044
+* 2025-07: 1368288
 
 # Balance of Payments-Financial Account BOP - Portfolio Investment - Assets
 
@@ -46768,6 +46774,7 @@
 * 2025-04: 174608
 * 2025-05: 132919
 * 2025-06: 138241
+* 2025-07: 200244
 
 # Agriculture-Subsidiary Food Crops CUCUMBER Production
 
@@ -52068,6 +52075,7 @@
 * 2025-04: 256.7
 * 2025-05: 164.1
 * 2025-06: 169.5
+* 2025-07: 318.5
 
 # Central Government Finance-Debt Statistics Central Government - Debt - Domestic - Medium and Long Term
 
