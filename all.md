@@ -4361,6 +4361,7 @@
 * 2025-04: 8239.6
 * 2025-05: 8239.8
 * 2025-06: 8240.0
+* 2025-07: 13157.5
 
 # Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Terminal transactions during the period
 
@@ -6305,6 +6306,7 @@
 * 2025-04: 79.1
 * 2025-05: 78.7
 * 2025-06: 78.2
+* 2025-07: 78.4
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets BATTICOLOA
 
@@ -10250,6 +10252,7 @@
 * 2025-04: 189.1
 * 2025-05: 189.8
 * 2025-06: 190.2
+* 2025-07: 191.1
 
 # Transport-Road Network Road Kilometerage-North Central-Class D
 
@@ -14545,6 +14548,7 @@
 * 2025-04: 188.6
 * 2025-05: 189.4
 * 2025-06: 189.5
+* 2025-07: 190.4
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Loans and Advances - Market Share
 
@@ -25911,6 +25915,7 @@
 * 2025-04: 5.9
 * 2025-05: 6.8
 * 2025-06: 5.9
+* 2025-07: 5.9
 
 # Labour Force and Employment-Overall Labour Statistics-Labour Force
 
@@ -28999,6 +29004,7 @@
 * 2025-04: 93.4
 * 2025-05: 92.7
 * 2025-06: 91.8
+* 2025-07: 147.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches TRINCOMALEE
 
@@ -39388,6 +39394,7 @@
 * 2025-04: 4.8
 * 2025-05: 4.8
 * 2025-06: 5.5
+* 2025-07: 6.3
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries - Manufacture of machinery and equipment i.e.
 
@@ -43911,6 +43918,7 @@
 * 2025-04: 189.2
 * 2025-05: 188.9
 * 2025-06: 190.1
+* 2025-07: 190.7
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Government Services
 
@@ -45976,6 +45984,7 @@
 * 2025-04: 13.7
 * 2025-05: 13.7
 * 2025-06: 13.7
+* 2025-07: 13.7
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Statutory Liquid Asset Ratio (SLAR) – Domestic Banking Unit (DBU)
 
@@ -49840,6 +49849,7 @@
 * 2025-04: 4.8
 * 2025-05: 5.1
 * 2025-06: 5.3
+* 2025-07: 5.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - Gross fixed capital formation (GFCF) by asset
 
@@ -54142,6 +54152,7 @@
 * 2025-04: 3.5
 * 2025-05: 3.6
 * 2025-06: 4.1
+* 2025-07: 4.1
 
 # Agriculture-Subsidiary Food Crops RED PUMPKIN Production
 
@@ -57990,6 +58001,7 @@
 * 2025-04: 183.4
 * 2025-05: 183.4
 * 2025-06: 183.4
+* 2025-07: 183.4
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Colombo City-Total
 
@@ -59412,6 +59424,7 @@
 * 2025-04: 190.1
 * 2025-05: 191.2
 * 2025-06: 191.8
+* 2025-07: 192.8
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets BADULLA
 
