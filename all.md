@@ -30787,6 +30787,7 @@
 * 2025-04: 73.1
 * 2025-05: 72.7
 * 2025-06: 72.89
+* 2025-07: 72.89
 
 # Agriculture-Tea No. of Tea Factories - North Central
 
@@ -39062,6 +39063,7 @@
 * 2025-05: 299.44
 * 2025-06: 299.44
 * 2025-07: 302.21
+* 2025-08: 302.45
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-Grand Total Sri Lanka
 
@@ -50208,6 +50210,7 @@
 * 2025-05: 403.58
 * 2025-06: 403.58
 * 2025-07: 400.67
+* 2025-08: 408.38
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Housing, water, electricity, gas and other fue
 
@@ -54794,6 +54797,7 @@
 * 2025-04: 59.14
 * 2025-05: 58.39
 * 2025-06: 58.04
+* 2025-07: 58.04
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Return on Assets (ROA)– Before tax
 
@@ -58510,6 +58514,7 @@
 * 2025-05: 299.41
 * 2025-06: 299.9
 * 2025-07: 301.12
+* 2025-08: 301.12
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Livestock
 
