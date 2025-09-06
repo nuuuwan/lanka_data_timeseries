@@ -6531,6 +6531,7 @@
 * 2023-12: 214.0
 * 2024-06: 228.1
 * 2024-12: 234.1
+* 2025-06: 254.3
 
 # Agriculture-Coconut Estimated Coconut Production - Northern
 
@@ -29974,6 +29975,7 @@
 * 2023-12: 219.8
 * 2024-06: 230.1
 * 2024-12: 236.8
+* 2025-06: 256.4
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Northern
 
@@ -51807,6 +51809,7 @@
 * 2023-12: 221.0
 * 2024-06: 233.3
 * 2024-12: 242.9
+* 2025-06: 266.9
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Rice
 
@@ -61909,6 +61912,7 @@
 * 2023-12: 224.5
 * 2024-06: 228.9
 * 2024-12: 233.2
+* 2025-06: 248.0
 
 # Transport-Road Network Road Kilometerage-North Western-Class C
 

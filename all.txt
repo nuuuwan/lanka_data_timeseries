@@ -7655,12 +7655,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2023-12	214.0
 2024-06	228.1
 2024-12	234.1
+2025-06	254.3
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-02-27', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-09-04', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Agriculture-Coconut Estimated Coconut Production - Northern
@@ -35524,12 +35525,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2023-12	219.8
 2024-06	230.1
 2024-12	236.8
+2025-06	256.4
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-02-27', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-09-04', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Northern
@@ -61544,12 +61546,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2023-12	221.0
 2024-06	233.3
 2024-12	242.9
+2025-06	266.9
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-02-27', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-09-04', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of Rice
@@ -73560,12 +73563,13 @@ Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo 
 2023-12	224.5
 2024-06	228.9
 2024-12	233.2
+2025-06	248.0
 
 Source: cbsl
 Frequency: Half Yearly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-02-27', 'Update frequency': '60th day after the semi annum'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Data last updated': '2025-09-04', 'Update frequency': '60th day after the semi annum'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-North Western-Class C
