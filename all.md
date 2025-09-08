@@ -11816,6 +11816,8 @@
 * 2025-03: 23842828512
 * 2025-04: 28458061550
 * 2025-05: 24986671774
+* 2025-06: 24357963912
+* 2025-07: 26610254731
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Class B
 
@@ -13485,6 +13487,8 @@
 * 2025-03: 86312
 * 2025-04: 95367
 * 2025-05: 92134
+* 2025-06: 89082
+* 2025-07: 97887
 
 # Banking Sector-All Banks Banking Sector- Number of Banks TRINCOMALEE
 
@@ -14838,6 +14842,8 @@
 * 2025-03: 11722961
 * 2025-04: 11395228
 * 2025-05: 11376882
+* 2025-06: 13729379
+* 2025-07: 14535685
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Health
 
@@ -19232,6 +19238,8 @@
 * 2025-03: 332795232367
 * 2025-04: 378485525526
 * 2025-05: 332529319454
+* 2025-06: 352769949259
+* 2025-07: 380313734027
 
 # Banking Sector-All Banks Banking Sector- Net Non-performing Advances
 
@@ -24930,6 +24938,8 @@
 * 2025-03: 47861
 * 2025-04: 47688
 * 2025-05: 47932
+* 2025-06: 50235
+* 2025-07: 53878
 
 # Payment Data-Credit or Debit Cards Number of Debit Cards issued during the quarter
 
@@ -34363,6 +34373,8 @@
 * 2025-03: 3172059
 * 2025-04: 3453880
 * 2025-05: 3051745
+* 2025-06: 3274108
+* 2025-07: 3460708
 
 # Transport-Road Network Road Kilometerage-Colombo-Total
 
@@ -36826,6 +36838,8 @@
 * 2025-03: 1729126430578
 * 2025-04: 1750968144569
 * 2025-05: 1899736686218
+* 2025-06: 1883799447588
+* 2025-07: 2121964606951
 
 # Central Government Finance-Central Government Revenue Revenue
 
@@ -37168,6 +37182,8 @@
 * 2025-03: 5574504
 * 2025-04: 6132881
 * 2025-05: 5665596
+* 2025-06: 5543463
+* 2025-07: 5561507
 
 # Transport-Road Network Road Kilometerage-Matara-Class C
 
@@ -37630,6 +37646,8 @@
 * 2025-03: 32156505828481
 * 2025-04: 32549186045474
 * 2025-05: 34969608089921
+* 2025-06: 35819938326402
+* 2025-07: 37451424187071
 
 # Banking Sector-All Banks Banking Sector- Number of Branches ANURADHAPURA
 
@@ -37957,6 +37975,8 @@
 * 2025-03: 5485
 * 2025-04: 5058
 * 2025-05: 4131
+* 2025-06: 5034
+* 2025-07: 5467
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class A
 
@@ -43066,6 +43086,8 @@
 * 2025-03: 939780220424
 * 2025-04: 1044143288185
 * 2025-05: 967647887054
+* 2025-06: 991413473140
+* 2025-07: 1074847669285
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Terms of Trade (1997=100)
 
@@ -45235,6 +45257,8 @@
 * 2025-03: 21378271
 * 2025-04: 19823672
 * 2025-05: 20683470
+* 2025-06: 20720860
+* 2025-07: 22630796
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Southern-Total
 
@@ -55904,6 +55928,8 @@
 * 2025-03: 151036597900
 * 2025-04: 152294585800
 * 2025-05: 144005324900
+* 2025-06: 144529640450
+* 2025-07: 154128768000
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Health
 
@@ -60587,6 +60613,8 @@
 * 2025-03: 42967665
 * 2025-04: 37203495
 * 2025-05: 136586938
+* 2025-06: 35902218
+* 2025-07: 43691492
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Restaurants and hotels
 
