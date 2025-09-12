@@ -24885,7 +24885,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Communication Media-Postal Services No. of Main Post Offices
@@ -32398,12 +32398,13 @@ Balance of Payments-Secondary Income Secondary income - Workers' Remittances
 2025-05	641.7
 2025-06	635.7
 2025-07	697.3
+2025-08	680.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Total

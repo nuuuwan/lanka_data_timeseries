@@ -27342,6 +27342,7 @@
 * 2025-05: 641.7
 * 2025-06: 635.7
 * 2025-07: 697.3
+* 2025-08: 680.8
 
 # Co-operative Rural Banks-Deposits Co-operative Rural Banks-Deposits-Total
 
