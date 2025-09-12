@@ -11,15 +11,15 @@
     "Source": "Central Bank of Sri Lanka",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2025-08-07",
+    "Data last updated": "2025-09-12",
     "Update frequency": "Two months after the end of month"
   },
   "summary_statistics": {
-    "n": 199,
+    "n": 200,
     "min_t": "2009-01-01",
-    "max_t": "2025-07-01",
+    "max_t": "2025-08-01",
     "min_value": 258.0,
-    "max_value": 697.3
+    "max_value": 680.8
   },
   "cleaned_data": {
     "2009-01-01": 258.0,
@@ -220,7 +220,8 @@
     "2025-04-01": 646.1,
     "2025-05-01": 641.7,
     "2025-06-01": 635.7,
-    "2025-07-01": 697.3
+    "2025-07-01": 697.3,
+    "2025-08-01": 680.8
   },
   "raw_data": {
     "1966-Jan": " ",
@@ -938,7 +939,7 @@
     "2025-May": "641.70",
     "2025-Jun": "635.70",
     "2025-Jul": "697.30",
-    "2025-Aug": " ",
+    "2025-Aug": "680.80",
     "2025-Sep": " ",
     "2025-Oct": " ",
     "2025-Nov": " ",
