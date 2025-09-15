@@ -9093,12 +9093,13 @@ Tourism-Tourist Arrivals Total Tourist Arrivals
 2025-05	132919
 2025-06	138241
 2025-07	200244
+2025-08	198235
 
 Source: cbsl
 Frequency: Monthly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Central
@@ -12932,12 +12933,13 @@ Tourism-Tourism Tourist Earnings (In LKR)
 2025-05	49.1
 2025-06	50.8
 2025-07	95.9
+2025-08	78.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale: Billion
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': ''}
 --------------------------------
 
 Education-General Education General education - Government - Students
@@ -13219,12 +13221,13 @@ Tourism-Tourism Earnings from Tourism Y-o-Y Change
 2025-05	5.4
 2025-06	5.9
 2025-07	4.2
+2025-08	2.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'NULL'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
@@ -21656,12 +21659,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-USD mn.
 2025-05	1543.1
 2025-06	1712.6
 2025-07	2031.1
+2025-08	2290.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD.Mn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Mining and Quarrying
@@ -23865,12 +23869,13 @@ Tourism-Tourism Tourists Arrivals-cumulative
 2025-05	1029803
 2025-06	1168044
 2025-07	1368288
+2025-08	1566523
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets GALLE
@@ -60178,12 +60183,13 @@ Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 2025-05	14.8
 2025-06	15.6
 2025-07	14.2
+2025-08	15.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale: NULL
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'NULL'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'NULL'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GALLE
@@ -64106,12 +64112,13 @@ Tourism-Tourist Earnings Tourist Earnings
 2025-05	164.1
 2025-06	169.5
 2025-07	318.5
+2025-08	258.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale: Millions
-Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': 'Two months after the end of month'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'Two months after the end of month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Western
@@ -67305,12 +67312,13 @@ Tourism-Tourism Earnings from Tourism-cumulative-Rs. bn.
 2025-05	458.3
 2025-06	509.1
 2025-07	605.0
+2025-08	683.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.Bn.
 Scale:  
-Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-08-07', 'Update frequency': ''}
+Footnotes: {'Sector': 'External Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': ''}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)

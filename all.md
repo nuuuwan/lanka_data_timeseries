@@ -7856,6 +7856,7 @@
 * 2025-05: 132919
 * 2025-06: 138241
 * 2025-07: 200244
+* 2025-08: 198235
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Central
 
@@ -11025,6 +11026,7 @@
 * 2025-05: 49.1
 * 2025-06: 50.8
 * 2025-07: 95.9
+* 2025-08: 78.1
 
 # Education-General Education General education - Government - Students
 
@@ -11258,6 +11260,7 @@
 * 2025-05: 5.4
 * 2025-06: 5.9
 * 2025-07: 4.2
+* 2025-08: 2.7
 
 # Balance of Payments-Financial Account BOP - Portfolio Investments - Liabilities
 
@@ -18341,6 +18344,7 @@
 * 2025-05: 1543.1
 * 2025-06: 1712.6
 * 2025-07: 2031.1
+* 2025-08: 2290.0
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Mining and Quarrying
 
@@ -20191,6 +20195,7 @@
 * 2025-05: 1029803
 * 2025-06: 1168044
 * 2025-07: 1368288
+* 2025-08: 1566523
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets GALLE
 
@@ -50613,6 +50618,7 @@
 * 2025-05: 14.8
 * 2025-06: 15.6
 * 2025-07: 14.2
+* 2025-08: 15.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GALLE
 
@@ -53922,6 +53928,7 @@
 * 2025-05: 164.1
 * 2025-06: 169.5
 * 2025-07: 318.5
+* 2025-08: 258.9
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Western
 
@@ -56626,6 +56633,7 @@
 * 2025-05: 458.3
 * 2025-06: 509.1
 * 2025-07: 605.0
+* 2025-08: 683.1
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
