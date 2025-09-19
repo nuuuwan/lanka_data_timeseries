@@ -5210,7 +5210,7 @@
 * 2024-04: 10.1
 * 2024-05: 6.6
 * 2024-06: 2.9
-* 2024-07: 4.1
+* 2024-07: 4.2
 * 2024-08: 1.2
 * 2024-09: 2.1
 * 2024-10: 7.0
@@ -5222,6 +5222,7 @@
 * 2025-04: 1.7
 * 2025-05: 4.7
 * 2025-06: 6.2
+* 2025-07: 6.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 Domestic Savings-at Current Prices (2002 Series)
 
@@ -14127,6 +14128,7 @@
 * 2025-04: 126.3
 * 2025-05: 121.5
 * 2025-06: 122.0
+* 2025-07: 125.7
 
 # Central Government Finance-Debt Statistics External Debt Statistics (EDS) - Outstanding Total External Debt
 
@@ -14388,7 +14390,7 @@
 * 2024-04: 73.5
 * 2024-05: 80.0
 * 2024-06: 82.0
-* 2024-07: 92.3
+* 2024-07: 93.7
 * 2024-08: 95.9
 * 2024-09: 96.4
 * 2024-10: 92.0
@@ -14400,6 +14402,7 @@
 * 2025-04: 75.3
 * 2025-05: 85.7
 * 2025-06: 101.7
+* 2025-07: 108.9
 
 # Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Agriculture & Animal Husbandry
 
@@ -15333,7 +15336,7 @@
 * 2024-04: 9.1
 * 2024-05: -9.9
 * 2024-06: -10.7
-* 2024-07: 4.6
+* 2024-07: 6.1
 * 2024-08: 36.8
 * 2024-09: 10.8
 * 2024-10: 7.8
@@ -15345,6 +15348,7 @@
 * 2025-04: 2.5
 * 2025-05: 7.2
 * 2025-06: 24.0
+* 2025-07: 16.2
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets RATNAPURA
 
@@ -20402,7 +20406,7 @@
 * 2024-04: -9.2
 * 2024-05: 4.2
 * 2024-06: 1.2
-* 2024-07: -5.5
+* 2024-07: -5.4
 * 2024-08: 0.2
 * 2024-09: -1.6
 * 2024-10: -0.5
@@ -20414,6 +20418,7 @@
 * 2025-04: 21.1
 * 2025-05: 11.6
 * 2025-06: 20.2
+* 2025-07: 15.9
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Housing Electrification & Water
 
@@ -31215,7 +31220,7 @@
 * 2024-04: 98.4
 * 2024-05: 105.5
 * 2024-06: 103.0
-* 2024-07: 106.5
+* 2024-07: 105.7
 * 2024-08: 97.0
 * 2024-09: 92.6
 * 2024-10: 95.8
@@ -31227,6 +31232,7 @@
 * 2025-04: 95.9
 * 2025-05: 111.0
 * 2025-06: 100.3
+* 2025-07: 99.4
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Central
 
@@ -32408,6 +32414,7 @@
 * 2025-04: 75.0
 * 2025-05: 77.8
 * 2025-06: 80.2
+* 2025-07: 88.4
 
 # Central Government Finance-Debt Statistics EDS - Central Bank - long term
 
@@ -42556,6 +42563,7 @@
 * 2025-04: 76.8
 * 2025-05: 81.0
 * 2025-06: 76.1
+* 2025-07: 84.8
 
 # Industry and Housing-Index of Industrial Production Beverages - Change
 
@@ -42661,6 +42669,7 @@
 * 2025-04: 15.9
 * 2025-05: -0.3
 * 2025-06: 4.7
+* 2025-07: 8.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets BATTICOLOA
 
@@ -44843,6 +44852,7 @@
 * 2025-04: 107.0
 * 2025-05: 110.9
 * 2025-06: 109.3
+* 2025-07: 118.6
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Central-Total
 
@@ -55270,6 +55280,7 @@
 * 2025-04: 0.8
 * 2025-05: 28.1
 * 2025-06: 35.4
+* 2025-07: 166.7
 
 # Transport-Road Network Road Kilometerage-Mannar-Class D
 
@@ -56422,6 +56433,7 @@
 * 2025-04: 6.9
 * 2025-05: -5.8
 * 2025-06: -5.3
+* 2025-07: -10.3
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Recreation, culture and rel
 
@@ -57864,7 +57876,7 @@
 * 2024-04: 81.4
 * 2024-05: 93.9
 * 2024-06: 93.8
-* 2024-07: 98.7
+* 2024-07: 98.8
 * 2024-08: 107.7
 * 2024-09: 102.6
 * 2024-10: 102.8
@@ -57876,6 +57888,7 @@
 * 2025-04: 98.5
 * 2025-05: 104.7
 * 2025-06: 112.7
+* 2025-07: 114.5
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Eastern
 
@@ -59930,7 +59943,7 @@
 * 2024-04: 10.2
 * 2024-05: 15.8
 * 2024-06: 18.0
-* 2024-07: 12.6
+* 2024-07: 11.9
 * 2024-08: 2.5
 * 2024-09: -6.1
 * 2024-10: 2.0
@@ -59942,6 +59955,7 @@
 * 2025-04: -2.5
 * 2025-05: 5.2
 * 2025-06: -2.6
+* 2025-07: -5.9
 
 # Industry and Housing-Index of Industrial Production Chemicals and chemical products - Change
 
@@ -60047,6 +60061,7 @@
 * 2025-04: -3.2
 * 2025-05: -6.8
 * 2025-06: 0.1
+* 2025-07: 5.2
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Western
 
