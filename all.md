@@ -17250,7 +17250,6 @@
 * 2025-01: 29.3
 * 2025-02: 31.8
 * 2025-03: 30.3
-* 2025-04: 24.6
 
 # Imports and Exports-CBSL Trade Indices (In USD terms) Terms of Trade (2010=100)
 
