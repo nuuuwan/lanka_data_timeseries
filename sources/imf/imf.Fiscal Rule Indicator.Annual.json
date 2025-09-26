@@ -9,14 +9,14 @@
   "footnotes": {
     "indicator_key": "FR_ind",
     "description": "Indicates whether the country has a national or supranational fiscal rule, both or neither. \n<b>Note</b>: Line charts below indicate number of countries with fiscal rule in each group",
-    "source": "Davoodi, Elger, Fotiou, Garcia-Macia, Lagerborg, Lam, and Pillai (2022)",
+    "source": "Alonso, Arroyo, Aydin, Balasundharam, Davoodi, Hegab, Lam, Nguyen, Salazar Ferro, Sher, Solovyeva, and Tchelishvili (2025)",
     "dataset": "FR_FC",
     "url": "https://www.imf.org/external/datamapper/api/v1/FR_ind/LKA"
   },
   "summary_statistics": {
-    "n": 37,
+    "n": 40,
     "min_t": "1985",
-    "max_t": "2021",
+    "max_t": "2024",
     "min_value": 0,
     "max_value": 1
   },
@@ -57,7 +57,10 @@
     "2018": 1,
     "2019": 1,
     "2020": 1,
-    "2021": 1
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 1
   },
   "raw_data": {
     "1985": 0,
@@ -96,6 +99,9 @@
     "2018": 1,
     "2019": 1,
     "2020": 1,
-    "2021": 1
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 1
   }
 }
