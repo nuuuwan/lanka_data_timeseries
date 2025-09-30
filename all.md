@@ -69523,6 +69523,7 @@
 * 2025-05: 191.2
 * 2025-06: 191.8
 * 2025-07: 192.8
+* 2025-08: 193.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches POLONNARUWA
 
@@ -81605,6 +81606,7 @@
 * 2025-05: 4.8
 * 2025-06: 5.5
 * 2025-07: 6.3
+* 2025-08: 6.7
 
 # Transport-Road Network Road Kilometerage-North Western-Total
 
@@ -82035,6 +82037,7 @@
 * 2025-05: 13.7
 * 2025-06: 13.7
 * 2025-07: 13.7
+* 2025-08: 13.7
 
 # Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross Settlement (RTGS) Transactions
 
@@ -93991,6 +93994,7 @@
 * 2025-05: 5.1
 * 2025-06: 5.3
 * 2025-07: 5.7
+* 2025-08: 5.8
 
 # Payment Data-Cheques Total Value of US Dollar Cheques cleared
 
@@ -96194,6 +96198,7 @@
 * 2025-05: 189.4
 * 2025-06: 189.5
 * 2025-07: 190.4
+* 2025-08: 191.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Time Deposits
 
@@ -96714,6 +96719,7 @@
 * 2025-05: 183.4
 * 2025-06: 183.4
 * 2025-07: 183.4
+* 2025-08: 183.4
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
 
@@ -100827,6 +100833,7 @@
 * 2025-05: 78.7
 * 2025-06: 78.2
 * 2025-07: 78.4
+* 2025-08: 78.8
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets GALLE
 
@@ -101267,6 +101274,7 @@
 * 2025-05: 8239.8
 * 2025-06: 8240.0
 * 2025-07: 13157.5
+* 2025-08: 13157.3
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class E
 
@@ -107705,6 +107713,7 @@
 * 2025-05: 6.8
 * 2025-06: 5.9
 * 2025-07: 5.9
+* 2025-08: 5.8
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Class D
 
@@ -112834,6 +112843,7 @@
 * 2025-05: 189.8
 * 2025-06: 190.2
 * 2025-07: 191.1
+* 2025-08: 191.9
 
 # Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wage Rate Index(December 1978=100)(Real)
 
@@ -113168,6 +113178,7 @@
 * 2025-05: 92.7
 * 2025-06: 91.8
 * 2025-07: 147.0
+* 2025-08: 147.6
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
 
@@ -115575,6 +115586,7 @@
 * 2025-05: 3.6
 * 2025-06: 4.1
 * 2025-07: 4.1
+* 2025-08: 3.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Financial Service activities and auxiliary financial servi
 
@@ -124519,6 +124531,7 @@
 * 2025-05: 188.9
 * 2025-06: 190.1
 * 2025-07: 190.7
+* 2025-08: 191.3
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Western
 
