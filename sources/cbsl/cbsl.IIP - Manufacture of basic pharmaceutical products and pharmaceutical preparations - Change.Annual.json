@@ -11,17 +11,25 @@
     "Source": "Department of Census and Statistics",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "",
+    "Data last updated": "2025-10-02",
     "Update frequency": "48th day of the third calender month after completion of a quarter, year"
   },
   "summary_statistics": {
-    "n": 0,
-    "min_t": null,
-    "max_t": null,
-    "min_value": null,
-    "max_value": null
+    "n": 7,
+    "min_t": "2017-01-01",
+    "max_t": "2023-01-01",
+    "min_value": 1.83,
+    "max_value": 19.68
   },
-  "cleaned_data": {},
+  "cleaned_data": {
+    "2017-01-01": 1.83,
+    "2018-01-01": -9.85,
+    "2019-01-01": -1.96,
+    "2020-01-01": 6.59,
+    "2021-01-01": 12.6,
+    "2022-01-01": -13.02,
+    "2023-01-01": 19.68
+  },
   "raw_data": {
     "1966": " ",
     "1967": " ",
@@ -74,13 +82,13 @@
     "2014": " ",
     "2015": " ",
     "2016": " ",
-    "2017": " ",
-    "2018": " ",
-    "2019": " ",
-    "2020": " ",
-    "2021": " ",
-    "2022": " ",
-    "2023": " ",
+    "2017": "1.83",
+    "2018": "-9.85",
+    "2019": "-1.96",
+    "2020": "6.59",
+    "2021": "12.60",
+    "2022": "-13.02",
+    "2023": "19.68",
     "2024": " ",
     "2025": " ",
     "2026": " "
