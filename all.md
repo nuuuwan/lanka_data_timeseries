@@ -69922,6 +69922,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Machinery & equipment
 
+* 2016: 106.66
+* 2017: 112.4
+* 2018: 101.89
+* 2019: 99.33
+* 2020: 102.89
+* 2021: 121.98
+* 2022: 139.1
+* 2023: 106.34
 
 # Agriculture-Tea No. of Tea Factories - Central
 
@@ -71390,6 +71398,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Textiles - Change
 
+* 2017: 2.35
+* 2018: 3.57
+* 2019: -1.74
+* 2020: -5.63
+* 2021: 25.92
+* 2022: -21.15
+* 2023: -6.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture
 
@@ -74772,6 +74787,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Tobacco products - Change
 
+* 2017: 1.17
+* 2018: -12.84
+* 2019: -12.57
+* 2020: -11.0
+* 2021: 8.01
+* 2022: 6.77
+* 2023: -3.66
 
 # Education-University Education No. of University Students Graduated - Dental Surgery (B.D.S.)
 
@@ -75831,6 +75853,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Textiles
 
+* 2016: 104
+* 2017: 106.44
+* 2018: 110.24
+* 2019: 108.33
+* 2020: 102.23
+* 2021: 128.72
+* 2022: 101.49
+* 2023: 94.99
 
 # Agriculture-Paddy Paddy Net Extent Harvested - Western
 
@@ -76773,6 +76803,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change
 
+* 2017: -5.64
+* 2018: 5.28
+* 2019: 3.12
+* 2020: -29.42
+* 2021: 14.99
+* 2022: -1.88
+* 2023: -3.22
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Total
 
@@ -77301,6 +77338,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of other nonmetallic mineral products
 
+* 2016: 104.68
+* 2017: 111.54
+* 2018: 109.48
+* 2019: 117.48
+* 2020: 111.73
+* 2021: 137.44
+* 2022: 113.47
+* 2023: 97.63
 
 # Transport-Road Network Road Kilometerage-Badulla-Class C
 
@@ -78067,6 +78112,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment
 
+* 2016: 98.18
+* 2017: 99.87
+* 2018: 83.03
+* 2019: 86.9
+* 2020: 67.54
+* 2021: 81.43
+* 2022: 65.11
+* 2023: 50.1
 
 # Transport-Road Network Road Kilometerage-Kandy-Class D
 
@@ -78733,6 +78786,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Other manufacturing
 
+* 2016: 101.95
+* 2017: 98.44
+* 2018: 95.13
+* 2019: 66.4
+* 2020: 65.67
+* 2021: 69.6
+* 2022: 69.59
+* 2023: 57.83
 
 # Central Government Finance-Debt Statistics EDS - Central Bank - short term
 
@@ -78846,6 +78907,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Printing and reproduction of recorded media - Change
 
+* 2017: 5.27
+* 2018: -2.32
+* 2019: -3.4
+* 2020: 9.39
+* 2021: 4.76
+* 2022: -4.95
+* 2023: 7.78
 
 # Labour Force and Employment-Overall Labour Statistics-Household Population
 
@@ -79087,6 +79155,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels - Change
 
+* 2017: 4.74
+* 2018: 3.95
+* 2019: 1.86
+* 2020: -30.73
+* 2021: 17.46
+* 2022: 5.35
+* 2023: -17.3
 
 # International Investment Position-Direct Investment IIP - Direct Investment - Liabilities
 
@@ -80103,6 +80178,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of paper and paper products
 
+* 2016: 110.98
+* 2017: 108.43
+* 2018: 86.8
+* 2019: 96.68
+* 2020: 81.75
+* 2021: 86.45
+* 2022: 49.01
+* 2023: 29.94
 
 # Agriculture-Subsidiary Food Crops BEETROOT Production
 
@@ -80306,6 +80389,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic metals
 
+* 2016: 108.11
+* 2017: 120.79
+* 2018: 128.34
+* 2019: 124.19
+* 2020: 110.69
+* 2021: 133.59
+* 2022: 88.11
+* 2023: 99.19
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Loans and Advances
 
@@ -84635,6 +84726,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Beverages
 
+* 2016: 103.64
+* 2017: 91.54
+* 2018: 99.83
+* 2019: 103.45
+* 2020: 96.53
+* 2021: 105.96
+* 2022: 127.53
+* 2023: 118.78
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit or Surplus
 
@@ -87402,6 +87501,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of coke and refined petroleum products - Change
 
+* 2017: -4.84
+* 2018: 3.4
+* 2019: 9.58
+* 2020: -9.01
+* 2021: -26.85
+* 2022: -57.79
+* 2023: 224.79
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks GALLE
 
@@ -88312,6 +88418,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of fabricated metal products - Change
 
+* 2017: 16.68
+* 2018: 8.25
+* 2019: -11.64
+* 2020: -8.91
+* 2021: 23.47
+* 2022: -42.23
+* 2023: -29.49
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Direct Purchases in Domestic Market by Non-Resid
 
@@ -89838,6 +89951,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials
 
+* 2016: 99.28
+* 2017: 93.68
+* 2018: 98.63
+* 2019: 101.71
+* 2020: 71.78
+* 2021: 82.54
+* 2022: 80.99
+* 2023: 78.38
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 
@@ -94586,6 +94707,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment - Change
 
+* 2017: 1.72
+* 2018: -16.86
+* 2019: 4.66
+* 2020: -22.27
+* 2021: 20.57
+* 2022: -20.05
+* 2023: -23.05
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-North-Western
 
@@ -95550,6 +95678,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of rubber & plastic products
 
+* 2016: 103.65
+* 2017: 107.99
+* 2018: 111.83
+* 2019: 106.27
+* 2020: 75.83
+* 2021: 102.9
+* 2022: 92.74
+* 2023: 78.6
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Gross Value Added (GVA) at Basic Price
 
@@ -99975,6 +100111,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Machinery & equipment - Change
 
+* 2017: 5.38
+* 2018: -9.35
+* 2019: -2.51
+* 2020: 3.58
+* 2021: 18.56
+* 2022: 14.03
+* 2023: -23.55
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Plantation Development
 
@@ -100166,6 +100309,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products - Change
 
+* 2017: -7.26
+* 2018: -4.12
+* 2019: 10.32
+* 2020: -7.8
+* 2021: -4.65
+* 2022: 9.77
+* 2023: -27.43
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Food and non-alcoholic beverages
 
@@ -102672,6 +102822,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Other manufacturing - Change
 
+* 2017: -3.44
+* 2018: -3.37
+* 2019: -30.2
+* 2020: -1.1
+* 2021: 5.99
+* 2022: -0.01
+* 2023: -16.91
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of paper products, printing and reproductio
 
@@ -103184,6 +103341,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of other nonmetallic mineral products - Change
 
+* 2017: 6.55
+* 2018: -1.85
+* 2019: 7.31
+* 2020: -4.9
+* 2021: 23.02
+* 2022: -17.44
+* 2023: -13.95
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Expenditure of Non Residents
 
@@ -103511,6 +103675,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products - Change
 
+* 2017: 5.46
+* 2018: 4.54
+* 2019: -0.21
+* 2020: -33.54
+* 2021: 1.31
+* 2022: 11.26
+* 2023: 10.27
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-North Central-Total
 
@@ -107099,6 +107270,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Food products
 
+* 2016: 101.71
+* 2017: 105.04
+* 2018: 105.88
+* 2019: 105.6
+* 2020: 109.12
+* 2021: 109.28
+* 2022: 93.09
+* 2023: 91.65
 
 # Labour Force and Employment-Overall Labour Statistics-Labour Force
 
@@ -107313,6 +107492,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Printing and reproduction of recorded media
 
+* 2016: 103.59
+* 2017: 109.05
+* 2018: 106.53
+* 2019: 102.9
+* 2020: 112.57
+* 2021: 117.93
+* 2022: 112.09
+* 2023: 120.82
 
 # Transport-SLTB or Regional Bus Companies Public road transport - Operated kilometres
 
@@ -107897,6 +108084,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of fabricated metal products
 
+* 2016: 99.25
+* 2017: 115.81
+* 2018: 125.36
+* 2019: 110.77
+* 2020: 100.9
+* 2021: 124.58
+* 2022: 71.97
+* 2023: 50.74
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches JAFFNA
 
@@ -109140,6 +109335,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of rubber & plastic products - Change
 
+* 2017: 4.19
+* 2018: 3.56
+* 2019: -4.97
+* 2020: -28.64
+* 2021: 35.69
+* 2022: -9.87
+* 2023: -15.25
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing
 
@@ -109815,6 +110017,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of furniture
 
+* 2016: 108.78
+* 2017: 105.19
+* 2018: 92.42
+* 2019: 90.26
+* 2020: 76.93
+* 2021: 77.48
+* 2022: 63.27
+* 2023: 63.18
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - Govt. Consumption Expenditure
 
@@ -110865,6 +111075,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change
 
+* 2017: 1.83
+* 2018: -9.85
+* 2019: -1.96
+* 2020: 6.59
+* 2021: 12.6
+* 2022: -13.02
+* 2023: 19.68
 
 # Labour Force and Employment-Overall Labour Statistics-Labour Force Participation Rate-Sri Lanka
 
@@ -111005,6 +111222,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Food products - Change
 
+* 2017: 3.28
+* 2018: 0.79
+* 2019: -0.26
+* 2020: 3.34
+* 2021: 0.15
+* 2022: -14.81
+* 2023: -1.55
 
 # Agriculture-Subsidiary Food Crops LEEKS Production
 
@@ -111695,6 +111919,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) Index of Industrial Production (IIP) - Change
 
+* 2017: 2.49
+* 2018: 0.8
+* 2019: 1.3
+* 2020: -10.14
+* 2021: 7.34
+* 2022: -12.11
+* 2023: -3.76
 
 # Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carried out at POS terminals)
 
@@ -113411,6 +113642,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products
 
+* 2016: 104.17
+* 2017: 96.61
+* 2018: 92.63
+* 2019: 102.18
+* 2020: 94.21
+* 2021: 89.83
+* 2022: 98.6
+* 2023: 71.55
 
 # Central Government Finance-Debt Statistics EDS - Deposit Taking Corporations - long term
 
@@ -117411,6 +117650,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations
 
+* 2016: 109.11
+* 2017: 111.1
+* 2018: 100.16
+* 2019: 98.19
+* 2020: 104.67
+* 2021: 117.86
+* 2022: 102.52
+* 2023: 122.69
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern
 
@@ -117552,9 +117799,24 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Beverages - Change
 
+* 2017: -11.67
+* 2018: 9.06
+* 2019: 3.62
+* 2020: -6.69
+* 2021: 9.77
+* 2022: 20.35
+* 2023: -6.86
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels
 
+* 2016: 105.68
+* 2017: 110.68
+* 2018: 115.05
+* 2019: 117.19
+* 2020: 81.18
+* 2021: 95.35
+* 2022: 100.45
+* 2023: 83.08
 
 # Labour Force and Employment-Employment Labour Statistics-Employment Agriculture (as a Pct. of Total Employment)
 
@@ -118184,6 +118446,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of paper and paper products - Change
 
+* 2017: -2.3
+* 2018: -19.95
+* 2019: 11.39
+* 2020: -15.45
+* 2021: 5.75
+* 2022: -43.31
+* 2023: -38.9
 
 # Education-General Education General education - Pirivenas - Teachers
 
@@ -120530,6 +120799,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of furniture - Change
 
+* 2017: -3.3
+* 2018: -12.14
+* 2019: -2.33
+* 2020: -14.77
+* 2021: 0.7
+* 2022: -18.34
+* 2023: -0.13
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Western
 
@@ -121429,6 +121705,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of leather and related products
 
+* 2016: 106.1
+* 2017: 111.89
+* 2018: 116.98
+* 2019: 116.73
+* 2020: 77.58
+* 2021: 78.59
+* 2022: 87.44
+* 2023: 96.43
 
 # Banking Sector-All Banks Banking Sector- Statutory Liquid Asset Ratio (SLAR) – Domestic Banking Unit (DBU)
 
@@ -124229,6 +124513,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of coke and refined petroleum products
 
+* 2016: 99.08
+* 2017: 94.28
+* 2018: 97.49
+* 2019: 106.83
+* 2020: 97.21
+* 2021: 71.11
+* 2022: 30.02
+* 2023: 97.49
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Commerce & Other Projects
 
@@ -125099,6 +125391,13 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic metals - Change
 
+* 2017: 11.73
+* 2018: 6.25
+* 2019: -3.23
+* 2020: -10.87
+* 2021: 20.69
+* 2022: -34.05
+* 2023: 12.58
 
 # Balance of Payments-Current Account Balance of Payments (BOP) -Trade Deficit
 
@@ -125275,6 +125574,14 @@
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Tobacco products
 
+* 2016: 105.12
+* 2017: 106.34
+* 2018: 92.69
+* 2019: 81.04
+* 2020: 72.13
+* 2021: 77.9
+* 2022: 83.18
+* 2023: 80.13
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Economic affairs
 
