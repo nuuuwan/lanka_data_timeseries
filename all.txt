@@ -75736,6 +75736,8 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	26.9
 2021	26.0
 2022	26.5
+2023	25.5
+2024	25.6
 
 Source: cbsl
 Frequency: Annual
@@ -78218,12 +78220,14 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	3677
 2021	3791
 2022	3831
+2023	3878
+2024	3851.68
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Western
@@ -79405,12 +79409,14 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Mal
 2020	4.0
 2021	3.7
 2022	3.7
+2023	3.6
+2024	3.0
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Borrowings
@@ -79793,7 +79799,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-Credit Cards Credit Card - Local (accepted only locally)
@@ -81269,12 +81275,14 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2020	71.9
 2021	71.0
 2022	70.5
+2023	68.6
+2024	67.4
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Agriculture-National Livestock Statistics National Milk Production
@@ -82974,12 +82982,14 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2019	6.5
 2020	7.2
 2021	7.1
+2022	6.2
+2023	6.0
 
 Source: cbsl
 Frequency: Annual
 Unit: % of Labour Force
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2024-08-01', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Banking Insurance and Real Estate etc.
@@ -83459,12 +83469,14 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	2170
 2021	2213
 2022	2159
+2023	2088
+2024	2066.65
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Western
@@ -85601,12 +85613,13 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2024-06	68.1
 2024-09	66.8
 2024-12	67.6
+2025-03	70.1
 
 Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change
@@ -88336,7 +88349,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-Credit Cards Credit Card - Global Outstanding
@@ -88784,12 +88797,14 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	2153
 2021	2109
 2022	2158
+2023	2043
+2024	2031.42
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Non-performing Loans to Total Loans and Advances (Net Non-performing Advances (NPLs) Ratio)
@@ -94203,12 +94218,13 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2020	9.8
 2021	9.1
 2022	7.8
+2023	8.0
 
 Source: cbsl
 Frequency: Annual
 Unit: % of Labour Force
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2024-08-01', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-North Western
@@ -94446,12 +94462,13 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2023-06	6.8
 2023-09	6.0
 2023-12	6.1
+2025-03	5.5
 
 Source: cbsl
 Frequency: Quarterly
 Unit: % of Labour Force
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2024-08-01', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Plant propagation and Support ac
@@ -95655,12 +95672,13 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2024-06	3872
 2024-09	3783
 2024-12	3839
+2025-03	4098
 
 Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Interest Expenses
@@ -96140,6 +96158,8 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	27.1
 2021	27.3
 2022	26.5
+2023	26.1
+2024	26.0
 
 Source: cbsl
 Frequency: Annual
@@ -98455,12 +98475,14 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Fem
 2020	8.5
 2021	7.9
 2022	6.5
+2023	7.0
+2024	7.1
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of food, beverages & Tobacco products
@@ -98960,7 +98982,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Uva
@@ -99028,12 +99050,14 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2020	50.6
 2021	49.9
 2022	49.8
+2023	48.6
+2024	47.4
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matale-Class B
@@ -99423,12 +99447,14 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Sri
 2020	5.5
 2021	5.1
 2022	4.7
+2023	4.7
+2024	4.4
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Northern
@@ -100819,12 +100845,13 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2023-06	8.0
 2023-09	8.4
 2023-12	7.1
+2025-03	6.1
 
 Source: cbsl
 Frequency: Quarterly
 Unit: % of Labour Force
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2024-08-01', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
@@ -106757,7 +106784,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets RATNAPURA
@@ -109797,12 +109824,13 @@ Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 2020	468
 2021	440
 2022	399
+2023	398
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Lending Rate
@@ -109859,12 +109887,13 @@ Labour Force and Employment-Foreign Employment Foreign Employment-Departures for
 2020	53711
 2021	122264
 2022	311056
+2023	297656
 
 Source: cbsl
 Frequency: Annual
 Unit: Number
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Bureau of Foreign Employment', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2023-05-12', 'Update frequency': '6 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Sri Lanka Bureau of Foreign Employment', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-02', 'Update frequency': '6 weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Branches JAFFNA
@@ -114347,12 +114376,13 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2024-06	2116
 2024-09	1989
 2024-12	2071
+2025-03	2135
 
 Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices
@@ -122038,12 +122068,13 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force
 2020	8467
 2021	8553
 2022	8547
+2023	8408
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Health-Personel No.of Medical Offices - Total
@@ -125104,6 +125135,8 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2020	46.0
 2021	46.7
 2022	47.0
+2023	48.4
+2024	48.5
 
 Source: cbsl
 Frequency: Annual
@@ -126153,12 +126186,13 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2024-06	30.0
 2024-09	29.4
 2024-12	30.3
+2025-03	32.0
 
 Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Northern
@@ -126295,12 +126329,13 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Mal
 2024-06	3.6
 2024-09	2.6
 2024-12	2.8
+2025-03	2.5
 
 Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases Abroad by Residents
@@ -126534,12 +126569,13 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2024-06	2001
 2024-09	2067
 2024-12	2159
+2025-03	1907
 
 Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': '14 weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': '14 weeks after the relevant year'}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change
@@ -126670,7 +126706,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - Savings Deposits Rates_Min
@@ -131658,7 +131694,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Fresh water fishing
@@ -134856,12 +134892,13 @@ Labour Force and Employment-Overall Labour Statistics-Employed Population
 2020	7999
 2021	8114
 2022	8148
+2023	8010
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Marine fishing and Marine Aquacu
@@ -136466,12 +136503,14 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2020	32.0
 2021	31.8
 2022	32.1
+2023	31.3
+2024	29.8
 
 Source: cbsl
 Frequency: Annual
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets BADULLA
@@ -140917,12 +140956,13 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Fem
 2024-06	7.0
 2024-09	7.2
 2024-12	6.9
+2025-03	6.3
 
 Source: cbsl
 Frequency: Quarterly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'forteen weeks after the relevant quarter/forteen weeks after the relevant year'}
 --------------------------------
 
 Transport-Road Network Road Network-Class D Roads
@@ -144555,12 +144595,13 @@ Labour Force and Employment-Overall Labour Statistics-Household Population
 2020	16739
 2021	17134
 2022	17162
+2023	17306
 
 Source: cbsl
 Frequency: Annual
 Unit: 000 persons
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-07-16', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.', 'Data last updated': '2025-10-02', 'Update frequency': 'fourteen weeks after the relevant quarter/fourteen weeks after the relevant year'}
 --------------------------------
 
 Banking Sector-Commercial Papers Commercial Paper - Outstanding (as at end of the period )

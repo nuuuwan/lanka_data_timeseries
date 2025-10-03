@@ -68454,6 +68454,8 @@
 * 2020: 26.9
 * 2021: 26.0
 * 2022: 26.5
+* 2023: 25.5
+* 2024: 25.6
 
 # Transport-Road Network Road Kilometerage-Kalutara-Expressways
 
@@ -70502,6 +70504,8 @@
 * 2020: 3677
 * 2021: 3791
 * 2022: 3831
+* 2023: 3878
+* 2024: 3851.68
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Western
 
@@ -71499,6 +71503,8 @@
 * 2020: 4.0
 * 2021: 3.7
 * 2022: 3.7
+* 2023: 3.6
+* 2024: 3.0
 
 # Banking Sector-All Banks Banking Sector- Borrowings
 
@@ -73082,6 +73088,8 @@
 * 2020: 71.9
 * 2021: 71.0
 * 2022: 70.5
+* 2023: 68.6
+* 2024: 67.4
 
 # Agriculture-National Livestock Statistics National Milk Production
 
@@ -74590,6 +74598,8 @@
 * 2019: 6.5
 * 2020: 7.2
 * 2021: 7.1
+* 2022: 6.2
+* 2023: 6.0
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Banking Insurance and Real Estate etc.
 
@@ -74981,6 +74991,8 @@
 * 2020: 2170
 * 2021: 2213
 * 2022: 2159
+* 2023: 2088
+* 2024: 2066.65
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Western
 
@@ -76800,6 +76812,7 @@
 * 2024-06: 68.1
 * 2024-09: 66.8
 * 2024-12: 67.6
+* 2025-03: 70.1
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change
 
@@ -79389,6 +79402,8 @@
 * 2020: 2153
 * 2021: 2109
 * 2022: 2158
+* 2023: 2043
+* 2024: 2031.42
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Non-performing Loans to Total Loans and Advances (Net Non-performing Advances (NPLs) Ratio)
 
@@ -84034,6 +84049,7 @@
 * 2020: 9.8
 * 2021: 9.1
 * 2022: 7.8
+* 2023: 8.0
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-North Western
 
@@ -84241,6 +84257,7 @@
 * 2023-06: 6.8
 * 2023-09: 6.0
 * 2023-12: 6.1
+* 2025-03: 5.5
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Plant propagation and Support ac
 
@@ -85214,6 +85231,7 @@
 * 2024-06: 3872
 * 2024-09: 3783
 * 2024-12: 3839
+* 2025-03: 4098
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Interest Expenses
 
@@ -85603,6 +85621,8 @@
 * 2020: 27.1
 * 2021: 27.3
 * 2022: 26.5
+* 2023: 26.1
+* 2024: 26.0
 
 # Education-University Education No. of University Students Graduated - Arts & Oriental Studies (B.A.-B.A. Special)
 
@@ -87484,6 +87504,8 @@
 * 2020: 8.5
 * 2021: 7.9
 * 2022: 6.5
+* 2023: 7.0
+* 2024: 7.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Manufacture of food, beverages & Tobacco products
 
@@ -87973,6 +87995,8 @@
 * 2020: 50.6
 * 2021: 49.9
 * 2022: 49.8
+* 2023: 48.6
+* 2024: 47.4
 
 # Transport-Road Network Road Kilometerage-Matale-Class B
 
@@ -88320,6 +88344,8 @@
 * 2020: 5.5
 * 2021: 5.1
 * 2022: 4.7
+* 2023: 4.7
+* 2024: 4.4
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Northern
 
@@ -89490,6 +89516,7 @@
 * 2023-06: 8.0
 * 2023-09: 8.4
 * 2023-12: 7.1
+* 2025-03: 6.1
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
 
@@ -96989,6 +97016,7 @@
 * 2020: 468
 * 2021: 440
 * 2022: 399
+* 2023: 398
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Lending Rate
 
@@ -97039,6 +97067,7 @@
 * 2020: 53711
 * 2021: 122264
 * 2022: 311056
+* 2023: 297656
 
 # Banking Sector-All Banks Banking Sector- Number of Branches JAFFNA
 
@@ -100732,6 +100761,7 @@
 * 2024-06: 2116
 * 2024-09: 1989
 * 2024-12: 2071
+* 2025-03: 2135
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices
 
@@ -107314,6 +107344,7 @@
 * 2020: 8467
 * 2021: 8553
 * 2022: 8547
+* 2023: 8408
 
 # Health-Personel No.of Medical Offices - Total
 
@@ -109855,6 +109886,8 @@
 * 2020: 46.0
 * 2021: 46.7
 * 2022: 47.0
+* 2023: 48.4
+* 2024: 48.5
 
 # Thrift & Credit Co-operative Societies-Overall Thrift & Credit Co-operative Societies-No. of Societies
 
@@ -110762,6 +110795,7 @@
 * 2024-06: 30.0
 * 2024-09: 29.4
 * 2024-12: 30.3
+* 2025-03: 32.0
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Northern
 
@@ -110886,6 +110920,7 @@
 * 2024-06: 3.6
 * 2024-09: 2.6
 * 2024-12: 2.8
+* 2025-03: 2.5
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases Abroad by Residents
 
@@ -111072,6 +111107,7 @@
 * 2024-06: 2001
 * 2024-09: 2067
 * 2024-12: 2159
+* 2025-03: 1907
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change
 
@@ -118188,6 +118224,7 @@
 * 2020: 7999
 * 2021: 8114
 * 2022: 8148
+* 2023: 8010
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Marine fishing and Marine Aquacu
 
@@ -119491,6 +119528,8 @@
 * 2020: 32.0
 * 2021: 31.8
 * 2022: 32.1
+* 2023: 31.3
+* 2024: 29.8
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets BADULLA
 
@@ -123357,6 +123396,7 @@
 * 2024-06: 7.0
 * 2024-09: 7.2
 * 2024-12: 6.9
+* 2025-03: 6.3
 
 # Transport-Road Network Road Network-Class D Roads
 
@@ -126310,6 +126350,7 @@
 * 2020: 16739
 * 2021: 17134
 * 2022: 17162
+* 2023: 17306
 
 # Banking Sector-Commercial Papers Commercial Paper - Outstanding (as at end of the period )
 
