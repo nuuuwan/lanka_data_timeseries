@@ -7,35 +7,39 @@ from utils import WWW, File, JSONFile, Log
 from lanka_data_timeseries.cbsl import DataBuilder as CBSLDataBuilder
 from lanka_data_timeseries.common import clean_str
 from lanka_data_timeseries.common_statistics import get_summary_statistics
-from lanka_data_timeseries.constants import (DEFAULT_FOOTNOTES,
-                                             DEFAULT_FREQUENCY_NAME,
-                                             DEFAULT_I_SUBJECT, DEFAULT_SCALE,
-                                             DEFAULT_UNIT, DIR_TMP_DATA)
+from lanka_data_timeseries.constants import (
+    DEFAULT_FOOTNOTES,
+    DEFAULT_FREQUENCY_NAME,
+    DEFAULT_I_SUBJECT,
+    DEFAULT_SCALE,
+    DEFAULT_UNIT,
+    DIR_TMP_DATA,
+)
 from utils_future import WWWFuture, ZipFile
 
-SOURCE_ID = 'world_bank'
+SOURCE_ID = "world_bank"
 URL_DOWNLOAD = WWWFuture.join(
-    'https://api.worldbank.org', 'v2/en/country', 'LKA?downloadformat=csv'
+    "https://api.worldbank.org", "v2/en/country", "LKA?downloadformat=csv"
 )
-DEFAULT_CATEGORY = 'World Bank - Sri Lanka Data'
+DEFAULT_CATEGORY = "World Bank - Sri Lanka Data"
 
 
 log = Log(__name__)
 
 
 def download_source() -> str:
-    zip_path = tempfile.NamedTemporaryFile(suffix='.zip').name
-    WWW.download_binary(URL_DOWNLOAD, zip_path)
+    zip_path = tempfile.NamedTemporaryFile(suffix=".zip").name
+    WWW(URL_DOWNLOAD).download_binary(zip_path)
 
     dir_path = tempfile.NamedTemporaryFile().name
     ZipFile(zip_path).extractall(dir_path)
 
     for file_only in os.listdir(dir_path):
-        if file_only.endswith('.csv') and file_only.startswith('API_LKA'):
+        if file_only.endswith(".csv") and file_only.startswith("API_LKA"):
             csv_path = os.path.join(dir_path, file_only)
-            log.debug(f'Found {csv_path}')
+            log.debug(f"Found {csv_path}")
             return csv_path
-    raise Exception(f'No CSV file found in {dir_path}')
+    raise Exception(f"No CSV file found in {dir_path}")
 
 
 def build_data_row_d(
@@ -72,27 +76,27 @@ def build_data_row(
 
     new_data_path = os.path.join(
         dir_output_new,
-        f'{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json',
+        f"{SOURCE_ID}.{sub_category}.{DEFAULT_FREQUENCY_NAME}.json",
     )
     JSONFile(new_data_path).write(d)
-    n = d['summary_statistics']['n']
-    log.debug(f'Wrote {n} time items to {new_data_path}')
+    n = d["summary_statistics"]["n"]
+    log.debug(f"Wrote {n} time items to {new_data_path}")
 
 
 def build_data():
     csv_path = download_source()
-    dir_output_new = os.path.join(DIR_TMP_DATA, 'sources', 'world_bank')
+    dir_output_new = os.path.join(DIR_TMP_DATA, "sources", "world_bank")
     if not os.path.exists(dir_output_new):
         os.makedirs(dir_output_new)
-        log.debug(f'Created {dir_output_new}')
+        log.debug(f"Created {dir_output_new}")
 
     lines = File(csv_path).read_lines()
-    year_list = lines[4].split(',')[4:-1]
+    year_list = lines[4].split(",")[4:-1]
 
     for tokens in csv.reader(
         lines[5:],
         quotechar='"',
-        delimiter=',',
+        delimiter=",",
         quoting=csv.QUOTE_ALL,
         skipinitialspace=True,
     ):
