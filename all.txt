@@ -134855,7 +134855,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: Number
 Scale: Numbers
-Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-12', 'Update frequency': 'Two months after end of the month/quarter/year'}
+Footnotes: {'Sector': 'External Sector', 'Source': 'Sri Lanka Tourism Development Authority', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-03', 'Update frequency': 'Two months after end of the month/quarter/year'}
 --------------------------------
 
 Labour Force and Employment-Overall Labour Statistics-Employed Population
