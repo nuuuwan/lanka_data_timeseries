@@ -71027,6 +71027,9 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2025-03	82.06
 2025-04	112.9
 2025-05	175.37
+2025-06	223.88
+2025-07	290.2
+2025-08	331.18
 
 --------------------------------
 
@@ -71665,6 +71668,9 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2025-03	80.46
 2025-04	104.23
 2025-05	137.38
+2025-06	169.63
+2025-07	195.48
+2025-08	226.24
 
 --------------------------------
 
@@ -74547,6 +74553,9 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2025-01	18512350.89
 2025-02	18471561.22
 2025-03	18531579.49
+2025-04	18629858.82
+2025-05	18625196.45
+2025-06	18806083.96
 
 --------------------------------
 
@@ -75221,6 +75230,9 @@ Central Government Finance-Central Government Revenue Grants
 2025-03	1.06
 2025-04	1.37
 2025-05	2.49
+2025-06	3.39
+2025-07	5.5
+2025-08	6.72
 
 --------------------------------
 
@@ -80641,6 +80653,9 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2025-03	1219.79
 2025-04	1603.38
 2025-05	2003.62
+2025-06	2506.83
+2025-07	3000.77
+2025-08	3381.31
 
 --------------------------------
 
@@ -82633,6 +82648,9 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2025-03	1301.85
 2025-04	1716.28
 2025-05	2178.99
+2025-06	2730.71
+2025-07	3290.97
+2025-08	3712.49
 
 --------------------------------
 
@@ -83341,6 +83359,9 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2025-01	0
 2025-02	0
 2025-03	0
+2025-04	0
+2025-05	0
+2025-06	0
 
 --------------------------------
 
@@ -93615,6 +93636,9 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2025-01	4108371.71
 2025-02	4139970.09
 2025-03	4096409.62
+2025-04	3961747.6
+2025-05	3937891.47
+2025-06	3920327.4
 
 --------------------------------
 
@@ -94945,6 +94969,9 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2025-03	1067.4
 2025-04	1454.67
 2025-05	1942.36
+2025-06	2325.1
+2025-07	2734.86
+2025-08	3301.46
 
 --------------------------------
 
@@ -97795,6 +97822,9 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2025-03	985.88
 2025-04	1349.07
 2025-05	1802.48
+2025-06	2152.09
+2025-07	2533.88
+2025-08	3068.5
 
 --------------------------------
 
@@ -112569,6 +112599,9 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2025-01	10622111.16
 2025-02	10563793.99
 2025-03	10721587.56
+2025-04	10850526.64
+2025-05	10811355.15
+2025-06	10828696.79
 
 --------------------------------
 
@@ -115286,6 +115319,9 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2025-01	29134462.04
 2025-02	29035355.22
 2025-03	29253167.05
+2025-04	29480385.46
+2025-05	29436551.59
+2025-06	29634780.75
 
 --------------------------------
 
@@ -116669,6 +116705,9 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2025-03	-234.46
 2025-04	-261.61
 2025-05	-236.63
+2025-06	-405.6
+2025-07	-556.11
+2025-08	-411.03
 
 --------------------------------
 
@@ -122938,6 +122977,9 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2025-01	14257861.04
 2025-02	14367310.85
 2025-03	14508331.84
+2025-04	14619748.54
+2025-05	14755843.56
+2025-06	14944778.42
 
 --------------------------------
 
@@ -123027,6 +123069,9 @@ Central Government Finance-Central Government Revenue Primary Balance
 2025-03	397.47
 2025-04	532.73
 2025-05	742.92
+2025-06	858.99
+2025-07	973.63
+2025-08	1276.54
 
 --------------------------------
 
@@ -124947,6 +124992,9 @@ Central Government Finance-Central Government Revenue Revenue
 2025-03	1066.34
 2025-04	1453.3
 2025-05	1939.87
+2025-06	2321.72
+2025-07	2729.36
+2025-08	3294.74
 
 --------------------------------
 
