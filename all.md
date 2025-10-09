@@ -94882,6 +94882,7 @@
 * 2025-06: 1168044
 * 2025-07: 1368288
 * 2025-08: 1566523
+* 2025-09: 1725494
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - External Demand - Net External Demand
 
@@ -104830,6 +104831,7 @@
 * 2025-06: 15.6
 * 2025-07: 14.2
 * 2025-08: 15.0
+* 2025-09: 16.2
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Loans and Advances
 
@@ -107244,6 +107246,7 @@
 * 2025-06: 138241
 * 2025-07: 200244
 * 2025-08: 198235
+* 2025-09: 158971
 
 # Transport-Road Network Road Kilometerage-Matara-Class E
 
