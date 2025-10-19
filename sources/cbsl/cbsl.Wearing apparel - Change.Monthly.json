@@ -11,15 +11,15 @@
     "Source": "Department of Census and Statistics",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2025-09-12",
+    "Data last updated": "2025-10-17",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 103,
+    "n": 104,
     "min_t": "2017-01-01",
-    "max_t": "2025-07-01",
+    "max_t": "2025-08-01",
     "min_value": 4.1,
-    "max_value": 16.2
+    "max_value": 14.7
   },
   "cleaned_data": {
     "2017-01-01": 4.1,
@@ -124,7 +124,8 @@
     "2025-04-01": 2.5,
     "2025-05-01": 7.2,
     "2025-06-01": 24.0,
-    "2025-07-01": 16.2
+    "2025-07-01": 16.2,
+    "2025-08-01": 14.7
   },
   "raw_data": {
     "1966-Jan": " ",
@@ -842,7 +843,7 @@
     "2025-May": "7.20",
     "2025-Jun": "24.00",
     "2025-Jul": "16.20",
-    "2025-Aug": " ",
+    "2025-Aug": "14.70",
     "2025-Sep": " ",
     "2025-Oct": " ",
     "2025-Nov": " ",
