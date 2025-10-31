@@ -84941,6 +84941,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	13.7
 2025-07	13.7
 2025-08	13.7
+2025-09	13.7
 
 --------------------------------
 
@@ -100184,6 +100185,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	183.4
 2025-07	183.4
 2025-08	183.4
+2025-09	183.4
 
 --------------------------------
 
@@ -104466,6 +104468,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	78.2
 2025-07	78.4
 2025-08	78.8
+2025-09	78.7
 
 --------------------------------
 
@@ -104914,6 +104917,7 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-06	8240.0
 2025-07	13157.5
 2025-08	13157.3
+2025-09	13157.3
 
 --------------------------------
 
@@ -117282,6 +117286,7 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-06	91.8
 2025-07	147.0
 2025-08	147.6
+2025-09	147.3
 
 --------------------------------
 

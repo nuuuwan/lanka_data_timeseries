@@ -82169,6 +82169,7 @@
 * 2025-06: 13.7
 * 2025-07: 13.7
 * 2025-08: 13.7
+* 2025-09: 13.7
 
 # Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross Settlement (RTGS) Transactions
 
@@ -96920,6 +96921,7 @@
 * 2025-06: 183.4
 * 2025-07: 183.4
 * 2025-08: 183.4
+* 2025-09: 183.4
 
 # Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
 
@@ -101052,6 +101054,7 @@
 * 2025-06: 78.2
 * 2025-07: 78.4
 * 2025-08: 78.8
+* 2025-09: 78.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets GALLE
 
@@ -101493,6 +101496,7 @@
 * 2025-06: 8240.0
 * 2025-07: 13157.5
 * 2025-08: 13157.3
+* 2025-09: 13157.3
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class E
 
@@ -113498,6 +113502,7 @@
 * 2025-06: 91.8
 * 2025-07: 147.0
 * 2025-08: 147.6
+* 2025-09: 147.3
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
 

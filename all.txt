@@ -92016,12 +92016,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	13.7
 2025-07	13.7
 2025-08	13.7
+2025-09	13.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-29', 'Update frequency': ''}
 --------------------------------
 
 Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross Settlement (RTGS) Transactions
@@ -109692,12 +109693,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	183.4
 2025-07	183.4
 2025-08	183.4
+2025-09	183.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-29', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Polonnaruwa-Class E
@@ -114712,12 +114714,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-06	78.2
 2025-07	78.4
 2025-08	78.8
+2025-09	78.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-26', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-29', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets GALLE
@@ -115194,12 +115197,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-06	8240.0
 2025-07	13157.5
 2025-08	13157.3
+2025-09	13157.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-09-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-29', 'Update frequency': 'Two months'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Vavuniya-Class E
@@ -129356,12 +129360,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-06	91.8
 2025-07	147.0
 2025-08	147.6
+2025-09	147.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-09-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-10-29', 'Update frequency': 'Two months'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
