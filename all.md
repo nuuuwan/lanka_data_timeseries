@@ -69533,6 +69533,7 @@
 * 2025-06: 191.8
 * 2025-07: 192.8
 * 2025-08: 193.2
+* 2025-09: 194.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches POLONNARUWA
 
@@ -81738,6 +81739,7 @@
 * 2025-06: 5.5
 * 2025-07: 6.3
 * 2025-08: 6.7
+* 2025-09: 7.5
 
 # Transport-Road Network Road Kilometerage-North Western-Total
 
@@ -94179,6 +94181,7 @@
 * 2025-06: 5.3
 * 2025-07: 5.7
 * 2025-08: 5.8
+* 2025-09: 6.3
 
 # Payment Data-Cheques Total Value of US Dollar Cheques cleared
 
@@ -96400,6 +96403,7 @@
 * 2025-06: 189.5
 * 2025-07: 190.4
 * 2025-08: 191.6
+* 2025-09: 193.6
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Time Deposits
 
@@ -107977,6 +107981,7 @@
 * 2025-06: 5.9
 * 2025-07: 5.9
 * 2025-08: 5.8
+* 2025-09: 5.8
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Class D
 
@@ -113167,6 +113172,7 @@
 * 2025-06: 190.2
 * 2025-07: 191.1
 * 2025-08: 191.9
+* 2025-09: 193.3
 
 # Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wage Rate Index(December 1978=100)(Real)
 
@@ -115919,6 +115925,7 @@
 * 2025-06: 4.1
 * 2025-07: 4.1
 * 2025-08: 3.9
+* 2025-09: 4.2
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Financial Service activities and auxiliary financial servi
 
@@ -124932,6 +124939,7 @@
 * 2025-06: 190.1
 * 2025-07: 190.7
 * 2025-08: 191.3
+* 2025-09: 192.0
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Western
 
