@@ -68580,6 +68580,7 @@
 * 2025-06: -5.3
 * 2025-07: -10.3
 * 2025-08: -12.9
+* 2025-09: -1.2
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases in Domestic Market by Non-Res
 
@@ -71994,6 +71995,7 @@
 * 2025-06: 109.3
 * 2025-07: 118.6
 * 2025-08: 100.1
+* 2025-09: 48.0
 
 # Transport-Road Network Road Kilometerage-Kurunegala-Total
 
@@ -79341,6 +79343,7 @@
 * 2025-06: 20.2
 * 2025-07: 15.9
 * 2025-08: 10.7
+* 2025-09: 18.7
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Revenue
 
@@ -81302,6 +81305,7 @@
 * 2025-06: 76.1
 * 2025-07: 84.8
 * 2025-08: 80.5
+* 2025-09: 85.4
 
 # Electricity-Electricity Electricity - Per capita electricity consumption
 
@@ -82504,6 +82508,7 @@
 * 2025-06: 112.7
 * 2025-07: 114.5
 * 2025-08: 118.9
+* 2025-09: 121.7
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Western
 
@@ -85207,6 +85212,7 @@
 * 2025-06: 100.3
 * 2025-07: 99.4
 * 2025-08: 92.3
+* 2025-09: 103.8
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services
 
@@ -87705,6 +87711,7 @@
 * 2025-06: 101.7
 * 2025-07: 108.9
 * 2025-08: 109.7
+* 2025-09: 96.6
 
 # Transport-Road Network Road Kilometerage-Southern-Expressways
 
@@ -93345,6 +93352,7 @@
 * 2025-06: 6.2
 * 2025-07: 6.4
 * 2025-08: 7.6
+* 2025-09: 4.7
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - External Demand - Imports of Goods and Services
 
@@ -99751,6 +99759,7 @@
 * 2025-06: 122.0
 * 2025-07: 125.7
 * 2025-08: 128.8
+* 2025-09: 128.8
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits
 
@@ -105464,6 +105473,7 @@
 * 2025-06: 24.0
 * 2025-07: 16.2
 * 2025-08: 14.7
+* 2025-09: 0.2
 
 # Tourism-Tourism Earnings from Tourism Y-o-Y Change
 
@@ -108528,6 +108538,7 @@
 * 2025-06: 4.7
 * 2025-07: 8.2
 * 2025-08: 0.3
+* 2025-09: 10.4
 
 # Central Government Finance-Central Government Expenditure Central Governmnet Expenditure - Total Expenditure and Net Lending
 
@@ -108757,6 +108768,7 @@
 * 2025-06: 35.4
 * 2025-07: 166.7
 * 2025-08: 488.5
+* 2025-09: -43.6
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Uva
 
@@ -114886,6 +114898,7 @@
 * 2025-06: -2.6
 * 2025-07: -5.9
 * 2025-08: -4.8
+* 2025-09: 12.1
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Fixed Deposit Rate
 
@@ -120177,6 +120190,7 @@
 * 2025-06: 80.2
 * 2025-07: 88.4
 * 2025-08: 86.8
+* 2025-09: 73.7
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted SME Rate (AWSR)
 
@@ -124128,6 +124142,7 @@
 * 2025-06: 0.1
 * 2025-07: 5.2
 * 2025-08: 1.7
+* 2025-09: -4.6
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Central
 

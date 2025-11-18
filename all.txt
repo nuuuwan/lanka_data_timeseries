@@ -75873,12 +75873,13 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2025-06	-5.3
 2025-07	-10.3
 2025-08	-12.9
+2025-09	-1.2
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases in Domestic Market by Non-Res
@@ -79984,12 +79985,13 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-06	109.3
 2025-07	118.6
 2025-08	100.1
+2025-09	48.0
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kurunegala-Total
@@ -88718,12 +88720,13 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-06	20.2
 2025-07	15.9
 2025-08	10.7
+2025-09	18.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Revenue
@@ -91024,12 +91027,13 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2025-06	76.1
 2025-07	84.8
 2025-08	80.5
+2025-09	85.4
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Electricity-Electricity Electricity - Per capita electricity consumption
@@ -92375,12 +92379,13 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-06	112.7
 2025-07	114.5
 2025-08	118.9
+2025-09	121.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Revenue-Western
@@ -95642,12 +95647,13 @@ Industry and Housing-Index of Industrial Production Food products
 2025-06	100.3
 2025-07	99.4
 2025-08	92.3
+2025-09	103.8
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services
@@ -98706,12 +98712,13 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2025-06	101.7
 2025-07	108.9
 2025-08	109.7
+2025-09	96.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Southern-Expressways
@@ -105474,12 +105481,13 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2025-06	6.2
 2025-07	6.4
 2025-08	7.6
+2025-09	4.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - External Demand - Imports of Goods and Services
@@ -113078,12 +113086,13 @@ Industry and Housing-Index of Industrial Production Beverages
 2025-06	122.0
 2025-07	125.7
 2025-08	128.8
+2025-09	128.8
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits
@@ -119968,12 +119977,13 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2025-06	24.0
 2025-07	16.2
 2025-08	14.7
+2025-09	0.2
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Tourism-Tourism Earnings from Tourism Y-o-Y Change
@@ -123474,12 +123484,13 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2025-06	4.7
 2025-07	8.2
 2025-08	0.3
+2025-09	10.4
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Expenditure Central Governmnet Expenditure - Total Expenditure and Net Lending
@@ -123745,12 +123756,13 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-06	35.4
 2025-07	166.7
 2025-08	488.5
+2025-09	-43.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Uva
@@ -130984,12 +130996,13 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2025-06	-2.6
 2025-07	-5.9
 2025-08	-4.8
+2025-09	12.1
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted New Fixed Deposit Rate
@@ -137253,12 +137266,13 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-06	80.2
 2025-07	88.4
 2025-08	86.8
+2025-09	73.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Average Weighted SME Rate (AWSR)
@@ -141843,12 +141857,13 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-06	0.1
 2025-07	5.2
 2025-08	1.7
+2025-09	-4.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-10-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-14', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Central
