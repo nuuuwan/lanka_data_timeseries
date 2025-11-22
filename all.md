@@ -69888,6 +69888,8 @@
 * 2025-05: 11376882
 * 2025-06: 13729379
 * 2025-07: 14535685
+* 2025-08: 12291903
+* 2025-09: 11762894
 
 # Education-Performance in Examinations Performance of Candidates-GCE (O-L)-School candidates _ Percentage of qualifying for GCE (A-L)
 
@@ -73708,6 +73710,8 @@
 * 2025-05: 3051745
 * 2025-06: 3274108
 * 2025-07: 3460708
+* 2025-08: 3186769
+* 2025-09: 3618055
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Credit to Total Deposits
 
@@ -82366,6 +82370,8 @@
 * 2025-05: 47932
 * 2025-06: 50235
 * 2025-07: 53878
+* 2025-08: 48078
+* 2025-09: 52480
 
 # Transport-Road Network Road Kilometerage-Monaragala-Class E
 
@@ -83448,6 +83454,8 @@
 * 2025-05: 144005324900
 * 2025-06: 144529640450
 * 2025-07: 154128768000
+* 2025-08: 158102631400
+* 2025-09: 151562041100
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries - Electricity, gas, steam and air conditionin
 
@@ -86179,6 +86187,8 @@
 * 2025-05: 20683470
 * 2025-06: 20720860
 * 2025-07: 22630796
+* 2025-08: 22936929
+* 2025-09: 22469524
 
 # Transport-Road Network Road Kilometerage-Matale-Class D
 
@@ -88281,6 +88291,8 @@
 * 2025-05: 24986671774
 * 2025-06: 24357963912
 * 2025-07: 26610254731
+* 2025-08: 22418566102
+* 2025-09: 27394652034
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Grant from the Central Govt.-Central
 
@@ -92996,6 +93008,8 @@
 * 2025-05: 92134
 * 2025-06: 89082
 * 2025-07: 97887
+* 2025-08: 79945
+* 2025-09: 90171
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Other personal service activities
 
@@ -94380,6 +94394,8 @@
 * 2025-05: 136586938
 * 2025-06: 35902218
 * 2025-07: 43691492
+* 2025-08: 36906729
+* 2025-09: 38667022
 
 # Transport-Road Network Road Kilometerage-Uva-Class E
 
@@ -112487,6 +112503,8 @@
 * 2025-05: 5665596
 * 2025-06: 5543463
 * 2025-07: 5561507
+* 2025-08: 5181200
+* 2025-09: 5564548
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Other manufacturing and Repair and installation of mach
 
@@ -114292,6 +114310,8 @@
 * 2025-05: 967647887054
 * 2025-06: 991413473140
 * 2025-07: 1074847669285
+* 2025-08: 1039398370881
+* 2025-09: 1141106892413
 
 # Agriculture-Tea Tea Production
 
@@ -118501,6 +118521,8 @@
 * 2025-05: 1899736686218
 * 2025-06: 1883799447588
 * 2025-07: 2121964606951
+* 2025-08: 2127886758811
+* 2025-09: 2078172287016
 
 # Transport-Road Network Road Kilometerage-Galle-Class A
 
@@ -120878,6 +120900,8 @@
 * 2025-05: 4131
 * 2025-06: 5034
 * 2025-07: 5467
+* 2025-08: 5106
+* 2025-09: 5447
 
 # Transport-Road Network Road Kilometerage-Matale-Expressways
 
@@ -123219,6 +123243,8 @@
 * 2025-05: 34969608089921
 * 2025-06: 35819938326402
 * 2025-07: 37451424187071
+* 2025-08: 35127706044892
+* 2025-09: 39479360810922
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-All Island
 
@@ -124871,6 +124897,8 @@
 * 2025-05: 332529319454
 * 2025-06: 352769949259
 * 2025-07: 380313734027
+* 2025-08: 365591189548
+* 2025-09: 378345769175
 
 # Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Sector Wage Rate Index (2018=100)(Nominal) - Services
 
