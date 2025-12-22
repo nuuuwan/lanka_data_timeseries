@@ -68686,6 +68686,8 @@
 * 2025-06: 223.88
 * 2025-07: 290.2
 * 2025-08: 331.18
+* 2025-09: 455.34
+* 2025-10: 582.1
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks AMPARA
 
@@ -69304,6 +69306,8 @@
 * 2025-06: 169.63
 * 2025-07: 195.48
 * 2025-08: 226.24
+* 2025-09: 264.07
+* 2025-10: 302.9
 
 # International Investment Position-Other Investments IIP - Other Investments- Other accounts receivable -Assets
 
@@ -72103,6 +72107,9 @@
 * 2025-04: 18629858.82
 * 2025-05: 18625196.45
 * 2025-06: 18806083.96
+* 2025-07: 18944362.11
+* 2025-08: 18679488.46
+* 2025-09: 18701460.79
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks HAMBANTOTA
 
@@ -72764,6 +72771,8 @@
 * 2025-06: 3.39
 * 2025-07: 5.5
 * 2025-08: 6.72
+* 2025-09: 7.86
+* 2025-10: 13.9
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-North Central-Total
 
@@ -78031,6 +78040,8 @@
 * 2025-06: 2506.83
 * 2025-07: 3000.77
 * 2025-08: 3381.31
+* 2025-09: 3820.93
+* 2025-10: 4223.73
 
 # Banking Sector-All Banks Banking Sector- Number of Branches HAMBANTOTA
 
@@ -79953,6 +79964,8 @@
 * 2025-06: 2730.71
 * 2025-07: 3290.97
 * 2025-08: 3712.49
+* 2025-09: 4276.27
+* 2025-10: 4805.82
 
 # Education-General Education General education - Pirivenas - Schools
 
@@ -80638,6 +80651,9 @@
 * 2025-04: 0
 * 2025-05: 0
 * 2025-06: 0
+* 2025-07: 0
+* 2025-08: 0
+* 2025-09: 0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets MANNER
 
@@ -90616,6 +90632,9 @@
 * 2025-04: 3961747.6
 * 2025-05: 3937891.47
 * 2025-06: 3920327.4
+* 2025-07: 3855442.0
+* 2025-08: 3827372.83
+* 2025-09: 3741633.82
 
 # Transport-Road Network Road Kilometerage-North Western-Class E
 
@@ -91908,6 +91927,8 @@
 * 2025-06: 2325.1
 * 2025-07: 2734.86
 * 2025-08: 3301.46
+* 2025-09: 3834.85
+* 2025-10: 4350.05
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Sabaragamuwa
 
@@ -94689,6 +94710,8 @@
 * 2025-06: 2152.09
 * 2025-07: 2533.88
 * 2025-08: 3068.5
+* 2025-09: 3562.92
+* 2025-10: 4033.26
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Sabaragamuwa
 
@@ -109025,6 +109048,9 @@
 * 2025-04: 10850526.64
 * 2025-05: 10811355.15
 * 2025-06: 10828696.79
+* 2025-07: 10918150.45
+* 2025-08: 10980731.55
+* 2025-09: 10974344.94
 
 # Banking Sector-All Banks Banking Sector- Number of Banks KILINOCHCHI
 
@@ -111661,6 +111687,9 @@
 * 2025-04: 29480385.46
 * 2025-05: 29436551.59
 * 2025-06: 29634780.75
+* 2025-07: 29862512.57
+* 2025-08: 29660220.01
+* 2025-09: 29675805.73
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - HH Cons. by COICOP - Furnishings household equipment and routine hou
 
@@ -113006,6 +113035,8 @@
 * 2025-06: -405.6
 * 2025-07: -556.11
 * 2025-08: -411.03
+* 2025-09: -441.42
+* 2025-10: -455.77
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - GCF - GFCF - Changes in inventories and acquisition less disposals
 
@@ -119114,6 +119145,9 @@
 * 2025-04: 14619748.54
 * 2025-05: 14755843.56
 * 2025-06: 14944778.42
+* 2025-07: 14994765.06
+* 2025-08: 14984148.5
+* 2025-09: 15097987.2
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MANNER
 
@@ -119203,6 +119237,8 @@
 * 2025-06: 858.99
 * 2025-07: 973.63
 * 2025-08: 1276.54
+* 2025-09: 1465.13
+* 2025-10: 1628.97
 
 # Central Government Finance-Central Government Expenditure General Governmnet Expenditure - Capital Expenditure
 
@@ -121081,6 +121117,8 @@
 * 2025-06: 2321.72
 * 2025-07: 2729.36
 * 2025-08: 3294.74
+* 2025-09: 3826.99
+* 2025-10: 4336.16
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
