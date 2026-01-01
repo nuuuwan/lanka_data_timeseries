@@ -74682,7 +74682,6 @@
 
 # Health-Health Statistics Government sector western medicine - Nurses
 
-* 1966: 3499
 * 1967: 3999
 * 1968: 4382
 * 1969: 4734
@@ -77101,7 +77100,6 @@
 
 # Health-Health Statistics Government sector western medicine - Beds
 
-* 1966: 33461
 * 1967: 35684
 * 1968: 36069
 * 1969: 36845
@@ -79616,7 +79614,6 @@
 
 # Communication Media-Postal Services Postal Services - Average population served by a post office
 
-* 1966: 4855
 * 1967: 4957
 * 1968: 4997
 * 1973: 4692
@@ -79733,7 +79730,6 @@
 
 # Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons
 
-* 1966: 3.1
 * 1967: 3.4
 * 1968: 3.7
 * 1969: 3.9
@@ -87145,7 +87141,6 @@
 
 # Health-Health Statistics Government sector western medicine - Hospital beds per 1 000 persons
 
-* 1966: 2.9
 * 1967: 3.0
 * 1968: 3.0
 * 1969: 3.0
@@ -89139,7 +89134,6 @@
 
 # Health-Health Statistics Health Indicators - Infant Mortality per 1 000 live births
 
-* 1966: 54
 * 1967: 48
 * 1968: 50
 * 1969: 53
@@ -96570,7 +96564,6 @@
 
 # Central Government Finance-Central Government Expenditure Government expenditure on education as a per cent of GDP
 
-* 1966: 4.2
 * 1967: 4.06
 * 1968: 4.01
 * 1969: 3.49
@@ -100363,7 +100356,6 @@
 
 # Health-Health Statistics Government sector western medicine - In-patients
 
-* 1966: 1785
 * 1967: 1764
 * 1968: 1945
 * 1969: 2080
@@ -102116,7 +102108,6 @@
 
 # Health-Health Statistics Government sector western medicine - Hospitals
 
-* 1966: 297
 * 1967: 298
 * 1968: 302
 * 1969: 310
@@ -109950,7 +109941,6 @@
 
 # Imports and Exports-Exports (in USD terms) Merchandise Exports - Total
 
-* 1966: 351.5
 * 1967: 339.4
 * 1968: 332.0
 * 1969: 320.7
@@ -112043,7 +112033,6 @@
 
 # Health-Health Statistics Government sector western medicine - Out-patients
 
-* 1966: 27235
 * 1967: 31704
 * 1968: 34752
 * 1969: 36752
@@ -116361,7 +116350,6 @@
 
 # Central Government Finance-Central Government Expenditure Government expenditure on health as a per cent of GDP
 
-* 1966: 2.07
 * 1967: 2.09
 * 1968: 2.06
 * 1969: 2.12
@@ -117790,7 +117778,6 @@
 
 # Health-Health Statistics Government sector western medicine - Doctors
 
-* 1966: 1512
 * 1967: 1598
 * 1968: 1613
 * 1969: 1841
@@ -119878,7 +119865,6 @@
 
 # Communication Media-Postal Services Postal Services - Post offices
 
-* 1966: 2356
 * 1967: 2361
 * 1968: 2400
 * 1973: 2790
@@ -119933,7 +119919,6 @@
 
 # Health-Health Statistics Government sector western medicine - Persons per doctor
 
-* 1966: 7565
 * 1967: 7324
 * 1968: 7435
 * 1969: 6655
@@ -121132,7 +121117,6 @@
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
-* 1966: 423.8
 * 1967: 408.4
 * 1968: 395.8
 * 1969: 446.1
