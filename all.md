@@ -73979,7 +73979,6 @@
 
 # Education-University Education University education - Students
 
-* 1966: 15046
 * 1967: 14512
 * 1968: 13005
 * 1969: 12535
@@ -87850,7 +87849,6 @@
 
 # Education-University Education University education - New enrolment
 
-* 1966: 3990
 * 1969: 3457
 * 1972: 3338
 * 1973: 3420
@@ -88938,7 +88936,6 @@
 
 # Population Statistics-Mid Year Population Mid Year Population-Sri Lanka
 
-* 1966: 11439
 * 1967: 11703
 * 1968: 11992
 * 1969: 12252
@@ -95855,7 +95852,6 @@
 
 # Education-University Education University education - Lecturers
 
-* 1966: 548
 * 1967: 585
 * 1968: 650
 * 1969: 890
@@ -96010,7 +96006,6 @@
 
 # Education-General Education General education - Government -Schools
 
-* 1966: 8409
 * 1967: 8433
 * 1968: 9773
 * 1969: 9845
@@ -102425,7 +102420,6 @@
 
 # Education-General Education General education - Government - Teachers
 
-* 1966: 88664
 * 1967: 87471
 * 1968: 92982
 * 1969: 95273
@@ -112760,7 +112754,6 @@
 
 # Education-General Education General education - Government - Students
 
-* 1966: 2565891
 * 1967: 2588502
 * 1968: 2633637
 * 1969: 2668392
@@ -116423,7 +116416,6 @@
 
 # Education-University Education University education - Students graduated
 
-* 1966: 3494
 * 1967: 3281
 * 1968: 4614
 * 1969: 4317
