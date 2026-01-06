@@ -115261,12 +115261,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-08	13157.3
 2025-09	13157.3
 2025-10	13157.1
+2025-11	13157.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-01-01', 'Update frequency': 'Two months'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Vavuniya-Class E
@@ -129442,12 +129443,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2025-08	147.6
 2025-09	147.3
 2025-10	147.2
+2025-11	147.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2025-11-26', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2026-01-01', 'Update frequency': 'Two months'}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets

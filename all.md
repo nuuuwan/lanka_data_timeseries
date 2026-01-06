@@ -101560,6 +101560,7 @@
 * 2025-08: 13157.3
 * 2025-09: 13157.3
 * 2025-10: 13157.1
+* 2025-11: 13157.1
 
 # Transport-Road Network Road Kilometerage-Vavuniya-Class E
 
@@ -113584,6 +113585,7 @@
 * 2025-08: 147.6
 * 2025-09: 147.3
 * 2025-10: 147.2
+* 2025-11: 147.5
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts receivable -Assets
 
