@@ -74553,11 +74553,6 @@ Agriculture-Coconut Coconut Production
 2024-10	203.8
 2024-11	191.0
 2024-12	170.1
-2025-01	167.8
-2025-02	178.1
-2025-03	220.8
-2025-04	237.7
-2025-05	257.2
 
 Source: cbsl
 Frequency: Monthly
@@ -86684,11 +86679,6 @@ Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 2024-10	-24.0
 2024-11	-27.9
 2024-12	-33.1
-2025-01	-32.3
-2025-02	-31.6
-2025-03	-21.8
-2025-04	-6.2
-2025-05	-1.2
 
 Source: cbsl
 Frequency: Monthly
