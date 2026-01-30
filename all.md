@@ -76842,6 +76842,8 @@
 * 2024-09: 66.8
 * 2024-12: 67.6
 * 2025-03: 70.1
+* 2025-06: 69.5
+* 2025-09: 68.6
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture_ manufacture of articles of Straw and plaiting materials - Change
 
@@ -84317,6 +84319,8 @@
 * 2023-09: 6.0
 * 2023-12: 6.1
 * 2025-03: 5.5
+* 2025-06: 5.6
+* 2025-09: 5.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Plant propagation and Support ac
 
@@ -85295,6 +85299,8 @@
 * 2024-09: 3783
 * 2024-12: 3839
 * 2025-03: 4098
+* 2025-06: 4004
+* 2025-09: 4035
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Interest Expenses
 
@@ -89584,6 +89590,8 @@
 * 2023-09: 8.4
 * 2023-12: 7.1
 * 2025-03: 6.1
+* 2025-06: 5.9
+* 2025-09: 7.0
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Sabaragamuwa
 
@@ -94589,6 +94597,8 @@
 * 2024-09: 4.2
 * 2024-12: 4.2
 * 2025-03: 3.8
+* 2025-06: 3.8
+* 2025-09: 4.3
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets RATNAPURA
 
@@ -100861,6 +100871,8 @@
 * 2024-09: 1989
 * 2024-12: 2071
 * 2025-03: 2135
+* 2025-06: 2064
+* 2025-09: 2167
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of spices
 
@@ -110921,6 +110933,8 @@
 * 2024-09: 29.4
 * 2024-12: 30.3
 * 2025-03: 32.0
+* 2025-06: 31.7
+* 2025-09: 33.9
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Northern
 
@@ -111046,6 +111060,8 @@
 * 2024-09: 2.6
 * 2024-12: 2.8
 * 2025-03: 2.5
+* 2025-06: 2.6
+* 2025-09: 3.2
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases Abroad by Residents
 
@@ -111233,6 +111249,8 @@
 * 2024-09: 2067
 * 2024-12: 2159
 * 2025-03: 1907
+* 2025-06: 2104
+* 2025-09: 1896
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of basic pharmaceutical products and pharmaceutical preparations - Change
 
@@ -111352,6 +111370,8 @@
 * 2024-09: 46.9
 * 2024-12: 47.7
 * 2025-03: 49.7
+* 2025-06: 49.3
+* 2025-09: 49.9
 
 # Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - Savings Deposits Rates_Min
 
@@ -115656,6 +115676,8 @@
 * 2024-09: 7495
 * 2024-12: 8421
 * 2025-03: 8462
+* 2025-06: 8491
+* 2025-09: 8465
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Fresh water fishing
 
@@ -123567,6 +123589,8 @@
 * 2024-09: 7.2
 * 2024-12: 6.9
 * 2025-03: 6.3
+* 2025-06: 6.0
+* 2025-09: 6.2
 
 # Transport-Road Network Road Network-Class D Roads
 
