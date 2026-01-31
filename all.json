@@ -114041,6 +114041,13 @@
   },
   {
     "source_id": "cbsl",
+    "category": "International Investment Position-Gross Official Reserves",
+    "sub_category": "Central Bank Intervention - Purchases (value date)",
+    "scale": "Million",
+    "cleaned_data": {}
+  },
+  {
+    "source_id": "cbsl",
     "category": "National Accounts-GDP at Constant Prices - Base Year 2010",
     "sub_category": "GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Oleaginous Fruits (Co",
     "scale": "Million",
@@ -135528,6 +135535,13 @@
       "2019": 429792,
       "2020": 426065
     }
+  },
+  {
+    "source_id": "cbsl",
+    "category": "International Investment Position-Gross Official Reserves",
+    "sub_category": "Central Bank Intervention - Sales (value date)",
+    "scale": "Million",
+    "cleaned_data": {}
   },
   {
     "source_id": "cbsl",

@@ -97680,6 +97680,9 @@
 * 2020: 886
 * 2021: 886
 
+# International Investment Position-Gross Official Reserves Central Bank Intervention - Purchases (value date)
+
+
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Oleaginous Fruits (Co
 
 * 2010: 60230.99
@@ -116335,6 +116338,9 @@
 * 2018: 397608
 * 2019: 429792
 * 2020: 426065
+
+# International Investment Position-Gross Official Reserves Central Bank Intervention - Sales (value date)
+
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Other Banking Outlets TRINCOMALEE
 
