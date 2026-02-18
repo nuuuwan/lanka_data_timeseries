@@ -71607,6 +71607,7 @@
 * 2024-09: 2.8
 * 2024-10: 1.4
 * 2024-11: 18.6
+* 2024-12: 17.6
 * 2025-01: 12.7
 * 2025-02: -14.4
 * 2025-03: -9.7
@@ -71618,6 +71619,7 @@
 * 2025-09: -4.6
 * 2025-10: 8.2
 * 2025-11: 3.4
+* 2025-12: -4.8
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Advances
 
@@ -79229,6 +79231,7 @@
 * 2024-09: 10.8
 * 2024-10: 7.8
 * 2024-11: 6.5
+* 2024-12: 10.1
 * 2025-01: 1.6
 * 2025-02: 1.7
 * 2025-03: 18.6
@@ -79240,6 +79243,7 @@
 * 2025-09: 0.2
 * 2025-10: 13.7
 * 2025-11: 3.7
+* 2025-12: 7.4
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Southern-Total
 
@@ -82214,6 +82218,7 @@
 * 2024-09: -10.4
 * 2024-10: 27.6
 * 2024-11: -1.2
+* 2024-12: 7.4
 * 2025-01: -9.5
 * 2025-02: 0.4
 * 2025-03: -7.5
@@ -82225,6 +82230,7 @@
 * 2025-09: 10.4
 * 2025-10: 0.6
 * 2025-11: -4.2
+* 2025-12: -13.3
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -84788,6 +84794,7 @@
 * 2024-09: -1.6
 * 2024-10: -0.5
 * 2024-11: -0.6
+* 2024-12: 14.3
 * 2025-01: 32.2
 * 2025-02: 26.1
 * 2025-03: 1.1
@@ -84799,6 +84806,7 @@
 * 2025-09: 18.7
 * 2025-10: 23.8
 * 2025-11: 13.1
+* 2025-12: 0.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Mining and Quarrying
 
@@ -86128,6 +86136,7 @@
 * 2024-09: 2.1
 * 2024-10: 7.0
 * 2024-11: 4.7
+* 2024-12: 8.8
 * 2025-01: 6.1
 * 2025-02: 6.3
 * 2025-03: 5.6
@@ -86139,6 +86148,7 @@
 * 2025-09: 4.7
 * 2025-10: 4.8
 * 2025-11: 5.9
+* 2025-12: 4.4
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment
 
@@ -91802,6 +91812,7 @@
 * 2024-09: 42.3
 * 2024-10: 38.6
 * 2024-11: -18.1
+* 2024-12: -10.2
 * 2025-01: 22.5
 * 2025-02: -12.2
 * 2025-03: 7.6
@@ -91813,6 +91824,7 @@
 * 2025-09: -43.6
 * 2025-10: -9.6
 * 2025-11: 24.0
+* 2025-12: 2.3
 
 # Payment Data-Asian Clearing Union (ACU) Total Number of Asian Clearing Union (ACU) Transactions
 
@@ -115649,6 +115661,7 @@
 * 2024-09: 12.9
 * 2024-10: 17.0
 * 2024-11: 5.4
+* 2024-12: -0.7
 * 2025-01: -10.2
 * 2025-02: -4.7
 * 2025-03: -8.4
@@ -115660,6 +115673,7 @@
 * 2025-09: -1.2
 * 2025-10: -17.4
 * 2025-11: -7.5
+* 2025-12: 6.4
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Western
 
@@ -124478,6 +124492,7 @@
 * 2024-09: -6.1
 * 2024-10: 2.0
 * 2024-11: 7.4
+* 2024-12: 16.1
 * 2025-01: 1.4
 * 2025-02: 12.2
 * 2025-03: 7.2
@@ -124489,6 +124504,7 @@
 * 2025-09: 12.1
 * 2025-10: 5.8
 * 2025-11: 6.0
+* 2025-12: 8.3
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class C
 
