@@ -71620,6 +71620,7 @@
 * 2025-10: 8.2
 * 2025-11: 3.4
 * 2025-12: -4.8
+* 2026-01: 2.5
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Advances
 
@@ -79246,6 +79247,7 @@
 * 2025-10: 13.7
 * 2025-11: 3.7
 * 2025-12: 7.4
+* 2026-01: 12.5
 
 # Industry and Housing-Water Consumption Water Consumption-Quantity of Water-Southern-Total
 
@@ -79812,6 +79814,7 @@
 * 2025-10: 104.6
 * 2025-11: 94.9
 * 2025-12: 98.8
+* 2026-01: 105.8
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Textiles
 
@@ -82236,6 +82239,7 @@
 * 2025-10: 0.6
 * 2025-11: -4.2
 * 2025-12: -13.3
+* 2026-01: -7.8
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Volume Index (1997=100)
 
@@ -84800,7 +84804,7 @@
 * 2024-10: -0.5
 * 2024-11: -0.6
 * 2024-12: 14.3
-* 2025-01: 32.2
+* 2025-01: 32.1
 * 2025-02: 26.1
 * 2025-03: 1.1
 * 2025-04: 21.1
@@ -84812,6 +84816,7 @@
 * 2025-10: 23.8
 * 2025-11: 13.1
 * 2025-12: 0.4
+* 2026-01: 3.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Mining and Quarrying
 
@@ -86142,7 +86147,7 @@
 * 2024-10: 7.0
 * 2024-11: 4.7
 * 2024-12: 8.8
-* 2025-01: 6.1
+* 2025-01: 6.0
 * 2025-02: 6.3
 * 2025-03: 5.6
 * 2025-04: 1.7
@@ -86154,6 +86159,7 @@
 * 2025-10: 4.8
 * 2025-11: 5.9
 * 2025-12: 4.4
+* 2026-01: 4.4
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment
 
@@ -91830,6 +91836,7 @@
 * 2025-10: -9.6
 * 2025-11: 24.0
 * 2025-12: 2.3
+* 2026-01: -6.3
 
 # Payment Data-Asian Clearing Union (ACU) Total Number of Asian Clearing Union (ACU) Transactions
 
@@ -100972,6 +100979,7 @@
 * 2025-10: 82.1
 * 2025-11: 80.2
 * 2025-12: 73.3
+* 2026-01: 76.4
 
 # Banking Sector-All Banks Banking Sector- Number of Banks MONARAGALA
 
@@ -103943,6 +103951,7 @@
 * 2025-10: 81.6
 * 2025-11: 78.9
 * 2025-12: 80.9
+* 2026-01: 72.0
 
 # Transport-Road Network Road Kilometerage-Kandy-Class B
 
@@ -108429,6 +108438,7 @@
 * 2025-10: 127.3
 * 2025-11: 112.4
 * 2025-12: 105.2
+* 2026-01: 115.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - GCF - GFCF - Construction
 
@@ -115684,6 +115694,7 @@
 * 2025-10: -17.4
 * 2025-11: -7.5
 * 2025-12: 6.4
+* 2026-01: -11.2
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Western
 
@@ -124505,7 +124516,7 @@
 * 2024-10: 2.0
 * 2024-11: 7.4
 * 2024-12: 16.1
-* 2025-01: 1.4
+* 2025-01: 1.2
 * 2025-02: 12.2
 * 2025-03: 7.2
 * 2025-04: -2.5
@@ -124517,6 +124528,7 @@
 * 2025-10: 5.8
 * 2025-11: 6.0
 * 2025-12: 8.3
+* 2026-01: 10.6
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class C
 
@@ -125794,7 +125806,7 @@
 * 2024-10: 95.8
 * 2024-11: 98.1
 * 2024-12: 99.1
-* 2025-01: 97.7
+* 2025-01: 97.6
 * 2025-02: 97.4
 * 2025-03: 113.4
 * 2025-04: 95.9
@@ -125806,6 +125818,7 @@
 * 2025-10: 101.3
 * 2025-11: 103.9
 * 2025-12: 107.4
+* 2026-01: 107.9
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Capital Funds
 
@@ -126147,6 +126160,7 @@
 * 2025-10: 94.6
 * 2025-11: 107.9
 * 2025-12: 104.9
+* 2026-01: 105.7
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MONARAGALA
 
@@ -128196,6 +128210,7 @@
 * 2025-10: 126.2
 * 2025-11: 124.1
 * 2025-12: 121.5
+* 2026-01: 99.8
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services (as a Pct. of Employment)
 
