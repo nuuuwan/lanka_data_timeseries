@@ -1,4 +1,5 @@
 import os
+import re
 import tempfile
 
 import requests
@@ -30,28 +31,45 @@ def init_dir():
     return dir_output
 
 
-def download_source() -> str:
-    # URL_DOWNLOAD is currently for 2025.
-    URL_DOWNLOAD = "https://data.adb.org/media/14081/download"
-    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False).name
+def _get_download_url(session: requests.Session) -> str:
+    DATASET_URL = "https://kidb.adb.org/economies/sri-lanka"
+    response = session.get(DATASET_URL, timeout=30)
+    response.raise_for_status()
+    # Find the first .xlsx resource link on the dataset page
+    match = re.search(
+        r'href="(https://data\.adb\.org/media/\d+/download)"', response.text
+    )
+    if match:
+        return match.group(1)
+    raise ValueError(f"Could not find .xlsx download URL on {DATASET_URL}")
 
+
+def download_source() -> str:
+    DATASET_PAGE = "https://kidb.adb.org/economies/sri-lanka"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://data.adb.org",
-        "Accept": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,*/*",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
     }
 
     session = requests.Session()
     session.headers.update(headers)
-    session.get("https://data.adb.org")  # establish session/cookies
 
-    response = session.get(URL_DOWNLOAD)
+    url_download = _get_download_url(session)
+    log.info(f"Resolved download URL: {url_download}")
+
+    session.headers["Referer"] = DATASET_PAGE
+    session.headers["Accept"] = (
+        "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,*/*"
+    )
+    response = session.get(url_download, timeout=60)
     response.raise_for_status()
 
+    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False).name
     with open(excel_path, "wb") as f:
         f.write(response.content)
 
-    log.info(f"Downloaded {URL_DOWNLOAD} to {excel_path}")
+    log.info(f"Downloaded {url_download} to {excel_path}")
     return excel_path
 
 
