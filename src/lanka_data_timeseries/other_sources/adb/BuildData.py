@@ -31,7 +31,7 @@ def init_dir():
 
 def download_source() -> str:
     # URL_DOWNLOAD is currently for 2025.
-    URL_DOWNLOAD = "https://data.adb.org/media/14331/download"
+    URL_DOWNLOAD = "https://data.adb.org/media/14081/download"
     excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx").name
     WWW(URL_DOWNLOAD).download_binary(excel_path)
     log.info(f"Downloaded {URL_DOWNLOAD} to {excel_path}")
