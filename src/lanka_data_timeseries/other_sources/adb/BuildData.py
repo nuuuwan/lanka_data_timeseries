@@ -1,8 +1,9 @@
 import os
 import tempfile
 
+import requests
 from openpyxl import load_workbook
-from utils import WWW, JSONFile, Log
+from utils import JSONFile, Log
 
 from lanka_data_timeseries.constants import (
     DEFAULT_FREQUENCY_NAME,
@@ -33,7 +34,10 @@ def download_source() -> str:
     # URL_DOWNLOAD is currently for 2025.
     URL_DOWNLOAD = "https://data.adb.org/media/14081/download"
     excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx").name
-    WWW(URL_DOWNLOAD).download_binary(excel_path)
+    response = requests.get(URL_DOWNLOAD)
+    response.raise_for_status()
+    with open(excel_path, "wb") as f:
+        f.write(response.content)
     log.info(f"Downloaded {URL_DOWNLOAD} to {excel_path}")
     return excel_path
 
