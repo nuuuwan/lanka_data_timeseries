@@ -8,8 +8,8 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "PPPEX",
-    "description": "Purchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-    "source": "World Economic Outlook (April 2025)",
+    "description": "Purchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions\" target=\"new\">click here</a>",
+    "source": "World Economic Outlook (October 2025)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PPPEX/LKA"
   },
@@ -18,7 +18,7 @@
     "min_t": "1980",
     "max_t": "2024",
     "min_value": 5.079,
-    "max_value": 87.268
+    "max_value": 87.142
   },
   "cleaned_data": {
     "1980": 5.079,
@@ -63,9 +63,9 @@
     "2019": 51.709,
     "2020": 55.16,
     "2021": 55.527,
-    "2022": 76.432,
-    "2023": 86.074,
-    "2024": 87.268
+    "2022": 76.445,
+    "2023": 86.004,
+    "2024": 87.142
   },
   "raw_data": {
     "1980": 5.079,
@@ -110,8 +110,8 @@
     "2019": 51.709,
     "2020": 55.16,
     "2021": 55.527,
-    "2022": 76.432,
-    "2023": 86.074,
-    "2024": 87.268
+    "2022": 76.445,
+    "2023": 86.004,
+    "2024": 87.142
   }
 }

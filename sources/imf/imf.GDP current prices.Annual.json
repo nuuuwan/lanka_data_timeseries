@@ -8,8 +8,8 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "PPPGDP",
-    "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"http://www.imf.org/external/pubs/ft/weo/faq.htm#q4d\" target=\"new\">click here</a>",
-    "source": "World Economic Outlook (April 2025)",
+    "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions\" target=\"new\">click here</a>",
+    "source": "World Economic Outlook (October 2025)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA"
   },
@@ -18,7 +18,7 @@
     "min_t": "1980",
     "max_t": "2024",
     "min_value": 16.908,
-    "max_value": 342.604
+    "max_value": 343.101
   },
   "cleaned_data": {
     "1980": 16.908,
@@ -63,9 +63,9 @@
     "2019": 307.705,
     "2020": 283.652,
     "2021": 317.188,
-    "2022": 314.829,
-    "2023": 318.56,
-    "2024": 342.604
+    "2022": 314.779,
+    "2023": 318.821,
+    "2024": 343.101
   },
   "raw_data": {
     "1980": 16.908,
@@ -110,8 +110,8 @@
     "2019": 307.705,
     "2020": 283.652,
     "2021": 317.188,
-    "2022": 314.829,
-    "2023": 318.56,
-    "2024": 342.604
+    "2022": 314.779,
+    "2023": 318.821,
+    "2024": 343.101
   }
 }
