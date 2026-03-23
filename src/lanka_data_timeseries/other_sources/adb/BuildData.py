@@ -1,9 +1,11 @@
 import os
-import re
 import tempfile
+import time
 
 import requests
 from openpyxl import load_workbook
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from utils import JSONFile, Log
 
 from lanka_data_timeseries.constants import (
@@ -31,28 +33,51 @@ def init_dir():
     return dir_output
 
 
+def _download_with_selenium(url: str, excel_path: str):
+
+    download_dir = os.path.dirname(excel_path)
+    options = Options()
+    options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_experimental_option(
+        "prefs",
+        {
+            "download.default_directory": download_dir,
+            "download.prompt_for_download": False,
+            "download.directory_upgrade": True,
+            "safebrowsing.enabled": True,
+        },
+    )
+    driver = webdriver.Chrome(options=options)
+    try:
+        driver.get(url)
+        deadline = time.time() + 60
+        downloaded = None
+        while time.time() < deadline:
+            candidates = [
+                os.path.join(download_dir, f)
+                for f in os.listdir(download_dir)
+                if f.endswith(".xlsx") and not f.endswith(".crdownload")
+            ]
+            if candidates:
+                downloaded = max(candidates, key=os.path.getmtime)
+                break
+            time.sleep(1)
+        if not downloaded:
+            raise RuntimeError("Selenium download timed out")
+        if downloaded != excel_path:
+            os.replace(downloaded, excel_path)
+    finally:
+        driver.quit()
+
+
 def download_source() -> str:
     # URL_DOWNLOAD is currently for 2025.
     URL_DOWNLOAD = "https://data.adb.org/media/14081/download"
-    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx").name
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/122.0.0.0 Safari/537.36"
-        ),
-        "Accept": "*/*",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Referer": "https://data.adb.org/dataset/sri-lanka-macroeconomic-indicators",
-        "Connection": "keep-alive",
-    }
-    response = requests.get(
-        URL_DOWNLOAD, headers=headers, allow_redirects=True, timeout=60
-    )
-    response.raise_for_status()
-    with open(excel_path, "wb") as f:
-        f.write(response.content)
-    log.info(f"Downloaded {URL_DOWNLOAD} to {excel_path}")
+    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False).name
+    _download_with_selenium(URL_DOWNLOAD, excel_path)
+    log.info(f"Downloaded {URL_DOWNLOAD} via Selenium")
     return excel_path
 
 
