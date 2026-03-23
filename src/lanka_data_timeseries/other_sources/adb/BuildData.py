@@ -33,11 +33,24 @@ def init_dir():
 def download_source() -> str:
     # URL_DOWNLOAD is currently for 2025.
     URL_DOWNLOAD = "https://data.adb.org/media/14081/download"
-    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx").name
-    response = requests.get(URL_DOWNLOAD)
+    excel_path = tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False).name
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://data.adb.org",
+        "Accept": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,*/*",
+    }
+
+    session = requests.Session()
+    session.headers.update(headers)
+    session.get("https://data.adb.org")  # establish session/cookies
+
+    response = session.get(URL_DOWNLOAD)
     response.raise_for_status()
+
     with open(excel_path, "wb") as f:
         f.write(response.content)
+
     log.info(f"Downloaded {URL_DOWNLOAD} to {excel_path}")
     return excel_path
 
