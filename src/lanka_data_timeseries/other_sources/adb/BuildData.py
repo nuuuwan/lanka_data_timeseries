@@ -40,9 +40,15 @@ def download_source() -> str:
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/122.0.0.0 Safari/537.36"
-        )
+        ),
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://data.adb.org/dataset/sri-lanka-macroeconomic-indicators",
+        "Connection": "keep-alive",
     }
-    response = requests.get(URL_DOWNLOAD, headers=headers)
+    response = requests.get(
+        URL_DOWNLOAD, headers=headers, allow_redirects=True, timeout=60
+    )
     response.raise_for_status()
     with open(excel_path, "wb") as f:
         f.write(response.content)
