@@ -70343,6 +70343,7 @@
 * 2025-03: 8462
 * 2025-06: 8491
 * 2025-09: 8465
+* 2025-12: 8798
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks KURUNEGALA
 
@@ -71560,6 +71561,7 @@
 * 2025-03: 6.3
 * 2025-06: 6.0
 * 2025-09: 6.2
+* 2025-12: 5.7
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels
 
@@ -72918,6 +72920,7 @@
 * 2025-03: 32.0
 * 2025-06: 31.7
 * 2025-09: 33.9
+* 2025-12: 32.3
 
 # Education-General Education Government schools - Student or teacher ratio
 
@@ -73146,6 +73149,7 @@
 * 2025-03: 70.1
 * 2025-06: 69.5
 * 2025-09: 68.6
+* 2025-12: 68.1
 
 # Co-operative Rural Banks-Loans Co-operative Rural Banks-Loans Outstanding-Other
 
@@ -76651,6 +76655,7 @@
 * 2025-11: 195.7
 * 2025-12: 196.1
 * 2026-01: 196.5
+* 2026-02: 197.3
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation culture and relig
 
@@ -78785,6 +78790,7 @@
 * 2025-11: 4.5
 * 2025-12: 4.6
 * 2026-01: 4.0
+* 2026-02: 4.0
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Collected-Central-Total
 
@@ -79060,6 +79066,7 @@
 * 2025-11: 183.4
 * 2025-12: 183.4
 * 2026-01: 192.6
+* 2026-02: 192.6
 
 # Agriculture-Minor Export Crops CARDAMOMS Production
 
@@ -83756,6 +83763,7 @@
 * 2025-11: 5.9
 * 2025-12: 5.8
 * 2026-01: 6.0
+* 2026-02: 6.4
 
 # Central Government Finance-Central Government Expenditure Central Governmnet Expenditure - Total Expenditure and Net Lending
 
@@ -89123,6 +89131,7 @@
 * 2025-11: 194.3
 * 2025-12: 194.6
 * 2026-01: 195.5
+* 2026-02: 197.1
 
 # Agriculture-National Livestock Statistics National Milk Production
 
@@ -90455,6 +90464,7 @@
 * 2025-03: 1907
 * 2025-06: 2104
 * 2025-09: 1896
+* 2025-12: 1960
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-Sabaragamuwa-Total
 
@@ -93697,6 +93707,7 @@
 * 2025-03: 5.5
 * 2025-06: 5.6
 * 2025-09: 5.8
+* 2025-12: 5.0
 
 # Education-University Education Percentage Admitted for University Education - Male
 
@@ -96057,6 +96068,7 @@
 * 2025-11: 194.2
 * 2025-12: 194.6
 * 2026-01: 195.9
+* 2026-02: 198.3
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Health
 
@@ -96467,6 +96479,7 @@
 * 2025-03: 2.5
 * 2025-06: 2.6
 * 2025-09: 3.2
+* 2025-12: 2.7
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets MONARAGALA
 
@@ -97054,6 +97067,7 @@
 * 2025-03: 2135
 * 2025-06: 2064
 * 2025-09: 2167
+* 2025-12: 2225
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Other Agricultural Crops
 
@@ -99043,6 +99057,7 @@
 * 2025-03: 4098
 * 2025-06: 4004
 * 2025-09: 4035
+* 2025-12: 4280
 
 # Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 
@@ -103202,6 +103217,7 @@
 * 2025-03: 3.8
 * 2025-06: 3.8
 * 2025-09: 4.3
+* 2025-12: 3.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Miscellaneous Goods and Services
 
@@ -107204,6 +107220,7 @@
 * 2025-03: 6.1
 * 2025-06: 5.9
 * 2025-09: 7.0
+* 2025-12: 5.2
 
 # Industry and Housing-Electricity Sales Electricity Sales-Units-Central-Total
 
@@ -111275,6 +111292,7 @@
 * 2025-11: 5.8
 * 2025-12: 5.4
 * 2026-01: 5.5
+* 2026-02: 4.9
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Import Unit Value Index (1997=100)
 
@@ -114174,6 +114192,7 @@
 * 2025-11: 5.6
 * 2025-12: 5.5
 * 2026-01: 5.4
+* 2026-02: 5.5
 
 # Agriculture-Coconut Coconut Production (Y-o-Y growth Pct.)
 
@@ -117244,6 +117263,7 @@
 * 2025-03: 49.7
 * 2025-06: 49.3
 * 2025-09: 49.9
+* 2025-12: 48.8
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-Uva
 
@@ -117916,6 +117936,7 @@
 * 2025-11: 78.8
 * 2025-12: 77.5
 * 2026-01: 81.1
+* 2026-02: 81.9
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture, Forestry and Fishing - Fresh water fishing
 
@@ -121635,6 +121656,7 @@
 * 2025-11: 13.7
 * 2025-12: 13.7
 * 2026-01: 9.8
+* 2026-02: 9.8
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - Northern
 
@@ -125691,6 +125713,7 @@
 * 2025-11: 192.8
 * 2025-12: 192.9
 * 2026-01: 193.2
+* 2026-02: 194.1
 
 # Population Statistics-Mid Year Population Mid Year Population-Sri Lanka
 

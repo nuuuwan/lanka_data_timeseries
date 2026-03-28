@@ -72759,6 +72759,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force
 2025-03	8462
 2025-06	8491
 2025-09	8465
+2025-12	8798
 
 --------------------------------
 
@@ -74011,6 +74012,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Fem
 2025-03	6.3
 2025-06	6.0
 2025-09	6.2
+2025-12	5.7
 
 --------------------------------
 
@@ -75421,6 +75423,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-03	32.0
 2025-06	31.7
 2025-09	33.9
+2025-12	32.3
 
 --------------------------------
 
@@ -75654,6 +75657,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-03	70.1
 2025-06	69.5
 2025-09	68.6
+2025-12	68.1
 
 --------------------------------
 
@@ -79268,6 +79272,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	195.7
 2025-12	196.1
 2026-01	196.5
+2026-02	197.3
 
 --------------------------------
 
@@ -81444,6 +81449,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	4.5
 2025-12	4.6
 2026-01	4.0
+2026-02	4.0
 
 --------------------------------
 
@@ -81727,6 +81733,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-11	183.4
 2025-12	183.4
 2026-01	192.6
+2026-02	192.6
 
 --------------------------------
 
@@ -86569,6 +86576,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	5.9
 2025-12	5.8
 2026-01	6.0
+2026-02	6.4
 
 --------------------------------
 
@@ -92105,6 +92113,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	194.3
 2025-12	194.6
 2026-01	195.5
+2026-02	197.1
 
 --------------------------------
 
@@ -93490,6 +93499,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-03	1907
 2025-06	2104
 2025-09	1896
+2025-12	1960
 
 --------------------------------
 
@@ -96835,6 +96845,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-03	5.5
 2025-06	5.6
 2025-09	5.8
+2025-12	5.0
 
 --------------------------------
 
@@ -99278,6 +99289,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	194.2
 2025-12	194.6
 2026-01	195.9
+2026-02	198.3
 
 --------------------------------
 
@@ -99697,6 +99709,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Mal
 2025-03	2.5
 2025-06	2.6
 2025-09	3.2
+2025-12	2.7
 
 --------------------------------
 
@@ -100305,6 +100318,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-03	2135
 2025-06	2064
 2025-09	2167
+2025-12	2225
 
 --------------------------------
 
@@ -102373,6 +102387,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-03	4098
 2025-06	4004
 2025-09	4035
+2025-12	4280
 
 --------------------------------
 
@@ -106655,6 +106670,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Sri
 2025-03	3.8
 2025-06	3.8
 2025-09	4.3
+2025-12	3.8
 
 --------------------------------
 
@@ -110778,6 +110794,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-03	6.1
 2025-06	5.9
 2025-09	7.0
+2025-12	5.2
 
 --------------------------------
 
@@ -114962,6 +114979,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	5.8
 2025-12	5.4
 2026-01	5.5
+2026-02	4.9
 
 --------------------------------
 
@@ -117949,6 +117967,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	5.6
 2025-12	5.5
 2026-01	5.4
+2026-02	5.5
 
 --------------------------------
 
@@ -121115,6 +121134,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-03	49.7
 2025-06	49.3
 2025-09	49.9
+2025-12	48.8
 
 --------------------------------
 
@@ -121805,6 +121825,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-11	78.8
 2025-12	77.5
 2026-01	81.1
+2026-02	81.9
 
 --------------------------------
 
@@ -125638,6 +125659,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2025-11	13.7
 2025-12	13.7
 2026-01	9.8
+2026-02	9.8
 
 --------------------------------
 
@@ -129843,6 +129865,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2025-11	192.8
 2025-12	192.9
 2026-01	193.2
+2026-02	194.1
 
 --------------------------------
 
