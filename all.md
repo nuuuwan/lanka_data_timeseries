@@ -129546,7 +129546,7 @@
 
 # IMF - Sri Lanka Data Human Capital and Labor Market Policies
 
-* 2023: 0.12667578458786
+* 2023: 0.10772097855806
 
 # IMF - Sri Lanka Data DEBT
 

@@ -148156,12 +148156,12 @@ Footnotes: {'indicator_key': 'PrivInexDIGDP', 'description': 'Private Inflows ex
 --------------------------------
 
 IMF - Sri Lanka Data Human Capital and Labor Market Policies
-2023	0.12667578458786
+2023	0.10772097855806
 
 Source: imf
 Frequency: Annual
 Unit: Index
-Footnotes: {'indicator_key': 'HCLMP', 'description': 'Human Capital and Labor Market Policies', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/HCLMP/LKA'}
+Footnotes: {'indicator_key': 'RE', 'description': 'Human Capital and Labor Market Policies', 'source': 'AI Preparedness Index - April 2024', 'dataset': 'AIPI', 'url': 'https://www.imf.org/external/datamapper/api/v1/RE/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data DEBT
