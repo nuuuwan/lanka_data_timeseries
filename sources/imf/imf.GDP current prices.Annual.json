@@ -9,7 +9,7 @@
   "footnotes": {
     "indicator_key": "PPPGDP",
     "description": "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href=\"https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions\" target=\"new\">click here</a>",
-    "source": "World Economic Outlook (October 2025)",
+    "source": "World Economic Outlook (April 2026)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA"
   },
