@@ -2575,6 +2575,7 @@
 * 2025-12: 183.4
 * 2026-01: 192.6
 * 2026-02: 192.6
+* 2026-03: 192.6
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of other perennial crops
 
@@ -5430,6 +5431,7 @@
 * 2025-12: 196.1
 * 2026-01: 196.5
 * 2026-02: 197.3
+* 2026-03: 198.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Wholesale and Retail Trade
 
@@ -7899,6 +7901,7 @@
 * 2025-12: 13.7
 * 2026-01: 9.8
 * 2026-02: 9.8
+* 2026-03: 9.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Ownership of Dwellings
 
@@ -20103,6 +20106,7 @@
 * 2025-12: 5.5
 * 2026-01: 5.4
 * 2026-02: 5.5
+* 2026-03: 5.6
 
 # Transport-Road Network Road Kilometerage-Western-Class E
 
@@ -23285,6 +23289,7 @@
 * 2025-12: 192.9
 * 2026-01: 193.2
 * 2026-02: 194.1
+* 2026-03: 194.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Real estate activities, Including Ownership of dwelling
 
@@ -27611,6 +27616,7 @@
 * 2025-12: 5.4
 * 2026-01: 5.5
 * 2026-02: 4.9
+* 2026-03: 4.6
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Tobacco products - Change
 
@@ -32457,6 +32463,7 @@
 * 2025-12: 194.6
 * 2026-01: 195.9
 * 2026-02: 198.3
+* 2026-03: 200.4
 
 # Central Government Finance-Central Government Revenue Tax Revenue
 
@@ -32718,6 +32725,7 @@
 * 2025-12: 194.6
 * 2026-01: 195.5
 * 2026-02: 197.1
+* 2026-03: 198.8
 
 # Agriculture-Subsidiary Food Crops COWPEA Production
 
@@ -41509,6 +41517,7 @@
 * 2025-12: 77.5
 * 2026-01: 81.1
 * 2026-02: 81.9
+* 2026-03: 81.3
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Sabaragamuwa-Total
 
@@ -49633,6 +49642,7 @@
 * 2025-12: 4.6
 * 2026-01: 4.0
 * 2026-02: 4.0
+* 2026-03: 3.7
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-North Central-Total
 
@@ -51233,6 +51243,7 @@
 * 2025-12: 5.8
 * 2026-01: 6.0
 * 2026-02: 6.4
+* 2026-03: 6.9
 
 # Agriculture-Tea No. of Tea Factories - Sabaragamuwa
 
