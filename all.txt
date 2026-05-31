@@ -64484,6 +64484,8 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2024-11	77.5
 2024-12	77.0
 2025-01	74.5
+2025-02	73.4
+2025-03	77.3
 2025-04	75.0
 2025-05	77.8
 2025-06	80.2
@@ -64494,12 +64496,14 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-11	80.2
 2025-12	73.3
 2026-01	76.4
+2026-02	77.4
+2026-03	71.4
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks GAMPAHA
@@ -65047,6 +65051,8 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2024-11	91.5
 2024-12	92.0
 2025-01	94.0
+2025-02	86.6
+2025-03	94.9
 2025-04	75.3
 2025-05	85.7
 2025-06	101.7
@@ -65057,12 +65063,14 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2025-11	94.9
 2025-12	98.8
 2026-01	105.8
+2026-02	102.4
+2026-03	108.1
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Services - Transport and Communication - Post and Telecommunication
@@ -67337,6 +67345,8 @@ Industry and Housing-Index of Industrial Production Food products
 2024-11	98.1
 2024-12	99.1
 2025-01	97.6
+2025-02	97.3
+2025-03	113.3
 2025-04	95.9
 2025-05	111.0
 2025-06	100.3
@@ -67347,12 +67357,14 @@ Industry and Housing-Index of Industrial Production Food products
 2025-11	103.9
 2025-12	107.4
 2026-01	107.9
+2026-02	102.3
+2026-03	114.1
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits
@@ -67774,6 +67786,8 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2024-11	4.7
 2024-12	8.8
 2025-01	6.0
+2025-02	6.1
+2025-03	5.5
 2025-04	1.7
 2025-05	4.7
 2025-06	6.2
@@ -67784,12 +67798,14 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2025-11	5.9
 2025-12	4.4
 2026-01	4.4
+2026-02	4.1
+2026-03	3.0
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Interest Rates-Commercial Bank Lending and Deposit Rates Licensed Commercial Banks - Savings Deposits Rates_Max
@@ -71061,6 +71077,8 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2024-11	6.5
 2024-12	10.1
 2025-01	1.6
+2025-02	1.8
+2025-03	18.5
 2025-04	2.5
 2025-05	7.2
 2025-06	24.0
@@ -71071,12 +71089,14 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2025-11	3.7
 2025-12	7.4
 2026-01	12.5
+2026-02	18.3
+2026-03	13.8
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Central Government Finance-Central Government Revenue Non Tax Revenue
@@ -72125,18 +72145,6 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-10	-6.9
 2024-11	16.0
 2024-12	10.1
-2025-01	14.6
-2025-02	-22.4
-2025-03	24.3
-2025-04	21.7
-2025-05	2.9
-2025-06	-6.3
-2025-07	-7.9
-2025-08	-7.8
-2025-09	-9.1
-2025-10	2.3
-2025-11	-5.6
-2025-12	-2.0
 2026-01	-3.6
 2026-02	15.2
 
@@ -74046,6 +74054,8 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2024-11	99.4
 2024-12	104.9
 2025-01	111.4
+2025-02	112.8
+2025-03	108.2
 2025-04	98.5
 2025-05	104.7
 2025-06	112.7
@@ -74056,12 +74066,14 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-11	112.4
 2025-12	105.2
 2026-01	115.4
+2026-02	108.2
+2026-03	126.2
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Other non-metallic mineral products - Change
@@ -74162,6 +74174,8 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2024-11	-0.6
 2024-12	14.3
 2025-01	32.1
+2025-02	25.3
+2025-03	1.4
 2025-04	21.1
 2025-05	11.6
 2025-06	20.2
@@ -74172,12 +74186,14 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-11	13.1
 2025-12	0.4
 2026-01	3.6
+2026-02	-4.1
+2026-03	16.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Efficiency (Operating Cost) Ratio
@@ -80904,6 +80920,8 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2024-11	-1.2
 2024-12	7.4
 2025-01	-9.5
+2025-02	0.4
+2025-03	-7.5
 2025-04	15.9
 2025-05	-0.3
 2025-06	4.7
@@ -80914,12 +80932,14 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2025-11	-4.2
 2025-12	-13.3
 2026-01	-7.8
+2026-02	-1.0
+2026-03	0.4
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Wages and Indices-Informal Private Sector Wage Rate Index Wage Rate Index-Informal Private Sector (2012=100)-Agricuture-Nominal
@@ -84856,6 +84876,8 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2024-11	18.6
 2024-12	17.6
 2025-01	12.7
+2025-02	-14.5
+2025-03	-9.7
 2025-04	-3.2
 2025-05	-6.8
 2025-06	0.1
@@ -84866,12 +84888,14 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-11	3.4
 2025-12	-4.8
 2026-01	2.5
+2026-02	5.3
+2026-03	-7.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Petroleum-Petroleum Petroleum - Diesel sales
@@ -96974,6 +96998,8 @@ Industry and Housing-Index of Industrial Production Beverages
 2024-11	129.5
 2024-12	140.1
 2025-01	108.2
+2025-02	111.7
+2025-03	125.7
 2025-04	126.3
 2025-05	121.5
 2025-06	122.0
@@ -96984,12 +97010,14 @@ Industry and Housing-Index of Industrial Production Beverages
 2025-11	124.1
 2025-12	121.5
 2026-01	99.8
+2026-02	110.6
+2026-03	126.2
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kurunegala-Class A
@@ -106721,6 +106749,8 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2024-11	5.4
 2024-12	-0.7
 2025-01	-10.2
+2025-02	-4.8
+2025-03	-8.5
 2025-04	6.9
 2025-05	-5.8
 2025-06	-5.3
@@ -106731,12 +106761,14 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2025-11	-7.5
 2025-12	6.4
 2026-01	-11.2
+2026-02	-22.0
+2026-03	-13.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Tea Estimated Tea Production - Western
@@ -111032,6 +111064,8 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2024-11	-18.1
 2024-12	-10.2
 2025-01	22.5
+2025-02	-12.2
+2025-03	7.5
 2025-04	0.8
 2025-05	28.1
 2025-06	35.4
@@ -111042,12 +111076,14 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-11	24.0
 2025-12	2.3
 2026-01	-6.3
+2026-02	-0.6
+2026-03	-12.3
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Other Investments IIP - Other Investments- Currency and Deposits -Assets
@@ -123679,6 +123715,8 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2024-11	85.3
 2024-12	76.0
 2025-01	81.1
+2025-02	88.0
+2025-03	87.5
 2025-04	76.8
 2025-05	81.0
 2025-06	76.1
@@ -123689,12 +123727,14 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2025-11	78.9
 2025-12	80.9
 2026-01	72.0
+2026-02	68.6
+2026-03	75.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Beds
@@ -127847,18 +127887,6 @@ Agriculture-Tea Tea Production
 2024-10	21.3
 2024-11	22.7
 2024-12	21.8
-2025-01	21.5
-2025-02	15.6
-2025-03	24.4
-2025-04	26.4
-2025-05	25.4
-2025-06	21.7
-2025-07	21.4
-2025-08	19.7
-2025-09	22.2
-2025-10	21.8
-2025-11	21.4
-2025-12	21.4
 2026-01	20.7
 2026-02	18.0
 
@@ -132244,6 +132272,8 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2024-11	87.0
 2024-12	102.6
 2025-01	112.8
+2025-02	95.1
+2025-03	116.9
 2025-04	107.0
 2025-05	110.9
 2025-06	109.3
@@ -132254,12 +132284,14 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-11	107.9
 2025-12	104.9
 2026-01	105.7
+2026-02	94.5
+2026-03	102.6
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: Index Value
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Total Revenue-Western
@@ -134234,6 +134266,8 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2024-11	7.4
 2024-12	16.1
 2025-01	1.2
+2025-02	12.1
+2025-03	7.1
 2025-04	-2.5
 2025-05	5.2
 2025-06	-2.6
@@ -134244,12 +134278,14 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2025-11	6.0
 2025-12	8.3
 2026-01	10.6
+2026-02	5.2
+2026-03	0.7
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale: %
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-03-13', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Census and Statistics', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Communication
