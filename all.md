@@ -64846,6 +64846,7 @@
 * 2026-01: 5.5
 * 2026-02: 4.9
 * 2026-03: 4.6
+* 2026-04: 5.1
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Northern
 
@@ -72837,6 +72838,7 @@
 * 2026-01: 4.0
 * 2026-02: 4.0
 * 2026-03: 3.7
+* 2026-04: 3.4
 
 # International Investment Position-Portfolio Investment IIP- Portfolio Investment - Assets
 
@@ -76376,6 +76378,7 @@
 * 2026-01: 195.9
 * 2026-02: 198.3
 * 2026-03: 200.4
+* 2026-04: 202.5
 
 # Education-General Education Government schools - School density
 
@@ -77643,6 +77646,9 @@
 * 2025-11: 13157.1
 * 2025-12: 13157.1
 * 2026-01: 13490.4
+* 2026-02: 13490.4
+* 2026-03: 13490.0
+* 2026-04: 13490.4
 
 # Transport-Road Network Road Kilometerage-Sabaragamuwa-Total
 
@@ -81778,6 +81784,7 @@
 * 2026-01: 6.0
 * 2026-02: 6.4
 * 2026-03: 6.9
+* 2026-04: 7.4
 
 # Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carried out at POS terminals)
 
@@ -84641,6 +84648,9 @@
 * 2025-11: 147.5
 * 2025-12: 145.7
 * 2026-01: 148.5
+* 2026-02: 149.8
+* 2026-03: 149.4
+* 2026-04: 145.1
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Western-Total
 
@@ -89547,6 +89557,7 @@
 * 2026-01: 192.6
 * 2026-02: 192.6
 * 2026-03: 192.6
+* 2026-04: 192.6
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Class A
 
@@ -91708,6 +91719,7 @@
 * 2026-01: 193.2
 * 2026-02: 194.1
 * 2026-03: 194.9
+* 2026-04: 195.6
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Eastern
 
@@ -92763,6 +92775,7 @@
 * 2026-01: 195.5
 * 2026-02: 197.1
 * 2026-03: 198.8
+* 2026-04: 200.4
 
 # Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of Education-G.C.E.(A-L) and Above
 
@@ -99603,6 +99616,7 @@
 * 2026-01: 196.5
 * 2026-02: 197.3
 * 2026-03: 198.6
+* 2026-04: 199.9
 
 # Agriculture-Minor Export Crops NUTMEG Production
 
@@ -103109,6 +103123,7 @@
 * 2026-01: 81.1
 * 2026-02: 81.9
 * 2026-03: 81.3
+* 2026-04: 79.3
 
 # Banking Sector-All Banks Banking Sector- Number of Banks GALLE
 
@@ -108144,6 +108159,7 @@
 * 2026-01: 5.4
 * 2026-02: 5.5
 * 2026-03: 5.6
+* 2026-04: 6.0
 
 # Health-Personel No.of Public Health Nursing Sisters
 
@@ -111211,6 +111227,7 @@
 * 2026-01: 9.8
 * 2026-02: 9.8
 * 2026-03: 9.8
+* 2026-04: 5.0
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Sewerage Waste treatment and disposal activities
 
