@@ -59322,20 +59322,20 @@ Footnotes: {'indicator_key': 'ka_new', 'description': 'Overall Openness Index is
 --------------------------------
 
 IMF - Sri Lanka Data Ratio of reserve or ARA metric
-2011	1.007090138
-2012	0.9528658127
-2013	0.6294915866
-2014	0.6277581078
-2015	0.5367682946
-2016	0.4193974371
-2017	0.4975281566
-2018	0.4409904155
-2019	0.460997689
-2020	0.5146372907
-2021	0.1819980207
-2022	0.1373671102
-2023	0.2806004413
-2024	0.3527414881
+2011	0.8375592244
+2012	0.8013254107
+2013	0.5848275387
+2014	0.5796907145
+2015	0.4969720551
+2016	0.3907677631
+2017	0.4639102653
+2018	0.4093999152
+2019	0.4320657268
+2020	0.4404257286
+2021	0.1698589957
+2022	0.1290266356
+2023	0.2691968874
+2024	0.3395519946
 
 Source: imf
 Frequency: Annual
@@ -62185,6 +62185,34 @@ Source: imf
 Frequency: Annual
 Unit: Units
 Footnotes: {'indicator_key': 'Ka_gu', 'description': 'Guarantee openness index captures the ability to conduct operations through guarantees, sureties, and financial backup facilities provided by residents to nonresidents and vice versa. It also includes securities pledged for payment or performance of a contract—such as warrants, performance bonds, and standby letters of credit—and financial backup facilities that are credit facilities used as a guarantee for independent financial operations. It has two sub-components: Guarantee inflow liberalization | Guarantee outflow liberalization. (1=fully liberalized)', 'source': 'Wang-Jahan Index', 'dataset': 'CL', 'url': 'https://www.imf.org/external/datamapper/api/v1/Ka_gu/LKA'}
+--------------------------------
+
+IMF - Sri Lanka Data Reserves or Short-term Debt (STD)
+2005	1.024966578
+2006	0.9140561766
+2007	0.844136399
+2008	0.5252322151
+2009	0.8664255743
+2010	1.134194912
+2011	0.746321968
+2012	0.7557940774
+2013	0.8242513429
+2014	0.7570736012
+2015	0.6703116827
+2016	0.5724375285
+2017	0.6865642385
+2018	0.5715054742
+2019	0.6884472613
+2020	0.4827912663
+2021	0.2727497071
+2022	0.2125060852
+2023	0.6623967056
+2024	0.9081021696
+
+Source: imf
+Frequency: Annual
+Unit: Unit
+Footnotes: {'indicator_key': 'Reserves_STD', 'description': 'Reserves/Short-term Debt (STD) \x96 \x93Greenspan-Guidotti\x94 rule of 100% cover of STD is a widely-used standard of adequacy for EMs', 'source': 'Assessing Reserve Adequacy - ARA', 'dataset': 'ARA', 'url': 'https://www.imf.org/external/datamapper/api/v1/Reserves_STD/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Revenue
