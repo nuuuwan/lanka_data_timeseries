@@ -60510,12 +60510,17 @@ Central Government Finance-Central Government Revenue Tax Revenue
 2025-08	3068.5
 2025-09	3562.92
 2025-10	4033.26
+2025-11	4611.5
+2025-12	5049.19
+2026-01	434.23
+2026-02	959.9
+2026-03	1344.81
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Labour Force and Employment-Overall Labour Statistics-Labour Force
@@ -61362,12 +61367,17 @@ Central Government Finance-Central Government Expenditure Capital and Net Lendin
 2025-08	331.18
 2025-09	455.34
 2025-10	582.1
+2025-11	645.62
+2025-12	998.03
+2026-01	43.15
+2026-02	58.53
+2026-03	106.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Population Statistics-Mid-Year Population by Province Mid Year Population-North western
@@ -62774,12 +62784,15 @@ Central Government Finance-Debt Statistics Outstanding Total Foreign Debt
 2025-07	10918150.45
 2025-08	10980731.55
 2025-09	10974344.94
+2025-10	11018723.7
+2025-11	11079528.38
+2025-12	11319363.05
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022.', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Paddy Paddy Production - North Western
@@ -67845,12 +67858,17 @@ Central Government Finance-Central Government Revenue Revenue
 2025-08	3294.74
 2025-09	3826.99
 2025-10	4336.16
+2025-11	4945.78
+2025-12	5449.4
+2026-01	468.75
+2026-02	1031.16
+2026-03	1498.69
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Northern
@@ -71704,12 +71722,15 @@ Central Government Finance-Debt Statistics Outstanding Rupee Loans
 2025-07	0
 2025-08	0
 2025-09	0
+2025-10	0
+2025-11	0
+2025-12	0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Education-University Education No. of University Students Graduated - Paramedical Studies
@@ -72781,12 +72802,15 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 2025-07	14994765.06
 2025-08	14984148.5
 2025-09	15097987.2
+2025-10	15170042.05
+2025-11	15255036.18
+2025-12	15427749.18
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment
@@ -79643,12 +79667,15 @@ Central Government Finance-Debt Statistics Total outstanding central Government 
 2025-07	29862512.57
 2025-08	29660220.01
 2025-09	29675805.73
+2025-10	29672231.95
+2025-11	29615282.49
+2025-12	29994687.87
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022. The data from January 2024 to August 2024 has been revised on February 2025.', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022. The data from January 2024 to August 2024 has been revised on February 2025.', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
@@ -80547,12 +80574,15 @@ Central Government Finance-Debt Statistics Outstanding Treasury Bills
 2025-07	3855442.0
 2025-08	3827372.83
 2025-09	3741633.82
+2025-10	3573763.32
+2025-11	3386524.69
+2025-12	3136291.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Paddy Paddy Yield - Bushels per Acre - Northern
@@ -93382,12 +93412,17 @@ Central Government Finance-Central Government Revenue Budget Deficit
 2025-08	-411.03
 2025-09	-441.42
 2025-10	-455.77
+2025-11	-325.6
+2025-12	-744.86
+2026-01	-3.81
+2026-02	169.71
+2026-03	116.35
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs.
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Balance of Payments-Financial Account BOP - Other Investments- Currency and Deposits -Liabilities
@@ -102170,12 +102205,17 @@ Central Government Finance-Central Government Expenditure Recurrent Expenditure
 2025-08	3381.31
 2025-09	3820.93
 2025-10	4223.73
+2025-11	4641.74
+2025-12	5232.39
+2026-01	429.41
+2026-02	802.91
+2026-03	1276.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Buses Operated-All Island
@@ -108149,12 +108189,17 @@ Central Government Finance-Central Government Revenue Grants
 2025-08	6.72
 2025-09	7.86
 2025-10	13.9
+2025-11	15.98
+2025-12	36.15
+2026-01	0
+2026-02	0
+2026-03	0.47
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Agriculture-Tea No. of Tea Factories - Sabaragamuwa
@@ -110133,12 +110178,17 @@ Central Government Finance-Central Government Revenue Revenue and Grants
 2025-08	3301.46
 2025-09	3834.85
 2025-10	4350.05
+2025-11	4961.76
+2025-12	5485.55
+2026-01	468.75
+2026-02	1031.16
+2026-03	1499.15
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Exp. at Constant (2010) Prices - GCF - Changes in inventories
@@ -111065,12 +111115,17 @@ Central Government Finance-Central Government Revenue Primary Balance
 2025-08	1276.54
 2025-09	1465.13
 2025-10	1628.97
+2025-11	1941.76
+2025-12	1755.81
+2026-01	222.82
+2026-02	545.42
+2026-03	709.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rs
 Scale:  
-Footnotes: {'Sector': 'Fiscal', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Fiscal', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Colombo-Class D
@@ -111232,12 +111287,17 @@ Central Government Finance-Central Government Expenditure Expenditure and Net Le
 2025-08	3712.49
 2025-09	4276.27
 2025-10	4805.82
+2025-11	5287.36
+2025-12	6230.41
+2026-01	472.56
+2026-02	861.45
+2026-03	1382.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Eastern
@@ -112730,12 +112790,17 @@ Central Government Finance-Central Government Revenue Non Tax Revenue
 2025-08	226.24
 2025-09	264.07
 2025-10	302.9
+2025-11	334.28
+2025-12	400.21
+2026-01	34.52
+2026-02	71.26
+2026-03	153.88
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Billion
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance', 'GeoArea': 'National', 'Note': 'Figures are reported on a cumulative basis for the financial year', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Gross Value Added (GVA) at Basic Price
@@ -116143,12 +116208,15 @@ Central Government Finance-Debt Statistics Total Outstanding Domestic Debt
 2025-07	18944362.11
 2025-08	18679488.46
 2025-09	18701460.79
+2025-10	18653508.26
+2025-11	18535754.11
+2025-12	18675324.83
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Million
-Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022. The data from January 2024 to August 2024 has been revised on February 2025', 'Data last updated': '2025-12-17', 'Update frequency': ''}
+Footnotes: {'Sector': 'Financial', 'Source': 'Ministry of Finance, Central Bank of Sri Lanka', 'GeoArea': 'National', 'Note': 'The debt data since April 2022 are highly provisional as the outstanding central government debt excludes several overdue debt service payments after April 12, 2022, the date of which the Interim Policy regarding the servicing of Sri Lanka’s external public debt was announced by the Ministry of Finance. These debt service payments include overdue interest payments of affected debt which deemed to be capitalised as per the Interim Policy. And it excluded the value of principal payments yet to be settled in relation to Sri Lanka Development Bonds from April 2022 till end 2022. The data from January 2024 to August 2024 has been revised on February 2025', 'Data last updated': '2026-06-11', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kurunegala-Class C
