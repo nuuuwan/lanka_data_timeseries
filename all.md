@@ -64916,6 +64916,8 @@
 * 2024-09: 1950204
 * 2024-12: 1990271
 * 2025-03: 2058100
+* 2025-06: 2093738
+* 2025-09: 2134277
 
 # International Investment Position-Other Investments IIP - Other Investments- Currency and Deposits -Liabilities
 
@@ -67539,6 +67541,8 @@
 * 2024-09: 23470602
 * 2024-12: 26311356
 * 2025-03: 25927600
+* 2025-06: 27525800
+* 2025-09: 28899062
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets TRINCOMALEE
 
@@ -71037,6 +71041,8 @@
 * 2024-09: 20536395116
 * 2024-12: 20088507611
 * 2025-03: 20431238559
+* 2025-06: 20418494904
+* 2025-09: 19198558906
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Growing of Sugar cane, tobacco a
 
@@ -73939,6 +73945,8 @@
 * 2024-09: 124642
 * 2024-12: 131029
 * 2025-03: 137722
+* 2025-06: 141259
+* 2025-09: 132808
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)
 
@@ -74485,6 +74493,8 @@
 * 2024-09: 1426911
 * 2024-12: 1708522
 * 2025-03: 1528607
+* 2025-06: 1302140
+* 2025-09: 1534589
 
 # International Investment Position-Other Investments IIP - Other Investments- Other accounts receivable -Assets
 
@@ -81996,6 +82006,8 @@
 * 2024-09: 165538
 * 2024-12: 157622
 * 2025-03: 157033
+* 2025-06: 159980
+* 2025-09: 153167
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of paper and paper products
 
@@ -82455,6 +82467,8 @@
 * 2024-09: 64581121
 * 2024-12: 71088596
 * 2025-03: 72138817
+* 2025-06: 80001330
+* 2025-09: 85085716
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - Consumption - Total Consumption Expenditure
 
@@ -82818,6 +82832,8 @@
 * 2024-09: 3681
 * 2024-12: 3622
 * 2025-03: 3652
+* 2025-06: 3429
+* 2025-09: 3580
 
 # International Investment Position-Other Investments IIP - Other Investments- Trade Credits -Liabilities
 
@@ -83579,6 +83595,7 @@
 * 2024-09: 81352314
 * 2024-12: 87040236
 * 2025-03: 86353347
+* 2025-06: 91433300
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - Western
 
@@ -88070,6 +88087,8 @@
 * 2024-09: 3121817000
 * 2024-12: 3734019000
 * 2025-03: 3177727000
+* 2025-06: 3202081000
+* 2025-09: 3353971000
 
 # Prices and Indices-Producer’s Price Index(PPI) Producer Price Index (Base_ Fourth Quarter 2018 = 100)
 
@@ -89695,6 +89714,8 @@
 * 2024-09: 225724968556
 * 2024-12: 249882164267
 * 2025-03: 248587185722
+* 2025-06: 281067484497
+* 2025-09: 288165212959
 
 # Transport-Road Network Road Kilometerage-Matale-Class C
 
@@ -91651,6 +91672,8 @@
 * 2024-09: 429459935
 * 2024-12: 499451898
 * 2025-03: 383783105
+* 2025-06: 399398532
+* 2025-09: 490538186
 
 # Payment Data-SLIP System Total Volume of transactions cleared through SLIP System
 
@@ -92218,6 +92241,8 @@
 * 2024-09: 1820608351
 * 2024-12: 1879216175
 * 2025-03: 1936498906
+* 2025-06: 1993078895
+* 2025-09: 2625043330
 
 # Banking Sector-All Banks Banking Sector- Number of Banks HAMBANTOTA
 
@@ -96602,6 +96627,8 @@
 * 2024-09: 90356410
 * 2024-12: 95988933
 * 2025-03: 96171632
+* 2025-06: 106704777
+* 2025-09: 115213859
 
 # Transport-SLTB or Regional Bus Companies Public road transport - Operated kilometres
 
@@ -104931,6 +104958,8 @@
 * 2024-09: 18941954
 * 2024-12: 19077979
 * 2025-03: 19493720
+* 2025-06: 20075928
+* 2025-09: 20225534
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Services - Banking, Insurance and Real Estate etc.
 
@@ -106185,6 +106214,8 @@
 * 2024-09: 410788950
 * 2024-12: 454841344
 * 2025-03: 463985355
+* 2025-06: 480601517
+* 2025-09: 505269493
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Western
 
@@ -106488,6 +106519,8 @@
 * 2024-09: 78411
 * 2024-12: 86607
 * 2025-03: 78802
+* 2025-06: 82311
+* 2025-09: 100880
 
 # Transport-Road Network Road Kilometerage-Galle-Class A
 
@@ -106569,6 +106602,8 @@
 * 2024-09: 475
 * 2024-12: 465
 * 2025-03: 430
+* 2025-06: 509
+* 2025-09: 497
 
 # Industry and Housing-Index of Industrial Production Chemicals and chemical products
 
@@ -107097,6 +107132,7 @@
 * 2024-09: 4782296733389
 * 2024-12: 4184361519026
 * 2025-03: 4222600367738
+* 2025-06: 4468358685516
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services
 
@@ -108440,6 +108476,8 @@
 * 2024-09: 166212684596
 * 2024-12: 183713262571
 * 2025-03: 175244890768
+* 2025-06: 188116466035
+* 2025-09: 193143071412
 
 # Thrift & Credit Co-operative Societies-Deposits Thrift & Credit Co-operative Societies-Deposits-Total
 
@@ -113166,6 +113204,8 @@
 * 2024-09: 108888369
 * 2024-12: 113242225
 * 2025-03: 114032430
+* 2025-06: 113947331
+* 2025-09: 120447557
 
 # Transport-Railways Sri Lanka Railways-Freight Tonne Kilometers-All Island
 

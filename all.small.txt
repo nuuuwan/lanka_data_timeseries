@@ -66933,6 +66933,8 @@ Payment Data-Credit or Debit Cards Total number of Credit Cards in use (as at en
 2024-09	1950204
 2024-12	1990271
 2025-03	2058100
+2025-06	2093738
+2025-09	2134277
 
 --------------------------------
 
@@ -69641,6 +69643,8 @@ Payment Data-Credit or Debit Cards Total Volume of Credit Card transactions
 2024-09	23470602
 2024-12	26311356
 2025-03	25927600
+2025-06	27525800
+2025-09	28899062
 
 --------------------------------
 
@@ -73242,6 +73246,8 @@ Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount
 2024-09	20536395116
 2024-12	20088507611
 2025-03	20431238559
+2025-06	20418494904
+2025-09	19198558906
 
 --------------------------------
 
@@ -76240,6 +76246,8 @@ Payment Data-Point of Sale (POS) Terminals Number of Point of Sale (POS) termina
 2024-09	124642
 2024-12	131029
 2025-03	137722
+2025-06	141259
+2025-09	132808
 
 --------------------------------
 
@@ -76796,6 +76804,8 @@ Payment Data-Credit or Debit Cards Number of Debit Cards issued during the quart
 2024-09	1426911
 2024-12	1708522
 2025-03	1528607
+2025-06	1302140
+2025-09	1534589
 
 --------------------------------
 
@@ -84541,6 +84551,8 @@ Payment Data-Credit or Debit Cards Number of defaulted Credit Cards
 2024-09	165538
 2024-12	157622
 2025-03	157033
+2025-06	159980
+2025-09	153167
 
 --------------------------------
 
@@ -85013,6 +85025,8 @@ Payment Data-Credit or Debit Cards Total Volume of Debit Card transactions (carr
 2024-09	64581121
 2024-12	71088596
 2025-03	72138817
+2025-06	80001330
+2025-09	85085716
 
 --------------------------------
 
@@ -85392,6 +85406,8 @@ Payment Data-Automated Teller Machines(ATMs) Number of ATM terminals (as at end 
 2024-09	3681
 2024-12	3622
 2025-03	3652
+2025-06	3429
+2025-09	3580
 
 --------------------------------
 
@@ -86179,6 +86195,7 @@ Payment Data-Internet based Total Volume of Internet based financial transaction
 2024-09	81352314
 2024-12	87040236
 2025-03	86353347
+2025-06	91433300
 
 --------------------------------
 
@@ -90805,6 +90822,8 @@ Payment Data-Money or Postal Orders Value of Payments Made through Money Orders 
 2024-09	3121817000
 2024-12	3734019000
 2025-03	3177727000
+2025-06	3202081000
+2025-09	3353971000
 
 --------------------------------
 
@@ -92475,6 +92494,8 @@ Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carri
 2024-09	225724968556
 2024-12	249882164267
 2025-03	248587185722
+2025-06	281067484497
+2025-09	288165212959
 
 --------------------------------
 
@@ -94487,6 +94508,8 @@ Payment Data-Tele-banking Total Value of Tele-banking financial transactions
 2024-09	429459935
 2024-12	499451898
 2025-03	383783105
+2025-06	399398532
+2025-09	490538186
 
 --------------------------------
 
@@ -95058,6 +95081,8 @@ Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactio
 2024-09	1820608351
 2024-12	1879216175
 2025-03	1936498906
+2025-06	1993078895
+2025-09	2625043330
 
 --------------------------------
 
@@ -99576,6 +99601,8 @@ Payment Data-Point of Sale (POS) Terminals Total Volume of Point of Sale (POS) T
 2024-09	90356410
 2024-12	95988933
 2025-03	96171632
+2025-06	106704777
+2025-09	115213859
 
 --------------------------------
 
@@ -108200,6 +108227,8 @@ Payment Data-Credit or Debit Cards Total number of Debit Cards in use (as at end
 2024-09	18941954
 2024-12	19077979
 2025-03	19493720
+2025-06	20075928
+2025-09	20225534
 
 --------------------------------
 
@@ -109506,6 +109535,8 @@ Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Te
 2024-09	410788950
 2024-12	454841344
 2025-03	463985355
+2025-06	480601517
+2025-09	505269493
 
 --------------------------------
 
@@ -109817,6 +109848,8 @@ Payment Data-Credit or Debit Cards Number of Credit Cards issued during the quar
 2024-09	78411
 2024-12	86607
 2025-03	78802
+2025-06	82311
+2025-09	100880
 
 --------------------------------
 
@@ -109900,6 +109933,8 @@ Payment Data-Tele-banking Total Volume of Tele-banking financial transactions
 2024-09	475
 2024-12	465
 2025-03	430
+2025-06	509
+2025-09	497
 
 --------------------------------
 
@@ -110445,6 +110480,7 @@ Payment Data-Internet based Total Value of Internet based financial transactions
 2024-09	4782296733389
 2024-12	4184361519026
 2025-03	4222600367738
+2025-06	4468358685516
 
 --------------------------------
 
@@ -111831,6 +111867,8 @@ Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
 2024-09	166212684596
 2024-12	183713262571
 2025-03	175244890768
+2025-06	188116466035
+2025-09	193143071412
 
 --------------------------------
 
@@ -116729,6 +116767,8 @@ Payment Data-Automated Teller Machines(ATMs) Total Volume of financial transacti
 2024-09	108888369
 2024-12	113242225
 2025-03	114032430
+2025-06	113947331
+2025-09	120447557
 
 --------------------------------
 
