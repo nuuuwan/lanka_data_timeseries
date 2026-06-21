@@ -72351,12 +72351,15 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Volume of Comm
 2025-07	22630796
 2025-08	22936929
 2025-09	22469524
+2025-10	23921967
+2025-11	22436831
+2025-12	25052353
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Puttalam-Total
@@ -73445,12 +73448,15 @@ Payment Data-Cheques Total Volume of US Dollar Cheques cleared
 2025-07	5467
 2025-08	5106
 2025-09	5447
+2025-10	5702
+2025-11	4736
+2025-12	5259
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Other Revenue-North-Western
@@ -77991,12 +77997,15 @@ Payment Data-Cheques Total Value of Cheques returned
 2025-07	26610254731
 2025-08	22418566102
 2025-09	27394652034
+2025-10	26125309461
+2025-11	27139340862
+2025-12	37568854975
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Gross National Income at Market Price
@@ -78934,12 +78943,15 @@ Payment Data-Switch(CAS) or Common ATM Total Volume of financial transactions th
 2025-07	14535685
 2025-08	12291903
 2025-09	11762894
+2025-10	12201805
+2025-11	11442743
+2025-12	12706128
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Anuradhapura-Class D
@@ -80510,12 +80522,15 @@ Payment Data-Cheques Total Volume of Cheques received for clearing through Chequ
 2025-07	3460708
 2025-08	3186769
 2025-09	3618055
+2025-10	3543491
+2025-11	2972224
+2025-12	3639522
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Central Government Finance-Debt Statistics Outstanding Treasury Bills
@@ -81678,12 +81693,15 @@ Payment Data-Cheques Total Value of US Dollar Cheques cleared
 2025-07	43691492
 2025-08	36906729
 2025-09	38667022
+2025-10	39874557
+2025-11	33876382
+2025-12	34157709
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Interest Income (NII) to Average Assets (Net Interest Margin)
@@ -85721,12 +85739,15 @@ Payment Data-Cheques Total Value of Cheques received for clearing through Cheque
 2025-07	1074847669285
 2025-08	1039398370881
 2025-09	1141106892413
+2025-10	1122536358439
+2025-11	1022493659328
+2025-12	1231437212270
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Liquor-Sabaragamuwa
@@ -88038,12 +88059,15 @@ Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions thr
 2025-07	154128768000
 2025-08	158102631400
 2025-09	151562041100
+2025-10	159182320700
+2025-11	147449647000
+2025-12	175105256700
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Non-performing Loans to Total Loans and Advances (Net Non-performing Advances (NPLs) Ratio)
@@ -100913,12 +100937,15 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Value of Commo
 2025-07	2121964606951
 2025-08	2127886758811
 2025-09	2078172287016
+2025-10	2158490138219
+2025-11	2041666291150
+2025-12	2216636740509
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Matale-Class A
@@ -103737,12 +103764,15 @@ Payment Data-SLIP System Total Volume of transactions cleared through SLIP Syste
 2025-07	5561507
 2025-08	5181200
 2025-09	5564548
+2025-10	5381766
+2025-11	5923287
+2025-12	6447538
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Railways Rail transport - Freight ton kilometres
@@ -105003,12 +105033,15 @@ Payment Data-SLIP System Total Value of transactions cleared through SLIP System
 2025-07	380313734027
 2025-08	365591189548
 2025-09	378345769175
+2025-10	381056361884
+2025-11	363166511921
+2025-12	438202210762
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Kurunegala-Class B
@@ -106542,12 +106575,15 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Value of Real Time Gross Se
 2025-07	37451424187071
 2025-08	35127706044892
 2025-09	39479360810922
+2025-10	42006948078062
+2025-11	35835460022624
+2025-12	40011029703152
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Public administration and defense; compulsory social secur
@@ -126556,12 +126592,15 @@ Payment Data-Cheques Total Volume of Cheques returned
 2025-07	97887
 2025-08	79945
 2025-09	90171
+2025-10	93152
+2025-11	95476
+2025-12	152465
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Agriculture-Subsidiary Food Crops GINGER (RAW) Production
@@ -127739,12 +127778,15 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross S
 2025-07	53878
 2025-08	48078
 2025-09	52480
+2025-10	53619
+2025-11	47325
+2025-12	54091
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2025-11-21', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Southern
