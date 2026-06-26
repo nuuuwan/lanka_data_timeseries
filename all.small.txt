@@ -59610,6 +59610,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2025-01	81.1
 2025-02	88.0
 2025-03	87.5
+2025-04	76.8
 2025-05	81.0
 2025-06	76.1
 2025-07	84.8
@@ -59621,6 +59622,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2026-01	72.0
 2026-02	68.6
 2026-03	75.7
+2026-04	77.5
 
 --------------------------------
 
@@ -62728,6 +62730,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-01	32.1
 2025-02	25.3
 2025-03	1.4
+2025-04	21.0
 2025-05	11.6
 2025-06	20.2
 2025-07	15.9
@@ -62739,6 +62742,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2026-01	3.6
 2026-02	-4.1
 2026-03	16.6
+2026-04	6.6
 
 --------------------------------
 
@@ -66579,6 +66583,7 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2025-01	6.0
 2025-02	6.1
 2025-03	5.5
+2025-04	1.7
 2025-05	4.7
 2025-06	6.2
 2025-07	6.4
@@ -66590,6 +66595,7 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2026-01	4.4
 2026-02	4.1
 2026-03	3.0
+2026-04	1.6
 
 --------------------------------
 
@@ -70442,6 +70448,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2025-01	94.0
 2025-02	86.6
 2025-03	94.9
+2025-04	74.4
 2025-05	85.7
 2025-06	101.7
 2025-07	108.9
@@ -70453,6 +70460,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2026-01	105.8
 2026-02	102.4
 2026-03	108.1
+2026-04	88.1
 
 --------------------------------
 
@@ -82237,6 +82245,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-01	12.7
 2025-02	-14.5
 2025-03	-9.7
+2025-04	-3.9
 2025-05	-6.8
 2025-06	0.1
 2025-07	5.2
@@ -82248,6 +82257,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2026-01	2.5
 2026-02	5.3
 2026-03	-7.6
+2026-04	1.5
 
 --------------------------------
 
@@ -86039,6 +86049,7 @@ Industry and Housing-Index of Industrial Production Food products
 2025-01	97.6
 2025-02	97.3
 2025-03	113.3
+2025-04	95.9
 2025-05	111.0
 2025-06	100.3
 2025-07	99.4
@@ -86050,6 +86061,7 @@ Industry and Housing-Index of Industrial Production Food products
 2026-01	107.9
 2026-02	102.3
 2026-03	114.1
+2026-04	100.8
 
 --------------------------------
 
@@ -89524,6 +89536,7 @@ Industry and Housing-Index of Industrial Production Beverages
 2025-01	108.2
 2025-02	111.7
 2025-03	125.7
+2025-04	126.3
 2025-05	121.5
 2025-06	122.0
 2025-07	125.7
@@ -89535,6 +89548,7 @@ Industry and Housing-Index of Industrial Production Beverages
 2026-01	99.8
 2026-02	110.6
 2026-03	126.2
+2026-04	106.7
 
 --------------------------------
 
@@ -90166,6 +90180,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2025-01	-10.2
 2025-02	-4.8
 2025-03	-8.5
+2025-04	7.0
 2025-05	-5.8
 2025-06	-5.3
 2025-07	-10.3
@@ -90177,6 +90192,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2026-01	-11.2
 2026-02	-22.0
 2026-03	-13.6
+2026-04	1.0
 
 --------------------------------
 
@@ -93726,6 +93742,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-01	22.5
 2025-02	-12.2
 2025-03	7.5
+2025-04	0.8
 2025-05	28.1
 2025-06	35.4
 2025-07	166.7
@@ -93737,6 +93754,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2026-01	-6.3
 2026-02	-0.6
 2026-03	-12.3
+2026-04	-34.9
 
 --------------------------------
 
@@ -93952,6 +93970,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2025-01	112.8
 2025-02	95.1
 2025-03	116.9
+2025-04	107.0
 2025-05	110.9
 2025-06	109.3
 2025-07	118.6
@@ -93963,6 +93982,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2026-01	105.7
 2026-02	94.5
 2026-03	102.6
+2026-04	69.7
 
 --------------------------------
 
@@ -101768,6 +101788,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2025-01	1.6
 2025-02	1.8
 2025-03	18.5
+2025-04	1.2
 2025-05	7.2
 2025-06	24.0
 2025-07	16.2
@@ -101779,6 +101800,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2026-01	12.5
 2026-02	18.3
 2026-03	13.8
+2026-04	18.5
 
 --------------------------------
 
@@ -103189,6 +103211,7 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2025-01	1.2
 2025-02	12.1
 2025-03	7.1
+2025-04	-2.5
 2025-05	5.2
 2025-06	-2.6
 2025-07	-5.9
@@ -103200,6 +103223,7 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2026-01	10.6
 2026-02	5.2
 2026-03	0.7
+2026-04	5.1
 
 --------------------------------
 
@@ -110086,6 +110110,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-01	74.5
 2025-02	73.4
 2025-03	77.3
+2025-04	74.5
 2025-05	77.8
 2025-06	80.2
 2025-07	88.4
@@ -110097,6 +110122,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2026-01	76.4
 2026-02	77.4
 2026-03	71.4
+2026-04	75.6
 
 --------------------------------
 
@@ -116504,6 +116530,7 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2025-01	-9.5
 2025-02	0.4
 2025-03	-7.5
+2025-04	15.9
 2025-05	-0.3
 2025-06	4.7
 2025-07	8.2
@@ -116515,6 +116542,7 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2026-01	-7.8
 2026-02	-1.0
 2026-03	0.4
+2026-04	-15.6
 
 --------------------------------
 
@@ -116989,6 +117017,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-01	111.4
 2025-02	112.8
 2025-03	108.2
+2025-04	98.5
 2025-05	104.7
 2025-06	112.7
 2025-07	114.5
@@ -117000,6 +117029,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2026-01	115.4
 2026-02	108.2
 2026-03	126.2
+2026-04	105.0
 
 --------------------------------
 
