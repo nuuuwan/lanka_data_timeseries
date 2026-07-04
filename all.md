@@ -55878,6 +55878,7 @@
 * 2025-06: 8491
 * 2025-09: 8465
 * 2025-12: 8798
+* 2026-03: 8414
 
 # Tourism-Tourism Tourist Arrivals - Y-o-Y Change
 
@@ -60363,6 +60364,7 @@
 * 2025-06: 6.0
 * 2025-09: 6.2
 * 2025-12: 5.7
+* 2026-03: 6.1
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-Western
 
@@ -62488,6 +62490,7 @@
 * 2025-06: 69.5
 * 2025-09: 68.6
 * 2025-12: 68.1
+* 2026-03: 69.1
 
 # Property Indices-Land Price Indices Land Valuations Indicator (LVI) for Colombo (1998=100) - Residential
 
@@ -75811,6 +75814,7 @@
 * 2025-06: 31.7
 * 2025-09: 33.9
 * 2025-12: 32.3
+* 2026-03: 32.5
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks MANNER
 
@@ -77525,6 +77529,7 @@
 * 2025-06: 49.3
 * 2025-09: 49.9
 * 2025-12: 48.8
+* 2026-03: 49.2
 
 # Balance of Payments-Capital Account BOP - Capital Account (net)
 
@@ -92106,6 +92111,7 @@
 * 2025-06: 2.6
 * 2025-09: 3.2
 * 2025-12: 2.7
+* 2026-03: 2.4
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Profit Before Tax
 
@@ -111040,6 +111046,7 @@
 * 2025-06: 3.8
 * 2025-09: 4.3
 * 2025-12: 3.8
+* 2026-03: 3.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing - Processing (Tea, Rubber and Coconut)
 
