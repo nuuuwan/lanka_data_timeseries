@@ -59160,6 +59160,7 @@
 * 2026-02: 149.8
 * 2026-03: 149.4
 * 2026-04: 145.1
+* 2026-05: 143.8
 
 # Banking Sector-All Banks Banking Sector- Number of Banks TRINCOMALEE
 
@@ -67620,6 +67621,7 @@
 * 2026-02: 197.1
 * 2026-03: 198.8
 * 2026-04: 200.4
+* 2026-05: 206.0
 
 # Transport-Road Network Road Kilometerage-Western-Class B
 
@@ -85647,6 +85649,7 @@
 * 2026-02: 13490.4
 * 2026-03: 13490.0
 * 2026-04: 13490.4
+* 2026-05: 13491.0
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-North Central-Total
 
@@ -98338,6 +98341,7 @@
 * 2026-02: 197.3
 * 2026-03: 198.6
 * 2026-04: 199.9
+* 2026-05: 206.6
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture
 
@@ -100831,6 +100835,7 @@
 * 2026-02: 9.8
 * 2026-03: 9.8
 * 2026-04: 5.0
+* 2026-05: 5.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks GAMPAHA
 
@@ -101000,6 +101005,7 @@
 * 2026-02: 5.5
 * 2026-03: 5.6
 * 2026-04: 6.0
+* 2026-05: 8.5
 
 # Education-University Education University education - New enrolment
 
@@ -103290,6 +103296,7 @@
 * 2026-02: 194.1
 * 2026-03: 194.9
 * 2026-04: 195.6
+* 2026-05: 200.3
 
 # Transport-Road Network Road Kilometerage-Colombo-Class C
 
@@ -103793,6 +103800,7 @@
 * 2026-02: 198.3
 * 2026-03: 200.4
 * 2026-04: 202.5
+* 2026-05: 207.9
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Animal Production
 
@@ -108899,6 +108907,7 @@
 * 2026-02: 81.9
 * 2026-03: 81.3
 * 2026-04: 79.3
+* 2026-05: 78.4
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Tea (Green leaves)
 
@@ -109981,6 +109990,7 @@
 * 2026-02: 6.4
 * 2026-03: 6.9
 * 2026-04: 7.4
+* 2026-05: 9.7
 
 # Transport-Road Network Road Kilometerage-North Western-Total
 
@@ -110635,6 +110645,7 @@
 * 2026-02: 4.0
 * 2026-03: 3.7
 * 2026-04: 3.4
+* 2026-05: 6.1
 
 # International Investment Position-Other Investments IIP - Other Investments- Loans -Liabilities
 
@@ -112581,6 +112592,7 @@
 * 2026-02: 192.6
 * 2026-03: 192.6
 * 2026-04: 192.6
+* 2026-05: 192.6
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Eastern
 
@@ -114206,6 +114218,7 @@
 * 2026-02: 4.9
 * 2026-03: 4.6
 * 2026-04: 5.1
+* 2026-05: 8.0
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Miscellaneous goods and services
 

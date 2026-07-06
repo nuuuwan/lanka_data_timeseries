@@ -65146,12 +65146,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2026-02	149.8
 2026-03	149.4
 2026-04	145.1
+2026-05	143.8
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2026-05-29', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': 'Based on CCPI (2006/07=100)', 'Data last updated': '2026-06-26', 'Update frequency': 'Two months'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks TRINCOMALEE
@@ -75046,12 +75047,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	197.1
 2026-03	198.8
 2026-04	200.4
+2026-05	206.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Western-Class B
@@ -96375,12 +96377,13 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2026-02	13490.4
 2026-03	13490.0
 2026-04	13490.4
+2026-05	13491.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': 'Two months'}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'Department of Labour', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': 'Two months'}
 --------------------------------
 
 Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-North Central-Total
@@ -111169,12 +111172,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	197.3
 2026-03	198.6
 2026-04	199.9
+2026-05	206.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Leisure Entertainment and Culture
@@ -114156,12 +114160,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-02	9.8
 2026-03	9.8
 2026-04	5.0
+2026-05	5.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks GAMPAHA
@@ -114367,12 +114372,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	5.5
 2026-03	5.6
 2026-04	6.0
+2026-05	8.5
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Education-University Education University education - New enrolment
@@ -117218,12 +117224,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	194.1
 2026-03	194.9
 2026-04	195.6
+2026-05	200.3
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Colombo-Class C
@@ -117834,12 +117841,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	198.3
 2026-03	200.4
 2026-04	202.5
+2026-05	207.9
 
 Source: cbsl
 Frequency: Monthly
 Unit: Index Value
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Animal Production
@@ -124069,12 +124077,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-02	81.9
 2026-03	81.3
 2026-04	79.3
+2026-05	78.4
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture Forestry and Fishing - Growing of Tea (Green leaves)
@@ -125430,12 +125439,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	6.4
 2026-03	6.9
 2026-04	7.4
+2026-05	9.7
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-North Western-Total
@@ -126165,12 +126175,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	4.0
 2026-03	3.7
 2026-04	3.4
+2026-05	6.1
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 International Investment Position-Other Investments IIP - Other Investments- Loans -Liabilities
@@ -128524,12 +128535,13 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-02	192.6
 2026-03	192.6
 2026-04	192.6
+2026-05	192.6
 
 Source: cbsl
 Frequency: Monthly
 Unit: Rupees
 Scale: Index Value
-Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Monetary Sector', 'Source': '', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Eastern
@@ -130487,12 +130499,13 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-02	4.9
 2026-03	4.6
 2026-04	5.1
+2026-05	8.0
 
 Source: cbsl
 Frequency: Monthly
 Unit: %
 Scale:  
-Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-05-29', 'Update frequency': ''}
+Footnotes: {'Sector': 'Real Sector', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-26', 'Update frequency': ''}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Miscellaneous goods and services
