@@ -55769,6 +55769,7 @@
 * 2026-01: 434.23
 * 2026-02: 959.9
 * 2026-03: 1344.81
+* 2026-04: 1776.86
 
 # Labour Force and Employment-Overall Labour Statistics-Labour Force
 
@@ -56479,6 +56480,7 @@
 * 2026-01: 43.15
 * 2026-02: 58.53
 * 2026-03: 106.0
+* 2026-04: 168.61
 
 # Population Statistics-Mid-Year Population by Province Mid Year Population-North western
 
@@ -57598,6 +57600,9 @@
 * 2025-10: 11018723.7
 * 2025-11: 11079528.38
 * 2025-12: 11319363.05
+* 2026-01: 11337521.92
+* 2026-02: 11313512.63
+* 2026-03: 11431139.41
 
 # Agriculture-Paddy Paddy Production - North Western
 
@@ -61914,6 +61919,7 @@
 * 2026-01: 468.75
 * 2026-02: 1031.16
 * 2026-03: 1498.69
+* 2026-04: 1957.5
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Northern
 
@@ -65287,6 +65293,9 @@
 * 2025-10: 0
 * 2025-11: 0
 * 2025-12: 0
+* 2026-01: 0
+* 2026-02: 0
+* 2026-03: 0
 
 # Education-University Education No. of University Students Graduated - Paramedical Studies
 
@@ -66193,6 +66202,9 @@
 * 2025-10: 15170042.05
 * 2025-11: 15255036.18
 * 2025-12: 15427749.18
+* 2026-01: 15535625.54
+* 2026-02: 15539908.6
+* 2026-03: 15674562.5
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of electrical equipment
 
@@ -71987,6 +71999,9 @@
 * 2025-10: 29672231.95
 * 2025-11: 29615282.49
 * 2025-12: 29994687.87
+* 2026-01: 30113946.24
+* 2026-02: 29931967.17
+* 2026-03: 30193177.62
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
 
@@ -72802,6 +72817,9 @@
 * 2025-10: 3573763.32
 * 2025-11: 3386524.69
 * 2025-12: 3136291.0
+* 2026-01: 3101236.17
+* 2026-02: 3090483.68
+* 2026-03: 2849489.7
 
 # Agriculture-Paddy Paddy Yield - Bushels per Acre - Northern
 
@@ -83619,6 +83637,7 @@
 * 2026-01: -3.81
 * 2026-02: 169.71
 * 2026-03: 116.35
+* 2026-04: 105.03
 
 # Balance of Payments-Financial Account BOP - Other Investments- Currency and Deposits -Liabilities
 
@@ -91135,6 +91154,7 @@
 * 2026-01: 429.41
 * 2026-02: 802.91
 * 2026-03: 1276.8
+* 2026-04: 1684.69
 
 # Transport-SLTB or Regional Bus Companies SLTB - Regional Bus Companies-Buses Operated-All Island
 
@@ -96256,6 +96276,7 @@
 * 2026-01: 0
 * 2026-02: 0
 * 2026-03: 0.47
+* 2026-04: 0.83
 
 # Agriculture-Tea No. of Tea Factories - Sabaragamuwa
 
@@ -98026,6 +98047,7 @@
 * 2026-01: 468.75
 * 2026-02: 1031.16
 * 2026-03: 1499.15
+* 2026-04: 1958.33
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Exp. at Constant (2010) Prices - GCF - Changes in inventories
 
@@ -98792,6 +98814,7 @@
 * 2026-01: 222.82
 * 2026-02: 545.42
 * 2026-03: 709.6
+* 2026-04: 862.73
 
 # Transport-Road Network Road Kilometerage-Colombo-Class D
 
@@ -98934,6 +98957,7 @@
 * 2026-01: 472.56
 * 2026-02: 861.45
 * 2026-03: 1382.8
+* 2026-04: 1853.3
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Dual Purpose Vehicles-Eastern
 
@@ -100230,6 +100254,7 @@
 * 2026-01: 34.52
 * 2026-02: 71.26
 * 2026-03: 153.88
+* 2026-04: 180.64
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Gross Value Added (GVA) at Basic Price
 
@@ -102981,6 +103006,9 @@
 * 2025-10: 18653508.26
 * 2025-11: 18535754.11
 * 2025-12: 18675324.83
+* 2026-01: 18776424.32
+* 2026-02: 18618454.54
+* 2026-03: 18762038.21
 
 # Transport-Road Network Road Kilometerage-Kurunegala-Class C
 
