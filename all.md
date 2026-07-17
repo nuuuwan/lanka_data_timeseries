@@ -53153,7 +53153,6 @@
 * 2025-11: 4.3
 * 2025-12: 5.0
 * 2026-01: 5.9
-* 2026-02: 4.9
 
 # National Accounts-GDP at Current Prices - Base Year 2002 Domestic Savings-at Current Prices (2002 Series)
 
@@ -55394,7 +55393,6 @@
 * 2025-11: -2.2
 * 2025-12: 10.3
 * 2026-01: 4.4
-* 2026-02: -33.6
 
 # Imports and Exports-Imports (in USD terms) Merchandise Imports - Total
 
