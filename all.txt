@@ -66414,12 +66414,15 @@ Payment Data-Switch(CAS) or Common ATM Total Value of financial transactions thr
 2025-10	159182320700
 2025-11	147449647000
 2025-12	175105256700
+2026-01	170534895900
+2026-02	155988101700
+2026-03	181251564100
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons
@@ -71709,12 +71712,15 @@ Payment Data-Cheques Total Value of Cheques returned
 2025-10	26125309461
 2025-11	27139340862
 2025-12	37568854975
+2026-01	29133489851
+2026-02	26991745537
+2026-03	38510815405
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Direct Purchases in Domestic Market by Non-Res
@@ -73979,12 +73985,15 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Value of Real Time Gross Se
 2025-10	42006948078062
 2025-11	35835460022624
 2025-12	40011029703152
+2026-01	39556426282417
+2026-02	40179468417906
+2026-03	47095194263232
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Imports and Exports-CBSL Trade Indices (In Rs terms) Terms of Trade (1997=100)
@@ -78212,12 +78221,15 @@ Payment Data-Real Time Gross Settlement (RTGS) Total Volume of Real Time Gross S
 2025-10	53619
 2025-11	47325
 2025-12	54091
+2026-01	51525
+2026-02	49040
+2026-03	55108
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'CBSL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Agriculture-Paddy Paddy Yield - Kg per Hectare - Southern
@@ -81799,12 +81811,15 @@ Payment Data-Cheques Total Volume of Cheques returned
 2025-10	93152
 2025-11	95476
 2025-12	152465
+2026-01	89161
+2026-02	88592
+2026-03	112161
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Number of Banks POLONNARUWA
@@ -82998,12 +83013,15 @@ Payment Data-SLIP System Total Value of transactions cleared through SLIP System
 2025-10	381056361884
 2025-11	363166511921
 2025-12	438202210762
+2026-01	393039001192
+2026-02	383436664398
+2026-03	416975961266
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Motor Vehicles Motor Vehicles by Province-Motor Cycles-Uva
@@ -90469,12 +90487,15 @@ Payment Data-Cheques Total Value of US Dollar Cheques cleared
 2025-10	39874557
 2025-11	33876382
 2025-12	34157709
+2026-01	35322105
+2026-02	31588339
+2026-03	35847718
 
 Source: cbsl
 Frequency: Monthly
 Unit: USD
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Jaffna-Class A
@@ -97420,12 +97441,15 @@ Payment Data-Cheques Total Value of Cheques received for clearing through Cheque
 2025-10	1122536358439
 2025-11	1022493659328
 2025-12	1231437212270
+2026-01	1146772635841
+2026-02	1091629324308
+2026-03	1224855102016
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Health-Personel No.of Nurses - Total
@@ -101624,12 +101648,15 @@ Payment Data-Cheques Total Volume of US Dollar Cheques cleared
 2025-10	5702
 2025-11	4736
 2025-12	5259
+2026-01	5261
+2026-02	5013
+2026-03	5413
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Industry and Housing-Index of Industrial Production Coke and refined petroleum products
@@ -106437,12 +106464,15 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Volume of Comm
 2025-10	23921967
 2025-11	22436831
 2025-12	25052353
+2026-01	25247967
+2026-02	23809986
+2026-03	26824986
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Banking Sector-All Banks Banking Sector- Savings Deposits
@@ -114923,12 +114953,15 @@ Payment Data-Cheques Total Volume of Cheques received for clearing through Chequ
 2025-10	3543491
 2025-11	2972224
 2025-12	3639522
+2026-01	3377107
+2026-02	3152924
+2026-03	3712816
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - Private Consumption Expenditure
@@ -115139,12 +115172,15 @@ Payment Data-Common Electronic Fund Transfer Switch (CEFTS) Total Value of Commo
 2025-10	2158490138219
 2025-11	2041666291150
 2025-12	2216636740509
+2026-01	2247395308488
+2026-02	2165834783585
+2026-03	2368592027584
 
 Source: cbsl
 Frequency: Monthly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Recreation, culture and relig
@@ -127594,12 +127630,15 @@ Payment Data-Switch(CAS) or Common ATM Total Volume of financial transactions th
 2025-10	12201805
 2025-11	11442743
 2025-12	12706128
+2026-01	12819650
+2026-02	11652440
+2026-03	13206488
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': 'ATM transactions carried out through Common ATM Switch (Not-on-us)', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-North Western-Class C
@@ -128230,12 +128269,15 @@ Payment Data-SLIP System Total Volume of transactions cleared through SLIP Syste
 2025-10	5381766
 2025-11	5923287
 2025-12	6447538
+2026-01	6886815
+2026-02	5716784
+2026-03	5889636
 
 Source: cbsl
 Frequency: Monthly
 Unit:  
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-06-15', 'Update frequency': '15 th day of the following month'}
+Footnotes: {'Sector': 'Financial', 'Source': 'LCPL', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-07-17', 'Update frequency': '15 th day of the following month'}
 --------------------------------
 
 Central Government Finance-Debt Statistics EDS - Other Sectors - short term
