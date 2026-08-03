@@ -72387,6 +72387,7 @@
 * 2022: 3.7
 * 2023: 3.6
 * 2024: 3.0
+* 2025: 2.8
 
 # Electricity-Electricity Electricity - Power consumption
 
@@ -76207,6 +76208,7 @@
 * 2022: 47.0
 * 2023: 48.4
 * 2024: 48.5
+* 2025: 49.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 National Savings Investment Gap-at Current Prices (2002 Series)
 
@@ -80529,6 +80531,7 @@
 * 2022: 4.7
 * 2023: 4.7
 * 2024: 4.4
+* 2025: 3.9
 
 # Banking Sector-Credit Cards Credit Card - Global Outstanding
 
@@ -87365,6 +87368,7 @@
 * 2022: 70.5
 * 2023: 68.6
 * 2024: 67.4
+* 2025: 69.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Plant propagation and Support ac
 
@@ -88336,6 +88340,7 @@
 * 2022: 49.8
 * 2023: 48.6
 * 2024: 47.4
+* 2025: 49.4
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services
 
@@ -95194,6 +95199,7 @@
 * 2022: 6.5
 * 2023: 7.0
 * 2024: 7.1
+* 2025: 6.1
 
 # Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
 
@@ -100388,6 +100394,7 @@
 * 2022: 32.1
 * 2023: 31.3
 * 2024: 29.8
+* 2025: 32.4
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Sabaragamuwa
 
@@ -112564,6 +112571,7 @@
 * 2022: 26.5
 * 2023: 25.5
 * 2024: 25.6
+* 2025: 26.2
 
 # Transport-Road Network Road Kilometerage-Hambantota-Class B
 
@@ -116673,6 +116681,7 @@
 * 2022: 26.5
 * 2023: 26.1
 * 2024: 26.0
+* 2025: 23.9
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class A
 
