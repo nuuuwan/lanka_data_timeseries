@@ -11,15 +11,15 @@
     "Source": "Department of Census and Statistics",
     "GeoArea": "National",
     "Note": "(a) Data up to 2010 are for the household population aged 10 years and above and data from 2011 onwards are for the household population aged 15 years and above (b) Northern Province is excluded for the years 2003, 2008, 2009 and 2010. (c) Mullaitivu and Kilinochchi districts were excluded for 2004 annual estimates. (d) Data from 2011 onwards include all districts. (e) QLFS was conducted as a one-off survey in August 2005. (f) Data excludes both Northern and Eastern Provinces for the years from 1990 to 2002, 2006 and 2007. (g) QLFS was not conducted in the 1st quarter of 2012 (h) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.",
-    "Data last updated": "2026-07-03",
+    "Data last updated": "2026-08-03",
     "Update frequency": "forteen weeks after the relevant quarter/forteen weeks after the relevant year"
   },
   "summary_statistics": {
-    "n": 35,
+    "n": 36,
     "min_t": "1990-01-01",
-    "max_t": "2024-01-01",
+    "max_t": "2025-01-01",
     "min_value": 36.2,
-    "max_value": 29.8
+    "max_value": 32.4
   },
   "cleaned_data": {
     "1990-01-01": 36.2,
@@ -56,7 +56,8 @@
     "2021-01-01": 31.8,
     "2022-01-01": 32.1,
     "2023-01-01": 31.3,
-    "2024-01-01": 29.8
+    "2024-01-01": 29.8,
+    "2025-01-01": 32.4
   },
   "raw_data": {
     "1967": " ",
@@ -117,7 +118,7 @@
     "2022": "32.10",
     "2023": "31.30",
     "2024": "29.80",
-    "2025": " ",
+    "2025": "32.40",
     "2026": " ",
     "2027": " "
   }
