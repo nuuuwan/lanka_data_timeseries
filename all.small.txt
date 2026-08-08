@@ -60869,6 +60869,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Services (as
 2024-06	48.5
 2024-09	48.3
 2024-12	47.6
+2026-03	50.4
 
 --------------------------------
 
@@ -67821,6 +67822,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-06	5.6
 2025-09	5.8
 2025-12	5.0
+2026-03	4.6
 
 --------------------------------
 
@@ -74411,6 +74413,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-06	5.9
 2025-09	7.0
 2025-12	5.2
+2026-03	6.5
 
 --------------------------------
 
@@ -75244,6 +75247,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-06	2064
 2025-09	2167
 2025-12	2225
+2026-03	2096
 
 --------------------------------
 
@@ -82664,6 +82668,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Industry (as
 2024-06	26.5
 2024-09	25.4
 2024-12	25.7
+2026-03	25.9
 
 --------------------------------
 
@@ -84854,6 +84859,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-06	2104
 2025-09	1896
 2025-12	1960
+2026-03	1921
 
 --------------------------------
 
@@ -96116,6 +96122,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-06	4004
 2025-09	4035
 2025-12	4280
+2026-03	4086
 
 --------------------------------
 
@@ -115072,6 +115079,7 @@ Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 2024-06	398
 2024-09	341
 2024-12	351
+2026-03	311
 
 --------------------------------
 
@@ -115216,6 +115224,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Agriculture 
 2024-06	25.0
 2024-09	26.4
 2024-12	26.8
+2026-03	23.7
 
 --------------------------------
 
@@ -116850,6 +116859,7 @@ Labour Force and Employment-Overall Labour Statistics-Employed Population
 2024-06	7989
 2024-09	7839
 2024-12	8070
+2026-03	8103
 
 --------------------------------
 

@@ -59018,6 +59018,7 @@
 * 2024-06: 48.5
 * 2024-09: 48.3
 * 2024-12: 47.6
+* 2026-03: 50.4
 
 # Central Government Finance-Debt Statistics EDS - Other Sectors - long term
 
@@ -65753,6 +65754,7 @@
 * 2025-06: 5.6
 * 2025-09: 5.8
 * 2025-12: 5.0
+* 2026-03: 4.6
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of wood and products of wood and cork except furniture; manufacture of articles of Straw and plaiting materials
 
@@ -72123,6 +72125,7 @@
 * 2025-06: 5.9
 * 2025-09: 7.0
 * 2025-12: 5.2
+* 2026-03: 6.5
 
 # Transport-Road Network Road Kilometerage-Anuradhapura-Total
 
@@ -72938,6 +72941,7 @@
 * 2025-06: 2064
 * 2025-09: 2167
 * 2025-12: 2225
+* 2026-03: 2096
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches COLOMBO
 
@@ -80118,6 +80122,7 @@
 * 2024-06: 26.5
 * 2024-09: 25.4
 * 2024-12: 25.7
+* 2026-03: 25.9
 
 # Banking Sector-All Banks Banking Sector- Number of Branches JAFFNA
 
@@ -82249,6 +82254,7 @@
 * 2025-06: 2104
 * 2025-09: 1896
 * 2025-12: 1960
+* 2026-03: 1921
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Goods Transport Vehicles-Southern
 
@@ -93197,6 +93203,7 @@
 * 2025-06: 4004
 * 2025-09: 4035
 * 2025-12: 4280
+* 2026-03: 4086
 
 # Payment Data-Asian Clearing Union (ACU) Value of Total Receipts through Asian Clearing Union (ACU)
 
@@ -111587,6 +111594,7 @@
 * 2024-06: 398
 * 2024-09: 341
 * 2024-12: 351
+* 2026-03: 311
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Eastern
 
@@ -111726,6 +111734,7 @@
 * 2024-06: 25.0
 * 2024-09: 26.4
 * 2024-12: 26.8
+* 2026-03: 23.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches MANNER
 
@@ -113308,6 +113317,7 @@
 * 2024-06: 7989
 * 2024-09: 7839
 * 2024-12: 8070
+* 2026-03: 8103
 
 # Transport-Road Network Road Kilometerage-Anuradhapura-Class C
 
