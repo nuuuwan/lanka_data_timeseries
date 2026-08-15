@@ -11,15 +11,15 @@
     "Source": "Department of Census and Statistics",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2026-07-17",
+    "Data last updated": "2026-08-14",
     "Update frequency": ""
   },
   "summary_statistics": {
-    "n": 113,
+    "n": 114,
     "min_t": "2017-01-01",
-    "max_t": "2026-05-01",
+    "max_t": "2026-06-01",
     "min_value": 4.1,
-    "max_value": 5.8
+    "max_value": -7.7
   },
   "cleaned_data": {
     "2017-01-01": 4.1,
@@ -134,7 +134,8 @@
     "2026-02-01": 18.3,
     "2026-03-01": 13.8,
     "2026-04-01": 18.5,
-    "2026-05-01": 5.8
+    "2026-05-01": 5.8,
+    "2026-06-01": -7.7
   },
   "raw_data": {
     "1967-Jan": " ",
@@ -850,7 +851,7 @@
     "2026-Mar": "13.80",
     "2026-Apr": "18.50",
     "2026-May": "5.80",
-    "2026-Jun": " ",
+    "2026-Jun": "-7.70",
     "2026-Jul": " ",
     "2026-Aug": " ",
     "2026-Sep": " ",
