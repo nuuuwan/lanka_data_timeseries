@@ -21920,6 +21920,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products 
 2026-03	-13.6
 2026-04	1.0
 2026-05	-10.6
+2026-06	-8.6
 
 --------------------------------
 
@@ -22486,6 +22487,7 @@ Industry and Housing-Index of Industrial Production Food products
 2026-03	114.1
 2026-04	100.8
 2026-05	111.3
+2026-06	107.1
 
 --------------------------------
 
@@ -33542,6 +33544,7 @@ Industry and Housing-Index of Industrial Production Beverages - Change
 2026-03	0.4
 2026-04	-15.6
 2026-05	-8.9
+2026-06	-6.5
 
 --------------------------------
 
@@ -33851,6 +33854,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2026-03	102.6
 2026-04	69.7
 2026-05	101.7
+2026-06	98.9
 
 --------------------------------
 
@@ -37945,6 +37949,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel
 2026-03	108.1
 2026-04	88.1
 2026-05	90.7
+2026-06	93.9
 
 --------------------------------
 
@@ -39582,7 +39587,7 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2025-03	5.5
 2025-04	1.7
 2025-05	4.9
-2025-06	6.2
+2025-06	6.1
 2025-07	6.4
 2025-08	7.6
 2025-09	4.7
@@ -39594,6 +39599,7 @@ Industry and Housing-Index of Industrial Production Index of Industrial Producti
 2026-03	3.0
 2026-04	1.6
 2026-05	1.6
+2026-06	0.8
 
 --------------------------------
 
@@ -44430,6 +44436,7 @@ Industry and Housing-Index of Industrial Production Wearing apparel - Change
 2026-03	13.8
 2026-04	18.5
 2026-05	5.8
+2026-06	-7.7
 
 --------------------------------
 
@@ -46529,6 +46536,7 @@ Industry and Housing-Index of Industrial Production Coke and refined petroleum p
 2026-03	-12.3
 2026-04	-34.9
 2026-05	-8.3
+2026-06	-9.5
 
 --------------------------------
 
@@ -50725,6 +50733,7 @@ Industry and Housing-Index of Industrial Production Beverages
 2026-03	126.2
 2026-04	106.7
 2026-05	110.6
+2026-06	114.1
 
 --------------------------------
 
@@ -51869,8 +51878,6 @@ Agriculture-Coconut Coconut Production
 2025-02	179.1
 2025-03	222.3
 2025-04	239.3
-2025-05	259.4
-2025-06	291.5
 2025-07	285.2
 2025-08	286.9
 2025-09	293.1
@@ -52982,6 +52989,7 @@ Industry and Housing-Index of Industrial Production Rubber and plastic products
 2026-03	75.7
 2026-04	77.5
 2026-05	72.5
+2026-06	69.6
 
 --------------------------------
 
@@ -58092,6 +58100,7 @@ Industry and Housing-Index of Industrial Production Food products - Change
 2026-03	0.7
 2026-04	5.1
 2026-05	0.1
+2026-06	6.8
 
 --------------------------------
 
@@ -65925,8 +65934,6 @@ Agriculture-Tea Tea Production (Y-o-Y growth Pct.)
 2024-10	-6.9
 2024-11	16.0
 2024-12	10.1
-2026-01	-3.6
-2026-02	15.2
 
 --------------------------------
 
@@ -69152,7 +69159,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-03	108.2
 2025-04	98.5
 2025-05	105.7
-2025-06	112.7
+2025-06	112.9
 2025-07	114.5
 2025-08	118.9
 2025-09	121.7
@@ -69164,6 +69171,7 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2026-03	126.2
 2026-04	105.0
 2026-05	123.4
+2026-06	121.0
 
 --------------------------------
 
@@ -72593,7 +72601,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-03	-9.7
 2025-04	-3.9
 2025-05	-7.4
-2025-06	0.1
+2025-06	0.2
 2025-07	5.2
 2025-08	1.7
 2025-09	-4.6
@@ -72605,6 +72613,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2026-03	-7.6
 2026-04	1.5
 2026-05	3.3
+2026-06	-9.4
 
 --------------------------------
 
@@ -72929,7 +72938,6 @@ Industry and Housing-Index of Industrial Production Other non-metallic mineral p
 2025-03	1.4
 2025-04	21.0
 2025-05	12.6
-2025-06	20.2
 2025-07	15.9
 2025-08	10.7
 2025-09	18.7
@@ -75224,7 +75232,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2025-03	77.3
 2025-04	74.5
 2025-05	77.3
-2025-06	80.2
+2025-06	80.3
 2025-07	88.4
 2025-08	86.8
 2025-09	73.7
@@ -75236,6 +75244,7 @@ Industry and Housing-Index of Industrial Production Chemicals and chemical produ
 2026-03	71.4
 2026-04	75.6
 2026-05	79.9
+2026-06	72.8
 
 --------------------------------
 

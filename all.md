@@ -21061,6 +21061,7 @@
 * 2026-03: -13.6
 * 2026-04: 1.0
 * 2026-05: -10.6
+* 2026-06: -8.6
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - HH Cons. by COICOP - Transport
 
@@ -21607,6 +21608,7 @@
 * 2026-03: 114.1
 * 2026-04: 100.8
 * 2026-05: 111.3
+* 2026-06: 107.1
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Eastern-Total
 
@@ -32340,6 +32342,7 @@
 * 2026-03: 0.4
 * 2026-04: -15.6
 * 2026-05: -8.9
+* 2026-06: -6.5
 
 # Labour Force and Employment-Foreign Employment Foreign Employment-Departures for Foreign Employment
 
@@ -32640,6 +32643,7 @@
 * 2026-03: 102.6
 * 2026-04: 69.7
 * 2026-05: 101.7
+* 2026-06: 98.9
 
 # International Investment Position-Direct Investment IIP - Direct Investment - Assets
 
@@ -36632,6 +36636,7 @@
 * 2026-03: 108.1
 * 2026-04: 88.1
 * 2026-05: 90.7
+* 2026-06: 93.9
 
 # Banking Sector-Credit Cards Credit Card - Total Number of Active Cards
 
@@ -38206,7 +38211,7 @@
 * 2025-03: 5.5
 * 2025-04: 1.7
 * 2025-05: 4.9
-* 2025-06: 6.2
+* 2025-06: 6.1
 * 2025-07: 6.4
 * 2025-08: 7.6
 * 2025-09: 4.7
@@ -38218,6 +38223,7 @@
 * 2026-03: 3.0
 * 2026-04: 1.6
 * 2026-05: 1.6
+* 2026-06: 0.8
 
 # Payment Data-Money or Postal Orders Value of Payments Made through Money Orders and Postal Orders
 
@@ -42909,6 +42915,7 @@
 * 2026-03: 13.8
 * 2026-04: 18.5
 * 2026-05: 5.8
+* 2026-06: -7.7
 
 # Transport-Road Network Road Kilometerage-Mannar-Expressways
 
@@ -44965,6 +44972,7 @@
 * 2026-03: -12.3
 * 2026-04: -34.9
 * 2026-05: -8.3
+* 2026-06: -9.5
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Interest Income
 
@@ -49052,6 +49060,7 @@
 * 2026-03: 126.2
 * 2026-04: 106.7
 * 2026-05: 110.6
+* 2026-06: 114.1
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets POLONNARUWA
 
@@ -50166,8 +50175,6 @@
 * 2025-02: 179.1
 * 2025-03: 222.3
 * 2025-04: 239.3
-* 2025-05: 259.4
-* 2025-06: 291.5
 * 2025-07: 285.2
 * 2025-08: 286.9
 * 2025-09: 293.1
@@ -51245,6 +51252,7 @@
 * 2026-03: 75.7
 * 2026-04: 77.5
 * 2026-05: 72.5
+* 2026-06: 69.6
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of coke and refined petroleum products
 
@@ -56188,6 +56196,7 @@
 * 2026-03: 0.7
 * 2026-04: 5.1
 * 2026-05: 0.1
+* 2026-06: 6.8
 
 # Transport-Road Network Road Kilometerage-Gampaha-Class A
 
@@ -63771,8 +63780,6 @@
 * 2024-10: -6.9
 * 2024-11: 16.0
 * 2024-12: 10.1
-* 2026-01: -3.6
-* 2026-02: 15.2
 
 # Central Government Finance-Central Government Revenue Central Government Revenue - Total Tax and Non Tax Revenue and Grants
 
@@ -66880,7 +66887,7 @@
 * 2025-03: 108.2
 * 2025-04: 98.5
 * 2025-05: 105.7
-* 2025-06: 112.7
+* 2025-06: 112.9
 * 2025-07: 114.5
 * 2025-08: 118.9
 * 2025-09: 121.7
@@ -66892,6 +66899,7 @@
 * 2026-03: 126.2
 * 2026-04: 105.0
 * 2026-05: 123.4
+* 2026-06: 121.0
 
 # Banking Sector-All Banks Banking Sector- Number of Other Banking Outlets BADULLA
 
@@ -70205,7 +70213,7 @@
 * 2025-03: -9.7
 * 2025-04: -3.9
 * 2025-05: -7.4
-* 2025-06: 0.1
+* 2025-06: 0.2
 * 2025-07: 5.2
 * 2025-08: 1.7
 * 2025-09: -4.6
@@ -70217,6 +70225,7 @@
 * 2026-03: -7.6
 * 2026-04: 1.5
 * 2026-05: 3.3
+* 2026-06: -9.4
 
 # Banking Sector-All Banks Banking Sector- Number of Branches KURUNEGALA
 
@@ -70530,7 +70539,6 @@
 * 2025-03: 1.4
 * 2025-04: 21.0
 * 2025-05: 12.6
-* 2025-06: 20.2
 * 2025-07: 15.9
 * 2025-08: 10.7
 * 2025-09: 18.7
@@ -72746,7 +72754,7 @@
 * 2025-03: 77.3
 * 2025-04: 74.5
 * 2025-05: 77.3
-* 2025-06: 80.2
+* 2025-06: 80.3
 * 2025-07: 88.4
 * 2025-08: 86.8
 * 2025-09: 73.7
@@ -72758,6 +72766,7 @@
 * 2026-03: 71.4
 * 2026-04: 75.6
 * 2026-05: 79.9
+* 2026-06: 72.8
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditures-Total-Southern
 
