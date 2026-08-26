@@ -13796,6 +13796,8 @@
 * 2025-03: 78802
 * 2025-06: 82311
 * 2025-09: 100880
+* 2025-12: 100121
+* 2026-03: 99580
 
 # Balance of Payments-BOP Balance BOP- Overall Balance
 
@@ -15028,6 +15030,8 @@
 * 2025-03: 463985355
 * 2025-06: 480601517
 * 2025-09: 505269493
+* 2025-12: 556994592
+* 2026-03: 614484259
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Gross Domestic Product at Market Price
 
@@ -17948,6 +17952,8 @@
 * 2025-03: 175244890768
 * 2025-06: 188116466035
 * 2025-09: 193143071412
+* 2025-12: 210687579753
+* 2026-03: 203693902956
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Vehicles-Northern
 
@@ -21174,6 +21180,8 @@
 * 2025-03: 19493720
 * 2025-06: 20075928
 * 2025-09: 20225534
+* 2025-12: 20737605
+* 2026-03: 20866421
 
 # Banking Sector-All Banks Banking Sector- Number of Banks BADULLA
 
@@ -22598,6 +22606,9 @@
 * 2026-01: 3377107
 * 2026-02: 3152924
 * 2026-03: 3712816
+* 2026-04: 3274355
+* 2026-05: 3042882
+* 2026-06: 3411938
 
 # Electricity-Electricity Electricity - Installed capacity
 
@@ -23683,6 +23694,8 @@
 * 2025-03: 20431238559
 * 2025-06: 20418494904
 * 2025-09: 19198558906
+* 2025-12: 18401473994
+* 2026-03: 16229752432
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Other Agricultural Crops
 
@@ -25013,6 +25026,8 @@
 * 2025-03: 2058100
 * 2025-06: 2093738
 * 2025-09: 2134277
+* 2025-12: 2165600
+* 2026-03: 2232339
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Return on Equity (ROE) – After tax
 
@@ -27803,6 +27818,8 @@
 * 2025-03: 72138817
 * 2025-06: 80001330
 * 2025-09: 85085716
+* 2025-12: 92910528
+* 2026-03: 95580692
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Class C
 
@@ -30263,6 +30280,9 @@
 * 2026-01: 39556426282417
 * 2026-02: 40179468417906
 * 2026-03: 47095194263232
+* 2026-04: 41149363942577
+* 2026-05: 47508553754380
+* 2026-06: 47356770071977
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Gross National Income
 
@@ -30646,6 +30666,8 @@
 * 2025-03: 1936498906
 * 2025-06: 1993078895
 * 2025-09: 2625043330
+* 2025-12: 2652813521
+* 2026-03: 2160860524
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Capital Expenditure-Uva
 
@@ -31374,6 +31396,8 @@
 * 2025-03: 137722
 * 2025-06: 141259
 * 2025-09: 132808
+* 2025-12: 138043
+* 2026-03: 144046
 
 # Transport-Road Network Road Kilometerage-North Western-Class A
 
@@ -31889,6 +31913,8 @@
 * 2025-03: 96171632
 * 2025-06: 106704777
 * 2025-09: 115213859
+* 2025-12: 122723813
+* 2026-03: 131456671
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity Gas and Water
 
@@ -34899,6 +34925,9 @@
 * 2026-01: 2247395308488
 * 2026-02: 2165834783585
 * 2026-03: 2368592027584
+* 2026-04: 2267090479986
+* 2026-05: 2426293114832
+* 2026-06: 2245981213862
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Machinery & equipment - Change
 
@@ -40145,6 +40174,9 @@
 * 2026-01: 29133489851
 * 2026-02: 26991745537
 * 2026-03: 38510815405
+* 2026-04: 37987304032
+* 2026-05: 34581410341
+* 2026-06: 38939618973
 
 # Banking Sector-All Banks Banking Sector- Number of Branches MANNER
 
@@ -41500,6 +41532,8 @@
 * 2025-03: 1528607
 * 2025-06: 1302140
 * 2025-09: 1534589
+* 2025-12: 1428037
+* 2026-03: 1726668
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Total
 
@@ -42602,6 +42636,9 @@
 * 2026-01: 51525
 * 2026-02: 49040
 * 2026-03: 55108
+* 2026-04: 49194
+* 2026-05: 51811
+* 2026-06: 61553
 
 # International Investment Position-Gross Official Reserves Grosss Official Reserves (IIP - Reserve Assets)
 
@@ -49868,6 +49905,9 @@
 * 2026-01: 25247967
 * 2026-02: 23809986
 * 2026-03: 26824986
+* 2026-04: 25419705
+* 2026-05: 26877338
+* 2026-06: 26259776
 
 # Agriculture-Coconut Coconut Production
 
@@ -56835,6 +56875,8 @@
 * 2025-03: 25927600
 * 2025-06: 27525800
 * 2025-09: 28899062
+* 2025-12: 30550349
+* 2026-03: 30994965
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Interest Income
 
@@ -58225,6 +58267,9 @@
 * 2026-01: 89161
 * 2026-02: 88592
 * 2026-03: 112161
+* 2026-04: 104328
+* 2026-05: 110177
+* 2026-06: 115291
 
 # Agriculture-Paddy Paddy Production - Northern
 
@@ -61133,6 +61178,8 @@
 * 2025-03: 114032430
 * 2025-06: 113947331
 * 2025-09: 120447557
+* 2025-12: 119426178
+* 2026-03: 121352416
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Capital Funds
 
@@ -61747,6 +61794,8 @@
 * 2025-03: 3652
 * 2025-06: 3429
 * 2025-09: 3580
+* 2025-12: 3521
+* 2026-03: 3361
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Interest Income (NII) to Average Assets (Net Interest Margin)
 
@@ -62228,6 +62277,9 @@
 * 2026-01: 170534895900
 * 2026-02: 155988101700
 * 2026-03: 181251564100
+* 2026-04: 183213646630
+* 2026-05: 172281670800
+* 2026-06: 168708927500
 
 # Transport-Road Network Road Kilometerage-Galle-Class D
 
@@ -64288,6 +64340,9 @@
 * 2026-01: 1146772635841
 * 2026-02: 1091629324308
 * 2026-03: 1224855102016
+* 2026-04: 1119766952163
+* 2026-05: 1098598885169
+* 2026-06: 1159890255032
 
 # Central Government Finance-Debt Statistics EDS -Direct Investment - Intercompany Lending
 
@@ -64737,6 +64792,8 @@
 * 2025-03: 157033
 * 2025-06: 159980
 * 2025-09: 153167
+* 2025-12: 147047
+* 2026-03: 130102
 
 # Industry and Housing-Electricity Sales Electricity Sales-No. of Consumer Accounts-Transmission Bulk Supply to LECO
 
@@ -65543,6 +65600,9 @@
 * 2026-01: 12819650
 * 2026-02: 11652440
 * 2026-03: 13206488
+* 2026-04: 12718372
+* 2026-05: 12830309
+* 2026-06: 12630017
 
 # International Investment Position-Direct Investment IIP - Direct Investment - Liabilities
 
@@ -69661,6 +69721,8 @@
 * 2025-03: 248587185722
 * 2025-06: 281067484497
 * 2025-09: 288165212959
+* 2025-12: 323287976152
+* 2026-03: 329556154978
 
 # Banking Sector-All Banks Banking Sector- Borrowings
 
