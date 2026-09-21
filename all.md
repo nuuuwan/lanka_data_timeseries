@@ -74551,6 +74551,7 @@
 * 2025-04: 76.8
 * 2025-05: 81.0
 * 2025-06: 76.1
+* 2025-07: 87.5
 * 2025-08: 80.5
 * 2025-09: 85.4
 * 2025-10: 81.6
@@ -74562,6 +74563,7 @@
 * 2026-04: 77.5
 * 2026-05: 72.5
 * 2026-06: 69.6
+* 2026-07: 70.6
 
 # International Investment Position-Special Drawing Rights IIP - Special Drawing Rigths - Liabilities
 
@@ -83600,6 +83602,7 @@
 * 2025-04: -2.5
 * 2025-05: 5.5
 * 2025-06: -2.6
+* 2025-07: -6.0
 * 2025-08: -4.8
 * 2025-09: 12.1
 * 2025-10: 5.8
@@ -83611,6 +83614,7 @@
 * 2026-04: 5.1
 * 2026-05: 0.1
 * 2026-06: 6.8
+* 2026-07: 10.1
 
 # Transport-Road Network Road Kilometerage-Mullaitivu-Class D
 
@@ -84106,6 +84110,7 @@
 * 2025-04: 15.9
 * 2025-05: -0.3
 * 2025-06: 4.7
+* 2025-07: 8.2
 * 2025-08: 0.3
 * 2025-09: 10.4
 * 2025-10: 0.6
@@ -84117,6 +84122,7 @@
 * 2026-04: -15.6
 * 2026-05: -8.9
 * 2026-06: -6.5
+* 2026-07: -3.6
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Total
 
@@ -89864,6 +89870,8 @@
 * 2025-03: 1.4
 * 2025-04: 21.0
 * 2025-05: 12.6
+* 2025-06: 20.4
+* 2025-07: 15.9
 * 2025-08: 10.7
 * 2025-09: 18.7
 * 2025-10: 23.8
@@ -89874,6 +89882,8 @@
 * 2026-03: 16.6
 * 2026-04: 6.6
 * 2026-05: 16.7
+* 2026-06: 7.2
+* 2026-07: 6.3
 
 # Thrift & Credit Co-operative Societies-Loans Thrift & Credit Co-operative Societies-Loans Granted-Small Industries
 
@@ -90933,6 +90943,7 @@
 * 2025-04: 74.5
 * 2025-05: 77.3
 * 2025-06: 80.3
+* 2025-07: 88.4
 * 2025-08: 86.8
 * 2025-09: 73.7
 * 2025-10: 82.1
@@ -90944,6 +90955,7 @@
 * 2026-04: 75.6
 * 2026-05: 79.9
 * 2026-06: 72.8
+* 2026-07: 73.0
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Stamp Duty-North-Western
 
@@ -91562,6 +91574,7 @@
 * 2025-04: 98.5
 * 2025-05: 105.7
 * 2025-06: 112.9
+* 2025-07: 114.5
 * 2025-08: 118.9
 * 2025-09: 121.7
 * 2025-10: 127.3
@@ -91573,6 +91586,7 @@
 * 2026-04: 105.0
 * 2026-05: 123.4
 * 2026-06: 121.0
+* 2026-07: 121.7
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches GAMPAHA
 
@@ -92083,6 +92097,7 @@
 * 2025-04: 95.9
 * 2025-05: 111.3
 * 2025-06: 100.3
+* 2025-07: 99.4
 * 2025-08: 92.3
 * 2025-09: 103.8
 * 2025-10: 101.3
@@ -92094,6 +92109,7 @@
 * 2026-04: 100.8
 * 2026-05: 111.3
 * 2026-06: 107.1
+* 2026-07: 109.5
 
 # Agriculture-Coconut Estimated Coconut Production - Northern
 
@@ -92635,6 +92651,7 @@
 * 2025-04: 1.7
 * 2025-05: 4.9
 * 2025-06: 6.1
+* 2025-07: 6.3
 * 2025-08: 7.6
 * 2025-09: 4.7
 * 2025-10: 4.8
@@ -92646,6 +92663,7 @@
 * 2026-04: 1.6
 * 2026-05: 1.6
 * 2026-06: 0.8
+* 2026-07: 0.2
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Excise Duty on Liquor-Western
 
@@ -95094,6 +95112,7 @@
 * 2025-04: 126.3
 * 2025-05: 121.5
 * 2025-06: 122.0
+* 2025-07: 125.7
 * 2025-08: 128.8
 * 2025-09: 128.8
 * 2025-10: 126.2
@@ -95105,6 +95124,7 @@
 * 2026-04: 106.7
 * 2026-05: 110.6
 * 2026-06: 114.1
+* 2026-07: 121.2
 
 # Central Government Finance-Debt Statistics Outstanding Treasury Bonds
 
@@ -98852,6 +98872,7 @@
 * 2025-04: 74.4
 * 2025-05: 85.7
 * 2025-06: 101.7
+* 2025-07: 108.9
 * 2025-08: 109.7
 * 2025-09: 96.6
 * 2025-10: 104.6
@@ -98863,6 +98884,7 @@
 * 2026-04: 88.1
 * 2026-05: 90.7
 * 2026-06: 93.9
+* 2026-07: 94.3
 
 # Revenue and Expenditure of Provincial Councils-Expenditure of Provincial Councils Revenue and Expenditure of Provincial Councils-Expenditure-Recurrent (Inclu. Local Govt.)-Total
 
@@ -100463,6 +100485,7 @@
 * 2025-04: -3.9
 * 2025-05: -7.4
 * 2025-06: 0.2
+* 2025-07: 5.2
 * 2025-08: 1.7
 * 2025-09: -4.6
 * 2025-10: 8.2
@@ -100474,6 +100497,7 @@
 * 2026-04: 1.5
 * 2026-05: 3.3
 * 2026-06: -9.4
+* 2026-07: -17.5
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Sabaragamuwa-Total
 
@@ -102411,6 +102435,7 @@
 * 2025-04: 7.0
 * 2025-05: -5.8
 * 2025-06: -5.3
+* 2025-07: -7.5
 * 2025-08: -12.9
 * 2025-09: -1.2
 * 2025-10: -17.4
@@ -102422,6 +102447,7 @@
 * 2026-04: 1.0
 * 2026-05: -10.6
 * 2026-06: -8.6
+* 2026-07: -19.3
 
 # Banking Sector-All Banks Banking Sector- Number of Banks BATTICOLOA
 
@@ -103229,6 +103255,7 @@
 * 2025-04: 0.8
 * 2025-05: 28.1
 * 2025-06: 35.4
+* 2025-07: 166.5
 * 2025-08: 488.5
 * 2025-09: -43.6
 * 2025-10: -9.6
@@ -103240,6 +103267,7 @@
 * 2026-04: -34.9
 * 2026-05: -8.3
 * 2026-06: -9.5
+* 2026-07: -6.0
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Banks TRINCOMALEE
 
@@ -106484,6 +106512,7 @@
 * 2025-04: 1.2
 * 2025-05: 7.2
 * 2025-06: 24.0
+* 2025-07: 16.2
 * 2025-08: 14.7
 * 2025-09: 0.2
 * 2025-10: 13.7
@@ -106495,6 +106524,7 @@
 * 2026-04: 18.5
 * 2026-05: 5.8
 * 2026-06: -7.7
+* 2026-07: -13.4
 
 # Central Government Finance-Central Government Expenditure General Governmnet Expenditure - Total Expenditure
 
@@ -126821,6 +126851,7 @@
 * 2025-04: 107.0
 * 2025-05: 110.9
 * 2025-06: 109.3
+* 2025-07: 118.6
 * 2025-08: 100.1
 * 2025-09: 48.0
 * 2025-10: 94.6
@@ -126832,6 +126863,7 @@
 * 2026-04: 69.7
 * 2026-05: 101.7
 * 2026-06: 98.9
+* 2026-07: 111.5
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Operating Expenses (Non interest Expenses)
 
