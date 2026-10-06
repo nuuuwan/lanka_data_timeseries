@@ -450,6 +450,7 @@
 * 2025-09: 6.2
 * 2025-12: 5.7
 * 2026-03: 6.1
+* 2026-06: 6.1
 
 # Transport-Road Network Road Kilometerage-Ratnapura-Class A
 
@@ -4861,6 +4862,7 @@
 * 2025-09: 7.0
 * 2025-12: 5.2
 * 2026-03: 6.5
+* 2026-06: 6.7
 
 # Agriculture-Rubber Estimated Rubber Production - Western
 
@@ -8708,6 +8710,7 @@
 * 2025-09: 8098
 * 2025-12: 8466
 * 2026-03: 8103
+* 2026-06: 8246
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDE - Current MP (2010 Series) - Govt. Collective Final Cons. by COFOG - Recreation culture and rel
 
@@ -9091,6 +9094,7 @@
 * 2025-09: 49.8
 * 2025-12: 50.6
 * 2026-03: 50.4
+* 2026-06: 49.2
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Education
 
@@ -11658,6 +11662,7 @@
 * 2025-09: 26.8
 * 2025-12: 26.3
 * 2026-03: 25.9
+* 2026-06: 27.3
 
 # Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Domestic
 
@@ -16346,6 +16351,7 @@
 * 2025-09: 33.9
 * 2025-12: 32.3
 * 2026-03: 32.5
+* 2026-06: 32.7
 
 # Agriculture-Tea Estimated Tea Production - Sabaragamuwa
 
@@ -16970,6 +16976,7 @@
 * 2025-09: 1896
 * 2025-12: 1960
 * 2026-03: 1921
+* 2026-06: 1931
 
 # Transport-Road Network Road Kilometerage-Matara-Total
 
@@ -17854,6 +17861,7 @@
 * 2025-09: 8465
 * 2025-12: 8798
 * 2026-03: 8414
+* 2026-06: 8586
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Agriculture - Other Food Crops
 
@@ -21939,6 +21947,7 @@
 * 2025-09: 23.4
 * 2025-12: 23.2
 * 2026-03: 23.7
+* 2026-06: 23.4
 
 # Transport-Road Network Road Kilometerage-Mannar-Class D
 
@@ -27051,6 +27060,7 @@
 * 2025-09: 367
 * 2025-12: 332
 * 2026-03: 311
+* 2026-06: 340
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Exp. at Constant (2002) Prices - External Demand - Imports of Goods and Services
 
@@ -32820,6 +32830,7 @@
 * 2025-09: 49.9
 * 2025-12: 48.8
 * 2026-03: 49.2
+* 2026-06: 50.0
 
 # Transport-Road Network Road Kilometerage-Galle-Total
 
@@ -33945,6 +33956,7 @@
 * 2025-09: 4035
 * 2025-12: 4280
 * 2026-03: 4086
+* 2026-06: 4061
 
 # National Accounts-GDP at Current Prices - Base Year 2002 Domestic Savings-at Current Prices (2002 Series)
 
@@ -34717,6 +34729,7 @@
 * 2025-09: 4.3
 * 2025-12: 3.8
 * 2026-03: 3.7
+* 2026-06: 4.0
 
 # Agriculture-National Livestock Statistics Poultry Production
 
@@ -41949,6 +41962,7 @@
 * 2025-09: 3.2
 * 2025-12: 2.7
 * 2026-03: 2.4
+* 2026-06: 2.8
 
 # Transport-Road Network Road Kilometerage-Badulla-Class E
 
@@ -49819,6 +49833,7 @@
 * 2025-09: 68.6
 * 2025-12: 68.1
 * 2026-03: 69.1
+* 2026-06: 70.3
 
 # Transport-Railways Sri Lanka Railways-Operated Kilometers-All Island
 
@@ -57093,6 +57108,7 @@
 * 2025-09: 5.8
 * 2025-12: 5.0
 * 2026-03: 4.6
+* 2026-06: 5.0
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of Wearing Apparels - Change
 
@@ -59329,6 +59345,7 @@
 * 2025-09: 2167
 * 2025-12: 2225
 * 2026-03: 2096
+* 2026-06: 2255
 
 # Industry and Housing-Electricity Sales Electricity Sales-Units-Transmission Bulk Supply to LECO
 

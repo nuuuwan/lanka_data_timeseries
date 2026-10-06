@@ -5725,7 +5725,8 @@
     "2025-06": 2064,
     "2025-09": 2167,
     "2025-12": 2225,
-    "2026-03": 2096
+    "2026-03": 2096,
+    "2026-06": 2255
   },
   "National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Industry - Electricity, Gas and Water - Water": {
     "2002": 2068.0,
@@ -8783,7 +8784,8 @@
     "2025-06": 49.0,
     "2025-09": 49.8,
     "2025-12": 50.6,
-    "2026-03": 50.4
+    "2026-03": 50.4,
+    "2026-06": 49.2
   },
   "National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Individual Final Cons. by COFOG - Education": {
     "2010": 89660.05,
@@ -11090,7 +11092,8 @@
     "2025-06": 25.3,
     "2025-09": 26.8,
     "2025-12": 26.3,
-    "2026-03": 25.9
+    "2026-03": 25.9,
+    "2026-06": 27.3
   },
   "Central Government Finance-Debt Statistics Central Government - Overall Deficit Financing - Domestic": {
     "2015-03": 279403,
@@ -14400,7 +14403,8 @@
     "2025-06": 49.3,
     "2025-09": 49.9,
     "2025-12": 48.8,
-    "2026-03": 49.2
+    "2026-03": 49.2,
+    "2026-06": 50.0
   },
   "National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Industries - Manufacture of coke and refined petroleum p": {
     "2010": 22280.52,
@@ -14850,7 +14854,8 @@
     "2025-06": 8491,
     "2025-09": 8465,
     "2025-12": 8798,
-    "2026-03": 8414
+    "2026-03": 8414,
+    "2026-06": 8586
   },
   "Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Licence Fee - Others-Uva": {
     "1999": 0,
@@ -16226,7 +16231,8 @@
     "2025-06": 5.6,
     "2025-09": 5.8,
     "2025-12": 5.0,
-    "2026-03": 4.6
+    "2026-03": 4.6,
+    "2026-06": 5.0
   },
   "Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2016=100)(Real)": {
     "2018-01": 90.6,
@@ -20972,7 +20978,8 @@
     "2025-06": 25.7,
     "2025-09": 23.4,
     "2025-12": 23.2,
-    "2026-03": 23.7
+    "2026-03": 23.7,
+    "2026-06": 23.4
   },
   "Transport-Road Network Road Kilometerage-Mannar-Class D": {
     "2008": 0,
@@ -25436,7 +25443,8 @@
     "2025-06": 2.6,
     "2025-09": 3.2,
     "2025-12": 2.7,
-    "2026-03": 2.4
+    "2026-03": 2.4,
+    "2026-06": 2.8
   },
   "Transport-Road Network Road Kilometerage-Kalutara-Class E": {
     "2005": 0,
@@ -37996,7 +38004,8 @@
     "2025-06": 69.5,
     "2025-09": 68.6,
     "2025-12": 68.1,
-    "2026-03": 69.1
+    "2026-03": 69.1,
+    "2026-06": 70.3
   },
   "Central Government Finance-Central Government Revenue Non Tax Revenue": {
     "2021-01": 8.08,

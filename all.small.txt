@@ -466,6 +466,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Fem
 2025-09	6.2
 2025-12	5.7
 2026-03	6.1
+2026-06	6.1
 
 --------------------------------
 
@@ -5025,6 +5026,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-09	7.0
 2025-12	5.2
 2026-03	6.5
+2026-06	6.7
 
 --------------------------------
 
@@ -8998,6 +9000,7 @@ Labour Force and Employment-Overall Labour Statistics-Employed Population
 2025-09	8098
 2025-12	8466
 2026-03	8103
+2026-06	8246
 
 --------------------------------
 
@@ -9396,6 +9399,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Services (as
 2025-09	49.8
 2025-12	50.6
 2026-03	50.4
+2026-06	49.2
 
 --------------------------------
 
@@ -12040,6 +12044,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Industry (as
 2025-09	26.8
 2025-12	26.3
 2026-03	25.9
+2026-06	27.3
 
 --------------------------------
 
@@ -16871,6 +16876,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-09	33.9
 2025-12	32.3
 2026-03	32.5
+2026-06	32.7
 
 --------------------------------
 
@@ -17522,6 +17528,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-09	1896
 2025-12	1960
 2026-03	1921
+2026-06	1931
 
 --------------------------------
 
@@ -18429,6 +18436,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force
 2025-09	8465
 2025-12	8798
 2026-03	8414
+2026-06	8586
 
 --------------------------------
 
@@ -22644,6 +22652,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment Agriculture 
 2025-09	23.4
 2025-12	23.2
 2026-03	23.7
+2026-06	23.4
 
 --------------------------------
 
@@ -27914,6 +27923,7 @@ Labour Force and Employment-Overall Labour Statistics-Unemployed Population
 2025-09	367
 2025-12	332
 2026-03	311
+2026-06	340
 
 --------------------------------
 
@@ -33863,6 +33873,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-09	49.9
 2025-12	48.8
 2026-03	49.2
+2026-06	50.0
 
 --------------------------------
 
@@ -35028,6 +35039,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-09	4035
 2025-12	4280
 2026-03	4086
+2026-06	4061
 
 --------------------------------
 
@@ -35821,6 +35833,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Sri
 2025-09	4.3
 2025-12	3.8
 2026-03	3.7
+2026-06	4.0
 
 --------------------------------
 
@@ -43268,6 +43281,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Mal
 2025-09	3.2
 2025-12	2.7
 2026-03	2.4
+2026-06	2.8
 
 --------------------------------
 
@@ -51394,6 +51408,7 @@ Labour Force and Employment-Overall Labour Statistics-Labour Force Participation
 2025-09	68.6
 2025-12	68.1
 2026-03	69.1
+2026-06	70.3
 
 --------------------------------
 
@@ -58907,6 +58922,7 @@ Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of
 2025-09	5.8
 2025-12	5.0
 2026-03	4.6
+2026-06	5.0
 
 --------------------------------
 
@@ -61183,6 +61199,7 @@ Labour Force and Employment-Employment Labour Statistics-Employment-Industrial C
 2025-09	2167
 2025-12	2225
 2026-03	2096
+2026-06	2255
 
 --------------------------------
 
