@@ -2342,7 +2342,6 @@
 * 2019: 81.04
 * 2020: 72.13
 * 2021: 77.9
-* 2022: 83.18
 * 2023: 80.13
 
 # Industry and Housing-Water Consumption Water Consumption-No. of Consumers-North Western-Total
@@ -6049,6 +6048,7 @@
 * 2026-05: 207.9
 * 2026-06: 209.5
 * 2026-07: 210.2
+* 2026-08: 212.3
 
 # Petroleum-Petroleum Petroleum - Petrol sales
 
@@ -17532,6 +17532,7 @@
 * 2026-05: 78.4
 * 2026-06: 77.1
 * 2026-07: 76.7
+* 2026-08: 76.6
 
 # Balance of Payments-Financial Account BOP - Portfolio Investment - Assets
 
@@ -19712,6 +19713,7 @@
 * 2026-05: 9.7
 * 2026-06: 10.6
 * 2026-07: 10.4
+* 2026-08: 10.8
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Agriculture, Forestry and Fishing - Marine fishing and Marine Aquacu
 
@@ -24155,6 +24157,7 @@
 * 2026-05: 143.8
 * 2026-06: 140.8
 * 2026-07: 140.5
+* 2026-08: 140.3
 
 # Banking Sector-All Banks Banking Sector- Staff Cost
 
@@ -28460,6 +28463,7 @@
 * 2026-05: 206.6
 * 2026-06: 207.6
 * 2026-07: 209.2
+* 2026-08: 213.1
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Contingencies
 
@@ -34449,6 +34453,7 @@
 * 2026-05: 8.0
 * 2026-06: 8.2
 * 2026-07: 8.5
+* 2026-08: 10.3
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Gross Loans and Advances
 
@@ -35221,6 +35226,7 @@
 * 2026-05: 6.1
 * 2026-06: 6.2
 * 2026-07: 6.3
+* 2026-08: 6.9
 
 # Education-University Education University education - Admission as a percentage of eligible
 
@@ -37785,6 +37791,7 @@
 * 2026-05: 13491.0
 * 2026-06: 13491.5
 * 2026-07: 13492.0
+* 2026-08: 13513.5
 
 # Banking Sector-Credit Cards Credit Card - Local (accepted only locally)
 
@@ -41879,6 +41886,7 @@
 * 2026-05: 5.0
 * 2026-06: 5.0
 * 2026-07: 5.0
+* 2026-08: 5.0
 
 # Labour Force and Employment-Unemployment Labour Statistics-Unemployment Rate-Male
 
@@ -42089,6 +42097,7 @@
 * 2026-05: 192.6
 * 2026-06: 192.6
 * 2026-07: 192.6
+* 2026-08: 192.6
 
 # International Investment Position-Gross Official Reserves Gross Official reserves - Months of Imports
 
@@ -57730,6 +57739,7 @@
 * 2026-05: 8.5
 * 2026-06: 9.0
 * 2026-07: 9.0
+* 2026-08: 9.9
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Billed-Northern-Total
 
@@ -58052,6 +58062,7 @@
 * 2026-05: 200.3
 * 2026-06: 201.8
 * 2026-07: 202.7
+* 2026-08: 204.5
 
 # Transport-SLTB or Regional Bus Companies Public road transport - Operated kilometres
 
@@ -60293,6 +60304,7 @@
 * 2026-05: 206.0
 * 2026-06: 207.4
 * 2026-07: 208.4
+* 2026-08: 210.8
 
 # Agriculture-Subsidiary Food Crops GROUND NUTS Production
 
