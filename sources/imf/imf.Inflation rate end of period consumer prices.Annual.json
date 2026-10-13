@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "PCPIEPCH",
     "description": "The end of period consumer price index (CPI) is a measure of a country's general level of prices based on the cost of a typical basket of consumer goods and services at the end of a given period. The rate of inflation is the percent change in the end of period CPI.\n \n",
-    "source": "World Economic Outlook (April 2026)",
+    "source": "World Economic Outlook (October 2026)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PCPIEPCH/LKA"
   },
   "summary_statistics": {
-    "n": 45,
+    "n": 52,
     "min_t": "1980",
-    "max_t": "2024",
+    "max_t": "2031",
     "min_value": 24.7,
-    "max_value": -1.5
+    "max_value": 5
   },
   "cleaned_data": {
     "1980": 24.7,
@@ -65,7 +65,14 @@
     "2021": 9.9,
     "2022": 58.6,
     "2023": 3,
-    "2024": -1.5
+    "2024": -1.5,
+    "2025": 2.1,
+    "2026": 6.5,
+    "2027": 5,
+    "2028": 5,
+    "2029": 5,
+    "2030": 5,
+    "2031": 5
   },
   "raw_data": {
     "1980": 24.7,
@@ -112,6 +119,13 @@
     "2021": 9.9,
     "2022": 58.6,
     "2023": 3,
-    "2024": -1.5
+    "2024": -1.5,
+    "2025": 2.1,
+    "2026": 6.5,
+    "2027": 5,
+    "2028": 5,
+    "2029": 5,
+    "2030": 5,
+    "2031": 5
   }
 }

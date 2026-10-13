@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "PCPIPCH",
     "description": "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.\n \n",
-    "source": "World Economic Outlook (April 2026)",
+    "source": "World Economic Outlook (October 2026)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/LKA"
   },
   "summary_statistics": {
-    "n": 45,
+    "n": 52,
     "min_t": "1980",
-    "max_t": "2024",
+    "max_t": "2031",
     "min_value": 26.1,
-    "max_value": 1.2
+    "max_value": 5
   },
   "cleaned_data": {
     "1980": 26.1,
@@ -65,7 +65,14 @@
     "2021": 6,
     "2022": 45.2,
     "2023": 17.4,
-    "2024": 1.2
+    "2024": 1.2,
+    "2025": -0.5,
+    "2026": 5.3,
+    "2027": 5.4,
+    "2028": 5,
+    "2029": 5,
+    "2030": 5,
+    "2031": 5
   },
   "raw_data": {
     "1980": 26.1,
@@ -112,6 +119,13 @@
     "2021": 6,
     "2022": 45.2,
     "2023": 17.4,
-    "2024": 1.2
+    "2024": 1.2,
+    "2025": -0.5,
+    "2026": 5.3,
+    "2027": 5.4,
+    "2028": 5,
+    "2029": 5,
+    "2030": 5,
+    "2031": 5
   }
 }

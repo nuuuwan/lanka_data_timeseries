@@ -9,16 +9,16 @@
   "footnotes": {
     "indicator_key": "GGXWDG_NGDP",
     "description": "Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).",
-    "source": "World Economic Outlook (April 2026)",
+    "source": "World Economic Outlook (October 2026)",
     "dataset": "WEO",
     "url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/LKA"
   },
   "summary_statistics": {
-    "n": 35,
+    "n": 42,
     "min_t": "1990",
-    "max_t": "2024",
+    "max_t": "2031",
     "min_value": 78.9,
-    "max_value": 100.8
+    "max_value": 82.4
   },
   "cleaned_data": {
     "1990": 78.9,
@@ -54,8 +54,15 @@
     "2020": 96.9,
     "2021": 102.7,
     "2022": 115.9,
-    "2023": 110.4,
-    "2024": 100.8
+    "2023": 109.9,
+    "2024": 100.2,
+    "2025": 96.8,
+    "2026": 95.2,
+    "2027": 91.8,
+    "2028": 90.1,
+    "2029": 87.4,
+    "2030": 84.7,
+    "2031": 82.4
   },
   "raw_data": {
     "1990": 78.9,
@@ -91,7 +98,14 @@
     "2020": 96.9,
     "2021": 102.7,
     "2022": 115.9,
-    "2023": 110.4,
-    "2024": 100.8
+    "2023": 109.9,
+    "2024": 100.2,
+    "2025": 96.8,
+    "2026": 95.2,
+    "2027": 91.8,
+    "2028": 90.1,
+    "2029": 87.4,
+    "2030": 84.7,
+    "2031": 82.4
   }
 }
