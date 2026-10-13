@@ -148282,14 +148282,21 @@ IMF - Sri Lanka Data GDP per capita current prices
 2019	14112.953
 2020	12940.904
 2021	14316.135
-2022	14191.393
-2023	14467.53
-2024	15655.282
+2022	14195.21
+2023	14522.9
+2024	15724.852
+2025	17062.786
+2026	18246.367
+2027	19418.196
+2028	20403.206
+2029	21412.556
+2030	22463.539
+2031	23534.947
 
 Source: imf
 Frequency: Annual
 Unit: Purchasing power parity; international dollars per capita
-Footnotes: {'indicator_key': 'PPPPC', 'description': 'Gross domestic product (GDP) is the most commonly used single measure of a country\'s overall economic activity. Per capita GDP represents the total value in PPP terms of final goods and services produced within a country during a specified time period divided by the average population for the same one year.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPPC/LKA'}
+Footnotes: {'indicator_key': 'PPPPC', 'description': 'Gross domestic product (GDP) is the most commonly used single measure of a country\'s overall economic activity. Per capita GDP represents the total value in PPP terms of final goods and services produced within a country during a specified time period divided by the average population for the same one year.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPPC/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Inflation rate end of period consumer prices
@@ -148338,11 +148345,18 @@ IMF - Sri Lanka Data Inflation rate end of period consumer prices
 2022	58.6
 2023	3
 2024	-1.5
+2025	2.1
+2026	6.5
+2027	5
+2028	5
+2029	5
+2030	5
+2031	5
 
 Source: imf
 Frequency: Annual
 Unit: Annual percent change
-Footnotes: {'indicator_key': 'PCPIEPCH', 'description': "The end of period consumer price index (CPI) is a measure of a country's general level of prices based on the cost of a typical basket of consumer goods and services at the end of a given period. The rate of inflation is the percent change in the end of period CPI.\n \n", 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PCPIEPCH/LKA'}
+Footnotes: {'indicator_key': 'PCPIEPCH', 'description': "The end of period consumer price index (CPI) is a measure of a country's general level of prices based on the cost of a typical basket of consumer goods and services at the end of a given period. The rate of inflation is the percent change in the end of period CPI.\n \n", 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PCPIEPCH/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Real GDP growth
@@ -148389,13 +148403,20 @@ IMF - Sri Lanka Data Real GDP growth
 2020	-4.6
 2021	4.2
 2022	-7.3
-2023	-2.3
+2023	-2
 2024	5
+2025	5
+2026	4
+2027	3.7
+2028	3.5
+2029	3.5
+2030	3.5
+2031	3.5
 
 Source: imf
 Frequency: Annual
 Unit: Annual percent change
-Footnotes: {'indicator_key': 'NGDP_RPCH', 'description': "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value at constant prices of final goods and services produced within a country during a specified time period, such as one year.", 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/LKA'}
+Footnotes: {'indicator_key': 'NGDP_RPCH', 'description': "Gross domestic product is the most commonly used single measure of a country's overall economic activity. It represents the total value at constant prices of final goods and services produced within a country during a specified time period, such as one year.", 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Beverages and tobacco
@@ -148673,11 +148694,18 @@ IMF - Sri Lanka Data Inflation rate average consumer prices
 2022	45.2
 2023	17.4
 2024	1.2
+2025	-0.5
+2026	5.3
+2027	5.4
+2028	5
+2029	5
+2030	5
+2031	5
 
 Source: imf
 Frequency: Annual
 Unit: Annual percent change
-Footnotes: {'indicator_key': 'PCPIPCH', 'description': "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.\n \n", 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PCPIPCH/LKA'}
+Footnotes: {'indicator_key': 'PCPIPCH', 'description': "The average consumer price index (CPI) is a measure of a country's average level of prices based on the cost of a typical basket of consumer goods and services in a given period. The rate of inflation is the percent change in the average CPI.\n \n", 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PCPIPCH/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Export Quality Index
@@ -148865,14 +148893,21 @@ IMF - Sri Lanka Data Current account balance percent of GDP
 2019	-2.1
 2020	-1.4
 2021	-3.7
-2022	-2
+2022	-1.9
 2023	1.7
 2024	1.2
+2025	1.6
+2026	-0.5
+2027	-0.3
+2028	-0.4
+2029	-0.6
+2030	-0.7
+2031	-0.7
 
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'BCA_NGDPD', 'description': 'The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/LKA'}
+Footnotes: {'indicator_key': 'BCA_NGDPD', 'description': 'The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Fiscal Rule Indicator
@@ -148966,14 +149001,21 @@ IMF - Sri Lanka Data Implied PPP conversion rate
 2019	51.709
 2020	55.16
 2021	55.527
-2022	76.445
-2023	86.004
-2024	87.142
+2022	76.424
+2023	86.049
+2024	87.329
+2025	88.225
+2026	90.645
+2027	92.347
+2028	95.043
+2029	97.974
+2030	101.017
+2031	104.302
 
 Source: imf
 Frequency: Annual
 Unit: National currency per international dollar
-Footnotes: {'indicator_key': 'PPPEX', 'description': 'Purchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPEX/LKA'}
+Footnotes: {'indicator_key': 'PPPEX', 'description': 'Purchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPEX/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Interest paid on public debt percent of GDP
@@ -149366,13 +149408,20 @@ IMF - Sri Lanka Data General government gross debt
 2020	96.9
 2021	102.7
 2022	115.9
-2023	110.4
-2024	100.8
+2023	109.9
+2024	100.2
+2025	96.8
+2026	95.2
+2027	91.8
+2028	90.1
+2029	87.4
+2030	84.7
+2031	82.4
 
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'GGXWDG_NGDP', 'description': 'Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/LKA'}
+Footnotes: {'indicator_key': 'GGXWDG_NGDP', 'description': 'Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110).', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Gender Inequality Index (GII) Time Consistent
@@ -149486,11 +149535,18 @@ IMF - Sri Lanka Data Unemployment rate
 2022	4.7
 2023	4.7
 2024	4.4
+2025	3.9
+2026	3.9
+2027	3.9
+2028	3.9
+2029	3.9
+2030	3.9
+2031	3.9
 
 Source: imf
 Frequency: Annual
 Unit: Percent
-Footnotes: {'indicator_key': 'LUR', 'description': 'The number of unemployed persons as a percentage of the total labor force.', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/LUR/LKA'}
+Footnotes: {'indicator_key': 'LUR', 'description': 'The number of unemployed persons as a percentage of the total labor force.', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/LUR/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Animal and vegetable oils and fats
@@ -149790,11 +149846,18 @@ IMF - Sri Lanka Data Population
 2022	22.181
 2023	22.037
 2024	21.916
+2025	21.756
+2026	21.865
+2027	21.974
+2028	22.084
+2029	22.194
+2030	22.305
+2031	22.417
 
 Source: imf
 Frequency: Annual
 Unit: Millions of people
-Footnotes: {'indicator_key': 'LP', 'description': 'Total population of a country, region, or group of countries.', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/LP/LKA'}
+Footnotes: {'indicator_key': 'LP', 'description': 'Total population of a country, region, or group of countries.', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/LP/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Real long term government bond yield percent
@@ -150274,16 +150337,23 @@ IMF - Sri Lanka Data Current account balance U.S. dollars
 2017	-2.309
 2018	-2.8
 2019	-1.843
-2020	-1.185
+2020	-1.186
 2021	-3.285
-2022	-1.461
-2023	1.44
-2024	1.206
+2022	-1.448
+2023	1.439
+2024	1.207
+2025	1.719
+2026	-0.58
+2027	-0.302
+2028	-0.493
+2029	-0.711
+2030	-0.888
+2031	-0.962
 
 Source: imf
 Frequency: Annual
 Unit: Billions of U.S. dollars
-Footnotes: {'indicator_key': 'BCA', 'description': 'The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/BCA/LKA'}
+Footnotes: {'indicator_key': 'BCA', 'description': 'The current account is the record of all transactions in the balance of payments covering the exports and imports of goods and services, payments of income, and current transfers between residents of a country and nonresidents.', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/BCA/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Revenue
@@ -150357,7 +150427,7 @@ IMF - Sri Lanka Data GDP based on PPP share of world
 2004	0.167
 2005	0.17
 2006	0.174
-2007	0.177
+2007	0.176
 2008	0.182
 2009	0.19
 2010	0.195
@@ -150368,18 +150438,25 @@ IMF - Sri Lanka Data GDP based on PPP share of world
 2015	0.224
 2016	0.228
 2017	0.234
-2018	0.232
+2018	0.231
 2019	0.219
 2020	0.202
 2021	0.202
 2022	0.18
 2023	0.171
-2024	0.173
+2024	0.174
+2025	0.176
+2026	0.178
+2027	0.178
+2028	0.179
+2029	0.179
+2030	0.18
+2031	0.181
 
 Source: imf
 Frequency: Annual
 Unit: Percent of World
-Footnotes: {'indicator_key': 'PPPSH', 'description': 'Purchasing Power Parity (PPP) weights are individual countries\' share of total World gross domestic product at purchasing power parities.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPSH/LKA'}
+Footnotes: {'indicator_key': 'PPPSH', 'description': 'Purchasing Power Parity (PPP) weights are individual countries\' share of total World gross domestic product at purchasing power parities.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPSH/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Direct investment openness index (1=fully liberalized)
@@ -151148,11 +151225,18 @@ IMF - Sri Lanka Data General government net lending or borrowing
 2022	-10.2
 2023	-8.3
 2024	-5.4
+2025	-2.3
+2026	-4.2
+2027	-3.3
+2028	-3.4
+2029	-3.3
+2030	-3.2
+2031	-3.1
 
 Source: imf
 Frequency: Annual
 Unit: Percent of GDP
-Footnotes: {'indicator_key': 'GGXCNL_NGDP', 'description': 'Net lending (+)/ borrowing (\x96) is calculated as revenue minus total expenditure. This is a core GFS balance that measures the extent to which general government is either putting financial resources at the disposal of other sectors in the economy and nonresidents (net lending), or utilizing the financial resources generated by other sectors and nonresidents (net borrowing). This balance may be viewed as an indicator of the financial impact of general government activity on the rest of the economy and nonresidents (GFSM 2001, paragraph 4.17). Note: Net lending (+)/borrowing (\x96) is also equal to net acquisition of financial assets minus net incurrence of liabilities.', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/LKA'}
+Footnotes: {'indicator_key': 'GGXCNL_NGDP', 'description': 'Net lending (+)/ borrowing (\x96) is calculated as revenue minus total expenditure. This is a core GFS balance that measures the extent to which general government is either putting financial resources at the disposal of other sectors in the economy and nonresidents (net lending), or utilizing the financial resources generated by other sectors and nonresidents (net borrowing). This balance may be viewed as an indicator of the financial impact of general government activity on the rest of the economy and nonresidents (GFSM 2001, paragraph 4.17). Note: Net lending (+)/borrowing (\x96) is also equal to net acquisition of financial assets minus net incurrence of liabilities.', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Money market openness index (1=fully liberalized)
@@ -151220,14 +151304,21 @@ IMF - Sri Lanka Data GDP current prices
 2019	307.705
 2020	283.652
 2021	317.188
-2022	314.779
-2023	318.821
-2024	343.101
+2022	314.864
+2023	320.041
+2024	344.626
+2025	371.218
+2026	398.953
+2027	426.697
+2028	450.584
+2029	475.239
+2030	501.057
+2031	527.58
 
 Source: imf
 Frequency: Annual
 Unit: Purchasing power parity; billions of international dollars
-Footnotes: {'indicator_key': 'PPPGDP', 'description': 'Gross domestic product is the most commonly used single measure of a country\'s overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (April 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA'}
+Footnotes: {'indicator_key': 'PPPGDP', 'description': 'Gross domestic product is the most commonly used single measure of a country\'s overall economic activity. It represents the total value in PPP terms of final goods and services produced within a country during a specified time period.\n\nPurchasing Power Parity (PPP) is a theory which relates changes in the nominal exchange rate between two countries currencies to changes in the countries\' price levels. More information on PPP methodology can be found on the World Economic Outlook FAQ - <a href="https://data.imf.org/en/Datasets/WEO/Frequently-Asked-Questions" target="new">click here</a>', 'source': 'World Economic Outlook (October 2026)', 'dataset': 'WEO', 'url': 'https://www.imf.org/external/datamapper/api/v1/PPPGDP/LKA'}
 --------------------------------
 
 IMF - Sri Lanka Data Machinery and transport equipment
