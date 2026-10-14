@@ -8,17 +8,17 @@
   "i_subject": -1,
   "footnotes": {
     "indicator_key": "G_XWDG_G01_GDP_PT",
-    "description": "All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF\u0092s Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term \u0093public debt\u0094 is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term \u0093public debt\u0094 refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)",
-    "source": "Fiscal Monitor (April 2026)",
+    "description": "All liabilities that require future payment of interest and/or principal by the debtor to the creditor. This includes debt liabilities in the form of special drawing rights, currency, and deposits; debt securities; loans; insurance, pension, and standardized guarantee schemes; and other accounts payable. (See the 2014 edition of the IMF's Government Finance Statistics Manual and Public Sector Debt Statistics Manual). The term \"public debt\" is used in the Fiscal Monitor, for simplicity, as synonymous with gross debt of the general government, unless otherwise specified. (Strictly speaking, the term \"public debt\" refers to the debt of the public sector as a whole, which includes financial and nonfinancial public enterprises and the central bank.)",
+    "source": "Fiscal Monitor (October 2026)",
     "dataset": "FM",
     "url": "https://www.imf.org/external/datamapper/api/v1/G_XWDG_G01_GDP_PT/LKA"
   },
   "summary_statistics": {
-    "n": 35,
+    "n": 42,
     "min_t": "1990",
-    "max_t": "2024",
+    "max_t": "2031",
     "min_value": 78.93764682478,
-    "max_value": 100.84003258693
+    "max_value": 82.434584744659
   },
   "cleaned_data": {
     "1990": 78.93764682478,
@@ -54,8 +54,15 @@
     "2020": 96.881066693732,
     "2021": 102.66862848414,
     "2022": 115.94246472114,
-    "2023": 110.3755146252,
-    "2024": 100.84003258693
+    "2023": 109.8974612595,
+    "2024": 100.17908692991,
+    "2025": 96.79924679414,
+    "2026": 95.229762865426,
+    "2027": 91.821695556548,
+    "2028": 90.101543358445,
+    "2029": 87.377662633589,
+    "2030": 84.722230351353,
+    "2031": 82.434584744659
   },
   "raw_data": {
     "1990": 78.93764682478,
@@ -91,7 +98,14 @@
     "2020": 96.881066693732,
     "2021": 102.66862848414,
     "2022": 115.94246472114,
-    "2023": 110.3755146252,
-    "2024": 100.84003258693
+    "2023": 109.8974612595,
+    "2024": 100.17908692991,
+    "2025": 96.79924679414,
+    "2026": 95.229762865426,
+    "2027": 91.821695556548,
+    "2028": 90.101543358445,
+    "2029": 87.377662633589,
+    "2030": 84.722230351353,
+    "2031": 82.434584744659
   }
 }
