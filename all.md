@@ -272,7 +272,7 @@
 * 2025-05: -7.4
 * 2025-06: 0.2
 * 2025-07: 5.2
-* 2025-08: 1.7
+* 2025-08: 1.6
 * 2025-09: -4.6
 * 2025-10: 8.2
 * 2025-11: 3.4
@@ -284,6 +284,7 @@
 * 2026-05: 3.3
 * 2026-06: -9.4
 * 2026-07: -17.5
+* 2026-08: -17.3
 
 # Transport-Road Network Road Kilometerage-Colombo-Expressways
 
@@ -2691,7 +2692,7 @@
 * 2025-05: 5.5
 * 2025-06: -2.6
 * 2025-07: -6.0
-* 2025-08: -4.8
+* 2025-08: -4.1
 * 2025-09: 12.1
 * 2025-10: 5.8
 * 2025-11: 6.0
@@ -2703,6 +2704,7 @@
 * 2026-05: 0.1
 * 2026-06: 6.8
 * 2026-07: 10.1
+* 2026-08: 8.5
 
 # Transport-Road Network Road Kilometerage-Colombo-Class E
 
@@ -11392,6 +11394,7 @@
 * 2026-05: -8.9
 * 2026-06: -6.5
 * 2026-07: -3.6
+* 2026-08: -2.4
 
 # Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactions through ATM Terminals
 
@@ -11697,7 +11700,7 @@
 * 2025-05: 4.9
 * 2025-06: 6.1
 * 2025-07: 6.3
-* 2025-08: 7.6
+* 2025-08: 7.9
 * 2025-09: 4.7
 * 2025-10: 4.8
 * 2025-11: 5.9
@@ -11709,6 +11712,7 @@
 * 2026-05: 1.6
 * 2026-06: 0.8
 * 2026-07: 0.2
+* 2026-08: 1.3
 
 # Health-Health Statistics Government sector western medicine - Nurses per 10 000 persons
 
@@ -11978,7 +11982,7 @@
 * 2025-05: 12.6
 * 2025-06: 20.4
 * 2025-07: 15.9
-* 2025-08: 10.7
+* 2025-08: 10.3
 * 2025-09: 18.7
 * 2025-10: 23.8
 * 2025-11: 13.1
@@ -11990,6 +11994,7 @@
 * 2026-05: 16.7
 * 2026-06: 7.2
 * 2026-07: 6.3
+* 2026-08: 3.8
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Current Prices (2002 Series) - Services - Government Services
 
@@ -14865,7 +14870,7 @@
 * 2025-05: 105.7
 * 2025-06: 112.9
 * 2025-07: 114.5
-* 2025-08: 118.9
+* 2025-08: 118.5
 * 2025-09: 121.7
 * 2025-10: 127.3
 * 2025-11: 112.4
@@ -14877,6 +14882,7 @@
 * 2026-05: 123.4
 * 2026-06: 121.0
 * 2026-07: 121.7
+* 2026-08: 123.0
 
 # Transport-Road Network Road Kilometerage-Matara-Class C
 
@@ -21549,6 +21555,7 @@
 * 2026-05: 90.7
 * 2026-06: 93.9
 * 2026-07: 94.3
+* 2026-08: 98.1
 
 # Banking Sector-All Banks Banking Sector- Total Number of Banks
 
@@ -26661,6 +26668,7 @@
 * 2026-05: 101.7
 * 2026-06: 98.9
 * 2026-07: 111.5
+* 2026-08: 110.1
 
 # Balance of Payments-BOP Balance BOP- Overall Balance
 
@@ -36759,6 +36767,7 @@
 * 2026-05: 79.9
 * 2026-06: 72.8
 * 2026-07: 73.0
+* 2026-08: 71.8
 
 # Labour Force and Employment-Unemployment Labour Statistics-Unemployment-Level of Education-G.C.E.(O-L)
 
@@ -38679,7 +38688,7 @@
 * 2025-05: 111.3
 * 2025-06: 100.3
 * 2025-07: 99.4
-* 2025-08: 92.3
+* 2025-08: 93.0
 * 2025-09: 103.8
 * 2025-10: 101.3
 * 2025-11: 103.9
@@ -38691,6 +38700,7 @@
 * 2026-05: 111.3
 * 2026-06: 107.1
 * 2026-07: 109.5
+* 2026-08: 100.9
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Terms of Trade (1997=100)
 
@@ -40548,7 +40558,7 @@
 * 2025-05: 7.2
 * 2025-06: 24.0
 * 2025-07: 16.2
-* 2025-08: 14.7
+* 2025-08: 14.6
 * 2025-09: 0.2
 * 2025-10: 13.7
 * 2025-11: 3.7
@@ -40560,6 +40570,7 @@
 * 2026-05: 5.8
 * 2026-06: -7.7
 * 2026-07: -13.4
+* 2026-08: -10.6
 
 # Banking Sector-All Banks Banking Sector- Provision for Bad and Doubtful Debts and Loan Write-offs (net)
 
@@ -44517,6 +44528,7 @@
 * 2026-05: 110.6
 * 2026-06: 114.1
 * 2026-07: 121.2
+* 2026-08: 125.7
 
 # Labour Force and Employment-Employment Labour Statistics-Employment-Industrial Category-Services
 
@@ -46531,6 +46543,7 @@
 * 2026-05: 72.5
 * 2026-06: 69.6
 * 2026-07: 70.6
+* 2026-08: 82.1
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Non-interest Income
 
@@ -46675,6 +46688,7 @@
 * 2026-05: -10.6
 * 2026-06: -8.6
 * 2026-07: -19.3
+* 2026-08: 2.0
 
 # Transport-Road Network Road Kilometerage-Kilinochchi-Class D
 
@@ -55227,7 +55241,7 @@
 * 2025-05: 28.1
 * 2025-06: 35.4
 * 2025-07: 166.5
-* 2025-08: 488.5
+* 2025-08: 488.8
 * 2025-09: -43.6
 * 2025-10: -9.6
 * 2025-11: 24.0
@@ -55239,6 +55253,7 @@
 * 2026-05: -8.3
 * 2026-06: -9.5
 * 2026-07: -6.0
+* 2026-08: 10.0
 
 # Agriculture-National Livestock Statistics Egg Production
 
