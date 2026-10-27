@@ -11,15 +11,15 @@
     "Source": "LCPL",
     "GeoArea": "National",
     "Note": "ATM transactions carried out through Common ATM Switch (Not-on-us)",
-    "Data last updated": "2026-08-24",
+    "Data last updated": "2026-10-26",
     "Update frequency": "15 th day of the following month"
   },
   "summary_statistics": {
-    "n": 155,
+    "n": 157,
     "min_t": "2013-08-01",
-    "max_t": "2026-06-01",
+    "max_t": "2026-09-01",
     "min_value": 196229,
-    "max_value": 12630017
+    "max_value": 13046333
   },
   "cleaned_data": {
     "2013-08-01": 196229,
@@ -176,7 +176,9 @@
     "2026-03-01": 13206488,
     "2026-04-01": 12718372,
     "2026-05-01": 12830309,
-    "2026-06-01": 12630017
+    "2026-06-01": 12630017,
+    "2026-08-01": 13275801,
+    "2026-09-01": 13046333
   },
   "raw_data": {
     "1967-Jan": " ",
@@ -894,8 +896,8 @@
     "2026-May": "12,830,309",
     "2026-Jun": "12,630,017",
     "2026-Jul": " ",
-    "2026-Aug": " ",
-    "2026-Sep": " ",
+    "2026-Aug": "13,275,801",
+    "2026-Sep": "13,046,333",
     "2026-Oct": " ",
     "2026-Nov": " ",
     "2026-Dec": " ",
