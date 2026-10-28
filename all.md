@@ -3492,6 +3492,9 @@
 * 2026-04: 41149363942577
 * 2026-05: 47508553754380
 * 2026-06: 47356770071977
+* 2026-07: 49194611239153
+* 2026-08: 44185828601927
+* 2026-09: 45650009828319
 
 # Health-Personel No.of EEG Recordists
 
@@ -7311,6 +7314,12 @@
 * 2026-01: 393039001192
 * 2026-02: 383436664398
 * 2026-03: 416975961266
+* 2026-04: 432893180540
+* 2026-05: 396602460951
+* 2026-06: 392319024774
+* 2026-07: 428664741062
+* 2026-08: 381590431885
+* 2026-09: 416325310072
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture
 
@@ -7674,6 +7683,9 @@
 * 2026-04: 25419705
 * 2026-05: 26877338
 * 2026-06: 26259776
+* 2026-07: 28725468
+* 2026-08: 28534455
+* 2026-09: 28869001
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Number of Branches HAMBANTOTA
 
@@ -21890,6 +21902,9 @@
 * 2026-04: 2267090479986
 * 2026-05: 2426293114832
 * 2026-06: 2245981213862
+* 2026-07: 2471981471893
+* 2026-08: 2344678694931
+* 2026-09: 2427891773212
 
 # Electricity-Electricity Electricity - Per capita electricity consumption
 
@@ -22981,6 +22996,9 @@
 * 2026-04: 1119766952163
 * 2026-05: 1098598885169
 * 2026-06: 1159890255032
+* 2026-07: 1195438450874
+* 2026-08: 1129040779205
+* 2026-09: 1194686528488
 
 # Balance of Payments-Financial Account BOP - Special Drawing Rigths - Liabilities
 
@@ -41156,6 +41174,8 @@
 * 2026-04: 183213646630
 * 2026-05: 172281670800
 * 2026-06: 168708927500
+* 2026-08: 180749809800
+* 2026-09: 177126831600
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Net Loans and Advances
 
@@ -42120,6 +42140,9 @@
 * 2026-04: 3274355
 * 2026-05: 3042882
 * 2026-06: 3411938
+* 2026-07: 3524082
+* 2026-08: 3280177
+* 2026-09: 3437899
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Net Interest Income
 
@@ -42455,6 +42478,8 @@
 * 2026-04: 12718372
 * 2026-05: 12830309
 * 2026-06: 12630017
+* 2026-08: 13275801
+* 2026-09: 13046333
 
 # Population Statistics-Mid Year Population Crude Death Rate-All Island
 
@@ -45985,6 +46010,12 @@
 * 2026-01: 6886815
 * 2026-02: 5716784
 * 2026-03: 5889636
+* 2026-04: 7081974
+* 2026-05: 5593275
+* 2026-06: 5213230
+* 2026-07: 6115125
+* 2026-08: 4680382
+* 2026-09: 5673931
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Total Number of Branches
 
@@ -46349,6 +46380,9 @@
 * 2026-04: 104328
 * 2026-05: 110177
 * 2026-06: 115291
+* 2026-07: 129425
+* 2026-08: 110936
+* 2026-09: 119621
 
 # Central Government Finance-Debt Statistics Outstanding Rupee Loans
 
@@ -51836,6 +51870,9 @@
 * 2026-04: 49194
 * 2026-05: 51811
 * 2026-06: 61553
+* 2026-07: 64009
+* 2026-08: 56803
+* 2026-09: 62287
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Exp. at Constant (2010) Prices - Consumption - Govt. - Individual consumption expenditure
 
@@ -56667,6 +56704,12 @@
 * 2026-01: 35322105
 * 2026-02: 31588339
 * 2026-03: 35847718
+* 2026-04: 35592354
+* 2026-05: 37130806
+* 2026-06: 41353068
+* 2026-07: 44812379
+* 2026-08: 57959561
+* 2026-09: 55044034
 
 # Banking Sector-All Banks Banking Sector- Total Number of Branches
 
@@ -57079,6 +57122,12 @@
 * 2026-01: 5261
 * 2026-02: 5013
 * 2026-03: 5413
+* 2026-04: 4656
+* 2026-05: 4687
+* 2026-06: 5137
+* 2026-07: 5345
+* 2026-08: 4606
+* 2026-09: 5379
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDE - Constant (2010) Prices - Govt. Collective Final Cons. by COFOG - Defense
 
@@ -61016,6 +61065,9 @@
 * 2026-04: 37987304032
 * 2026-05: 34581410341
 * 2026-06: 38939618973
+* 2026-07: 42737508319
+* 2026-08: 34174389135
+* 2026-09: 35476845432
 
 # International Investment Position-Portfolio Investment IIP - Portfolio Investment - Liabilities
 
