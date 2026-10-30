@@ -3611,6 +3611,7 @@
 * 2025-09: 28899062
 * 2025-12: 30550349
 * 2026-03: 30994965
+* 2026-06: 31032699
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Forestry and Loggin
 
@@ -4277,6 +4278,7 @@
 * 2025-09: 2134277
 * 2025-12: 2165600
 * 2026-03: 2232339
+* 2026-06: 2274221
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Other personal service activities
 
@@ -4415,6 +4417,7 @@
 * 2025-03: 383783105
 * 2025-06: 399398532
 * 2025-09: 490538186
+* 2025-12: 527885379
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-Central
 
@@ -11974,6 +11977,7 @@
 * 2025-09: 153167
 * 2025-12: 147047
 * 2026-03: 130102
+* 2026-06: 123568
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Number of Banks MATALE
 
@@ -16642,6 +16646,7 @@
 * 2025-09: 85085716
 * 2025-12: 92910528
 * 2026-03: 95580692
+* 2026-06: 103998173
 
 # Transport-Motor Vehicles Motor Vehicles by Province-Land Vehicles-Eastern
 
@@ -21233,6 +21238,7 @@
 * 2025-09: 1534589
 * 2025-12: 1428037
 * 2026-03: 1726668
+* 2026-06: 1459832
 
 # Agriculture-National Livestock Statistics Beef Production
 
@@ -22357,6 +22363,7 @@
 * 2025-09: 115213859
 * 2025-12: 122723813
 * 2026-03: 131456671
+* 2026-06: 137727654
 
 # Agriculture-Subsidiary Food Crops LUFFA Production
 
@@ -24966,6 +24973,7 @@
 * 2025-09: 3580
 * 2025-12: 3521
 * 2026-03: 3361
+* 2026-06: 3338
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Industry - Manufacturing
 
@@ -26800,6 +26808,7 @@
 * 2025-09: 2625043330
 * 2025-12: 2652813521
 * 2026-03: 2160860524
+* 2026-06: 2218359567
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Revenue and Expenditure of Provincial Councils-Receipts-Total-Central
 
@@ -26972,6 +26981,7 @@
 * 2025-09: 100880
 * 2025-12: 100121
 * 2026-03: 99580
+* 2026-06: 94577
 
 # Industry and Housing-Water Consumption Water Consumption-Revenue Collected-North Western-Total
 
@@ -29995,6 +30005,7 @@
 * 2025-09: 288165212959
 * 2025-12: 323287976152
 * 2026-03: 329556154978
+* 2026-06: 361099169640
 
 # Balance of Payments-Financial Account BOP - Other Investments- Other accounts payable -Liabilities
 
@@ -31961,6 +31972,7 @@
 * 2025-09: 120447557
 * 2025-12: 119426178
 * 2026-03: 121352416
+* 2026-06: 119690168
 
 # Industry and Housing-Index of Industrial Production Wearing apparel - Change
 
@@ -34619,6 +34631,7 @@
 * 2025-09: 193143071412
 * 2025-12: 210687579753
 * 2026-03: 203693902956
+* 2026-06: 215381380906
 
 # Banking Sector-Credit Cards Credit Card - Global (accepted globally)
 
@@ -35103,6 +35116,7 @@
 * 2025-03: 430
 * 2025-06: 509
 * 2025-09: 497
+* 2025-12: 557
 
 # Banking Sector-All Banks Banking Sector- Demand Deposits
 
@@ -41742,6 +41756,7 @@
 * 2025-09: 20225534
 * 2025-12: 20737605
 * 2026-03: 20866421
+* 2026-06: 21316103
 
 # Banking Sector-Licensed Specialised Banks Licensed Specialised Banks- Non-interest Income
 
@@ -48134,6 +48149,7 @@
 * 2025-09: 19198558906
 * 2025-12: 18401473994
 * 2026-03: 16229752432
+* 2026-06: 16762084642
 
 # Industry and Housing-Electricity Sales Electricity Sales-Revenue-Central-Total
 
@@ -54301,6 +54317,8 @@
 * 2025-03: 3177727000
 * 2025-06: 3202081000
 * 2025-09: 3353971000
+* 2026-03: 3121709000
+* 2026-06: 3148076000
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Services - Accommodation Food and beverage service activities
 
@@ -54855,6 +54873,7 @@
 * 2025-09: 505269493
 * 2025-12: 556994592
 * 2026-03: 614484259
+* 2026-06: 590573150
 
 # Banking Sector-Licensed Commercial Banks Licensed Commercial Banks- Other Deposits
 
@@ -61633,6 +61652,7 @@
 * 2025-09: 132808
 * 2025-12: 138043
 * 2026-03: 144046
+* 2026-06: 155670
 
 # Prices and Indices-Index of Industrial Production (IIP) IIP - Manufacture of chemicals & chemical products
 

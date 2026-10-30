@@ -3712,6 +3712,7 @@ Payment Data-Credit or Debit Cards Total Volume of Credit Card transactions
 2025-09	28899062
 2025-12	30550349
 2026-03	30994965
+2026-06	31032699
 
 --------------------------------
 
@@ -4394,6 +4395,7 @@ Payment Data-Credit or Debit Cards Total number of Credit Cards in use (as at en
 2025-09	2134277
 2025-12	2165600
 2026-03	2232339
+2026-06	2274221
 
 --------------------------------
 
@@ -4537,6 +4539,7 @@ Payment Data-Tele-banking Total Value of Tele-banking financial transactions
 2025-03	383783105
 2025-06	399398532
 2025-09	490538186
+2025-12	527885379
 
 --------------------------------
 
@@ -12334,6 +12337,7 @@ Payment Data-Credit or Debit Cards Number of defaulted Credit Cards
 2025-09	153167
 2025-12	147047
 2026-03	130102
+2026-06	123568
 
 --------------------------------
 
@@ -17156,6 +17160,7 @@ Payment Data-Credit or Debit Cards Total Volume of Debit Card transactions (carr
 2025-09	85085716
 2025-12	92910528
 2026-03	95580692
+2026-06	103998173
 
 --------------------------------
 
@@ -21910,6 +21915,7 @@ Payment Data-Credit or Debit Cards Number of Debit Cards issued during the quart
 2025-09	1534589
 2025-12	1428037
 2026-03	1726668
+2026-06	1459832
 
 --------------------------------
 
@@ -23061,6 +23067,7 @@ Payment Data-Point of Sale (POS) Terminals Total Volume of Point of Sale (POS) T
 2025-09	115213859
 2025-12	122723813
 2026-03	131456671
+2026-06	137727654
 
 --------------------------------
 
@@ -25760,6 +25767,7 @@ Payment Data-Automated Teller Machines(ATMs) Number of ATM terminals (as at end 
 2025-09	3580
 2025-12	3521
 2026-03	3361
+2026-06	3338
 
 --------------------------------
 
@@ -27670,6 +27678,7 @@ Payment Data-Automated Teller Machines(ATMs) Total Value of financial transactio
 2025-09	2625043330
 2025-12	2652813521
 2026-03	2160860524
+2026-06	2218359567
 
 --------------------------------
 
@@ -27847,6 +27856,7 @@ Payment Data-Credit or Debit Cards Number of Credit Cards issued during the quar
 2025-09	100880
 2025-12	100121
 2026-03	99580
+2026-06	94577
 
 --------------------------------
 
@@ -30974,6 +30984,7 @@ Payment Data-Credit or Debit Cards Total Value of Debit Card transactions (carri
 2025-09	288165212959
 2025-12	323287976152
 2026-03	329556154978
+2026-06	361099169640
 
 --------------------------------
 
@@ -33003,6 +33014,7 @@ Payment Data-Automated Teller Machines(ATMs) Total Volume of financial transacti
 2025-09	120447557
 2025-12	119426178
 2026-03	121352416
+2026-06	119690168
 
 --------------------------------
 
@@ -35733,6 +35745,7 @@ Payment Data-Credit or Debit Cards Total Value of Credit Card transactions
 2025-09	193143071412
 2025-12	210687579753
 2026-03	203693902956
+2026-06	215381380906
 
 --------------------------------
 
@@ -36240,6 +36253,7 @@ Payment Data-Tele-banking Total Volume of Tele-banking financial transactions
 2025-03	430
 2025-06	509
 2025-09	497
+2025-12	557
 
 --------------------------------
 
@@ -43064,6 +43078,7 @@ Payment Data-Credit or Debit Cards Total number of Debit Cards in use (as at end
 2025-09	20225534
 2025-12	20737605
 2026-03	20866421
+2026-06	21316103
 
 --------------------------------
 
@@ -49649,6 +49664,7 @@ Payment Data-Credit or Debit Cards Value of defaulted Credit Cards (Total amount
 2025-09	19198558906
 2025-12	18401473994
 2026-03	16229752432
+2026-06	16762084642
 
 --------------------------------
 
@@ -55998,6 +56014,8 @@ Payment Data-Money or Postal Orders Value of Payments Made through Money Orders 
 2025-03	3177727000
 2025-06	3202081000
 2025-09	3353971000
+2026-03	3121709000
+2026-06	3148076000
 
 --------------------------------
 
@@ -56572,6 +56590,7 @@ Payment Data-Point of Sale (POS) Terminals Total Value of Point of Sale (POS) Te
 2025-09	505269493
 2025-12	556994592
 2026-03	614484259
+2026-06	590573150
 
 --------------------------------
 
@@ -63541,6 +63560,7 @@ Payment Data-Point of Sale (POS) Terminals Number of Point of Sale (POS) termina
 2025-09	132808
 2025-12	138043
 2026-03	144046
+2026-06	155670
 
 --------------------------------
 
