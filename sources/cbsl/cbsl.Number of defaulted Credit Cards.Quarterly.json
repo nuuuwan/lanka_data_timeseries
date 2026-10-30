@@ -11,15 +11,15 @@
     "Source": "CRIB",
     "GeoArea": "National",
     "Note": "Where the payment is in arrears for 90 days or more days",
-    "Data last updated": "2026-08-24",
+    "Data last updated": "2026-10-26",
     "Update frequency": "15 th day of second immediate quarter"
   },
   "summary_statistics": {
-    "n": 53,
+    "n": 54,
     "min_t": "2013-03-01",
-    "max_t": "2026-03-01",
+    "max_t": "2026-06-01",
     "min_value": 82243,
-    "max_value": 130102
+    "max_value": 123568
   },
   "cleaned_data": {
     "2013-03-01": 82243,
@@ -74,7 +74,8 @@
     "2025-06-01": 159980,
     "2025-09-01": 153167,
     "2025-12-01": 147047,
-    "2026-03-01": 130102
+    "2026-03-01": 130102,
+    "2026-06-01": 123568
   },
   "raw_data": {
     "1967-Q1": " ",
@@ -314,7 +315,7 @@
     "2025-Q3": "153,167",
     "2025-Q4": "147,047",
     "2026-Q1": "130,102",
-    "2026-Q2": " ",
+    "2026-Q2": "123,568",
     "2026-Q3": " ",
     "2026-Q4": " ",
     "2027-Q1": " "

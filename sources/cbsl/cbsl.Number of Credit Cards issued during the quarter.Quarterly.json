@@ -11,15 +11,15 @@
     "Source": "Licensed Service Providers of Payment Cards",
     "GeoArea": "National",
     "Note": "",
-    "Data last updated": "2026-08-24",
+    "Data last updated": "2026-10-26",
     "Update frequency": "15 th day of second immediate quarter"
   },
   "summary_statistics": {
-    "n": 65,
+    "n": 66,
     "min_t": "2010-03-01",
-    "max_t": "2026-03-01",
+    "max_t": "2026-06-01",
     "min_value": 13960,
-    "max_value": 99580
+    "max_value": 94577
   },
   "cleaned_data": {
     "2010-03-01": 13960,
@@ -86,7 +86,8 @@
     "2025-06-01": 82311,
     "2025-09-01": 100880,
     "2025-12-01": 100121,
-    "2026-03-01": 99580
+    "2026-03-01": 99580,
+    "2026-06-01": 94577
   },
   "raw_data": {
     "1967-Q1": " ",
@@ -326,7 +327,7 @@
     "2025-Q3": "100,880",
     "2025-Q4": "100,121",
     "2026-Q1": "99,580",
-    "2026-Q2": " ",
+    "2026-Q2": "94,577",
     "2026-Q3": " ",
     "2026-Q4": " ",
     "2027-Q1": " "

@@ -11,15 +11,15 @@
     "Source": "LCBs, LSBs, FCs",
     "GeoArea": "National",
     "Note": "Transactions carried out at any ATM (On-us and Not-on-us transactions) reported by card issuers",
-    "Data last updated": "2026-08-24",
+    "Data last updated": "2026-10-26",
     "Update frequency": "15 th day of second immediate quarter"
   },
   "summary_statistics": {
-    "n": 65,
+    "n": 66,
     "min_t": "2010-03-01",
-    "max_t": "2026-03-01",
+    "max_t": "2026-06-01",
     "min_value": 22839178,
-    "max_value": 121352416
+    "max_value": 119690168
   },
   "cleaned_data": {
     "2010-03-01": 22839178,
@@ -86,7 +86,8 @@
     "2025-06-01": 113947331,
     "2025-09-01": 120447557,
     "2025-12-01": 119426178,
-    "2026-03-01": 121352416
+    "2026-03-01": 121352416,
+    "2026-06-01": 119690168
   },
   "raw_data": {
     "1967-Q1": " ",
@@ -326,7 +327,7 @@
     "2025-Q3": "120,447,557",
     "2025-Q4": "119,426,178",
     "2026-Q1": "121,352,416",
-    "2026-Q2": " ",
+    "2026-Q2": "119,690,168",
     "2026-Q3": " ",
     "2026-Q4": " ",
     "2027-Q1": " "
