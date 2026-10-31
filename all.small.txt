@@ -6640,6 +6640,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	6.2
 2026-07	6.3
 2026-08	6.9
+2026-09	7.7
 
 --------------------------------
 
@@ -12786,6 +12787,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-06	192.6
 2026-07	192.6
 2026-08	192.6
+2026-09	192.6
 
 --------------------------------
 
@@ -13830,6 +13832,7 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2026-06	13491.5
 2026-07	13492.0
 2026-08	13513.5
+2026-09	13513.5
 
 --------------------------------
 
@@ -16190,6 +16193,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	201.8
 2026-07	202.7
 2026-08	204.5
+2026-09	206.7
 
 --------------------------------
 
@@ -17499,6 +17503,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-06	77.1
 2026-07	76.7
 2026-08	76.6
+2026-09	76.5
 
 --------------------------------
 
@@ -17868,6 +17873,7 @@ Wages and Indices-Public Sector Wage Rate Index Public Sector Wage Rate Index (2
 2026-06	5.0
 2026-07	5.0
 2026-08	5.0
+2026-09	5.0
 
 --------------------------------
 
@@ -31919,6 +31925,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	207.6
 2026-07	209.2
 2026-08	213.1
+2026-09	214.2
 
 --------------------------------
 
@@ -32838,6 +32845,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	207.4
 2026-07	208.4
 2026-08	210.8
+2026-09	213.3
 
 --------------------------------
 
@@ -39629,6 +39637,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	8.2
 2026-07	8.5
 2026-08	10.3
+2026-09	10.4
 
 --------------------------------
 
@@ -40942,6 +40951,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	9.0
 2026-07	9.0
 2026-08	9.9
+2026-09	10.3
 
 --------------------------------
 
@@ -47280,6 +47290,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	10.6
 2026-07	10.4
 2026-08	10.8
+2026-09	11.3
 
 --------------------------------
 
@@ -55295,6 +55306,7 @@ Wages and Indices-Formal Private Sector Wage Rate Index Formal Private Sector Wa
 2026-06	140.8
 2026-07	140.5
 2026-08	140.3
+2026-09	140.1
 
 --------------------------------
 
@@ -56177,6 +56189,7 @@ Wages and Indices-Informal Private Sector Wage Rate Index Informal Private Secto
 2026-06	209.5
 2026-07	210.2
 2026-08	212.3
+2026-09	215.5
 
 --------------------------------
 

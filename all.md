@@ -6444,6 +6444,7 @@
 * 2026-06: 6.2
 * 2026-07: 6.3
 * 2026-08: 6.9
+* 2026-09: 7.7
 
 # Other Socio-Economic Data-Access to Facilities Electricity - Electrification level
 
@@ -12412,6 +12413,7 @@
 * 2026-06: 192.6
 * 2026-07: 192.6
 * 2026-08: 192.6
+* 2026-09: 192.6
 
 # Banking Sector-All Banks Banking Sector- Investments
 
@@ -13438,6 +13440,7 @@
 * 2026-06: 13491.5
 * 2026-07: 13492.0
 * 2026-08: 13513.5
+* 2026-09: 13513.5
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Profit and Dividends-Southern
 
@@ -15712,6 +15715,7 @@
 * 2026-06: 201.8
 * 2026-07: 202.7
 * 2026-08: 204.5
+* 2026-09: 206.7
 
 # National Accounts-GDP at Constant Prices - Base Year 2002 GDP - Constant (2002) Prices - Agriculture - Paddy
 
@@ -16973,6 +16977,7 @@
 * 2026-06: 77.1
 * 2026-07: 76.7
 * 2026-08: 76.6
+* 2026-09: 76.5
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - Consumption - PCE - Expenditure of Non Residents
 
@@ -17328,6 +17333,7 @@
 * 2026-06: 5.0
 * 2026-07: 5.0
 * 2026-08: 5.0
+* 2026-09: 5.0
 
 # National Accounts-GDP at Current Prices - Base Year 2002 GDP - Exp. at Current MP (2002 Series) - External Demand - Net External Demand
 
@@ -30912,6 +30918,7 @@
 * 2026-06: 207.6
 * 2026-07: 209.2
 * 2026-08: 213.1
+* 2026-09: 214.2
 
 # Central Government Finance-Debt Statistics Total outstanding central Government Debt
 
@@ -31803,6 +31810,7 @@
 * 2026-06: 207.4
 * 2026-07: 208.4
 * 2026-08: 210.8
+* 2026-09: 213.3
 
 # National Accounts-GDP at Current Prices - Base Year 2010 GDP - Current Market Prices (2010 Series) - Agriculture Forestry and Fishing - Growing of fruits
 
@@ -38389,6 +38397,7 @@
 * 2026-06: 8.2
 * 2026-07: 8.5
 * 2026-08: 10.3
+* 2026-09: 10.4
 
 # Revenue and Expenditure of Provincial Councils-Revenue of Provincial Councils Analysis of Revenue Collection of Provincial Councils-Turnover Tax-North-Western
 
@@ -39680,6 +39689,7 @@
 * 2026-06: 9.0
 * 2026-07: 9.0
 * 2026-08: 9.9
+* 2026-09: 10.3
 
 # Imports and Exports-CBSL Trade Indices (In Rs terms) Merchandise Export Volume Index (1997=100)
 
@@ -45827,6 +45837,7 @@
 * 2026-06: 10.6
 * 2026-07: 10.4
 * 2026-08: 10.8
+* 2026-09: 11.3
 
 # Payment Data-SLIP System Total Volume of transactions cleared through SLIP System
 
@@ -53617,6 +53628,7 @@
 * 2026-06: 140.8
 * 2026-07: 140.5
 * 2026-08: 140.3
+* 2026-09: 140.1
 
 # National Accounts-GDP at Constant Prices - Base Year 2010 GDP - Constant (2010) Prices - Industries - Sewerage, Waste, treatment and disposal activities
 
@@ -54475,6 +54487,7 @@
 * 2026-06: 209.5
 * 2026-07: 210.2
 * 2026-08: 212.3
+* 2026-09: 215.5
 
 # Transport-Road Network Road Kilometerage-Northern-Class D
 
