@@ -4403,6 +4403,7 @@ Payment Data-Money or Postal Orders Value of Payments Made through Money Orders 
 2025-03	3177727000
 2025-06	3202081000
 2025-09	3353971000
+2025-12	3377686000
 2026-03	3121709000
 2026-06	3148076000
 
@@ -4410,7 +4411,7 @@ Source: cbsl
 Frequency: Quarterly
 Unit: LKR
 Scale:  
-Footnotes: {'Sector': 'Financial', 'Source': 'Postal Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-10-26', 'Update frequency': '15 th day of second immediate quarter'}
+Footnotes: {'Sector': 'Financial', 'Source': 'Postal Department', 'GeoArea': 'National', 'Note': '', 'Data last updated': '2026-11-06', 'Update frequency': '15 th day of second immediate quarter'}
 --------------------------------
 
 Transport-Road Network Road Kilometerage-Nuwara Eliya-Class A
